@@ -1,0 +1,72 @@
+45 kda endodomain	Protein_domain_or_region
+amino acid 544 to 607	Protein_domain_or_region
+binding sites	DNA_domain_or_region
+carboxy terminus	Protein_domain_or_region
+codon	DNA_domain_or_region
+codon 12	DNA_domain_or_region
+codon 18	DNA_domain_or_region
+codon 19	DNA_domain_or_region
+codon 3	DNA_domain_or_region
+cre	DNA_domain_or_region
+c-terminal ca2+-binding region	Protein_domain_or_region
+c-terminal segment	Protein_domain_or_region
+d10s1687	DNA_domain_or_region
+d10s541	DNA_domain_or_region
+d10s583	DNA_domain_or_region
+d5	Protein_domain_or_region
+domain 5	Protein_domain_or_region
+domain v	Protein_domain_or_region
+epigenetic microsatellite	DNA_domain_or_region
+epigenetic microsatellites	DNA_domain_or_region
+exon	DNA_domain_or_region
+exon 1	DNA_domain_or_region
+exon 11	DNA_domain_or_region
+exon 3	DNA_domain_or_region
+exons	DNA_domain_or_region
+exons 18 through 25	DNA_domain_or_region
+exons 18-25	DNA_domain_or_region
+exons 18-26	DNA_domain_or_region
+fc fragment	Protein_domain_or_region
+glucocorticoid response element	DNA_domain_or_region
+gre	DNA_domain_or_region
+hre	DNA_domain_or_region
+hypoxia-responsive element	DNA_domain_or_region
+hypoxia-responsive elements	DNA_domain_or_region
+internalization (cain) domains	Protein_domain_or_region
+j domain	Protein_domain_or_region
+k9	Protein_domain_or_region
+kringle 5	Protein_domain_or_region
+mcr	DNA_domain_or_region
+microsatellite regions	DNA_domain_or_region
+microsatellites	DNA_domain_or_region
+mutation cluster region	DNA_domain_or_region
+negative shear stress response element	DNA_domain_or_region
+n-terminal segment	Protein_domain_or_region
+nucleolar localisation sequence	Protein_domain_or_region
+nucleotide position 169,426	DNA_domain_or_region
+p1	DNA_domain_or_region
+p2 promoters	DNA_domain_or_region
+plasminogen kringle 1	Protein_domain_or_region
+proline-rich domain	Protein_domain_or_region
+promoter	DNA_domain_or_region
+promoters	DNA_domain_or_region
+promoter region	DNA_domain_or_region
+ring finger	Protein_domain_or_region
+site	DNA_domain_or_region
+sites	DNA_domain_or_region
+subdomains	Protein_domain_or_region
+t(163	Protein_domain_or_region
+t1-127	Protein_domain_or_region
+t251-708	Protein_domain_or_region
+tes1	Protein_domain_or_region
+tes2	Protein_domain_or_region
+thr(34)-->ala	Protein_domain_or_region
+tk	Protein_domain_or_region
+tk/cain region	DNA_domain_or_region
+tyrosine kinase	Protein_domain_or_region
+val-12	Protein_domain_or_region
+y1059	Protein_domain_or_region
+y1175	Protein_domain_or_region
+y951	Protein_domain_or_region
+y996	Protein_domain_or_region
+zinc-finger domain	Protein_domain_or_region

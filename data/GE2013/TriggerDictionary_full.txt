@@ -1,0 +1,743 @@
+32p incorporation	Phosphorylation
+32p-incorporation	Phosphorylation
+ablate	Negative_regulation
+abolished	Negative_regulation
+abrogated	Negative_regulation
+abrogation	Negative_regulation
+absence	Regulation
+absence	Negative_regulation
+absent	Negative_regulation
+abundantly	Positive_regulation
+access	Binding
+account	Positive_regulation
+account for	Positive_regulation
+accumulation	Localization
+acetylation	Deacetylation
+acetylation	Acetylation
+act as a feedback regulator	Regulation
+acting	Positive_regulation
+activate	Positive_regulation
+activated	Positive_regulation
+activates	Positive_regulation
+activating	Positive_regulation
+activation	Positive_regulation
+active	Positive_regulation
+activities	Positive_regulation
+activity	Positive_regulation
+activity	Gene_expression
+acts as an inhibitor	Negative_regulation
+acts in vitro as an inhibitor	Negative_regulation
+addition	Positive_regulation
+affect	Regulation
+affected	Regulation
+affecting	Regulation
+affecting	Positive_regulation
+affects	Regulation
+agonists	Positive_regulation
+alanine substitution	Regulation
+allowing	Positive_regulation
+alter	Regulation
+altered	Regulation
+altering	Regulation
+alters	Regulation
+amount	Gene_expression
+amounts	Gene_expression
+amplified	Positive_regulation
+antagonist	Negative_regulation
+assembly	Binding
+associate	Binding
+associated	Binding
+associated	Regulation
+associates	Binding
+associating	Binding
+association	Binding
+at	Binding
+attenuate	Negative_regulation
+attenuated	Negative_regulation
+attenuates	Negative_regulation
+attenuating	Negative_regulation
+attenuation	Negative_regulation
+attraction	Localization
+augmentation	Positive_regulation
+augmented	Regulation
+augmented	Positive_regulation
+augments	Positive_regulation
+autocrine	Regulation
+autophosphorylatd	Phosphorylation
+autophosphorylated	Phosphorylation
+autophosphorylation	Phosphorylation
+back to baseline	Negative_regulation
+barely detected	Negative_regulation
+bind	Binding
+binding	Binding
+binds	Binding
+block	Negative_regulation
+blockade	Negative_regulation
+blocked	Negative_regulation
+blocking	Negative_regulation
+blocks	Negative_regulation
+bound	Binding
+by	Positive_regulation
+catalyzed	Positive_regulation
+cause	Positive_regulation
+caused	Positive_regulation
+causing	Positive_regulation
+change	Regulation
+changes	Regulation
+chromatin-immunoprecipitated	Binding
+cleaved	Protein_catabolism
+coexpress	Gene_expression
+co-express	Gene_expression
+coexpressed	Gene_expression
+coexpression	Gene_expression
+co-expression	Gene_expression
+coimmunoprecipitated	Binding
+coimmunoprecipitation	Binding
+colocalized	Localization
+compensated	Negative_regulation
+compete	Negative_regulation
+competed	Negative_regulation
+competing	Negative_regulation
+competition	Negative_regulation
+completely abrogated	Negative_regulation
+concentration	Gene_expression
+conditional	Positive_regulation
+consecutive	Positive_regulation
+consequence	Positive_regulation
+constitutively-active	Positive_regulation
+contribute	Positive_regulation
+contributed	Positive_regulation
+contributes	Positive_regulation
+control	Regulation
+controlled	Regulation
+controls	Regulation
+cooperate	Positive_regulation
+coproduce	Gene_expression
+coproduced	Gene_expression
+coproducing	Gene_expression
+correlated	Positive_regulation
+correlation	Regulation
+costimulated	Regulation
+cotransfected	Positive_regulation
+cotransfected	Gene_expression
+co-transfected	Gene_expression
+cotransfection	Gene_expression
+co-transfection	Gene_expression
+counteract	Negative_regulation
+counteracted	Negative_regulation
+counteracts	Negative_regulation
+countering	Negative_regulation
+coupled	Positive_regulation
+critical	Positive_regulation
+critical	Regulation
+cross talk	Regulation
+crucial	Positive_regulation
+deacetylation	Deacetylation
+decrease	Negative_regulation
+decreased	Negative_regulation
+decreases	Negative_regulation
+decreasing	Negative_regulation
+defect	Negative_regulation
+defect	Positive_regulation
+defective	Negative_regulation
+defects	Negative_regulation
+deficiencies	Negative_regulation
+deficiency	Negative_regulation
+deficient	Negative_regulation
+degradable	Protein_catabolism
+degradaion	Protein_catabolism
+degradation	Negative_regulation
+degradation	Protein_catabolism
+degraded	Protein_catabolism
+deleted	Negative_regulation
+deleting	Negative_regulation
+deletion	Negative_regulation
+demonstrated	Transcription
+demonstrated	Positive_regulation
+depended	Positive_regulation
+depended	Regulation
+dependence	Positive_regulation
+dependence	Regulation
+dependent	Regulation
+dependent	Positive_regulation
+depending	Regulation
+depends	Positive_regulation
+depends	Regulation
+depleted	Negative_regulation
+depletion	Negative_regulation
+deregulated	Regulation
+deregulation	Regulation
+derepressed	Negative_regulation
+detect	Transcription
+detectable	Localization
+detectable	Positive_regulation
+detectable	Gene_expression
+detectable	Negative_regulation
+detected	Gene_expression
+detected	Positive_regulation
+detected	Localization
+detected	Negative_regulation
+detection	Gene_expression
+devoid	Gene_expression
+difference	Regulation
+dimer formation	Binding
+dimerization	Binding
+diminished	Negative_regulation
+displaced	Negative_regulation
+displacement	Binding
+disrupt	Negative_regulation
+disrupted	Negative_regulation
+disruption	Negative_regulation
+disrupts	Negative_regulation
+does	Regulation
+double knockout	Negative_regulation
+downregulate	Negative_regulation
+downregulated	Negative_regulation
+down-regulated	Negative_regulation
+downregulates	Negative_regulation
+down-regulates	Negative_regulation
+down-regulating	Negative_regulation
+downregulation	Negative_regulation
+down-regulation	Negative_regulation
+downstream	Regulation
+downstream target	Regulation
+drive	Positive_regulation
+driven	Positive_regulation
+driving	Positive_regulation
+drop	Negative_regulation
+dropped	Negative_regulation
+dual role	Regulation
+due	Positive_regulation
+dysregulation	Regulation
+effect	Regulation
+effective	Positive_regulation
+effective	Regulation
+effects	Regulation
+elevated	Positive_regulation
+elevating	Positive_regulation
+elicited	Positive_regulation
+eliminated	Negative_regulation
+embrace	Binding
+enforcing	Positive_regulation
+engage	Binding
+engagement	Binding
+engages	Binding
+enhance	Positive_regulation
+enhanced	Positive_regulation
+enhances	Positive_regulation
+entry	Localization
+essential	Positive_regulation
+exclusion	Localization
+exclusive	Negative_regulation
+exerts	Positive_regulation
+export	Localization
+express	Gene_expression
+express	Transcription
+expressed	Positive_regulation
+expressed	Gene_expression
+expressed	Transcription
+expresses	Gene_expression
+expressing	Gene_expression
+expression	Gene_expression
+expression	Transcription
+expression	Positive_regulation
+expression	Localization
+expression levels	Gene_expression
+expression of an activated	Positive_regulation
+facilitated	Positive_regulation
+failed	Negative_regulation
+favor	Positive_regulation
+followed	Positive_regulation
+following	Positive_regulation
+for	Positive_regulation
+for	Binding
+form complexes	Binding
+form heteromultimers	Binding
+formation	Positive_regulation
+formation of homo- and hetero-dimers	Binding
+forming dimers	Binding
+forms a complex	Binding
+found	Negative_regulation
+from	Binding
+from	Positive_regulation
+functioned	Regulation
+functions	Regulation
+functions as an adaptor	Positive_regulation
+functions downstream	Positive_regulation
+functions downstream	Regulation
+gene expression	Gene_expression
+generation	Binding
+generation	Gene_expression
+had no role	Regulation
+halved	Negative_regulation
+has a positive role	Positive_regulation
+have low expression	Gene_expression
+heterodimerize	Binding
+heterodimerzation	Binding
+high	Positive_regulation
+high levels	Positive_regulation
+higher	Positive_regulation
+higher level	Positive_regulation
+highest	Positive_regulation
+highly	Positive_regulation
+hijacking	Binding
+immunoprecipitated	Binding
+immunoprecipitated	Gene_expression
+immunoprecipitated together	Binding
+impact	Regulation
+impair	Negative_regulation
+impaired	Negative_regulation
+impairment	Negative_regulation
+impairs	Negative_regulation
+impeding	Negative_regulation
+implicated	Regulation
+import	Localization
+important	Regulation
+important	Positive_regulation
+important role	Regulation
+important role	Positive_regulation
+in	Positive_regulation
+in response to	Positive_regulation
+in the presence and absence of	Regulation
+in the presence of	Positive_regulation
+in the presence of	Regulation
+inability	Negative_regulation
+inactivated	Positive_regulation
+inactivated	Negative_regulation
+inactivation	Negative_regulation
+incorporation of 32p	Phosphorylation
+increase	Positive_regulation
+increased	Positive_regulation
+increases	Positive_regulation
+increasing	Positive_regulation
+increasing amounts	Positive_regulation
+independent	Regulation
+independently	Regulation
+indispensable	Positive_regulation
+induce	Positive_regulation
+induced	Positive_regulation
+induced	Negative_regulation
+induces	Positive_regulation
+inducible	Positive_regulation
+inducing	Positive_regulation
+induction	Positive_regulation
+induction	Gene_expression
+induction	Transcription
+ineffective	Positive_regulation
+influence	Regulation
+inhibit	Negative_regulation
+inhibited	Negative_regulation
+inhibiting	Negative_regulation
+inhibition	Negative_regulation
+inhibitor	Negative_regulation
+inhibitors	Negative_regulation
+inhibitory	Negative_regulation
+inhibitory effect	Negative_regulation
+inhibits	Negative_regulation
+intense	Positive_regulation
+interact	Binding
+interacted	Binding
+interacting	Binding
+interaction	Binding
+interaction	Regulation
+interactions	Binding
+interacts	Binding
+interfacing	Negative_regulation
+interfere	Negative_regulation
+interfered	Negative_regulation
+interference	Negative_regulation
+interferes	Negative_regulation
+interfering	Negative_regulation
+introducing	Gene_expression
+introduction	Gene_expression
+involved	Regulation
+involved	Positive_regulation
+involvement	Regulation
+involves	Regulation
+kd	Negative_regulation
+kinase deficient	Negative_regulation
+kinase-dead	Negative_regulation
+kinase-deficient	Negative_regulation
+knock down	Negative_regulation
+knockdown	Gene_expression
+knockdown	Negative_regulation
+knocked down	Negative_regulation
+knockout	Negative_regulation
+knock-out	Gene_expression
+lack	Negative_regulation
+lacked	Negative_regulation
+lacking	Negative_regulation
+lead	Positive_regulation
+leading	Positive_regulation
+leads	Positive_regulation
+led	Positive_regulation
+less	Positive_regulation
+less	Negative_regulation
+levels	Transcription
+levels	Gene_expression
+levels	Localization
+liberation	Localization
+ligand	Binding
+ligation	Binding
+limit	Negative_regulation
+limited	Negative_regulation
+limits	Negative_regulation
+linear-ubiquitin-chain-ligase activity	Ubiquitination
+link	Binding
+link	Regulation
+linked	Regulation
+loading	Binding
+localisation	Localization
+localization	Localization
+localize	Localization
+localized	Localization
+localizes	Localization
+located	Localization
+location	Localization
+lose	Negative_regulation
+loss	Negative_regulation
+loss	Localization
+lost	Negative_regulation
+low	Positive_regulation
+low	Negative_regulation
+low or undetectable	Positive_regulation
+low or undetectable	Transcription
+lower	Positive_regulation
+lower	Negative_regulation
+lowest	Negative_regulation
+maintained	Positive_regulation
+maintenance	Positive_regulation
+make	Gene_expression
+making	Positive_regulation
+mandatory	Positive_regulation
+masks	Negative_regulation
+mechanism	Regulation
+mediate	Positive_regulation
+mediated	Positive_regulation
+mediated way	Positive_regulation
+mediates	Positive_regulation
+mediating	Positive_regulation
+migration	Localization
+modification	Protein_modification
+modify	Regulation
+modulate	Regulation
+modulated	Regulation
+modulates	Regulation
+modulating	Regulation
+modulation	Regulation
+modulator	Regulation
+more	Positive_regulation
+mrna	Transcription
+mrna expression	Transcription
+mrna level	Transcription
+mrna levels	Transcription
+mrna levels	Gene_expression
+mrnas	Transcription
+mutant	Regulation
+mutation	Negative_regulation
+mutation	Regulation
+mutations	Negative_regulation
+necessary	Positive_regulation
+need	Positive_regulation
+needed	Positive_regulation
+negative	Negative_regulation
+negative	Gene_expression
+negative	Transcription
+negative regulator	Negative_regulation
+negatively regulate	Negative_regulation
+negatively regulated	Negative_regulation
+neutralization	Negative_regulation
+neutralized	Negative_regulation
+neutralizing	Negative_regulation
+neutralizing effect	Negative_regulation
+normal	Negative_regulation
+null	Negative_regulation
+null mutation	Negative_regulation
+null mutations	Negative_regulation
+observed	Positive_regulation
+occupancy	Binding
+occupies	Binding
+occupying	Binding
+oligomerization	Binding
+oppose	Negative_regulation
+over	Positive_regulation
+overexpressed	Positive_regulation
+overexpressed	Gene_expression
+overexpressing	Gene_expression
+overexpressing	Positive_regulation
+overexpression	Gene_expression
+overexpression	Positive_regulation
+overexpression of a dominant negative form	Negative_regulation
+overproduction	Gene_expression
+participate	Regulation
+partners	Binding
+pathway	Regulation
+permits	Positive_regulation
+phospho	Phosphorylation
+phosphorlyation	Phosphorylation
+phosphorylate	Phosphorylation
+phosphorylated	Phosphorylation
+phosphorylates	Phosphorylation
+phosphorylating	Phosphorylation
+phosphorylation	Phosphorylation
+phosporylated	Phosphorylation
+play a role	Regulation
+play an important role	Positive_regulation
+play an important role	Regulation
+plays a role	Regulation
+point mutation	Regulation
+positive	Gene_expression
+positve	Gene_expression
+post-translational mechanisms	Protein_modification
+post-translational modification	Protein_modification
+post-translational modifications	Protein_modification
+potentiates	Positive_regulation
+preceded	Positive_regulation
+precluding	Negative_regulation
+prerequisite	Positive_regulation
+presence	Regulation
+presence	Localization
+presence	Gene_expression
+presence or absence	Regulation
+present	Positive_regulation
+present	Transcription
+present	Gene_expression
+preserved	Positive_regulation
+prevent	Negative_regulation
+prevented	Negative_regulation
+preventing	Negative_regulation
+prevention	Negative_regulation
+prevents	Negative_regulation
+produce	Gene_expression
+produced	Transcription
+produced	Gene_expression
+produced	Regulation
+producing	Gene_expression
+production	Gene_expression
+production	Transcription
+prolonged	Positive_regulation
+promote	Positive_regulation
+promoted	Positive_regulation
+promotes	Positive_regulation
+promoting	Positive_regulation
+pronounced	Positive_regulation
+proteasomal degradation	Protein_catabolism
+protect	Negative_regulation
+protein level	Gene_expression
+protein levels	Gene_expression
+proteolysis	Protein_catabolism
+provides a highly regulated feedback loop	Regulation
+reactivation	Positive_regulation
+recessive mutations	Negative_regulation
+recognize	Binding
+recognized	Binding
+reconstituted	Positive_regulation
+recovered	Binding
+recruit	Binding
+recruited	Binding
+recruitment	Binding
+recruitment	Localization
+recruits	Binding
+reduce	Negative_regulation
+reduced	Negative_regulation
+reduces	Negative_regulation
+reducing	Negative_regulation
+reduction	Negative_regulation
+reductions	Negative_regulation
+reexpression	Positive_regulation
+reexpression	Gene_expression
+re-expression	Gene_expression
+regardless	Regulation
+regulate	Regulation
+regulated	Regulation
+regulates	Regulation
+regulates	Positive_regulation
+regulating	Regulation
+regulation	Regulation
+regulator	Regulation
+release	Localization
+released	Localization
+releasing	Negative_regulation
+relieves	Negative_regulation
+remained	Negative_regulation
+remained	Positive_regulation
+remained	Regulation
+remained	Localization
+remained elevated	Negative_regulation
+remained high	Positive_regulation
+remained unchanged	Positive_regulation
+removed	Binding
+removed	Negative_regulation
+removing	Binding
+removing	Negative_regulation
+represents a binding site	Binding
+repress	Negative_regulation
+repressed	Negative_regulation
+represses	Negative_regulation
+repressing	Negative_regulation
+repression	Negative_regulation
+repressor	Negative_regulation
+required	Positive_regulation
+required	Regulation
+requirement	Positive_regulation
+requires	Positive_regulation
+rescue	Negative_regulation
+rescue	Positive_regulation
+rescued	Negative_regulation
+residency	Localization
+resistant	Negative_regulation
+resolved	Negative_regulation
+response	Regulation
+responses	Regulation
+responsible	Positive_regulation
+responsible	Regulation
+responsive	Regulation
+responsive	Positive_regulation
+restoration	Positive_regulation
+restore	Positive_regulation
+restored	Positive_regulation
+restored	Negative_regulation
+restoring	Positive_regulation
+restricted	Positive_regulation
+restricted	Regulation
+result	Regulation
+result	Positive_regulation
+resulted	Positive_regulation
+resulting	Positive_regulation
+resulting	Regulation
+re-synthesis	Gene_expression
+retarded	Negative_regulation
+retarding	Negative_regulation
+retention	Localization
+returned to higher	Positive_regulation
+reversed	Negative_regulation
+reverted	Negative_regulation
+revoked	Negative_regulation
+rise	Positive_regulation
+rna expression	Transcription
+role	Regulation
+role	Positive_regulation
+secrete	Localization
+secreted	Localization
+secreting	Gene_expression
+secretion	Gene_expression
+secretion	Localization
+sequestering	Negative_regulation
+serve	Positive_regulation
+serve as activators,	Positive_regulation
+serves as a binding site	Binding
+shielding	Negative_regulation
+show any significant difference	Regulation
+showed no difference	Regulation
+signaling	Positive_regulation
+significance	Positive_regulation
+silence	Negative_regulation
+silenced	Negative_regulation
+silencing	Negative_regulation
+simulated	Positive_regulation
+sirna	Negative_regulation
+sirnas	Negative_regulation
+sirna-transfected	Negative_regulation
+specific	Regulation
+ssaa	Negative_regulation
+ssee	Positive_regulation
+stabilizes	Regulation
+stabilizing	Positive_regulation
+stained	Gene_expression
+staining	Gene_expression
+steer	Regulation
+stimulate	Positive_regulation
+stimulated	Positive_regulation
+stimulation	Positive_regulation
+strong	Positive_regulation
+stronger	Positive_regulation
+stronger effect	Negative_regulation
+subsequent	Positive_regulation
+subsequent	Regulation
+subsides	Negative_regulation
+substrate specificity	Regulation
+sufficient	Positive_regulation
+sufficient to restore	Positive_regulation
+suppress	Negative_regulation
+suppressed	Negative_regulation
+suppresses	Negative_regulation
+suppression	Negative_regulation
+suppressive capacity	Negative_regulation
+sustained	Positive_regulation
+sustains	Positive_regulation
+synergize	Positive_regulation
+synthesis	Gene_expression
+synthesis	Transcription
+synthesized	Transcription
+synthesized	Gene_expression
+target	Binding
+target	Regulation
+targeted	Binding
+targeted	Regulation
+targeting	Binding
+targeting	Positive_regulation
+targets	Binding
+targets	Regulation
+termination	Negative_regulation
+that	Binding
+this amplification	Positive_regulation
+this effect	Positive_regulation
+this effect	Negative_regulation
+this effect	Regulation
+this increase	Positive_regulation
+this reduction	Negative_regulation
+through	Positive_regulation
+thus	Positive_regulation
+trans-activation	Positive_regulation
+transcript level	Transcription
+transcription	Transcription
+transcriptional	Transcription
+transcriptional activation	Positive_regulation
+transcriptional activity	Positive_regulation
+transcriptional activity	Transcription
+transcriptional elongation	Transcription
+transcripts	Transcription
+transfected	Gene_expression
+transfected	Positive_regulation
+transfecting	Gene_expression
+transfection	Gene_expression
+transfection of sirna	Negative_regulation
+transgenic	Gene_expression
+translocate	Localization
+translocated	Localization
+translocates	Localization
+translocation	Localization
+transport	Localization
+transported	Localization
+trigged	Positive_regulation
+triggered	Positive_regulation
+triggers	Positive_regulation
+truncated	Negative_regulation
+ubiquitination	Ubiquitination
+ubiquitylated	Ubiquitination
+unaffected	Regulation
+under	Positive_regulation
+under the control	Positive_regulation
+under the control	Regulation
+undetectable	Negative_regulation
+undetectable	Positive_regulation
+unimpaired	Negative_regulation
+unmask	Regulation
+unstimulated	Positive_regulation
+up	Positive_regulation
+up regulated	Positive_regulation
+upon	Positive_regulation
+upregulate	Positive_regulation
+up-regulate	Positive_regulation
+upregulated	Positive_regulation
+up-regulated	Positive_regulation
+upregulates	Positive_regulation
+upregulation	Positive_regulation
+up-regulation	Positive_regulation
+uses	Positive_regulation
+via	Positive_regulation
+via	Regulation
+was not	Negative_regulation
+weakly	Positive_regulation
+when	Positive_regulation
+with or without	Regulation

@@ -1,0 +1,1067 @@
+3-o-sulfation	Positive_regulation
+3-o-sulfation	Conversion
+ablation	Negative_regulation
+abolished	Negative_regulation
+abrogate	Negative_regulation
+abrogated	Negative_regulation
+abrogates	Negative_regulation
+abrogation	Negative_regulation
+absence	Positive_regulation
+absence	Negative_regulation
+absence	Inactivation
+absent	Gene_expression
+absent	Transcription
+absorbed	Transport
+absorption	Transport
+accelerates	Positive_regulation
+accelerating	Positive_regulation
+accepted	Positive_regulation
+accompanied	Positive_regulation
+accumulate	Positive_regulation
+accumulated	Positive_regulation
+accumulates	Positive_regulation
+accumulates	Localization
+accumulation	Localization
+accumulation	Positive_regulation
+acetylated	Acetylation
+acetylates	Acetylation
+acetylation	Acetylation
+acetylations	Acetylation
+activate	Positive_regulation
+activate	Activation
+activated	Activation
+activated	Positive_regulation
+activates	Positive_regulation
+activates	Activation
+activating	Activation
+activating	Positive_regulation
+activation	Inactivation
+activation	Activation
+activation	Positive_regulation
+activations	Positive_regulation
+activator	Positive_regulation
+activator	Activation
+activators	Activation
+activators	Positive_regulation
+active	Activation
+active	Positive_regulation
+activity	Regulation
+addition	Conversion
+affect	Regulation
+affected	Regulation
+affected	Positive_regulation
+affecting	Positive_regulation
+affects	Regulation
+affinity	Binding
+alleviation	Negative_regulation
+allowing	Positive_regulation
+alter	Regulation
+alteration	Regulation
+alterations	Activation
+altered	Regulation
+altering	Regulation
+alters	Regulation
+amplification	Positive_regulation
+amplifying	Positive_regulation
+anchored	Localization
+anchoring	Binding
+antagonized	Negative_regulation
+antagonizes	Negative_regulation
+antagonizing	Negative_regulation
+antiactivators	Inactivation
+apoptosis	Pathway
+apoptosis signal transduction pathway	Pathway
+apoptotic	Pathway
+apoptotic pathway	Pathway
+apoptotic signaling	Pathway
+arrest	Negative_regulation
+arrested	Negative_regulation
+arresting	Negative_regulation
+assembled	Binding
+assembly	Binding
+assembly/stability	Binding
+assimilation	Transport
+assist	Positive_regulation
+assisted	Positive_regulation
+associate	Regulation
+associate	Binding
+associated	Binding
+associated	Regulation
+associated	Positive_regulation
+associates	Regulation
+associates	Binding
+association	Binding
+association	Regulation
+associations	Binding
+attached	Conversion
+attachment	Conversion
+attachment	Binding
+attenuate	Negative_regulation
+attenuated	Negative_regulation
+attenuated	Positive_regulation
+attenuates	Negative_regulation
+attenuating	Negative_regulation
+attenuation	Negative_regulation
+attenuator	Negative_regulation
+augmented	Positive_regulation
+autoactivates	Activation
+autoinhibition	Negative_regulation
+autophosphorylate	Phosphorylation
+autophosphorylated	Phosphorylation
+autophosphorylates	Phosphorylation
+autophosphorylation	Phosphorylation
+autoregulated	Regulation
+based	Regulation
+be a complex	Binding
+because of	Positive_regulation
+becomes	Negative_regulation
+beta-oxidation	Pathway
+bind	Binding
+binding	Binding
+binding	Localization
+binds	Binding
+biogenesis	Gene_expression
+biosynthesis	Conversion
+block	Negative_regulation
+blockade	Negative_regulation
+blocked	Negative_regulation
+blocking	Negative_regulation
+blocks	Negative_regulation
+blunted	Negative_regulation
+bonded	Binding
+bonds	Conversion
+bound	Localization
+bound	Binding
+bound	Regulation
+bring	Transport
+broken down	Regulation
+carry	Transport
+cascade	Pathway
+cascades	Pathway
+catalysed	Positive_regulation
+catalyses	Positive_regulation
+catalyze	Positive_regulation
+catalyzed	Positive_regulation
+catalyzes	Positive_regulation
+catalyzing	Positive_regulation
+cause	Positive_regulation
+caused	Positive_regulation
+causes	Positive_regulation
+causes	Regulation
+cell (npc) death	Pathway
+cell cycl	Pathway
+cell cycle	Pathway
+cell cycle-	Pathway
+cell cycle arrest	Pathway
+cell death	Pathway
+cell-cycle	Pathway
+change	Regulation
+changed	Regulation
+changes	Positive_regulation
+changes	Regulation
+cleavage	Conversion
+cleavage	Dissociation
+cleave	Dissociation
+cleaved	Positive_regulation
+cleaved	Conversion
+coactivated	Activation
+coactivator	Activation
+co-activator	Positive_regulation
+coexpressed	Gene_expression
+coexpression	Gene_expression
+co-expression	Gene_expression
+colocalization	Localization
+colocalizes	Localization
+compensate	Positive_regulation
+competent	Positive_regulation
+complex	Binding
+complex formation	Binding
+complexed	Binding
+complexes	Binding
+component	Regulation
+confer	Positive_regulation
+conferred	Positive_regulation
+congruent	Positive_regulation
+conjugating	Binding
+conjugation	Binding
+consequence	Regulation
+consequence	Positive_regulation
+consequences	Positive_regulation
+contact	Binding
+contacts	Binding
+containing	Binding
+contribute	Regulation
+contribute	Positive_regulation
+contributes	Positive_regulation
+contributing	Positive_regulation
+control	Regulation
+controlled	Regulation
+controlling	Regulation
+controls	Regulation
+conversion	Conversion
+convert	Positive_regulation
+convert	Conversion
+converted	Conversion
+converted	Positive_regulation
+cooperates	Binding
+cooperation	Binding
+cooperation	Positive_regulation
+cooperative	Binding
+coordinate	Regulation
+coordinated	Regulation
+coordinates	Regulation
+coordinating	Regulation
+corepression	Negative_regulation
+correlate	Regulation
+correlated	Regulation
+correlates	Regulation
+cotransport	Transport
+couple	Regulation
+coupled	Regulation
+couples	Binding
+coupling	Regulation
+critical	Positive_regulation
+cross	Positive_regulation
+cross	Transport
+crosstalk	Binding
+crucial	Positive_regulation
+cycle	Pathway
+dampens	Negative_regulation
+deacetylate	Positive_regulation
+deacetylate	Deacetylation
+deacetylated	Deacetylation
+deacetylation	Deacetylation
+deaminated	Conversion
+deamination	Positive_regulation
+deamination	Conversion
+death	Pathway
+death pathways	Pathway
+declining	Negative_regulation
+decrease	Negative_regulation
+decreased	Negative_regulation
+decreases	Negative_regulation
+decreasing	Negative_regulation
+defective	Inactivation
+defective	Negative_regulation
+defects	Negative_regulation
+deficiency	Negative_regulation
+deficiency	Inactivation
+deficient	Negative_regulation
+deficient	Inactivation
+deficit	Negative_regulation
+degradation	Positive_regulation
+degradation	Degradation
+degrade	Degradation
+degraded	Negative_regulation
+degraded	Degradation
+delay	Negative_regulation
+delayed	Negative_regulation
+deletion	Inactivation
+deliver	Transport
+demethylase	Demethylation
+demethylation	Demethylation
+depend	Regulation
+depend	Positive_regulation
+depended	Positive_regulation
+dependence	Positive_regulation
+dependent	Positive_regulation
+dependent	Regulation
+depends	Positive_regulation
+dephosphorylated	Phosphorylation
+dephosphorylated	Dephosphorylation
+dephosphorylating	Dephosphorylation
+dephosphorylation	Dephosphorylation
+depletion	Negative_regulation
+deregulated	Regulation
+deregulated	Negative_regulation
+deregulation	Negative_regulation
+derepress	Negative_regulation
+derepression	Negative_regulation
+destabilized	Regulation
+destroyed	Degradation
+destruction	Degradation
+determinant	Regulation
+deubiquitinase	Deubiquitination
+deubiquitination	Deubiquitination
+digestion	Conversion
+dimethyl	Methylation
+diminish	Negative_regulation
+diminished	Negative_regulation
+diminishes	Negative_regulation
+directed	Positive_regulation
+disappearance	Demethylation
+disengaging	Negative_regulation
+dispensable	Positive_regulation
+displace	Dissociation
+displace	Positive_regulation
+displaced	Transport
+displaced	Dissociation
+displacement	Transport
+disrupt	Negative_regulation
+disrupt	Positive_regulation
+disrupt	Dissociation
+disrupted	Negative_regulation
+disrupted	Dissociation
+disrupting	Negative_regulation
+disruption	Dissociation
+disruption	Negative_regulation
+dissociate	Dissociation
+dissociate	Positive_regulation
+dissociated	Dissociation
+dissociated	Positive_regulation
+dissociation	Dissociation
+distribution	Localization
+diverts	Regulation
+dna repair	Pathway
+docking	Binding
+down regulating	Negative_regulation
+downregulate	Negative_regulation
+downregulated	Negative_regulation
+down-regulates	Negative_regulation
+downregulating	Negative_regulation
+down-regulating	Negative_regulation
+downregulation	Negative_regulation
+down-regulation	Negative_regulation
+down-stream signaling	Pathway
+drive	Positive_regulation
+driven	Positive_regulation
+drop	Negative_regulation
+drops	Negative_regulation
+due to	Positive_regulation
+dysregulation	Regulation
+dysregulation	Negative_regulation
+effect	Regulation
+effector	Positive_regulation
+effector	Regulation
+effectors	Regulation
+effects	Regulation
+efficiency	Positive_regulation
+efflux	Transport
+elevated	Positive_regulation
+elevation	Positive_regulation
+elicit	Positive_regulation
+elicited	Positive_regulation
+eliciting	Positive_regulation
+elicits	Positive_regulation
+eliminated	Negative_regulation
+eliminates	Negative_regulation
+eliminating	Negative_regulation
+elimination	Degradation
+enabling	Positive_regulation
+encoded	Positive_regulation
+encoded	Translation
+engagement	Regulation
+enhance	Positive_regulation
+enhanced	Positive_regulation
+enhancement	Positive_regulation
+enhances	Positive_regulation
+enhancing	Positive_regulation
+enter	Transport
+enter a large molecular mass complex	Binding
+enters	Transport
+entry	Transport
+escorts	Transport
+escorts	Positive_regulation
+essential	Positive_regulation
+essential mediator	Positive_regulation
+exchange	Transport
+exclusion	Localization
+exit	Transport
+expansion	Gene_expression
+export	Positive_regulation
+export	Transport
+exported	Positive_regulation
+exported	Transport
+exportin	Positive_regulation
+exportin	Transport
+express	Positive_regulation
+express	Gene_expression
+expressed	Transcription
+expressed	Translation
+expressed	Gene_expression
+expressing	Gene_expression
+expression	Transcription
+expression	Gene_expression
+expression	Positive_regulation
+expressions	Gene_expression
+extrusion	Transport
+facilitate	Positive_regulation
+facilitates	Positive_regulation
+facilitating	Positive_regulation
+flux	Transport
+folding	Binding
+follows	Positive_regulation
+form a complex	Binding
+form a functional complex	Binding
+form a hetero-oligomeric complex	Binding
+form a protein complex	Binding
+form a stable complex	Binding
+form a stable core complex	Binding
+form a ternary complex	Binding
+form an active complex	Binding
+form dimeric receptor complexes	Binding
+form dimers	Binding
+form heterotetrameric complexes	Binding
+form stable heterodimers	Binding
+form tetramers	Binding
+formation	Conversion
+formation	Binding
+formation of a ternary complex	Binding
+formed	Binding
+formed a complex	Binding
+forming	Binding
+forming a ternary complex	Binding
+forming heterodimers	Binding
+forms	Binding
+forms a complex	Binding
+forms a ternary complex	Binding
+found	Binding
+frees	Positive_regulation
+gatekeeper	Regulation
+gene expression	Gene_expression
+generated	Positive_regulation
+generated	Conversion
+generates	Conversion
+generates	Positive_regulation
+generating	Positive_regulation
+generating	Conversion
+generation	Conversion
+harboring	Binding
+has a novel role	Regulation
+have a pivotal role	Positive_regulation
+heterodimers	Binding
+high	Positive_regulation
+higher	Positive_regulation
+highest	Positive_regulation
+homodimer	Binding
+homodimers	Binding
+hydrolyse	Positive_regulation
+hydrolyse	Conversion
+hydrolysis	Conversion
+hydrolyzes	Positive_regulation
+hydrolyzes	Conversion
+hydrolyzing	Conversion
+hydroxylation	Hydroxylation
+hyperacetylated	Acetylation
+hyperactive	Activation
+hyperactive	Positive_regulation
+hypermethylation	Methylation
+hyperphosphorylated	Phosphorylation
+hyperphosphorylation	Phosphorylation
+hypoacetylated	Acetylation
+hypophosphorylated	Phosphorylation
+impair	Negative_regulation
+impaired	Negative_regulation
+impairs	Negative_regulation
+impeded	Negative_regulation
+impedes	Negative_regulation
+implicate	Positive_regulation
+implicated	Regulation
+implicated	Positive_regulation
+import	Transport
+importance	Positive_regulation
+important	Positive_regulation
+important	Regulation
+inactivate	Inactivation
+inactivate	Positive_regulation
+inactivated	Inactivation
+inactivated	Negative_regulation
+inactivates	Inactivation
+inactivating	Inactivation
+inactivation	Inactivation
+inactivation	Negative_regulation
+inactive	Activation
+inactive	Inactivation
+inactive	Regulation
+inactive	Negative_regulation
+incorporated	Phosphorylation
+increase	Positive_regulation
+increased	Positive_regulation
+increased	Regulation
+increases	Positive_regulation
+increasing	Positive_regulation
+independent	Regulation
+independently	Regulation
+induce	Positive_regulation
+induced	Regulation
+induced	Positive_regulation
+induces	Negative_regulation
+induces	Positive_regulation
+inducible	Positive_regulation
+inducing	Positive_regulation
+induction	Positive_regulation
+influence	Regulation
+influenced	Regulation
+influences	Regulation
+influencing	Regulation
+inhibit	Negative_regulation
+inhibited	Negative_regulation
+inhibiting	Negative_regulation
+inhibition	Negative_regulation
+inhibitor	Negative_regulation
+inhibitors	Inactivation
+inhibitors	Negative_regulation
+inhibitory	Negative_regulation
+inhibitory function	Negative_regulation
+inhibits	Negative_regulation
+inhibits	Positive_regulation
+initiate	Positive_regulation
+initiated	Positive_regulation
+initiates	Positive_regulation
+input	Regulation
+insensitive	Activation
+insensitive	Regulation
+insufficient	Positive_regulation
+intake	Transport
+interact	Binding
+interacted	Binding
+interacting	Binding
+interaction	Binding
+interaction	Positive_regulation
+interactions	Conversion
+interactions	Binding
+interacts	Binding
+interconverts	Positive_regulation
+interconverts	Conversion
+interfere	Negative_regulation
+interference	Negative_regulation
+interferes	Negative_regulation
+interfering	Negative_regulation
+internalization	Transport
+involve	Positive_regulation
+involved	Regulation
+involved	Positive_regulation
+involvement	Regulation
+involvement	Positive_regulation
+involves	Positive_regulation
+involves	Regulation
+involving	Regulation
+involving	Positive_regulation
+isolated	Transport
+isomerization	Binding
+kinase	Phosphorylation
+kinase activity	Phosphorylation
+kinase-active	Activation
+kinase-inactive	Inactivation
+knock down	Inactivation
+knockdown	Inactivation
+knockdown	Negative_regulation
+knock-down	Inactivation
+knockout	Inactivation
+knock-out	Inactivation
+knockouts	Inactivation
+ko	Inactivation
+lack	Negative_regulation
+lacking	Inactivation
+lacking	Negative_regulation
+leading	Positive_regulation
+leads	Positive_regulation
+leads to	Positive_regulation
+led	Positive_regulation
+lie	Binding
+ligase	Binding
+limitation	Negative_regulation
+limiting	Negative_regulation
+link	Regulation
+linked	Regulation
+linked	Binding
+linker	Regulation
+linking	Regulation
+links	Binding
+links	Regulation
+loaded with ribosomes	Transcription
+localisation	Localization
+localised	Localization
+localization	Localization
+localize	Localization
+localized	Localization
+localized	Positive_regulation
+localizes	Localization
+localizes	Binding
+located	Localization
+location	Localization
+loss	Negative_regulation
+loss	Inactivation
+loss	Dissociation
+lost	Negative_regulation
+low	Negative_regulation
+lower	Negative_regulation
+lowering	Negative_regulation
+lowers	Negative_regulation
+maintain	Regulation
+maintenance	Regulation
+maneuver on	Binding
+maneuver on and off	Dissociation
+marks	Localization
+marks	Regulation
+masking	Negative_regulation
+mediate	Positive_regulation
+mediated	Positive_regulation
+mediated	Regulation
+mediates	Positive_regulation
+mediates	Regulation
+mediating	Positive_regulation
+metabolism	Conversion
+methylase	Methylation
+methylated	Methylation
+methylation	Methylation
+migration	Transport
+mislocalized	Localization
+mobilization	Transport
+modification	Phosphorylation
+modification	Positive_regulation
+modification	Conversion
+modified	Conversion
+modified	Positive_regulation
+modified	Phosphorylation
+modifies	Regulation
+modify	Phosphorylation
+modifying	Positive_regulation
+modifying	Transport
+modulate	Positive_regulation
+modulate	Regulation
+modulated	Positive_regulation
+modulates	Regulation
+modulating	Positive_regulation
+modulating	Regulation
+modulation	Regulation
+modulation	Positive_regulation
+modulator	Regulation
+moves	Transport
+mrna expression	Transcription
+necessary	Positive_regulation
+negative control	Negative_regulation
+negative regulation	Negative_regulation
+negative regulator	Negative_regulation
+negative regulators	Negative_regulation
+negative regulatory role	Negative_regulation
+negatively controlled	Negative_regulation
+negatively regulate	Negative_regulation
+negatively regulated	Negative_regulation
+negatively regulates	Negative_regulation
+negative-regulatory	Negative_regulation
+neosynthesis	Conversion
+networks	Pathway
+neutralizes	Negative_regulation
+no activity	Regulation
+no effect	Regulation
+non-degradable	Degradation
+nonphopshorylated	Phosphorylation
+non-phosphorylated	Phosphorylation
+nullified	Negative_regulation
+nutrient-responsive pathway	Pathway
+occupancy	Binding
+occupation	Binding
+occupied	Binding
+oligomeration	Binding
+oligomerization	Binding
+oligomers	Binding
+opposing	Negative_regulation
+organization	Binding
+oscillate	Regulation
+over expressed	Gene_expression
+overcame	Negative_regulation
+overcomes	Negative_regulation
+overexpressed	Gene_expression
+over-expressed	Gene_expression
+overexpressing	Gene_expression
+overexpression	Gene_expression
+overexpression	Positive_regulation
+overexpressions	Gene_expression
+overproducing	Gene_expression
+overproduction	Gene_expression
+oxidation	Positive_regulation
+oxidation	Conversion
+oxidize	Conversion
+oxidized	Conversion
+oxidized	Positive_regulation
+oxidizes	Positive_regulation
+oxidizes	Conversion
+participants	Positive_regulation
+participates	Regulation
+participating	Binding
+participation	Regulation
+partitions	Positive_regulation
+partitions	Localization
+pathway	Pathway
+pathways	Pathway
+permitting	Positive_regulation
+perturbed	Negative_regulation
+perturbs	Negative_regulation
+phospho	Phosphorylation
+phosphoregulation	Regulation
+phosphorolysis	Conversion
+phosphorylatable	Phosphorylation
+phosphorylate	Phosphorylation
+phosphorylated	Phosphorylation
+phosphorylates	Positive_regulation
+phosphorylates	Phosphorylation
+phosphorylating	Phosphorylation
+phosphorylation	Phosphorylation
+phosphorylations	Phosphorylation
+phosphorylytic	Phosphorylation
+play a critical role	Regulation
+play a key role	Positive_regulation
+play a role	Regulation
+play an important role	Positive_regulation
+play distinct roles	Regulation
+play important roles	Regulation
+play pivotal roles	Positive_regulation
+played a role	Regulation
+playing a major role	Positive_regulation
+plays a critical role	Regulation
+plays a critical role	Positive_regulation
+plays a crucial role	Positive_regulation
+plays a role	Regulation
+plays a significant role	Regulation
+plays an important role	Positive_regulation
+plays important roles	Positive_regulation
+plus	Binding
+polarization	Regulation
+polyubiquitination	Positive_regulation
+polyubiquitination	Ubiquitination
+positive	Positive_regulation
+positive regulation	Positive_regulation
+positive regulator	Positive_regulation
+positively regulated	Positive_regulation
+positively regulates	Positive_regulation
+positively regulating	Positive_regulation
+potentiates	Positive_regulation
+present	Localization
+prevent	Negative_regulation
+prevented	Negative_regulation
+preventing	Negative_regulation
+prevents	Negative_regulation
+proceeds	Positive_regulation
+processed	Regulation
+produce	Conversion
+produced	Positive_regulation
+produced	Gene_expression
+produced	Conversion
+production	Conversion
+production	Gene_expression
+prolonged	Positive_regulation
+prolonged increase	Positive_regulation
+prolonging	Positive_regulation
+prolongs	Positive_regulation
+promote	Positive_regulation
+promote	Regulation
+promoted	Positive_regulation
+promotes	Positive_regulation
+promoting	Positive_regulation
+promotion	Positive_regulation
+protected	Negative_regulation
+protection	Regulation
+protects	Negative_regulation
+protein expression	Translation
+proteolysis	Degradation
+protonation	Conversion
+r	Gene_expression
+raise	Positive_regulation
+reabsorption	Transport
+react	Conversion
+reactivation	Activation
+reactivation	Positive_regulation
+reconstitutes	Regulation
+recruit	Positive_regulation
+recruit	Binding
+recruit	Transport
+recruited	Positive_regulation
+recruited	Transport
+recruited	Binding
+recruiting	Positive_regulation
+recruiting	Transport
+recruitment	Transport
+recruitment	Binding
+recruitment	Positive_regulation
+recruits	Regulation
+recruits	Transport
+reduce	Negative_regulation
+reduced	Negative_regulation
+reduces	Negative_regulation
+reducing	Negative_regulation
+reduction	Negative_regulation
+reduction	Conversion
+regulate	Regulation
+regulated	Regulation
+regulated	Positive_regulation
+regulated	Negative_regulation
+regulated pathway	Pathway
+regulates	Regulation
+regulates	Positive_regulation
+regulating	Regulation
+regulation	Regulation
+regulator	Negative_regulation
+regulator	Regulation
+regulators	Regulation
+regulatory	Regulation
+regulatory roles	Regulation
+related	Regulation
+release	Transport
+release	Dissociation
+release	Positive_regulation
+released	Dissociation
+releases	Dissociation
+releases	Positive_regulation
+releasing	Dissociation
+releasing	Positive_regulation
+relieved	Negative_regulation
+relieves	Negative_regulation
+relieving	Negative_regulation
+relocate	Localization
+relocated	Localization
+relocation	Localization
+removal	Conversion
+removal	Transport
+removal	Degradation
+removal	Dissociation
+removes	Negative_regulation
+removing	Positive_regulation
+removing	Transport
+renders	Positive_regulation
+re-phosphorylation	Phosphorylation
+replacement	Dissociation
+replacing	Inactivation
+repress	Negative_regulation
+repressed	Negative_regulation
+represses	Negative_regulation
+repressing	Negative_regulation
+repression	Negative_regulation
+repressive	Negative_regulation
+repressor	Negative_regulation
+require	Positive_regulation
+required	Positive_regulation
+required	Regulation
+requirement	Positive_regulation
+requires	Positive_regulation
+requiring	Positive_regulation
+rescued	Positive_regulation
+reside	Localization
+resides	Localization
+resistant	Regulation
+resistant	Negative_regulation
+responded	Positive_regulation
+response	Positive_regulation
+response	Regulation
+responses	Positive_regulation
+responses	Regulation
+responsible	Positive_regulation
+responsive	Positive_regulation
+responsiveness	Positive_regulation
+restored	Positive_regulation
+restoring	Positive_regulation
+restricted	Localization
+restricting	Negative_regulation
+result	Positive_regulation
+resultant	Positive_regulation
+resulted	Positive_regulation
+resulting	Positive_regulation
+results	Positive_regulation
+retained	Positive_regulation
+retained	Localization
+retention	Positive_regulation
+retention	Localization
+reverse	Negative_regulation
+reversed	Negative_regulation
+reverses	Negative_regulation
+reversible	Negative_regulation
+role	Positive_regulation
+role	Regulation
+'s	Positive_regulation
+secreted	Transport
+secretion	Transport
+sensitive	Regulation
+sensitivity	Regulation
+sensitized	Regulation
+sensitizes	Regulation
+sequestered	Transport
+sequestered	Localization
+sequestered	Positive_regulation
+sequestering	Transport
+sequestering	Positive_regulation
+sequesters	Transport
+sequesters	Positive_regulation
+sequestratio	Positive_regulation
+sequestration	Transport
+serve a role	Positive_regulation
+sharpening	Positive_regulation
+shutdown	Negative_regulation
+shuttle	Transport
+shuttling	Localization
+shuttling	Transport
+shuttling	Negative_regulation
+signal	Regulation
+signal	Pathway
+signal transducer	Positive_regulation
+signal transduction	Pathway
+signal transduction pathway	Pathway
+signaling	Pathway
+signaling apoptosis	Pathway
+signaling cascade	Pathway
+signaling cascades	Pathway
+signaling pathway	Pathway
+signaling pathway	Positive_regulation
+signaling pathways	Pathway
+signalling	Pathway
+signalling pathway	Pathway
+signalling pathways	Pathway
+signals	Pathway
+signals	Regulation
+signs	Regulation
+silenced	Inactivation
+silencing	Inactivation
+slows	Negative_regulation
+s-nitrosylation	Conversion
+specific	Positive_regulation
+stabilisation	Regulation
+stabilise	Regulation
+stabilization	Regulation
+stabilize	Regulation
+stabilized	Regulation
+stabilizes	Regulation
+stabilizing	Regulation
+starvation	Negative_regulation
+stimulate	Positive_regulation
+stimulated	Positive_regulation
+stimulated	Activation
+stimulates	Positive_regulation
+stimulating	Positive_regulation
+stimulation	Activation
+stimulation	Positive_regulation
+stimulatory	Positive_regulation
+substitution	Conversion
+sufficient	Positive_regulation
+sulfates	Positive_regulation
+sulfates	Conversion
+sulfation	Positive_regulation
+sulfation	Conversion
+sumoylation	Conversion
+supports	Positive_regulation
+suppress	Negative_regulation
+suppressed	Negative_regulation
+suppresses	Negative_regulation
+suppressing	Negative_regulation
+suppression	Negative_regulation
+suppressive effect	Negative_regulation
+suppressor	Negative_regulation
+suppressors	Negative_regulation
+sustained	Positive_regulation
+switch off	Inactivation
+switching off	Negative_regulation
+synergize	Positive_regulation
+synergizes	Positive_regulation
+synthesis	Gene_expression
+synthesis	Conversion
+synthesis	Translation
+synthesis	Transcription
+synthesize	Conversion
+synthesize	Positive_regulation
+synthesized	Gene_expression
+synthesized	Positive_regulation
+synthesized	Conversion
+take place	Localization
+target	Regulation
+target	Positive_regulation
+targeted	Regulation
+targeting	Regulation
+targeting	Positive_regulation
+targets	Positive_regulation
+targets	Regulation
+tetramer	Binding
+tetramerisation	Binding
+trafficking	Transport
+transactivate	Positive_regulation
+transactivated	Positive_regulation
+transactivates	Positive_regulation
+transactivating	Activation
+trans-activating	Positive_regulation
+transactivation	Positive_regulation
+transactivation	Activation
+trans-activation	Activation
+trans-activation	Positive_regulation
+transcribed	Transcription
+transcription	Transcription
+transcriptional	Transcription
+transcriptional activation	Activation
+transcriptional activation	Positive_regulation
+transcriptional regulation	Regulation
+transcriptional repressor	Negative_regulation
+transcriptionally repressive	Negative_regulation
+transcripts	Transcription
+transduce	Positive_regulation
+transduced	Positive_regulation
+transducer	Positive_regulation
+transducing	Positive_regulation
+transduction	Positive_regulation
+transfer	Conversion
+transfer	Positive_regulation
+transferred	Transport
+transferred	Conversion
+transferred	Positive_regulation
+transferring	Conversion
+transfers	Conversion
+transfers	Positive_regulation
+trans-inhibiting	Negative_regulation
+translated	Translation
+translation	Translation
+translational	Translation
+translocate	Transport
+translocated	Transport
+translocates	Transport
+translocates	Localization
+translocating	Transport
+translocatio	Transport
+translocation	Localization
+translocation	Transport
+transport	Positive_regulation
+transport	Transport
+transporter	Transport
+transporter	Positive_regulation
+transporters	Transport
+transporters	Positive_regulation
+transports	Positive_regulation
+transports	Transport
+transrepression	Negative_regulation
+triggered	Positive_regulation
+triggering	Positive_regulation
+triggers	Positive_regulation
+trimming	Dissociation
+turnover	Degradation
+ubiquitinated	Ubiquitination
+ubiquitinates	Ubiquitination
+ubiquitinating	Ubiquitination
+ubiquitination	Ubiquitination
+ubiquitinylation	Ubiquitination
+ubiquitously	Ubiquitination
+ubiquitylates	Ubiquitination
+unaffected	Regulation
+unaffected	Positive_regulation
+uncoupled	Regulation
+uncouples	Negative_regulation
+uncoupling	Regulation
+undergo	Regulation
+underlie	Positive_regulation
+underlies	Positive_regulation
+undetectable	Inactivation
+uninducible	Positive_regulation
+unperturbed	Negative_regulation
+unphosphorylated	Phosphorylation
+upon	Positive_regulation
+upregulate	Positive_regulation
+up-regulate	Positive_regulation
+upregulated	Positive_regulation
+up-regulated	Positive_regulation
+upregulates	Positive_regulation
+up-regulates	Positive_regulation
+up-regulating	Positive_regulation
+upregulation	Positive_regulation
+up-regulation	Positive_regulation
+upstream	Regulation
+uptake	Transport
+utilize	Positive_regulation
+utilize	Conversion
+utilized	Conversion
+utilizes	Binding
+utilizes	Positive_regulation
+utilizes	Conversion
+yield	Positive_regulation

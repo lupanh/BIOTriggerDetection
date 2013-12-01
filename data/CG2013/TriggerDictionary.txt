@@ -1,0 +1,1333 @@
+12q13.1 loss of heterozygosity	Mutation
+aberrant	Regulation
+aberrant	Mutation
+ability	Regulation
+ablation	Mutation
+ablation	Negative_regulation
+abnormalities	Mutation
+abolished	Negative_regulation
+abolishes	Negative_regulation
+abrogated	Negative_regulation
+absence	Gene_expression
+absence	Localization
+absent	Gene_expression
+abundant	Positive_regulation
+accelerate	Positive_regulation
+accelerated	Positive_regulation
+accelerates	Positive_regulation
+acceleration	Positive_regulation
+accompanied	Positive_regulation
+accumulate	Localization
+accumulated	Positive_regulation
+accumulation	Localization
+accumulation	Positive_regulation
+acetylated	Acetylation
+acetylation	Acetylation
+achieved	Positive_regulation
+act	Regulation
+action	Negative_regulation
+activate	Positive_regulation
+activated	Positive_regulation
+activates	Positive_regulation
+activating	Positive_regulation
+activation	Regulation
+activation	Positive_regulation
+activation system	Pathway
+activator	Positive_regulation
+activities	Negative_regulation
+activity	Negative_regulation
+activity	Positive_regulation
+acts	Regulation
+added	Planned_process
+addition	Planned_process
+adhere	Binding
+adhered	Binding
+adhesion	Binding
+adhesive	Binding
+adhesive processes	Binding
+administered	Planned_process
+administering	Planned_process
+administration	Planned_process
+aerobic degradation	Catabolism
+aerobic glycolysis	Glycolysis
+affect	Regulation
+affected	Regulation
+affecting	Regulation
+affects	Regulation
+affinity	Binding
+against	Negative_regulation
+aggregability	Binding
+aggregate	Binding
+aggregation	Binding
+allele loss	Mutation
+allelic deletion	Mutation
+allelic deletions	Mutation
+alleviates	Negative_regulation
+alter	Regulation
+alteration	Mutation
+alteration	Regulation
+alterations	Regulation
+alterations	Mutation
+altered	Regulation
+altered	Mutation
+altered morphology	Cell_transformation
+altering	Regulation
+alters	Regulation
+amount	Transcription
+amplification	Mutation
+amplified	Mutation
+amplified	Positive_regulation
+angiogenesis	Blood_vessel_development
+angiogenetic	Blood_vessel_development
+angiogenic	Blood_vessel_development
+angiography	Planned_process
+angiomatoid	Blood_vessel_development
+angiomorphogenesis	Blood_vessel_development
+angioproliferative	Blood_vessel_development
+antagonism	Negative_regulation
+antagonize	Negative_regulation
+antagonizes	Negative_regulation
+antiapoptotic signaling	Pathway
+antileukemic activity	Negative_regulation
+antiport	Localization
+apoptosis	Cell_death
+apoptotic	Cell_death
+apoptotic cascade	Pathway
+apoptotic cell death	Cell_death
+apoptotic pathway	Cell_death
+apoptotic pathways	Pathway
+apoptotic process	Cell_death
+apoptotic processes	Cell_death
+apoptotic signaling	Pathway
+appearance	Transcription
+application	Planned_process
+applied	Planned_process
+arising	Development
+arrest	Negative_regulation
+arrests	Negative_regulation
+arriving	Localization
+arteriogenesis	Blood_vessel_development
+arteriogenic pathways	Blood_vessel_development
+assayed	Planned_process
+assemblies	Binding
+assembly	Development
+associated	Binding
+associated	Regulation
+associated	Localization
+associates	Binding
+association	Binding
+association	Regulation
+attach	Binding
+attachment	Binding
+attenuated	Negative_regulation
+attenuates	Negative_regulation
+attenuating	Negative_regulation
+attenuation	Negative_regulation
+augment	Positive_regulation
+augments	Positive_regulation
+axis	Pathway
+become	Carcinogenesis
+beneficial effect	Positive_regulation
+bind	Binding
+binding	Binding
+binds	Binding
+biosynthesis	Synthesis
+block	Negative_regulation
+blocked	Negative_regulation
+blocking	Negative_regulation
+blocks	Negative_regulation
+boost	Positive_regulation
+boosts	Positive_regulation
+born	Reproduction
+bound	Binding
+brakes	Negative_regulation
+branching	Development
+breakdown	Catabolism
+capable	Positive_regulation
+carcinogenesis	Carcinogenesis
+carcinogenic	Carcinogenesis
+carcinogens	Carcinogenesis
+catalyze	Positive_regulation
+catalyzes	Positive_regulation
+catalyzes	Metabolism
+cause	Positive_regulation
+caused	Positive_regulation
+causing	Positive_regulation
+cell apoptosis	Cell_death
+cell migration	Localization
+cell signaling	Pathway
+cell-cell contacts	Binding
+cell-cell interactions	Binding
+central role	Regulation
+change	Regulation
+changes	Development
+changes	Regulation
+chemoinvasion	Localization
+chemoprevention	Negative_regulation
+chemosensitivity	Regulation
+chemotaxis	Localization
+chemotherapeutic	Planned_process
+chemotherapy	Planned_process
+circulate	Localization
+circulating	Localization
+cleavage	Positive_regulation
+cleavage	Catabolism
+cleavage	Protein_processing
+cleave	Positive_regulation
+cleave	Breakdown
+cleaved	Positive_regulation
+cleaved	Catabolism
+cleaved	Protein_processing
+clinical trials	Planned_process
+clonal cytogenetic abnormalities	Mutation
+cloned	Planned_process
+closed	Planned_process
+closure	Planned_process
+cnv	Blood_vessel_development
+coagulation	Binding
+coagulation cascade	Pathway
+coagulation system	Pathway
+coculture	Planned_process
+co-culture	Planned_process
+co-cultured	Planned_process
+coexpressed	Gene_expression
+coexpression	Gene_expression
+coincubation	Planned_process
+co-injection	Planned_process
+collaborate	Regulation
+collagenolysis	Pathway
+collapsed	Breakdown
+collateralisation	Blood_vessel_development
+collected	Planned_process
+colocalization	Localization
+colocalized	Localization
+compete	Negative_regulation
+condensation	Breakdown
+conditioned	Planned_process
+conformation	Binding
+connection	Binding
+constrained	Negative_regulation
+constructed	Planned_process
+consumption	Metabolism
+contact	Binding
+contacts	Binding
+contribute	Regulation
+contribute	Positive_regulation
+contributed	Positive_regulation
+contributes	Regulation
+contributing	Regulation
+contribution	Regulation
+control	Regulation
+controlled	Regulation
+controlling	Regulation
+controls	Regulation
+conversion	Planned_process
+cooperate	Regulation
+co-operate	Positive_regulation
+cooperates	Regulation
+co-operates	Regulation
+cooperatively	Positive_regulation
+correlated	Regulation
+costimulation	Positive_regulation
+cotransplantation	Planned_process
+cotransplanted	Planned_process
+cotreatment	Planned_process
+critical	Positive_regulation
+critical role	Regulation
+crucial	Positive_regulation
+cryptic fusions	Mutation
+cultivating	Planned_process
+culture	Planned_process
+cultured	Planned_process
+culturing	Planned_process
+cycle	Pathway
+cycle pathway	Pathway
+cyclic administration	Planned_process
+cycling	Development
+cytoskeletal collapse	Death
+cytotoxicity	Cell_death
+cytotoxicity	Positive_regulation
+damage	Breakdown
+damaged	Breakdown
+damages	Breakdown
+damaging	Breakdown
+dead	Death
+death	Death
+death	Cell_death
+death pathway	Death
+decapitation	Planned_process
+decelerate	Negative_regulation
+decelerating	Negative_regulation
+declined	Negative_regulation
+decrease	Negative_regulation
+decreased	Negative_regulation
+decreases	Negative_regulation
+decreasing	Negative_regulation
+defect	Negative_regulation
+defective	Localization
+defective	Negative_regulation
+defects	Negative_regulation
+defense	Negative_regulation
+defenses	Negative_regulation
+deficiency	Gene_expression
+deficiency	Localization
+deficient	Localization
+deficient	Gene_expression
+deficient	Mutation
+degeneration	Breakdown
+degradation	Breakdown
+degradation	Catabolism
+delay	Negative_regulation
+delayed	Negative_regulation
+delays	Negative_regulation
+deleted	Mutation
+deletion	Mutation
+deliver	Planned_process
+delivered	Planned_process
+delivery	Localization
+demethylation	DNA_demethylation
+denudation	Planned_process
+denuded	Planned_process
+depend	Regulation
+dependent	Positive_regulation
+depends	Positive_regulation
+dephosphorylation	Dephosphorylation
+de-phosphorylation	Dephosphorylation
+depleted	Catabolism
+depletion	Negative_regulation
+depletion	Catabolism
+depolarization	Remodeling
+deposition	Localization
+depress	Negative_regulation
+depressed	Negative_regulation
+deprivation	Localization
+deregulated	Regulation
+deregulation	Negative_regulation
+derived	Development
+destabilization	Negative_regulation
+destroy	Breakdown
+destruction	Breakdown
+detachment	Breakdown
+detachment	Dissociation
+detectable	Transcription
+detectable	Gene_expression
+detected	Localization
+detected	Transcription
+deterioration	Breakdown
+develop	Development
+developed	Development
+developed	Planned_process
+developed	Positive_regulation
+developing	Development
+development	Development
+development	Positive_regulation
+development	Planned_process
+developmental	Development
+devoid	Gene_expression
+dictated	Positive_regulation
+differentiate	Cell_differentiation
+differentiated	Cell_differentiation
+differentiation	Cell_differentiation
+dimerization	Binding
+diminish	Negative_regulation
+diminished	Negative_regulation
+diminishes	Negative_regulation
+diminution	Negative_regulation
+disappeared	Localization
+disrupt	Negative_regulation
+disrupted	Negative_regulation
+disrupted	Breakdown
+disrupted	Mutation
+disrupting	Negative_regulation
+disrupting	Breakdown
+disruption	Negative_regulation
+disrupts	Negative_regulation
+dissemination	Development
+dissociation	Dissociation
+distal gastrectomy	Planned_process
+distraction	Planned_process
+distribution	Localization
+divisions	Cell_division
+doubling	Cell_division
+down modulated	Negative_regulation
+down-regulate	Negative_regulation
+downregulated	Negative_regulation
+down-regulated	Negative_regulation
+downregulating	Negative_regulation
+down-regulating	Negative_regulation
+downregulation	Negative_regulation
+down-regulation	Negative_regulation
+downstream	Regulation
+drives	Regulation
+due	Positive_regulation
+due to	Positive_regulation
+duplication	Mutation
+dysfunction	Death
+dysfunction	Breakdown
+dysregulated	Negative_regulation
+dysregulated	Regulation
+dysregulation	Regulation
+effect	Negative_regulation
+effect	Positive_regulation
+effect	Regulation
+effected	Regulation
+effective	Positive_regulation
+effective	Regulation
+effective	Negative_regulation
+effective against	Negative_regulation
+effectiveness	Regulation
+effectiveness	Negative_regulation
+effects	Positive_regulation
+effects	Regulation
+effects	Negative_regulation
+efficacious	Positive_regulation
+efficacy	Negative_regulation
+efficacy	Regulation
+efflux	Localization
+effluxed	Localization
+elevated	Positive_regulation
+elevation	Positive_regulation
+elicit	Positive_regulation
+elongated	Growth
+embedded	Planned_process
+endothelial signaling pathway	Pathway
+enforced	Positive_regulation
+engaged	Regulation
+engineered	Planned_process
+engrafted	Planned_process
+engraftment	Development
+enhance	Positive_regulation
+enhanced	Positive_regulation
+enhancement	Positive_regulation
+enhances	Positive_regulation
+enhancing	Positive_regulation
+enhancing effect	Positive_regulation
+enrichment	Planned_process
+enter	Localization
+enters	Localization
+entrapment	Localization
+entry	Localization
+enzyme digestion	Planned_process
+essential	Positive_regulation
+essential function	Positive_regulation
+essential role	Regulation
+established	Planned_process
+established	Cell_transformation
+established	Development
+establishment	Positive_regulation
+establishment	Development
+euthanized	Planned_process
+evaluated	Positive_regulation
+evolution	Development
+excision	Planned_process
+excretion	Localization
+exert	Positive_regulation
+exerts	Regulation
+exhibited	Regulation
+expansion	Development
+explanted	Planned_process
+exploration	Positive_regulation
+exposed	Planned_process
+exposure	Planned_process
+express	Transcription
+express	Gene_expression
+expressed	Transcription
+expressed	Translation
+expressed	Gene_expression
+expressing	Transcription
+expressing	Gene_expression
+expression	Translation
+expression	Transcription
+expression	Planned_process
+expression	Gene_expression
+expressions	Gene_expression
+expressions	Transcription
+extracted	Planned_process
+extrinsic coagulation pathway	Pathway
+facilitate	Positive_regulation
+facilitates	Positive_regulation
+facilitates	Regulation
+failure	Negative_regulation
+favors	Positive_regulation
+fed	Planned_process
+feedback signalling	Pathway
+flux	Localization
+forced	Positive_regulation
+form	Development
+formation	Synthesis
+formation	Cell_proliferation
+formation	Binding
+formation	Metabolism
+formation	Development
+formed	Development
+formed	Synthesis
+forming	Development
+forms	Development
+found	Localization
+fragmentation	Breakdown
+fragmented	Breakdown
+free	Regulation
+free	Localization
+function loss	Negative_regulation
+functions	Negative_regulation
+functions	Positive_regulation
+functions	Regulation
+fundamental	Positive_regulation
+fused	Planned_process
+fusion	Mutation
+fusion	Planned_process
+gastrectomy	Planned_process
+gene amplification	Mutation
+gene expression	Gene_expression
+gene therapy	Planned_process
+gene transfer	Planned_process
+generate	Synthesis
+generated	Synthesis
+generated	Development
+generating	Development
+generating	Synthesis
+generation	Synthesis
+generation	Gene_expression
+genetic ablation	Mutation
+genetic alterations	Mutation
+genetic changes	Mutation
+genetic damage	Mutation
+genetic deletion	Mutation
+genetic instability	Mutation
+genetically altered	Mutation
+genomic instability	Mutation
+genomic rearrangement	Mutation
+gliogenesis	Cell_differentiation
+glutaminolysis	Amino_acid_catabolism
+glycolysis	Glycolysis
+glycolysis pathway	Pathway
+glycolytic	Glycolysis
+glycolytic metabolism	Glycolysis
+glycolytic pathway	Glycolysis
+glycolytic pathways	Glycolysis
+glycolytic sequence	Glycolysis
+grafted	Planned_process
+grafting	Planned_process
+grew	Development
+grew	Growth
+grow	Cell_proliferation
+grow	Growth
+growing	Cell_proliferation
+growing	Growth
+grown	Growth
+grown	Cell_proliferation
+growth	Cell_proliferation
+growth	Growth
+growth arrest pathways	Pathway
+halts	Negative_regulation
+harvested	Planned_process
+has a critical role	Positive_regulation
+has an essential role	Regulation
+has an important role	Regulation
+have a role	Regulation
+have an important role	Regulation
+have important regulatory functions	Regulation
+having an important function	Regulation
+hepatectomy	Planned_process
+heterozygous disruption	Mutation
+hydrolysis	Positive_regulation
+hydrolysis	Catabolism
+hyperactivation	Positive_regulation
+hyperinvasive	Localization
+hyperinvasiveness	Localization
+hypermethylation	DNA_methylation
+hyperproliferative	Cell_proliferation
+hypervascularized	Blood_vessel_development
+immature	Development
+immortalization	Cell_transformation
+immortalized	Planned_process
+immortalized	Cell_transformation
+immortalized	Positive_regulation
+immunodetection	Planned_process
+immunohistochemical staining	Planned_process
+immunolocalised	Localization
+immunostaining	Planned_process
+immunotherapy	Planned_process
+impact	Regulation
+impair	Negative_regulation
+impaired	Negative_regulation
+impairs	Negative_regulation
+implantation	Planned_process
+implanted	Planned_process
+implicated	Regulation
+implication	Regulation
+importance	Positive_regulation
+important	Positive_regulation
+important integrator	Positive_regulation
+important role	Regulation
+improve	Positive_regulation
+improve	Regulation
+improved	Positive_regulation
+improved	Negative_regulation
+improvement	Positive_regulation
+improves	Positive_regulation
+inactivate	Negative_regulation
+inactivated	Negative_regulation
+inactivates	Negative_regulation
+inactivating	Negative_regulation
+inactivation	Negative_regulation
+inactive	Regulation
+includes	Positive_regulation
+including	Positive_regulation
+incorporation	Localization
+increase	Positive_regulation
+increased	Positive_regulation
+increases	Positive_regulation
+increasing	Positive_regulation
+increasingly	Positive_regulation
+incubated	Planned_process
+incubation	Planned_process
+independence	Regulation
+independent	Regulation
+induce	Development
+induce	Positive_regulation
+induce	Regulation
+induced	Planned_process
+induced	Regulation
+induced	Positive_regulation
+induces	Positive_regulation
+inducible	Positive_regulation
+inducing	Positive_regulation
+induction	Positive_regulation
+infected	Planned_process
+infected	Infection
+infection	Infection
+infection	Planned_process
+infections	Infection
+infiltrating	Localization
+infiltration	Localization
+influence	Regulation
+influenced	Regulation
+influences	Regulation
+influencing	Regulation
+in-frame duplication	Mutation
+infusion	Planned_process
+inhibit	Negative_regulation
+inhibited	Negative_regulation
+inhibiting	Negative_regulation
+inhibition	Negative_regulation
+inhibitor	Negative_regulation
+inhibitory	Negative_regulation
+inhibitory action	Negative_regulation
+inhibitory effect	Negative_regulation
+inhibitory effects	Negative_regulation
+inhibits	Negative_regulation
+inhibits	Regulation
+initiate	Positive_regulation
+initiated	Positive_regulation
+initiates	Positive_regulation
+initiating	Positive_regulation
+initiation	Positive_regulation
+initiation	Carcinogenesis
+initiation	Development
+initiator	Positive_regulation
+injected	Planned_process
+injection	Planned_process
+injections	Planned_process
+injury	Breakdown
+inoculated	Planned_process
+inoculation	Planned_process
+insertional mutagenesis	Planned_process
+insertions	Planned_process
+instability	Mutation
+interact	Binding
+interact	Regulation
+interacting	Binding
+interaction	Binding
+interactions	Binding
+interacts	Binding
+interfere	Negative_regulation
+interfered	Negative_regulation
+interference	Negative_regulation
+interferes	Negative_regulation
+internalization	Localization
+intracellular signaling pathways	Pathway
+intracerebral grafting	Planned_process
+intraportal injection	Planned_process
+intravitreal injection	Planned_process
+intrinsic apoptotic pathway	Pathway
+introduced	Planned_process
+introduction	Positive_regulation
+introduction	Planned_process
+invade	Localization
+invasion	Localization
+invasion pathway	Pathway
+invasive	Localization
+invasiveness	Localization
+involve	Regulation
+involved	Regulation
+involvement	Regulation
+involves	Regulation
+irradiated	Planned_process
+irradiation	Planned_process
+isolated	Planned_process
+key role	Regulation
+kill	Death
+kill	Positive_regulation
+killing	Positive_regulation
+killing	Death
+knockdown	Planned_process
+knockout	Planned_process
+knock-out	Planned_process
+labeled	Planned_process
+labelled	Planned_process
+lacking	Gene_expression
+layered	Localization
+lead	Positive_regulation
+lead to	Positive_regulation
+leading	Positive_regulation
+leads	Positive_regulation
+leads	Development
+leakage	Localization
+led	Positive_regulation
+led to	Positive_regulation
+leukemogenesis	Carcinogenesis
+leukemogenic	Carcinogenesis
+level	Gene_expression
+levels	Gene_expression
+levels	Localization
+liberates	Localization
+liberation	Localization
+limit	Negative_regulation
+limited	Negative_regulation
+limiting	Negative_regulation
+linked	Regulation
+linked	Planned_process
+linked	Binding
+lipofection	Planned_process
+local invasion	Localization
+localisation	Localization
+localization	Localization
+localized	Localization
+loh	Mutation
+loss	Mutation
+loss	Negative_regulation
+loss	Localization
+loss	Gene_expression
+loss of heterozygosity	Mutation
+loss of heterozygosity (loh)	Mutation
+losses	Death
+lost	Mutation
+lost	Negative_regulation
+luteinized	Development
+lymphangiogenesis	Blood_vessel_development
+lymphangiogenic	Blood_vessel_development
+lymphomagenesis	Carcinogenesis
+lymphomagenetic	Carcinogenesis
+lysis	Breakdown
+maintain	Regulation
+maintained	Regulation
+maintaining	Regulation
+maintenance	Regulation
+major players	Regulation
+malignant progression	Carcinogenesis
+malignant transformation	Cell_transformation
+management	Regulation
+manifestation	Planned_process
+manipulation	Regulation
+maturation	Development
+maturation	Protein_processing
+mechanism	Pathway
+mechanism	Negative_regulation
+mechanisms	Regulation
+mechanisms linking	Regulation
+mediate	Regulation
+mediated	Positive_regulation
+mediated	Regulation
+mediates	Regulation
+mediating	Regulation
+mediator	Regulation
+messenger rna (mrna) expression	Transcription
+messenger rna expression	Transcription
+metabolic pathways	Pathway
+metabolism	Metabolism
+metabolized	Positive_regulation
+metabolized	Metabolism
+metastases	Metastasis
+metastasis	Metastasis
+metastasize	Metastasis
+metastasized	Metastasis
+metastatic	Metastasis
+metastatic dissemination	Metastasis
+metastatic process	Metastasis
+metastatic progression	Metastasis
+metastatic spread	Metastasis
+methylated	DNA_methylation
+methylation	DNA_methylation
+micrometastases	Metastasis
+microsatellite alteration	Mutation
+microsatellite instability	Mutation
+migrate	Localization
+migrated	Localization
+migrating	Localization
+migration	Localization
+migratory	Localization
+mitotic death	Death
+mobility	Localization
+modeling	Development
+modify	Regulation
+modulate	Regulation
+modulated	Regulation
+modulates	Regulation
+modulating	Regulation
+modulation	Regulation
+monoallelic deletion	Mutation
+monoallelically deleted	Mutation
+morphogenesis	Development
+morphological changes	Remodeling
+motility	Localization
+mrna	Transcription
+mrna expression	Transcription
+mutagenesis	Mutation
+mutant	Mutation
+mutants	Mutation
+mutated	Mutation
+mutating	Mutation
+mutation	Mutation
+mutations	Mutation
+necessary	Positive_regulation
+necessary part	Positive_regulation
+necrosis	Cell_death
+necrosis	Death
+necrotic	Death
+negative	Gene_expression
+negative regulator	Negative_regulation
+negatively modulate	Negative_regulation
+negatively regulate	Negative_regulation
+negatively regulates	Negative_regulation
+neoangiogenesis	Blood_vessel_development
+neoplastic invasion	Metastasis
+neoplastic transformation	Cell_transformation
+neoplastic transformation	Carcinogenesis
+neoplastic transformation	Positive_regulation
+neovascularization	Blood_vessel_development
+networks	Pathway
+neurogenesis	Cell_differentiation
+neutralize	Negative_regulation
+neutralizes	Negative_regulation
+n-glycosylation	Glycosylation
+nh(2)-terminally truncated	Mutation
+no change	Regulation
+no direct effect	Regulation
+non-migrating	Localization
+nonphosphorylated	Phosphorylation
+nontransfected	Planned_process
+nontreated	Planned_process
+nontumorigenic	Carcinogenesis
+non-tumorigenic	Carcinogenesis
+notch signaling	Pathway
+nucleation	Development
+null	Gene_expression
+observed	Planned_process
+observed	Localization
+observed	Positive_regulation
+obtained	Planned_process
+occurrence	Development
+oncogenesis	Carcinogenesis
+oncogenic	Carcinogenesis
+oncogenic transformation	Positive_regulation
+oncogenic transformation	Cell_transformation
+onset	Development
+organization	Remodeling
+organization	Development
+orming a complex	Binding
+osteoclastogenesis	Cell_differentiation
+over	Positive_regulation
+overexpress	Transcription
+overexpress	Positive_regulation
+overexpress	Gene_expression
+overexpress	Planned_process
+overexpressed	Positive_regulation
+overexpressed	Gene_expression
+over-expressed	Gene_expression
+overexpressing	Positive_regulation
+overexpressing	Gene_expression
+overexpression	Gene_expression
+overexpression	Planned_process
+overexpression	Positive_regulation
+overexpression	Transcription
+over-expression	Gene_expression
+overlaid	Planned_process
+oxidative metabolism	Metabolism
+pancreaticoduodenectomy	Planned_process
+participate	Regulation
+participate	Positive_regulation
+participation	Regulation
+passage	Planned_process
+passages	Planned_process
+pathogenesis	Development
+pathway	Pathway
+pathways	Pathway
+pdt treatment	Planned_process
+perfusion	Development
+perioperation management	Planned_process
+perturbation	Regulation
+perturbed	Regulation
+perturbing	Regulation
+perturbs	Regulation
+phenotypic reversion	Development
+phosphate pathways	Pathway
+phosphorylated	Phosphorylation
+phosphorylates	Positive_regulation
+phosphorylates	Phosphorylation
+phosphorylating	Phosphorylation
+phosphorylation	Phosphorylation
+phosphorylation	Positive_regulation
+photocoagulating	Planned_process
+photocoagulation	Planned_process
+placed	Planned_process
+plated	Planned_process
+play	Negative_regulation
+play a central role	Positive_regulation
+play a critical role	Regulation
+play a crucial role	Positive_regulation
+play a key regulatory role	Regulation
+play a key role	Regulation
+play a role	Regulation
+play a significant role	Regulation
+play an essential role	Regulation
+play an important role	Regulation
+play complementary and coordinated roles	Regulation
+play important roles	Regulation
+play multiple roles	Regulation
+played an important role	Regulation
+plays a central role	Regulation
+plays a critical role	Regulation
+plays a crucial role	Regulation
+plays a key role	Regulation
+plays a major role	Regulation
+plays a mechanistic role	Regulation
+plays a more predominant role	Regulation
+plays a pivotal role	Regulation
+plays a protective role	Negative_regulation
+plays a role	Regulation
+plays an essential role	Regulation
+plays an important role	Regulation
+plays pleiotropic roles	Regulation
+point mutations	Mutation
+polymerization	Binding
+positive	Infection
+positive	Gene_expression
+positive	Localization
+positive staining	Gene_expression
+positively	Positive_regulation
+postinfection	Infection
+post-translation	Protein_processing
+potential	Positive_regulation
+potential cause	Positive_regulation
+potential role	Regulation
+potentiate	Positive_regulation
+potentiated	Positive_regulation
+potentiates	Positive_regulation
+potentiating	Positive_regulation
+potentiating effect	Positive_regulation
+precoated	Planned_process
+preincubated	Planned_process
+preincubation	Planned_process
+premetastatic	Metastasis
+preparations	Planned_process
+prerequisite	Positive_regulation
+presence	Localization
+present	Localization
+present	Gene_expression
+pretreated	Planned_process
+pretreatment	Planned_process
+pre-treatment	Planned_process
+prevent	Negative_regulation
+prevented	Negative_regulation
+preventing	Negative_regulation
+prevention	Negative_regulation
+prevents	Negative_regulation
+primary surgical resection	Planned_process
+primed	Planned_process
+proapoptotic	Cell_death
+processed	Planned_process
+processing	Protein_processing
+procoagulant	Binding
+produce	Development
+produce	Regulation
+produced	Positive_regulation
+produced	Gene_expression
+produced	Synthesis
+produced	Planned_process
+produces	Regulation
+produces	Gene_expression
+producing	Synthesis
+production	Synthesis
+production	Gene_expression
+program	Negative_regulation
+progression	Development
+progression	Positive_regulation
+progressive	Positive_regulation
+proliferate	Growth
+proliferate	Cell_proliferation
+proliferated	Growth
+proliferated	Cell_proliferation
+proliferating	Cell_proliferation
+proliferation	Growth
+proliferation	Development
+proliferation	Cell_proliferation
+proliferative	Growth
+proliferative	Cell_proliferation
+proliferative response	Cell_proliferation
+prolongs	Positive_regulation
+promote	Positive_regulation
+promoted	Positive_regulation
+promoter	Positive_regulation
+promoters	Positive_regulation
+promotes	Regulation
+promotes	Positive_regulation
+promoting	Positive_regulation
+promotion	Positive_regulation
+properties	Negative_regulation
+protect	Negative_regulation
+protected	Negative_regulation
+protection	Negative_regulation
+protective	Negative_regulation
+protective effect	Negative_regulation
+protective response	Negative_regulation
+protects	Negative_regulation
+protein	Gene_expression
+protein expression	Translation
+protein levels	Gene_expression
+protein synthesis	Translation
+proteolysis	Catabolism
+proteolytic	Catabolism
+providing	Development
+pseudopregnant	Planned_process
+purified	Planned_process
+radiation	Planned_process
+radiomodification	Planned_process
+radiosensitization	Planned_process
+radiotherapy	Planned_process
+raise	Positive_regulation
+raised	Growth
+randomised trials	Planned_process
+reactivated	Positive_regulation
+rearranged	Mutation
+rearrangement	Mutation
+receive	Planned_process
+received	Planned_process
+reconfiguration	Regulation
+reconstituted	Remodeling
+reconstitution	Planned_process
+recruit	Localization
+recruiting	Binding
+recruiting	Localization
+recruitment	Binding
+recruitment	Positive_regulation
+recruitment	Localization
+recruits	Regulation
+recycling	Remodeling
+redistribution	Localization
+reduce	Negative_regulation
+reduced	Negative_regulation
+reduces	Negative_regulation
+reducing	Negative_regulation
+reduction	Negative_regulation
+reendothelialization	Blood_vessel_development
+reexpression	Gene_expression
+regeneration	Development
+regress	Negative_regulation
+regression	Negative_regulation
+regulate	Regulation
+regulated	Regulation
+regulates	Regulation
+regulating	Regulation
+regulation	Regulation
+regulator	Negative_regulation
+regulator	Regulation
+regulatory	Regulation
+release	Localization
+release	Negative_regulation
+released	Localization
+released	Negative_regulation
+re-localize	Localization
+relocation	Localization
+remodeling	Remodeling
+removing	Negative_regulation
+removing	Planned_process
+rendered	Positive_regulation
+reorganization	Remodeling
+repair	Remodeling
+repress	Negative_regulation
+repressed	Negative_regulation
+represses	Negative_regulation
+repressing	Negative_regulation
+repression	Negative_regulation
+repressor	Negative_regulation
+reproduced	Positive_regulation
+reproductive cycle	Pathway
+require	Regulation
+required	Positive_regulation
+requirement	Positive_regulation
+requires	Positive_regulation
+requiring	Positive_regulation
+resected	Planned_process
+resection	Planned_process
+reside	Localization
+resistance	Regulation
+resistance	Negative_regulation
+resistant	Regulation
+respiration	Metabolism
+respond	Positive_regulation
+respond	Regulation
+response	Development
+response	Positive_regulation
+response	Regulation
+responsible	Regulation
+responsive	Positive_regulation
+responsive	Regulation
+responsiveness	Regulation
+resting	Growth
+restoration	Positive_regulation
+restrict	Negative_regulation
+restricted	Negative_regulation
+restructuring	Remodeling
+result	Regulation
+result	Positive_regulation
+resulted	Positive_regulation
+resulting	Positive_regulation
+resulting in	Positive_regulation
+results	Positive_regulation
+results in	Positive_regulation
+resuspended	Planned_process
+resynthesized	Synthesis
+retained	Mutation
+retarding	Negative_regulation
+retards	Negative_regulation
+revascularization	Blood_vessel_development
+reversed	Negative_regulation
+reversible	Negative_regulation
+reverted	Negative_regulation
+risk	Carcinogenesis
+rna interference	Planned_process
+rnai cotranfection	Planned_process
+role	Regulation
+roles	Regulation
+ruffling	Localization
+s.c. injection	Planned_process
+secreted	Localization
+secretes	Localization
+secreting	Localization
+secretion	Localization
+self-phosphorylation	Phosphorylation
+self-renewal	Development
+sensitise	Regulation
+sensitive	Regulation
+sensitivity	Regulation
+sensitization	Positive_regulation
+sensitize	Positive_regulation
+sensitized	Planned_process
+sensitized	Regulation
+sensitizes	Positive_regulation
+sensitizing	Positive_regulation
+sequestering	Regulation
+sequestering	Negative_regulation
+shape change	Development
+shortening	Breakdown
+showed no change	Regulation
+shuttle	Pathway
+signal pathway	Pathway
+signal transduction pathways	Pathway
+signaling	Pathway
+signaling cascade	Pathway
+signaling mechanisms	Pathway
+signaling network	Pathway
+signaling networks	Pathway
+signaling pathway	Pathway
+signaling pathways	Pathway
+signalling	Pathway
+signals	Regulation
+significance	Regulation
+silenced	Negative_regulation
+silencing	Negative_regulation
+silent	Negative_regulation
+site-specific transfection	Planned_process
+slow	Negative_regulation
+slowed	Negative_regulation
+specific	Regulation
+specification	Development
+spread	Localization
+spreading	Localization
+sprouting	Development
+srnv	Blood_vessel_development
+stabilizes	Regulation
+stabilizing	Positive_regulation
+stained	Localization
+staining	Planned_process
+stimulate	Positive_regulation
+stimulated	Positive_regulation
+stimulates	Positive_regulation
+stimulating	Positive_regulation
+stimulation	Positive_regulation
+stimulatory effect	Positive_regulation
+stimulatory effects	Positive_regulation
+structural damage	Breakdown
+subcultured	Planned_process
+subjected	Planned_process
+sufficient	Positive_regulation
+superexpression	Gene_expression
+supplementation	Planned_process
+supplemented	Planned_process
+support	Positive_regulation
+supported	Positive_regulation
+supporting	Positive_regulation
+suppress	Negative_regulation
+suppressed	Negative_regulation
+suppresses	Negative_regulation
+suppressing	Negative_regulation
+suppression	Negative_regulation
+suppressive	Negative_regulation
+suppressive action	Negative_regulation
+suppressor	Negative_regulation
+suppressor activity	Negative_regulation
+surgery	Planned_process
+survival	Death
+survival-signalling pathway	Pathway
+survive	Death
+survived	Death
+surviving	Death
+synthesis	Synthesis
+synthesis	Gene_expression
+synthesise	Gene_expression
+synthesised	Gene_expression
+synthesize	Gene_expression
+synthesize	Synthesis
+system	Pathway
+t(1;19) translocation	Mutation
+t(10;14) translocation	Mutation
+t(7;11) translocation	Mutation
+tandem duplication	Mutation
+target	Planned_process
+target	Regulation
+targeted	Planned_process
+targeted	Regulation
+targeted	Localization
+targeting	Regulation
+targeting	Planned_process
+targets	Regulation
+tethered	Localization
+tetraploid	Mutation
+the key function	Regulation
+therapeutic	Planned_process
+therapeutic intervention	Planned_process
+therapeutic management	Planned_process
+therapeutics	Planned_process
+therapies	Planned_process
+therapy	Planned_process
+thickening	Growth
+through	Positive_regulation
+through	Regulation
+thyroidectomized	Planned_process
+thyroidectomy	Planned_process
+trafficking	Localization
+transactivating	Positive_regulation
+transactivation	Transcription
+transactivation	Cell_transformation
+transactivation	Positive_regulation
+transcribed	Transcription
+transcript	Transcription
+transcript (mrna) expression	Transcription
+transcription	Transcription
+transcriptional	Transcription
+transcriptionally	Transcription
+transduced	Planned_process
+transduction	Planned_process
+transfected	Planned_process
+transfecting	Planned_process
+transfection	Planned_process
+transfer	Planned_process
+transform	Planned_process
+transform	Cell_transformation
+transform	Positive_regulation
+transformation	Cell_transformation
+transformation	Metabolism
+transformation	Planned_process
+transformation	Positive_regulation
+transformed	Cell_transformation
+transformed	Positive_regulation
+transformed	Planned_process
+transforming	Positive_regulation
+transforming	Cell_transformation
+transforms	Positive_regulation
+transforms	Cell_transformation
+transgenic	Planned_process
+transient transfection	Positive_regulation
+transition	Carcinogenesis
+transition	Development
+translational	Translation
+translocated	Localization
+translocates	Localization
+translocation	Localization
+translocation	Mutation
+translocations	Mutation
+transplantation	Planned_process
+transplanted	Planned_process
+transplants	Planned_process
+transport	Localization
+trapping	Localization
+treat	Planned_process
+treated	Planned_process
+treating	Planned_process
+treatment	Planned_process
+treatments	Planned_process
+trigger	Positive_regulation
+trigger	Negative_regulation
+triggered	Positive_regulation
+triggering	Positive_regulation
+triggers	Positive_regulation
+trisomy	Mutation
+ts mutation	Mutation
+tumor growth	Growth
+tumorigenesis	Carcinogenesis
+tumorigenesis	Cell_transformation
+tumorigenic	Carcinogenesis
+tumorigenic processes	Carcinogenesis
+tumorigenicity	Carcinogenesis
+turnover	Metabolism
+turnover	Remodeling
+turnover	Catabolism
+ubiquitination	Ubiquitination
+ubiquitously detected	Localization
+unaffected	Regulation
+unchallenged	Planned_process
+unchanged	Regulation
+uncultured	Planned_process
+undergoes	Positive_regulation
+undergoing	Planned_process
+underwent surgery	Planned_process
+undifferentiated	Cell_differentiation
+uninfected	Infection
+uninfected	Planned_process
+unmethylated	DNA_methylation
+unresponsive	Regulation
+untransformed	Cell_transformation
+untreated	Planned_process
+upregulate	Positive_regulation
+up-regulate	Positive_regulation
+upregulated	Positive_regulation
+up-regulated	Positive_regulation
+up-regulates	Positive_regulation
+upregulation	Positive_regulation
+up-regulation	Positive_regulation
+uptake	Localization
+usage	Metabolism
+used	Planned_process
+utilization	Metabolism
+utilize	Regulation
+varied	Regulation
+vascularization	Blood_vessel_development
+vascularized	Blood_vessel_development
+vasculogenesis	Blood_vessel_development
+vertical distraction osteogenesis	Planned_process
+via	Regulation
+viability	Death
+viable	Death
+whipple's operation	Planned_process
+wild-type	Mutation
