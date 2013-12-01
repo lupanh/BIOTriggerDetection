@@ -23,12 +23,12 @@ import edu.ktlab.evex.util.classifier.FeatureSet;
 
 public class TDTrainer1L {
 	static String corpusName = "CG";
-	static String corpusType = "full";
+	static String corpusType = "training";
 	static String folderTraining = "corpus/" + corpusName + "2013/BioNLP-ST_2013_" + corpusName + "_" + corpusType + "_data";
 	static String fileTraining = "model/" + corpusName + "2013/TriggerDetection.1L." + corpusType;
 	static String fileModel = "model/" + corpusName + "2013/TriggerDetection." + corpusType + ".1L.model";
 	static String fileWordlist = "model/" + corpusName + "2013/TriggerDetection." + corpusType + ".1L.wordlist";
-	static String fileDictionary = "data/" + corpusName + "2013/TriggerDictionary_adv.txt";
+	static String fileDictionary = "data/" + corpusName + "2013/TriggerDictionary.txt";
 
 	@SuppressWarnings("unchecked")
 	public static FeatureGenerator<BIONLPToken, BIONLPSentence>[] mFeatureGenerators = new FeatureGenerator[] {
