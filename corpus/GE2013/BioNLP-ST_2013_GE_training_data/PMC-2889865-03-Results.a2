@@ -1,0 +1,32 @@
+T13	Positive_regulation 231 239	enhanced
+T14	Positive_regulation 240 249	induction
+T15	Regulation 381 391	unaffected
+T16	Negative_regulation 422 431	decreased
+T17	Positive_regulation 614 623	effective
+T18	Positive_regulation 627 635	inducing
+T19	Regulation 736 747	involvement
+T20	Regulation 765 775	regulation
+T21	Localization 881 889	released
+T22	Localization 929 937	released
+T12	Anaphora 994 1007	the cytokines
+T23	Regulation 1028 1037	regulated
+T24	Localization 1219 1226	release
+T25	Localization 1271 1278	release
+R1	Coreference Subject:T12 Object:T7
+R2	Coreference Subject:T12 Object:T8
+E1	Positive_regulation:T13 Theme:E2
+E2	Positive_regulation:T14 Theme:T3
+E3	Regulation:T15 Theme:T4
+E4	Negative_regulation:T16 Theme:T4
+E5	Positive_regulation:T17 Theme:E6
+E6	Positive_regulation:T18 Theme:T5
+E7	Regulation:T19 Theme:E8
+E8	Regulation:T20 Theme:T6
+E9	Localization:T21 Theme:T7
+E10	Localization:T22 Theme:T8
+E11	Regulation:T23 Theme:T7
+E12	Regulation:T23 Theme:T8
+E13	Localization:T24 Theme:T10
+E14	Localization:T25 Theme:T11
+M1	Negation E3
+M2	Speculation E7

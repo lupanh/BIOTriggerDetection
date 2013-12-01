@@ -1,0 +1,21 @@
+T19	Positive_regulation 48 57	modulated
+E1	Positive_regulation:T19 Theme:T1 Cause:T2
+T20	Activation 114 123	activated
+E2	Activation:T20 Theme:T3
+T21	Gene_expression 160 170	expressing
+E3	Gene_expression:T21 Theme:T4
+T22	Regulation 236 246	protection
+E4	Regulation:T22 Theme:T5 Cause:T6
+T23	Negative_regulation 408 416	prevents
+E5	Negative_regulation:T23 Theme:E6
+T24	Activation 422 432	activation
+E6	Activation:T24 Theme:T8
+T25	Negative_regulation 621 629	inhibits
+E7	Negative_regulation:T25 Theme:T11 Cause:T9
+T26	Positive_regulation 734 742	modulate
+E8	Positive_regulation:T26 Theme:T13 Cause:T12
+T27	Regulation 931 941	unaffected
+E9	Regulation:T27 Theme:T16 Cause:T17
+E10	Regulation:T27 Theme:T16 Cause:T18
+M1	Negation E9
+M2	Negation E10

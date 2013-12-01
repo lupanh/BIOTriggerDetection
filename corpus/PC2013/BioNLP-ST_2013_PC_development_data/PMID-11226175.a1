@@ -1,0 +1,30 @@
+T1	Gene_or_gene_product 0 5	PIG-M
+T2	Simple_chemical 26 33	mannose
+T3	Simple_chemical 37 65	glycosylphosphatidylinositol
+T4	Cellular_component 73 85	lumenal side
+T5	Cellular_component 93 95	ER
+T6	Simple_chemical 98 126	Glycosylphosphatidylinositol
+T7	Simple_chemical 128 131	GPI
+T8	Cellular_component 143 151	membrane
+T9	Cellular_component 167 179	cell surface
+T10	Gene_or_gene_product 350 370	mannosyltransferases
+T11	Simple_chemical 404 411	mannose
+T12	Gene_or_gene_product 413 421	GPI-MT-I
+T13	Simple_chemical 513 516	GPI
+T14	Gene_or_gene_product 531 539	GPI-MT-I
+T15	Gene_or_gene_product 610 618	GPI-MT-I
+T16	Simple_chemical 662 665	GPI
+T17	Gene_or_gene_product 727 735	GPI-MT-I
+T18	Gene_or_gene_product 762 767	PIG-M
+T19	Gene_or_gene_product 769 774	PIG-M
+T20	Gene_or_gene_product 797 816	mannosyltransferase
+T21	Cellular_component 854 867	transmembrane
+T22	Gene_or_gene_product 877 882	PIG-M
+T23	Gene_or_gene_product 948 968	glycosyltransferases
+T24	Cellular_component 997 1002	lumen
+T25	Cellular_component 1010 1031	endoplasmic reticulum
+T26	Cellular_component 1033 1035	ER
+T27	Simple_chemical 1076 1083	mannose
+T28	Simple_chemical 1087 1090	GPI
+T29	Cellular_component 1105 1117	lumenal side
+T30	Cellular_component 1125 1136	ER membrane

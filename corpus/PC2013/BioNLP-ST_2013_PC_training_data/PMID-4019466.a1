@@ -1,0 +1,52 @@
+T1	Simple_chemical 25 50	glucuronic acid 2-sulfate
+T2	Simple_chemical 63 81	glycosaminoglycans
+T3	Simple_chemical 106 121	L-iduronic acid
+T4	Simple_chemical 123 127	IdoA
+T5	Simple_chemical 166 173	heparin
+T6	Simple_chemical 188 205	D-glucuronic acid
+T7	Simple_chemical 207 211	GlcA
+T8	Simple_chemical 368 375	heparin
+T9	Simple_chemical 395 416	chondroitin 6-sulfate
+T10	Simple_chemical 422 434	nitrous acid
+T11	Simple_chemical 510 521	2-O-sulfate
+T12	Simple_chemical 540 544	GlcA
+T13	Simple_chemical 553 557	IdoA
+T14	Simple_chemical 609 615	NaB3H4
+T15	Simple_chemical 653 660	heparin
+T16	Simple_chemical 665 684	chondroitin sulfate
+T17	Simple_chemical 713 735	2,5-anhydro-D-mannitol
+T18	Simple_chemical 737 746	[3H]AManR
+T19	Simple_chemical 752 773	2,5-anhydro-D-talitol
+T20	Simple_chemical 775 784	[3H]ATalR
+T21	Simple_chemical 810 838	IdoA(2-SO4)-[3H]AManR(6-SO4)
+T22	Simple_chemical 844 851	heparin
+T23	Simple_chemical 856 884	GlcA(2-SO4)-[3H]ATalR(6-SO4)
+T24	Simple_chemical 890 909	chondroitin sulfate
+T25	Simple_chemical 947 975	GlcA(2-SO4)-[3H]AManR(6-SO4)
+T26	Simple_chemical 1009 1037	IdoA(2-SO4)-[3H]AManR(6-SO4)
+T27	Simple_chemical 1043 1052	hydrazine
+T28	Cellular_component 1071 1080	Lysosomal
+T29	Simple_chemical 1209 1216	2-O-SO4
+T30	Simple_chemical 1238 1249	uronic acid
+T31	Simple_chemical 1262 1290	IdoA(2-SO4)-[3H]AManR(6-SO4)
+T32	Simple_chemical 1292 1321	GlcA(2-SO4)-[3H] AManR(6-SO4)
+T33	Simple_chemical 1327 1355	GlcA(2-SO4)-[3H]ATalR(6-SO4)
+T34	Cellular_component 1372 1381	lysosomal
+T35	Gene_or_gene_product 1448 1467	idurono-2-sulfatase
+T36	Simple_chemical 1518 1546	IdoA(2-SO4)-[3H]AManR(6-SO4)
+T37	Simple_chemical 1558 1586	GlcA(2-SO4)-[3H]AManR(6-SO4)
+T38	Simple_chemical 1603 1625	GlcA-[3H] AManR(6-SO4)
+T39	Simple_chemical 1630 1646	[3H]AManR(6-SO4)
+T40	Simple_chemical 1675 1703	GlcA(2-SO4)-[3H]ATalR(6-SO4)
+T41	Simple_chemical 1720 1741	GlcA-[3H]ATalR(6-SO4)
+T42	Simple_chemical 1746 1762	[3H]ATalR(6-SO4)
+T43	Simple_chemical 1782 1810	GlcA(2-SO4)-[3H]AManR(6-SO4)
+T44	Simple_chemical 1815 1843	GlcA(2-SO4)-[3H]ATalR(6-SO4)
+T45	Simple_chemical 1861 1868	35SO2-4
+T46	Simple_chemical 1893 1918	monosulfated disaccharide
+T47	Simple_chemical 1928 1947	1,4-saccharolactone
+T48	Gene_or_gene_product 1953 1974	glucurono-2-sulfatase
+T49	Simple_chemical 2083 2090	sulfate
+T50	Simple_chemical 2109 2112	C-2
+T51	Simple_chemical 2116 2120	GlcA
+T52	Simple_chemical 2133 2151	glycosaminoglycans

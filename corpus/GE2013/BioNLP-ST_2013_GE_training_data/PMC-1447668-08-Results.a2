@@ -1,0 +1,65 @@
+*	Equiv T7 T8
+T37	Positive_regulation 331 338	permits
+T38	Binding 339 346	binding
+T39	Positive_regulation 640 654	Overexpression
+T40	Binding 761 772	interaction
+T41	Regulation 804 810	affect
+T42	Binding 819 826	binding
+T43	Negative_regulation 869 877	decrease
+T44	Binding 927 934	binding
+T45	Binding 1060 1064	bind
+T46	Gene_expression 1771 1781	expression
+T47	Gene_expression 1867 1877	expression
+T48	Positive_regulation 1917 1931	overexpression
+T49	Positive_regulation 1932 1942	stimulated
+T50	Transcription 1943 1956	transcription
+T51	Negative_regulation 2009 2018	repressed
+T52	Positive_regulation 2050 2060	activation
+T53	Negative_regulation 2100 2112	neutralizing
+T54	Positive_regulation 2128 2138	activation
+T55	Positive_regulation 2304 2318	Overexpression
+T56	Binding 2526 2534	interact
+T57	Binding 2589 2607	immunoprecipitated
+T58	Positive_regulation 2614 2618	when
+T35	Anaphora 2619 2632	both proteins
+T59	Gene_expression 2638 2651	overexpressed
+T60	Binding 2785 2796	interacting
+T61	Negative_regulation 2823 2834	interfering
+T36	Anaphora 2840 2843	its
+T62	Binding 2860 2871	recruitment
+R1	Coreference Subject:T35 Object:T31
+R2	Coreference Subject:T35 Object:T32
+R3	Coreference Subject:T36 Object:T34
+E1	Positive_regulation:T37 Theme:E2
+E2	Binding:T38 Theme:T2
+E3	Positive_regulation:T37 Theme:E4
+E4	Binding:T38 Theme:T3
+E5	Positive_regulation:T39 Theme:T4
+E6	Binding:T40 Theme:T5
+E7	Regulation:T41 Theme:E8 Cause:E6
+E8	Binding:T42 Theme:T6
+E9	Negative_regulation:T43 Theme:E10 Cause:T5
+E10	Binding:T44 Theme:T7
+E11	Binding:T45 Theme:T9
+E12	Gene_expression:T46 Theme:T17
+E13	Gene_expression:T47 Theme:T18
+E14	Gene_expression:T47 Theme:T19
+E15	Positive_regulation:T48 Theme:T20
+E16	Positive_regulation:T49 Theme:E17 Cause:E15
+E17	Transcription:T50 Theme:T21
+E18	Negative_regulation:T51 Theme:E19 Cause:T22
+E19	Positive_regulation:T52 Theme:T23
+E20	Negative_regulation:T53 Theme:E21 Cause:T22
+E21	Positive_regulation:T54 Theme:T24
+E22	Positive_regulation:T55 Theme:T27
+E23	Binding:T56 Theme:T29 Theme2:T30
+E24	Binding:T57 Theme:T31 Theme2:T32
+E25	Positive_regulation:T58 Theme:E24 Cause:E26
+E26	Gene_expression:T59 Theme:T31
+E27	Positive_regulation:T58 Theme:E24 Cause:E28
+E28	Gene_expression:T59 Theme:T32
+E29	Binding:T60 Theme:T33 Theme2:T34
+E30	Negative_regulation:T61 Theme:E31 Cause:E29
+E31	Binding:T62 Theme:T34
+M1	Negation E7
+M2	Speculation E23

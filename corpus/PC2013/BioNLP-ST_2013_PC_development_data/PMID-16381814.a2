@@ -1,0 +1,46 @@
+*	Equiv T6 T7
+T34	Phosphorylation 0 15	Phosphorylation
+E1	Phosphorylation:T34 Theme:T2
+T35	Positive_regulation 61 69	required
+E2	Positive_regulation:T35 Theme:E3 Cause:E1
+T36	Localization 74 86	localization
+E3	Localization:T36 Theme:T3 ToLoc:T4
+T37	Localization 235 244	localizes
+E4	Localization:T37 Theme:T8
+T38	Binding 395 400	binds
+E5	Binding:T38 Theme:T11 Theme2:T10
+T39	Positive_regulation 415 424	necessary
+E6	Positive_regulation:T39 Theme:E7
+T40	Localization 448 460	localization
+E7	Localization:T40 Theme:T12
+T41	Positive_regulation 539 547	required
+E8	Positive_regulation:T41 Cause:T12 Theme:E9
+T42	Localization 551 559	localize
+E9	Localization:T42 Theme:T15 ToLoc:T16
+T43	Regulation 761 766	alter
+E10	Regulation:T43 Theme:E12
+M1	Negation E10
+T44	Pathway 771 781	cell cycle
+E11	Pathway:T44 
+T45	Negative_regulation 782 787	delay
+E12	Negative_regulation:T45 Theme:E11
+T46	Positive_regulation 788 794	caused
+E13	Positive_regulation:T46 Cause:E14 Theme:E12
+T47	Inactivation 798 802	loss
+E14	Inactivation:T47 Theme:T19
+T48	Phosphorylation 823 837	phosphorylated
+E15	Phosphorylation:T48 Theme:T20
+T49	Pathway 843 853	cell cycle
+E16	Pathway:T49 
+T50	Positive_regulation 854 863	dependent
+E17	Positive_regulation:T50 Cause:E16 Theme:E15
+T51	Phosphorylation 1123 1138	phosphorylation
+E18	Phosphorylation:T51 Theme:T26
+T52	Inactivation 1144 1148	loss
+E19	Inactivation:T52 Theme:T27
+T53	Phosphorylation 1254 1269	phosphorylation
+E20	Phosphorylation:T53 Theme:T30
+T54	Positive_regulation 1302 1310	required
+E21	Positive_regulation:T54 Theme:E22 Cause:E20
+T55	Transport 1314 1319	bring
+E22	Transport:T55 Theme:T31 ToLoc:T32

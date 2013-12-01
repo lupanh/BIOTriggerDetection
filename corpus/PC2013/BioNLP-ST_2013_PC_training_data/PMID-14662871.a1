@@ -1,0 +1,28 @@
+T1	Gene_or_gene_product 17 42	Toll-like receptor (TLR)2
+T2	Gene_or_gene_product 65 69	TLR2
+T3	Gene_or_gene_product 238 257	Toll-like receptors
+T4	Gene_or_gene_product 259 263	TLRs
+T5	Gene_or_gene_product 381 384	TLR
+T6	Gene_or_gene_product 504 507	TLR
+T7	Gene_or_gene_product 612 616	TLR2
+T8	Gene_or_gene_product 676 680	TLR2
+T9	Gene_or_gene_product 682 687	sTLR2
+T10	Gene_or_gene_product 788 793	sTLR2
+T11	Gene_or_gene_product 834 839	sTLR2
+T12	Gene_or_gene_product 919 923	TLR2
+T13	Gene_or_gene_product 936 941	c-myc
+T14	Gene_or_gene_product 972 977	sTLR2
+T15	Gene_or_gene_product 1034 1038	TLR2
+T16	Cellular_component 1053 1078	intracellular compartment
+T17	Cellular_component 1093 1106	intracellular
+T18	Gene_or_gene_product 1115 1120	sTLR2
+T19	Gene_or_gene_product 1136 1141	sTLR2
+T20	Gene_or_gene_product 1204 1209	sTLR2
+T21	Gene_or_gene_product 1239 1242	TLR
+T22	Gene_or_gene_product 1262 1266	CD14
+T23	Gene_or_gene_product 1281 1286	sTLR2
+T24	Simple_chemical 1354 1365	lipopeptide
+T25	Gene_or_gene_product 1382 1387	sTLR2
+T26	Gene_or_gene_product 1532 1537	sTLR2
+T27	Gene_or_gene_product 1550 1554	CD14
+T28	Gene_or_gene_product 1689 1692	TLR

@@ -1,0 +1,31 @@
+*	Equiv T17 T18
+T21	Positive_regulation 60 69	dependent
+E1	Positive_regulation:T21 Cause:T1 Theme:E2
+T22	Transport 80 92	transporters
+T23	Positive_regulation 80 92	transporters
+E2	Transport:T22 Theme:T2
+E3	Positive_regulation:T23 Theme:E2 Cause:T3
+E4	Positive_regulation:T23 Theme:E2 Cause:T4
+T24	Positive_regulation 124 133	dependent
+E5	Positive_regulation:T24 Cause:T5 Theme:E6
+T25	Transport 144 156	transporters
+T26	Positive_regulation 144 156	transporters
+E6	Transport:T25 Theme:T6
+E7	Positive_regulation:T26 Theme:E6 Cause:T7
+E8	Positive_regulation:T26 Theme:E6 Cause:T8
+T27	Positive_regulation 643 652	dependent
+E9	Positive_regulation:T27 Cause:T15 Theme:T11
+E10	Positive_regulation:T27 Cause:T15 Theme:T13
+T28	Transport 665 674	transport
+T29	Positive_regulation 665 674	transport
+E11	Transport:T28 Theme:T16
+E12	Positive_regulation:T29 Theme:E11 Cause:T11
+E13	Positive_regulation:T29 Theme:E11 Cause:T13
+M1	Negation E12
+M2	Negation E13
+T30	Negative_regulation 792 801	inhibited
+E14	Negative_regulation:T30 Theme:E15 Cause:T18
+T31	Transport 812 821	transport
+E15	Transport:T31 Theme:T19
+T32	Transport 933 939	intake
+E16	Transport:T32 Theme:T20

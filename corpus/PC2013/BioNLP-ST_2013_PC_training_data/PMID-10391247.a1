@@ -1,0 +1,45 @@
+T1	Gene_or_gene_product 4 8	TAK1
+T2	Gene_or_gene_product 9 12	NLK
+T3	Gene_or_gene_product 13 17	MAPK
+T4	Gene_or_gene_product 65 77	beta-catenin
+T5	Gene_or_gene_product 103 106	TCF
+T6	Gene_or_gene_product 113 116	Wnt
+T7	Gene_or_gene_product 196 208	beta-catenin
+T8	Gene_or_gene_product 217 230	T-cell factor
+T9	Gene_or_gene_product 231 255	lymphoid enhancer factor
+T10	Gene_or_gene_product 257 260	TCF
+T11	Gene_or_gene_product 261 264	LEF
+T12	Gene_or_gene_product 319 322	Wnt
+T13	Cellular_component 334 343	cytosolic
+T14	Gene_or_gene_product 344 356	beta-catenin
+T15	Gene_or_gene_product 378 381	TCF
+T16	Gene_or_gene_product 536 541	MOM-4
+T17	Gene_or_gene_product 546 551	LIT-1
+T18	Gene_or_gene_product 561 564	Wnt
+T19	Gene_or_gene_product 627 632	MOM-4
+T20	Gene_or_gene_product 637 642	LIT-1
+T21	Gene_or_gene_product 661 665	TAK1
+T22	Gene_or_gene_product 689 720	transforming growth factor-beta
+T23	Gene_or_gene_product 722 768	mitogen-activated protein-kinase-kinase kinase
+T24	Gene_or_gene_product 770 775	MAP3K
+T25	Gene_or_gene_product 781 791	MAP kinase
+T26	Gene_or_gene_product 793 797	MAPK
+T27	Gene_or_gene_product 807 823	NEMO-like kinase
+T28	Gene_or_gene_product 825 828	NLK
+T29	Gene_or_gene_product 906 910	TAK1
+T30	Gene_or_gene_product 915 918	NLK
+T31	Gene_or_gene_product 940 943	Wnt
+T32	Gene_or_gene_product 993 997	TAK1
+T33	Gene_or_gene_product 1020 1023	NLK
+T34	Gene_or_gene_product 1090 1102	beta-catenin
+T35	Gene_or_gene_product 1107 1110	TCF
+T36	Gene_or_gene_product 1125 1128	NLK
+T37	Gene_or_gene_product 1191 1203	beta-catenin
+T38	Gene_or_gene_product 1224 1227	NLK
+T39	Gene_or_gene_product 1243 1246	TCF
+T40	Gene_or_gene_product 1247 1258	LEF factors
+T41	Complex 1295 1311	beta-catenin-TCF
+T42	Gene_or_gene_product 1340 1344	TAK1
+T43	Gene_or_gene_product 1345 1348	NLK
+T44	Gene_or_gene_product 1349 1353	MAPK
+T45	Gene_or_gene_product 1392 1395	Wnt

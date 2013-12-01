@@ -1,0 +1,4 @@
+T11	Negative_regulation 1071 1087	Kinase deficient
+T12	Negative_regulation 1102 1104	KD
+E1	Negative_regulation:T11 Theme:T5
+E2	Negative_regulation:T12 Theme:T6

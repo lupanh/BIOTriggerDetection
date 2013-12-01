@@ -1,0 +1,34 @@
+*	Equiv T5 T6
+T18	Negative_regulation 27 34	Inhibit
+T19	Positive_regulation 45 52	Induced
+T20	Gene_expression 59 69	Expression
+T21	Regulation 481 491	regulating
+T16	Anaphora 492 495	its
+T22	Gene_expression 496 506	expression
+T23	Negative_regulation 718 726	inhibits
+T24	Gene_expression 826 840	overexpressing
+T25	Negative_regulation 882 891	deficient
+T26	Positive_regulation 933 941	mediated
+T27	Positive_regulation 948 957	induction
+T17	Anaphora 959 974	This inhibition
+T28	Positive_regulation 978 986	mediated
+T29	Binding 997 1004	binding
+T30	Entity 1027 1035	promoter
+T31	Regulation 1298 1304	target
+R1	Coreference Subject:T16 Object:T4
+R2	Coreference Subject:T17 Object:T25
+E1	Negative_regulation:T18 Theme:E2
+E2	Positive_regulation:T19 Theme:E3 Cause:T2
+E3	Gene_expression:T20 Theme:T3
+E4	Regulation:T21 Theme:E5
+E5	Gene_expression:T22 Theme:T4
+E6	Negative_regulation:T23 Theme:T7 Cause:T5
+E7	Gene_expression:T24 Theme:T8
+E8	Negative_regulation:T25 Theme:E9
+E9	Positive_regulation:T26 Theme:E10 Cause:T9
+E10	Positive_regulation:T27 Theme:T10
+E11	Positive_regulation:T28 Theme:E8 Cause:E12
+E12	Binding:T29 Theme:T11 Theme2:T12 Site2:T30
+E13	Regulation:T31 Theme:T14
+E14	Regulation:T31 Theme:T15
+M1	Speculation E4

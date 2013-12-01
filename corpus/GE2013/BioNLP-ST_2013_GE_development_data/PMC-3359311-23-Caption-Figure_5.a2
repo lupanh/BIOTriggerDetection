@@ -1,0 +1,9 @@
+T5	Gene_expression 30 37	produce
+T6	Positive_regulation 38 47	increased
+T7	Negative_regulation 248 255	lacking
+T8	Negative_regulation 341 348	lacking
+E1	Gene_expression:T5 Theme:T1
+E2	Positive_regulation:T6 Theme:E1
+E3	Negative_regulation:T7 Theme:T2
+E4	Negative_regulation:T8 Theme:T3
+M1	Negation E2

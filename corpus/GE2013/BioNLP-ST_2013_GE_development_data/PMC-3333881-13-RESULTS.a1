@@ -1,0 +1,53 @@
+T1	Protein 0 3	Tat
+T2	Protein 20 33	IkappaB-alpha
+T3	Protein 48 51	p65
+T4	Protein 139 142	Tat
+T5	Protein 148 161	IkappaB-alpha
+T6	Protein 289 292	Tat
+T7	Protein 302 317	Tat T,N(23,24)A
+T8	Protein 319 335	Tat C(22,25,27)A
+T9	Protein 337 350	Tat K(50,51)A
+T10	Protein 355 368	Tat R(49-57)A
+T11	Protein 382 395	IkappaB-alpha
+T12	Protein 426 429	Tat
+T13	Protein 447 460	Tat R(49-57)A
+T14	Protein 531 534	Tat
+T15	Protein 566 579	IkappaB-alpha
+T16	Protein 648 651	Tat
+T17	Protein 669 682	IkappaB-alpha
+T18	Protein 707 720	IkappaB-alpha
+T19	Protein 724 727	p65
+T20	Protein 785 798	Tat R(49-57)A
+T21	Protein 834 847	IkappaB-alpha
+T22	Protein 872 885	IkappaB-alpha
+T23	Protein 921 934	IkappaB-alpha
+T24	Protein 938 941	p65
+T25	Protein 993 996	Tat
+T26	Protein 1014 1027	IkappaB-alpha
+T27	Protein 1051 1054	p65
+T28	Protein 1104 1107	p65
+T29	Protein 1112 1125	IkappaB-alpha
+T30	Protein 1186 1189	Tat
+T31	Protein 1212 1215	p65
+T32	Protein 1254 1267	IkappaB-alpha
+T33	Protein 1321 1324	Tat
+T34	Protein 1337 1349	Tat R(49-57)
+T35	Protein 1388 1391	Tat
+T36	Protein 1406 1419	IkappaB-alpha
+T37	Protein 1434 1437	p65
+T38	Protein 1479 1482	p50
+T39	Protein 1485 1488	p65
+T40	Protein 1515 1518	Luc
+T41	Protein 1564 1567	p65
+T42	Protein 1572 1585	IkappaB-alpha
+T43	Protein 1613 1616	Tat
+T44	Protein 1618 1631	IkappaB-alpha
+T45	Protein 1646 1649	p65
+T46	Protein 1678 1688	luciferase
+T47	Protein 1754 1757	Tat
+T48	Protein 1770 1783	Tat R(49-57)A
+T49	Protein 1837 1840	Tat
+T50	Protein 1857 1870	IkappaB-alpha
+T51	Protein 1889 1892	p65
+T52	Protein 1954 1967	IkappaB-alpha
+T53	Protein 2007 2010	p65

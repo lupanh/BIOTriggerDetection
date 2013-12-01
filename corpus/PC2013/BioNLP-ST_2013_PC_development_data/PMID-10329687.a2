@@ -1,0 +1,15 @@
+*	Equiv T3 T4
+T28	Transport 213 223	transports
+T29	Positive_regulation 213 223	transports
+E1	Transport:T28 Theme:T5
+E2	Positive_regulation:T29 Cause:T3 Theme:E1
+E3	Transport:T28 Theme:T6
+E4	Transport:T28 Theme:T7
+E5	Positive_regulation:T29 Cause:T3 Theme:E3
+E6	Positive_regulation:T29 Cause:T3 Theme:E4
+T30	Gene_expression 908 917	expressed
+E7	Gene_expression:T30 Theme:T18
+T31	Localization 1148 1160	localization
+E8	Localization:T31 ToLoc:T23 Theme:T24
+T32	Localization 1287 1294	located
+E9	Localization:T32 Theme:T26 ToLoc:T27

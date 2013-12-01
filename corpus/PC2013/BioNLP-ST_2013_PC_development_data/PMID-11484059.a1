@@ -1,0 +1,31 @@
+T1	Gene_or_gene_product 0 2	Rb
+T2	Gene_or_gene_product 11 21	histone H3
+T3	Gene_or_gene_product 38 41	HP1
+T4	Gene_or_gene_product 81 88	histone
+T5	Gene_or_gene_product 99 106	SUV39H1
+T6	Simple_chemical 115 128	methyl-lysine
+T7	Gene_or_gene_product 145 148	HP1
+T8	Simple_chemical 222 230	Lysine 9
+T9	Gene_or_gene_product 234 244	histone H3
+T10	Gene_or_gene_product 262 269	SUV39H1
+T11	Gene_or_gene_product 329 332	HP1
+T12	Gene_or_gene_product 364 371	SUV39H1
+T13	Gene_or_gene_product 376 379	HP1
+T14	Gene_or_gene_product 433 447	retinoblastoma
+T15	Gene_or_gene_product 449 451	Rb
+T16	Gene_or_gene_product 462 464	Rb
+T17	Gene_or_gene_product 481 488	SUV39H1
+T18	Gene_or_gene_product 493 496	HP1
+T19	Gene_or_gene_product 536 543	SUV39H1
+T20	Gene_or_gene_product 560 562	Rb
+T21	Gene_or_gene_product 578 586	cyclin E
+T22	Gene_or_gene_product 639 644	SUV39
+T23	Gene_or_gene_product 666 674	cyclin E
+T24	Gene_or_gene_product 679 688	cyclin A2
+T25	Cellular_component 722 731	Chromatin
+T26	Gene_or_gene_product 763 765	Rb
+T27	Gene_or_gene_product 804 814	histone H3
+T28	Gene_or_gene_product 848 851	HP1
+T29	Gene_or_gene_product 859 867	cyclin E
+T30	Complex 910 921	SUV39H1-HP1
+T31	Gene_or_gene_product 1038 1040	Rb

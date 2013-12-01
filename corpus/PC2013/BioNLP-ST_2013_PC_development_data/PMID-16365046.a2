@@ -1,0 +1,57 @@
+*	Equiv T6 T7
+T25	Activation 0 10	Activation
+E1	Activation:T25 Theme:T1 Cause:T2
+E2	Activation:T25 Theme:T1 Cause:T3
+T26	Positive_regulation 307 316	dependent
+E3	Positive_regulation:T26 Cause:T6 Theme:E5
+T27	Regulation 326 337	independent
+E4	Regulation:T27 Cause:T8 Theme:E5
+M1	Negation E4
+T28	Activation 347 357	activation
+E5	Activation:T28 Theme:T9
+T29	Dephosphorylation 579 595	dephosphorylated
+E6	Dephosphorylation:T29 Theme:T10
+T30	Activation 611 624	autoactivates
+E7	Activation:T30 Theme:T10 Cause:T10
+T31	Phosphorylation 644 659	phosphorylation
+E8	Phosphorylation:T31 Theme:T10
+T32	Positive_regulation 660 669	dependent
+E9	Positive_regulation:T32 Cause:E8 Theme:E7
+T33	Phosphorylation 716 735	autophosphorylation
+E10	Phosphorylation:T33 Theme:T10 Cause:T10
+T34	Phosphorylation 803 822	Autophosphorylation
+E11	Phosphorylation:T34 Theme:T11 Cause:T11
+T35	Positive_regulation 847 856	dependent
+E12	Positive_regulation:T35 Cause:T11 Theme:E11
+T36	Positive_regulation 935 942	induced
+E13	Positive_regulation:T36 Theme:E14
+T37	Binding 943 958	oligomerization
+E14	Binding:T37 Theme:T12
+T38	Positive_regulation 1113 1121	activate
+E15	Positive_regulation:T38 Theme:E16
+T39	Phosphorylation 1128 1134	kinase
+E16	Phosphorylation:T39 Theme:T16
+T40	Activation 1203 1211	activate
+E17	Activation:T40 Theme:T18 Cause:T17
+T41	Phosphorylation 1228 1243	phosphorylation
+E18	Phosphorylation:T41 Theme:T18
+T42	Positive_regulation 1244 1253	dependent
+E19	Positive_regulation:T42 Cause:E18 Theme:E17
+T43	Regulation 1321 1329	regulate
+E20	Regulation:T43 Theme:T20 Cause:E21
+M2	Speculation E20
+T44	Phosphorylation 1353 1368	phosphorylation
+E21	Phosphorylation:T44 Theme:T20 Cause:T19
+T45	Regulation 1425 1436	independent
+E22	Regulation:T45 Cause:T21 Theme:E23
+M3	Negation E22
+T46	Positive_regulation 1437 1450	amplification
+E23	Positive_regulation:T46 Theme:E24
+T47	Activation 1460 1470	activation
+E24	Activation:T47 Theme:T22
+T48	Activation 1490 1500	activation
+E25	Activation:T48 Theme:T23
+T49	Positive_regulation 1526 1534	mediated
+E26	Positive_regulation:T49 Cause:E27 Theme:E24
+T50	Phosphorylation 1550 1565	phosphorylation
+E27	Phosphorylation:T50 Theme:T24

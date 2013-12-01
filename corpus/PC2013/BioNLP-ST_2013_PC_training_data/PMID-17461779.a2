@@ -1,0 +1,39 @@
+*	Equiv T4 T5
+*	Equiv T12 T7
+*	Equiv T9 T10
+*	Equiv T13 T19
+*	Equiv T15 T16
+*	Equiv T21 T22
+*	Equiv T25 T26
+*	Equiv T28 T29
+T52	Binding 43 50	binding
+E1	Binding:T52 Theme:T2 Theme:T1 Product:T3
+T53	Phosphorylation 437 451	phosphorylates
+E2	Phosphorylation:T53 Theme:T21 Site:T23 Cause:T20
+T54	Phosphorylation 536 550	phosphorylates
+E3	Phosphorylation:T54 Theme:T25 Site:T27 Cause:T24
+T55	Gene_expression 653 662	expressed
+E4	Gene_expression:T55 Theme:T28
+E5	Gene_expression:T55 Theme:T30
+T56	Binding 756 764	interact
+E6	Binding:T56 Theme:T28 Theme:T31 Product:T32
+E7	Binding:T56 Theme:T30 Theme:T31 Product:T32
+T57	Dissociation 1048 1058	dissociate
+T58	Positive_regulation 1048 1058	dissociate
+E8	Dissociation:T57 Product:T40 Product2:T42 Product3:T43 Product4:T44
+E9	Dissociation:T57 Product:T41 Product2:T42 Product3:T43 Product4:T44
+E10	Positive_regulation:T58 Theme:E8 Cause:T38
+E11	Positive_regulation:T58 Theme:E9 Cause:T38
+E12	Positive_regulation:T58 Theme:E8 Cause:T39
+E13	Positive_regulation:T58 Theme:E9 Cause:T39
+T59	Regulation 1156 1165	regulates
+E14	Regulation:T59 Cause:T45 Theme:E15
+T60	Gene_expression 1170 1180	expression
+E15	Gene_expression:T60 Theme:T46
+T61	Regulation 1219 1227	required
+E16	Regulation:T61 Cause:T47 Theme:E17
+M1	Negation E16
+T62	Binding 1236 1244	assembly
+E17	Binding:T62 Product:T48
+T63	Binding 1313 1320	binding
+E18	Binding:T63 Theme:T50 Theme:T49 Product:T51

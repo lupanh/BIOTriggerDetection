@@ -1,0 +1,43 @@
+T1	Cellular_component 0 7	Nuclear
+T2	Gene_or_gene_product 22 53	stress-activated protein kinase
+T3	Gene_or_gene_product 54 57	p38
+T4	Gene_or_gene_product 84 99	MAPKAP kinase-2
+T5	Gene_or_gene_product 114 153	Mitogen-activated protein (MAP) kinases
+T6	Gene_or_gene_product 158 196	extracellular signal regulated kinases
+T7	Gene_or_gene_product 198 202	Erks
+T8	Gene_or_gene_product 208 246	stress-activated protein (SAP) kinases
+T9	Gene_or_gene_product 311 314	Erk
+T10	Gene_or_gene_product 315 325	MAP kinase
+T11	Gene_or_gene_product 349 360	MAP kinases
+T12	Cellular_component 380 389	cytoplasm
+T13	Cellular_component 428 435	nucleus
+T14	Cellular_component 463 470	nucleus
+T15	Gene_or_gene_product 487 497	MAP kinase
+T16	Gene_or_gene_product 629 643	SAP kinase p38
+T17	Gene_or_gene_product 828 842	p38 SAP kinase
+T18	Gene_or_gene_product 853 890	MAP-kinase-activated protein kinase-2
+T19	Gene_or_gene_product 892 907	MAPKAP kinase-2
+T20	Cellular_component 929 936	nuclear
+T21	Gene_or_gene_product 1067 1082	MAPKAP kinase-2
+T22	Cellular_component 1084 1091	nuclear
+T23	Gene_or_gene_product 1092 1095	p38
+T24	Cellular_component 1116 1125	cytoplasm
+T25	Gene_or_gene_product 1144 1159	MAPKAP kinase-2
+T26	Gene_or_gene_product 1171 1186	MAPKAP kinase-2
+T27	Gene_or_gene_product 1215 1218	p38
+T28	Gene_or_gene_product 1272 1287	MAPKAP kinase-2
+T29	Gene_or_gene_product 1293 1296	p38
+T30	Gene_or_gene_product 1308 1312	MKK3
+T31	Gene_or_gene_product 1317 1321	MKK6
+T32	Cellular_component 1347 1354	nucleus
+T33	Cellular_component 1363 1372	cytoplasm
+T34	Gene_or_gene_product 1411 1414	p38
+T35	Cellular_component 1422 1429	nucleus
+T36	Gene_or_gene_product 1451 1465	p38 SAP kinase
+T37	Gene_or_gene_product 1475 1490	MAPKAP kinase-2
+T38	Gene_or_gene_product 1521 1524	p38
+T39	Gene_or_gene_product 1604 1607	p38
+T40	Cellular_component 1609 1616	Nuclear
+T41	Gene_or_gene_product 1627 1630	p38
+T42	Gene_or_gene_product 1635 1650	MAPKAP kinase-2
+T43	Cellular_component 1702 1711	cytoplasm

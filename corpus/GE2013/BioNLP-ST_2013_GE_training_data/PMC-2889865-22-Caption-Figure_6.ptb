@@ -1,0 +1,7 @@
+(S1 (S (NP (NP (NN Involvement)) (PP (IN of) (NP (NP (NN PKC)) (CC and) (NP (NN JNK)))) (PP (IN in) (NP (NN cytokine) (NN expression))) (. .))))
+(S1 (S (S (NP (NN Jurkat) (NNS T-cells)) (VP (VBD were) (VP (VBN incubated) (PP (IN with) (NP (NP (NP (NN PKC-)) (CC and) (NP (NN JNK))) (NNS inhibitors))) (PP (IN for) (NP (NP (CD 1) (NN h)) (VP (VBN followed) (PP (IN by) (NP (NP (NN stimulation)) (PP (IN with) (NP (NP (NN PMA)) (PRN (-LRB- -LRB-) (NP (CD 162) (NN nM)) (-RRB- -RRB-)))) (PP (IN for) (NP (CD 24) (NN h))))))))))) (. .)))
+(S1 (S (S (NP (LST (-LRB- -LRB-) (LS A) (-RRB- -RRB-)) (NN CXCL8) (NN expression)) (VP (VBD was) (VP (VBN inhibited) (PP (IN in) (NP (DT a) (JJ dose-dependent) (NN manner))) (PP (IN by) (NP (DT both) (NNS inhibitors)))))) (. .)))
+(S1 (S (S (NP (LST (-LRB- -LRB-) (LS B) (-RRB- -RRB-)) (NN JNK-I)) (VP (VBD revealed) (NP (NP (DT a) (JJR stronger) (JJ inhibitory) (NN effect)) (PP (IN on) (NP (NN IL-6) (NN expression))) (PP (IN than) (NP (DT the) (NN PKC-I)))))) (. .)))
+(S1 (S (S (NP (LST (-LRB- -LRB-) (LS C) (-RRB- -RRB-)) (NN TNF) (NN expression)) (VP (VBD was) (RB not) (VP (VBN affected) (PP (IN by) (NP (DT either) (NN inhibitor)))))) (. .)))
+(S1 (S (S (NP (NP (JJ Statistical) (NN significance)) (PP (IN from) (NP (NP (DT the) (JJ positive) (NN control)) (PRN (-LRB- -LRB-) (NP (NN PMA)) (-RRB- -RRB-))))) (VP (VBD was) (VP (VBN determined) (S (VP (VBG using) (NP (NP (NN Student) (POS 's)) (NN t-test))))))) (. .)))
+(S1 (S (S (PRN (-LRB- -LRB-) (NP (NN n) (JJ =) (CD 3)) (-RRB- -RRB-))) (. .)))

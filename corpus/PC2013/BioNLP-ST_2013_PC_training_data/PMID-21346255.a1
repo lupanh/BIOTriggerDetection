@@ -1,0 +1,48 @@
+T1	Gene_or_gene_product 0 10	C/EBPalpha
+T2	Gene_or_gene_product 15 25	C/EBPalpha
+T3	Gene_or_gene_product 48 53	nfkb1
+T4	Gene_or_gene_product 67 87	histone deacetylases
+T5	Complex 93 102	NF-kappaB
+T6	Complex 103 117	p50 homodimers
+T7	Complex 128 137	NF-kappaB
+T8	Gene_or_gene_product 161 166	CEBPA
+T9	Gene_or_gene_product 249 259	C/EBPalpha
+T10	Complex 294 303	NF-kappaB
+T11	Gene_or_gene_product 304 307	p50
+T12	Gene_or_gene_product 351 355	BCL2
+T13	Gene_or_gene_product 360 364	FLIP
+T14	Gene_or_gene_product 379 382	p50
+T15	Gene_or_gene_product 407 412	CEBPA
+T16	Gene_or_gene_product 455 465	C/EBPalpha
+T17	Gene_or_gene_product 469 479	C/EBPalpha
+T18	Simple_chemical 480 487	leucine
+T19	Gene_or_gene_product 527 532	nfkb1
+T20	Gene_or_gene_product 534 537	p50
+T21	Simple_chemical 598 611	cycloheximide
+T22	Gene_or_gene_product 626 629	p50
+T23	Gene_or_gene_product 633 643	C/EBPalpha
+T24	Complex 667 673	kappaB
+T25	Gene_or_gene_product 687 692	nfkb1
+T26	Gene_or_gene_product 703 713	C/EBPalpha
+T27	Gene_or_gene_product 729 732	p65
+T28	Gene_or_gene_product 751 761	C/EBPalpha
+T29	Gene_or_gene_product 766 769	p50
+T30	Complex 873 887	p50 homodimers
+T31	Gene_or_gene_product 911 921	C/EBPalpha
+T32	Gene_or_gene_product 926 929	p50
+T33	Gene_or_gene_product 1002 1012	C/EBPalpha
+T34	Gene_or_gene_product 1042 1063	histone deacetylase 1
+T35	Gene_or_gene_product 1065 1070	HDAC1
+T36	Gene_or_gene_product 1075 1080	HDAC3
+T37	Gene_or_gene_product 1099 1103	FLIP
+T38	Gene_or_gene_product 1137 1140	p50
+T39	Gene_or_gene_product 1179 1189	C/EBPalpha
+T40	Gene_or_gene_product 1212 1221	C/EBPbeta
+T41	Gene_or_gene_product 1250 1253	p50
+T42	Gene_or_gene_product 1258 1263	HDACs
+T43	Gene_or_gene_product 1281 1286	C/EBP
+T44	Gene_or_gene_product 1329 1335	C/EBPs
+T45	Gene_or_gene_product 1345 1350	HDACs
+T46	Complex 1356 1370	p50 homodimers
+T47	Complex 1417 1426	NF-kappaB
+T48	Complex 1467 1481	C/EBPalpha:p50

@@ -1,0 +1,21 @@
+T1	Simple_chemical 23 30	uridine
+T2	Gene_or_gene_product 47 68	uridine phosphorylase
+T3	Simple_chemical 105 112	Uridine
+T4	Simple_chemical 116 137	pyrimidine nucleoside
+T5	Cellular_component 177 190	bio-membranes
+T6	Simple_chemical 323 330	uridine
+T7	Simple_chemical 559 566	uridine
+T8	Simple_chemical 641 658	fluoropyrimidines
+T9	Simple_chemical 719 726	uridine
+T10	Gene_or_gene_product 826 847	uridine phosphorylase
+T11	Gene_or_gene_product 849 854	UPase
+T12	Simple_chemical 906 913	uridine
+T13	Simple_chemical 917 923	uracil
+T14	Gene_or_gene_product 1013 1018	UPase
+T15	Simple_chemical 1089 1096	uridine
+T16	Gene_or_gene_product 1188 1193	UPase
+T17	Cellular_component 1203 1215	cytoskeleton
+T18	Cellular_component 1224 1241	cellular membrane
+T19	Gene_or_gene_product 1290 1295	UPase
+T20	Gene_or_gene_product 1377 1380	p53
+T21	Gene_or_gene_product 1444 1449	UPase

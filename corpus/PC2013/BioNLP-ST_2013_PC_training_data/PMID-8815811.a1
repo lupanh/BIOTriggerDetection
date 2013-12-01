@@ -1,0 +1,22 @@
+T1	Simple_chemical 37 39	Na
+T2	Simple_chemical 40 49	phosphate
+T3	Simple_chemical 88 94	sodium
+T4	Simple_chemical 118 127	phosphate
+T5	Simple_chemical 129 131	Pi
+T6	Simple_chemical 198 200	Pi
+T7	Simple_chemical 267 269	Na
+T8	Simple_chemical 270 272	Pi
+T9	Gene_or_gene_product 321 341	Na/Pi cotransporters
+T10	Gene_or_gene_product 370 376	NaPi-1
+T11	Gene_or_gene_product 393 399	NaPi-2
+T12	Simple_chemical 443 445	Pi
+T13	Gene_or_gene_product 459 479	Na/Pi cotransporters
+T14	Simple_chemical 520 522	Pi
+T15	Simple_chemical 547 549	Pi
+T16	Gene_or_gene_product 561 580	parathyroid hormone
+T17	Gene_or_gene_product 625 650	type II Na/Pi cotransport
+T18	Simple_chemical 683 685	Na
+T19	Simple_chemical 686 688	Pi
+T20	Gene_or_gene_product 793 814	type I cotransporters
+T21	Simple_chemical 842 844	Pi
+T22	Gene_or_gene_product 918 945	type II Na/Pi cotransporter

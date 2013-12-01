@@ -1,0 +1,45 @@
+T30	Phosphorylation 7 22	phosphorylation
+E1	Phosphorylation:T30 Theme:T2 Cause:T3
+T31	Activation 27 37	activation
+E2	Activation:T31 Theme:T2 Cause:T3
+T32	Regulation 48 55	related
+E3	Regulation:T32 Theme:T1 Cause:T2
+T33	Regulation 126 133	related
+E4	Regulation:T33 Theme:T5 Cause:T4
+T34	Positive_regulation 142 165	plays an important role
+E5	Positive_regulation:T34 Theme:E6 Cause:T4
+T35	Binding 176 188	organization
+E6	Binding:T35 Theme:T6
+T36	Regulation 373 382	regulated
+E7	Regulation:T36 Theme:T8
+T37	Regulation 424 434	associated
+E8	Regulation:T37 Cause:T9 Theme:T12
+T38	Positive_regulation 465 474	important
+E9	Positive_regulation:T38 Cause:T12 Theme:E10
+T39	Binding 486 494	assembly
+E10	Binding:T39 Theme:T13
+T40	Phosphorylation 662 676	phosphorylates
+E11	Phosphorylation:T40 Cause:T16 Theme:T17
+T41	Activation 681 690	activates
+E12	Activation:T41 Cause:T16 Theme:T17
+T42	Phosphorylation 711 725	phosphorylates
+T43	Positive_regulation 711 725	phosphorylates
+E13	Phosphorylation:T42 Theme:T18
+E14	Positive_regulation:T43 Theme:E13 Cause:E12
+E15	Positive_regulation:T43 Theme:E13 Cause:E11
+T44	Negative_regulation 774 784	inhibition
+E16	Negative_regulation:T44 Theme:T19
+T45	Negative_regulation 802 811	abolished
+E17	Negative_regulation:T45 Theme:E18 Cause:E16
+T46	Phosphorylation 825 840	phosphorylation
+E18	Phosphorylation:T46 Theme:T20
+T47	Positive_regulation 931 940	dependent
+E19	Positive_regulation:T47 Cause:T24 Theme:E20
+T48	Phosphorylation 941 956	phosphorylation
+E20	Phosphorylation:T48 Theme:T23
+T49	Negative_regulation 976 984	impaired
+E21	Negative_regulation:T49 Theme:E22
+T50	Localization 985 997	localization
+E22	Localization:T50 ToLoc:T25 Theme:T23
+T51	Binding 1134 1142	assembly
+E23	Binding:T51 Theme:T28

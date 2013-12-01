@@ -1,0 +1,6 @@
+T13	Pathway 522 532	cell-cycle
+E1	Pathway:T13 
+T14	Regulation 533 540	control
+E2	Regulation:T14 Theme:E1 Cause:T9
+T15	Pathway 799 809	cell cycle
+E3	Pathway:T15 

@@ -1,0 +1,34 @@
+*	Equiv T3 T4 T5
+*	Equiv T8 T9 T10
+*	Equiv T16 T17
+*	Equiv T32 T33
+T42	Transport 39 45	import
+E1	Transport:T42 Theme:T2 ToLoc:T1
+T43	Transport 223 235	translocates
+E2	Transport:T43 FromLoc:T6 ToLoc:T7 Theme:T3
+T44	Phosphorylation 467 482	phosphorylation
+E3	Phosphorylation:T44 Theme:T18 Cause:T19 Site:T14
+T45	Positive_regulation 503 512	necessary
+E4	Positive_regulation:T45 Theme:E5 Cause:E3
+T46	Dissociation 536 548	dissociation
+E5	Dissociation:T46 Theme:T20
+T47	Dissociation 589 601	dissociation
+E6	Dissociation:T47 Theme:T20
+T48	Positive_regulation 620 628	required
+E7	Positive_regulation:T48 Theme:E8 Cause:E6
+T49	Transport 645 658	translocation
+E8	Transport:T49 ToLoc:T21 Theme:T22
+T50	Transport 694 699	entry
+E9	Transport:T50 Theme:T24 ToLoc:T23
+T51	Transport 775 781	import
+E10	Transport:T51 ToLoc:T26 Theme:T27
+T52	Positive_regulation 821 828	induced
+E11	Positive_regulation:T52 Cause:E12 Theme:E10
+T53	Positive_regulation 832 842	activation
+E12	Positive_regulation:T53 Theme:E13
+T54	Pathway 855 862	pathway
+E13	Pathway:T54 Participant:T28
+T55	Transport 951 957	import
+E14	Transport:T55 ToLoc:T31 Theme:T34
+T56	Transport 1358 1363	enter
+E15	Transport:T56 ToLoc:T41 Theme:T40

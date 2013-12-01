@@ -1,0 +1,27 @@
+T1	Complex 2 14	Bir1p Sli15p
+T2	Cellular_component 15 26	kinetochore
+T3	Gene_or_gene_product 55 61	septin
+T4	Cellular_component 190 201	chromosomes
+T5	Cellular_component 396 407	kinetochore
+T6	Cellular_component 408 419	microtubule
+T7	Gene_or_gene_product 486 491	Bir1p
+T8	Gene_or_gene_product 493 501	Survivin
+T9	Cellular_component 517 528	kinetochore
+T10	Gene_or_gene_product 537 564	centromere binding factor 3
+T11	Gene_or_gene_product 566 570	CBF3
+T12	Gene_or_gene_product 593 599	septin
+T13	Gene_or_gene_product 741 746	Bir1p
+T14	Gene_or_gene_product 799 805	Ndc10p
+T15	Gene_or_gene_product 807 813	Sli15p
+T16	Gene_or_gene_product 815 821	INCENP
+T17	Gene_or_gene_product 828 833	Ipl1p
+T18	Gene_or_gene_product 835 843	Aurora B
+T19	Gene_or_gene_product 878 883	Bir1p
+T20	Gene_or_gene_product 888 894	Sli15p
+T21	Gene_or_gene_product 934 940	septin
+T22	Gene_or_gene_product 1010 1014	BIR1
+T23	Gene_or_gene_product 1052 1057	Bir1p
+T24	Gene_or_gene_product 1062 1068	Sli15p
+T25	Cellular_component 1095 1107	kinetochores
+T26	Complex 1129 1141	Bir1p-Sli15p
+T27	Complex 1195 1207	Sli15p-Ipl1p

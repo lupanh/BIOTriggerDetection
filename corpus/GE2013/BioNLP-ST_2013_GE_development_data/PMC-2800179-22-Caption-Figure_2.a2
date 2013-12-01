@@ -1,0 +1,22 @@
+T7	Positive_regulation 13 23	stimulated
+T8	Localization 28 37	secretion
+T9	Localization 68 76	released
+T10	Localization 173 180	release
+T11	Positive_regulation 181 188	induced
+T12	Localization 289 296	release
+T13	Positive_regulation 297 304	induced
+T14	Localization 466 473	release
+T15	Positive_regulation 474 481	induced
+T16	Localization 653 660	release
+T17	Positive_regulation 661 668	induced
+E1	Positive_regulation:T7 Theme:E2
+E2	Localization:T8 Theme:T1
+E3	Localization:T9 Theme:T2
+E4	Localization:T10 Theme:T3
+E5	Positive_regulation:T11 Theme:E4
+E6	Localization:T12 Theme:T4
+E7	Positive_regulation:T13 Theme:E6
+E8	Localization:T14 Theme:T5
+E9	Positive_regulation:T15 Theme:E8
+E10	Localization:T16 Theme:T6
+E11	Positive_regulation:T17 Theme:E10

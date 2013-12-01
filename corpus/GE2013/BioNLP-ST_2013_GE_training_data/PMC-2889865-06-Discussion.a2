@@ -1,0 +1,172 @@
+T30	Regulation 290 300	regulation
+T31	Regulation 1314 1323	dependent
+T32	Protein_catabolism 1324 1335	degradation
+T33	Positive_regulation 1369 1383	in response to
+T34	Gene_expression 1571 1581	expression
+T35	Positive_regulation 1590 1599	following
+T36	Negative_regulation 1800 1819	negatively regulate
+T37	Positive_regulation 2201 2209	enhanced
+T38	Gene_expression 2215 2225	expression
+T39	Positive_regulation 2261 2264	due
+T40	Regulation 2429 2439	regulation
+T41	Gene_expression 2511 2521	expression
+T42	Gene_expression 2615 2625	expression
+T43	Positive_regulation 2763 2772	increases
+T44	Positive_regulation 2810 2820	activating
+T45	Localization 2827 2834	release
+T46	Regulation 3064 3084	showed no difference
+T47	Gene_expression 3094 3104	expression
+T48	Negative_regulation 3197 3206	reduction
+T49	Gene_expression 3216 3226	expression
+T50	Gene_expression 3834 3844	expression
+T51	Positive_regulation 3850 3862	up regulated
+T52	Positive_regulation 4038 4048	activation
+T53	Entity 4061 4069	promoter
+T54	Regulation 4076 4084	Mutation
+T55	Entity 4092 4106	NF-kappaB site
+T56	Regulation 4115 4121	affect
+T57	Gene_expression 4127 4137	expression
+T58	Regulation 4147 4155	mutation
+T59	Entity 4163 4172	AP-1 site
+T60	Negative_regulation 4197 4204	revoked
+T61	Localization 4210 4217	release
+T95	Positive_regulation 4571 4579	resulted
+T96	Negative_regulation 4599 4609	inhibition
+T97	Positive_regulation 4620 4629	induction
+T98	Negative_regulation 4660 4669	reduction
+T99	Negative_regulation 4779 4788	reduction
+T100	Gene_expression 4798 4808	expression
+T101	Gene_expression 4829 4839	expression
+T102	Regulation 4848 4856	affected
+T103	Positive_regulation 4864 4873	following
+T104	Gene_expression 4984 4994	expression
+T105	Negative_regulation 5006 5021	down-regulation
+T106	Regulation 5065 5076	involvement
+T107	Positive_regulation 5085 5088	via
+T108	Positive_regulation 5187 5198	upregulated
+T109	Gene_expression 5207 5217	Expression
+T110	Negative_regulation 5226 5233	dropped
+T111	Negative_regulation 5309 5326	remained elevated
+T112	Negative_regulation 5477 5485	decrease
+T113	Regulation 5597 5605	involved
+T114	Regulation 5614 5624	regulation
+T115	Localization 5629 5636	release
+T116	Regulation 5653 5661	required
+T117	Gene_expression 5670 5680	expression
+T118	Positive_regulation 5944 5954	activation
+T119	Regulation 5973 5982	regulated
+T120	Negative_regulation 6257 6272	Down-regulation
+T121	Positive_regulation 6426 6435	activated
+T92	Anaphora 6451 6476	that continued activation
+T122	Positive_regulation 6484 6492	promotes
+T93	Anaphora 6493 6496	its
+T123	Protein_catabolism 6497 6508	degradation
+T124	Negative_regulation 6553 6561	deletion
+T94	Anaphora 6572 6602	the three CBM complex proteins
+T125	Phosphorylation 6829 6843	phosphorylates
+T126	Positive_regulation 6853 6862	activates
+T127	Negative_regulation 7802 7816	down-regulated
+T128	Negative_regulation 7899 7903	loss
+T129	Positive_regulation 7948 7956	increase
+T130	Positive_regulation 8146 8151	leads
+T131	Negative_regulation 8158 8168	inhibition
+T132	Positive_regulation 8535 8543	Elevated
+T133	Positive_regulation 8817 8825	elevated
+R1	Coreference Subject:T92 Object:T121
+R2	Coreference Subject:T93 Object:T83
+R3	Coreference Subject:T94 Object:T77
+R4	Coreference Subject:T94 Object:T78
+R5	Coreference Subject:T94 Object:T79
+E1	Regulation:T30 Theme:T1
+E2	Regulation:T30 Theme:T2
+E3	Regulation:T31 Theme:E4
+E4	Protein_catabolism:T32 Theme:T3
+E5	Regulation:T31 Theme:E6
+E6	Protein_catabolism:T32 Theme:T4
+E7	Positive_regulation:T33 Theme:E3
+E8	Positive_regulation:T33 Theme:E5
+E9	Gene_expression:T34 Theme:T5
+E10	Positive_regulation:T35 Theme:E9
+E11	Negative_regulation:T36 Theme:T6
+E12	Positive_regulation:T37 Theme:E13
+E13	Gene_expression:T38 Theme:T11
+E14	Positive_regulation:T39 Theme:E12
+E15	Regulation:T40 Theme:T12
+E16	Gene_expression:T41 Theme:T13
+E17	Gene_expression:T42 Theme:T14
+E18	Gene_expression:T42 Theme:T15
+E19	Positive_regulation:T43 Theme:T16
+E20	Positive_regulation:T44 Theme:E21
+E21	Localization:T45 Theme:T17
+E22	Regulation:T46 Theme:E23
+E23	Gene_expression:T47 Theme:T19
+E24	Negative_regulation:T48 Theme:E25
+E25	Gene_expression:T49 Theme:T20
+E26	Gene_expression:T50 Theme:T26
+E27	Positive_regulation:T51 Theme:E26
+E28	Positive_regulation:T52 Theme:T27 Site:T53
+E29	Regulation:T54 Theme:T28 Site:T55
+E30	Regulation:T56 Theme:E31 Cause:E29
+E31	Gene_expression:T57 Theme:T28
+E32	Regulation:T58 Theme:T29 Site:T59
+E33	Negative_regulation:T60 Theme:E34 Cause:E32
+E34	Localization:T61 Theme:T29
+E35	Positive_regulation:T95 Theme:E36
+E36	Negative_regulation:T96 Theme:T62
+E37	Positive_regulation:T95 Theme:E38
+E38	Negative_regulation:T98 Theme:T63
+E39	Positive_regulation:T97 Theme:T62
+E40	Negative_regulation:T99 Theme:E41
+E41	Gene_expression:T100 Theme:T64
+E42	Gene_expression:T101 Theme:T65
+E43	Regulation:T102 Theme:E42
+E44	Positive_regulation:T103 Theme:E42
+E45	Gene_expression:T104 Theme:T67
+E46	Negative_regulation:T105 Theme:E45
+E47	Regulation:T106 Theme:E45
+E48	Positive_regulation:T107 Theme:E47
+E49	Positive_regulation:T108 Theme:T68
+E50	Positive_regulation:T108 Theme:T69
+E51	Gene_expression:T109 Theme:T70
+E52	Negative_regulation:T110 Theme:E51
+E53	Negative_regulation:T111 Theme:T71
+E54	Negative_regulation:T112 Theme:T72
+E55	Negative_regulation:T112 Theme:T73
+E56	Regulation:T113 Theme:E57
+E57	Regulation:T114 Theme:T74
+E58	Regulation:T113 Theme:E59
+E59	Localization:T115 Theme:T74
+E60	Regulation:T116 Theme:E61
+E61	Gene_expression:T117 Theme:T75
+E62	Positive_regulation:T118 Theme:T76
+E63	Regulation:T119 Theme:E62
+E64	Negative_regulation:T120 Theme:T81 Cause:T82
+E65	Positive_regulation:T121 Theme:T83
+E66	Positive_regulation:T122 Theme:E67 Cause:E65
+E67	Protein_catabolism:T123 Theme:T83
+E68	Negative_regulation:T124 Theme:T77
+E69	Negative_regulation:T124 Theme:T78
+E70	Negative_regulation:T124 Theme:T79
+E71	Phosphorylation:T125 Theme:T85
+E72	Positive_regulation:T126 Theme:T85
+E73	Negative_regulation:T127 Theme:T87
+E74	Negative_regulation:T128 Theme:T88
+E75	Positive_regulation:T129 Theme:T88
+E76	Positive_regulation:T130 Theme:E77
+E77	Negative_regulation:T131 Theme:T89
+E78	Positive_regulation:T132 Theme:T90
+E79	Positive_regulation:T133 Theme:T91
+M1	Speculation E1
+M2	Speculation E2
+M3	Negation E22
+M4	Negation E30
+M5	Negation E43
+M6	Speculation E48
+M7	Negation E53
+M8	Negation E54
+M9	Negation E55
+M10	Speculation E56
+M11	Speculation E58
+M12	Negation E60
+M13	Speculation E60
+M14	Speculation E65

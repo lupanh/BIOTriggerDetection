@@ -1,0 +1,4 @@
+(S1 (S (NP (JJ Statistical) (NN analysis))))
+(S1 (S (S (NP (JJ Statistical) (NN analysis)) (VP (VBD was) (VP (VBN performed) (PP (IN by) (NP (NP (JJ two-tail) (JJ unpaired) (NN Student) (POS 's)) (NN t-test)))))) (. .)))
+(S1 (S (S (NP (NNS Data)) (VP (VBD were) (VP (VBN reported) (PP (IN as) (NP (NP (NN means)) (CC +/-) (NP (NN SE))))))) (. .)))
+(S1 (S (S (NP (NP (NNS Differences)) (PP (IN between) (NP (DT the) (NNS means)))) (VP (VBD were) (VP (VBN considered) (S (ADJP (ADVP (RB as) (RB statistically)) (JJ significant) (PP (IN at) (NP (NP (DT the) (ADJP (CD 95) (NN %)) (NN level)) (PRN (-LRB- -LRB-) (NP (NN P) (NN <) (CD 0.05)) (-RRB- -RRB-))))))))) (. .)))

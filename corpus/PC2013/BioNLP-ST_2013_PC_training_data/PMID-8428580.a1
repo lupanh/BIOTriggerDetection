@@ -1,0 +1,34 @@
+T1	Complex 4 14	NF-kappa B
+T2	Gene_or_gene_product 25 29	p105
+T3	Gene_or_gene_product 61 66	Bcl-3
+T4	Gene_or_gene_product 71 80	I kappa B
+T5	Cellular_component 103 110	nuclear
+T6	Complex 128 138	NF-kappa B
+T7	Complex 181 191	NF-kappa B
+T8	Gene_or_gene_product 202 206	p105
+T9	Complex 212 222	NF-kappa B
+T10	Gene_or_gene_product 247 256	I kappa B
+T11	Gene_or_gene_product 267 271	p105
+T12	Cellular_component 290 299	cytoplasm
+T13	Gene_or_gene_product 305 308	p50
+T14	Gene_or_gene_product 312 315	p65
+T15	Gene_or_gene_product 340 344	p105
+T16	Cellular_component 364 371	nuclear
+T17	Gene_or_gene_product 414 418	p105
+T18	Complex 459 469	NF-kappa B
+T19	Gene_or_gene_product 572 579	ankyrin
+T20	Gene_or_gene_product 633 638	Bcl-3
+T21	Cellular_component 653 660	nuclear
+T22	Gene_or_gene_product 678 681	p50
+T23	Gene_or_gene_product 694 697	p65
+T24	Gene_or_gene_product 706 709	p50
+T25	Cellular_component 733 742	cytoplasm
+T26	Gene_or_gene_product 849 854	Bcl-3
+T27	Gene_or_gene_product 877 892	I kappa B alpha
+T28	Gene_or_gene_product 896 901	-beta
+T29	Gene_or_gene_product 919 922	p65
+T30	Gene_or_gene_product 949 953	p105
+T31	Cellular_component 959 970	cytoplasmic
+T32	Complex 1011 1021	NF-kappa B
+T33	Gene_or_gene_product 1039 1044	Bcl-3
+T34	Gene_or_gene_product 1051 1060	I kappa B

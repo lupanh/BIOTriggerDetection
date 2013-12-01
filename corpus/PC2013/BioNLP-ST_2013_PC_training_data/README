@@ -1,0 +1,48 @@
+Training data for BioNLP Shared Task 2013 - Pathway Curation task (PC)
+
+Contains 260 PubMed abstracts and their annotations.
+
+For format details, please refer to the shared task homepage.
+http://2013.bionlp-st.org/file-formats
+
+
+File Descriptions:
+
+*.txt	Document text.
+	Each of these files consists of two lines, one for the title and 
+	one for the abstract.
+
+*.a1	Standoff annotations for physical entities.
+
+*.a2	Standoff annotations for events.
+        For training, the participants will be provided with these files.
+        For test, the participants have to create this annotation.
+
+
+History:
+
+16 Jan 2013: initial version released.
+
+
+Authors:
+
+BioNLP Shared Task 2013 PC task organizers:
+
+* Tomoko Ohta (NaCTeM and Univ. Manchester)
+* Sampo Pyysalo (NaCTeM and Univ. Manchester)
+* Rafal Rak (NaCTeM and Univ. Manchester)
+* Andrew Rowley (NaCTeM and Univ. Manchester)
+* Jacob Carter (NaCTeM and Univ. Manchester)
+* Sophia Ananiadou (NaCTeM and Univ. Manchester)
+* Sung-Pil Choi (KISTI)
+* Hong-woo Chun (KISTI)
+* Sung-jae Jung (KISTI)
+* Hyun Uk Kim (KAIST)
+* Jinki Kim (KAIST)
+* Kyusang Hwang (KAIST)
+* Yonghwa Jo
+* Hyeyeon Choi
+
+bionlp-st@bionlp-st.org
+http://2013.bionlp-st.org/tasks/pathway-curation
+

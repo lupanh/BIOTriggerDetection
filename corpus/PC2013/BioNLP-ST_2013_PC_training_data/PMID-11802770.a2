@@ -1,0 +1,12 @@
+T8	Conversion 10 22	biosynthesis
+E1	Conversion:T8 Product:T1
+T9	Activation 103 112	activated
+E2	Activation:T9 Theme:T3
+T10	Transport 128 133	enter
+E3	Transport:T10 ToLoc:T4 Theme:T3
+T11	Regulation 167 178	broken down
+E4	Regulation:T11 Cause:E5 Theme:E2
+T12	Pathway 183 197	beta-oxidation
+E5	Pathway:T12 
+T13	Conversion 589 601	biosynthesis
+E6	Conversion:T13 Product:T7

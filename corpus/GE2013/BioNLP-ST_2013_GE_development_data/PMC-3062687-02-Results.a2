@@ -1,0 +1,39 @@
+T10	Phosphorylation 5 20	phosphorylation
+T11	Positive_regulation 21 35	in response to
+T12	Phosphorylation 81 95	phosphorylated
+T13	Phosphorylation 245 259	phosphorylated
+T14	Positive_regulation 304 312	increase
+T15	Phosphorylation 316 333	32P-incorporation
+T16	Positive_regulation 367 375	increase
+T17	Entity 427 435	residues
+T18	Phosphorylation 441 455	phosphorylated
+T19	Positive_regulation 652 662	stimulated
+T20	Phosphorylation 669 684	phosphorylation
+T21	Protein_catabolism 689 699	degradaion
+T22	Phosphorylation 759 774	phosphorylation
+T23	Entity 778 793	serine residues
+T24	Entity 875 883	tyrosine
+T25	Entity 888 897	threonine
+T26	Phosphorylation 898 913	phosphorylation
+E1	Phosphorylation:T10 Theme:T1
+E2	Positive_regulation:T11 Theme:E1
+E3	Phosphorylation:T12 Theme:T2
+E4	Phosphorylation:T13 Theme:T3
+E5	Positive_regulation:T14 Theme:E6
+E6	Phosphorylation:T15 Theme:T4
+E7	Positive_regulation:T16 Theme:T4
+E8	Phosphorylation:T18 Theme:T5 Site:T17
+E9	Positive_regulation:T19 Theme:E10
+E10	Phosphorylation:T20 Theme:T7
+E11	Positive_regulation:T19 Theme:E12
+E12	Protein_catabolism:T21 Theme:T7
+E13	Phosphorylation:T22 Theme:T8 Site:T23
+E14	Phosphorylation:T26 Theme:T9 Site:T24
+E15	Phosphorylation:T26 Theme:T9 Site:T25
+M1	Speculation E2
+M2	Speculation E3
+M3	Negation E4
+M4	Negation E7
+M5	Speculation E8
+M6	Negation E14
+M7	Negation E15

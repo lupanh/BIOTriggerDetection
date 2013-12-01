@@ -1,0 +1,13 @@
+T36	Binding 76 85	complexed
+E1	Binding:T36 Theme:T4 Theme2:T1
+T37	Binding 887 892	bound
+E2	Binding:T37 Theme:T17 Theme2:T16
+T38	Binding 1372 1379	complex
+E3	Binding:T38 Theme:T28 Theme2:T30
+E4	Binding:T38 Theme:T29 Theme2:T31
+E5	Binding:T38 Theme:T30 Theme2:T29
+E6	Binding:T38 Theme:T31 Theme2:T28
+T39	Regulation 1446 1457	association
+E7	Regulation:T39 Theme:T32 Cause:T33
+T40	Binding 1572 1581	associate
+E8	Binding:T40 Theme:T35

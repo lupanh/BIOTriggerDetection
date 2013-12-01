@@ -1,0 +1,17 @@
+T14	Transcription 10 23	transcription
+T15	Negative_regulation 27 36	defective
+T16	Negative_regulation 61 70	deficient
+T17	Negative_regulation 94 103	deficient
+T18	Negative_regulation 211 220	deficient
+T19	Transcription 522 533	transcripts
+T20	Transcription 582 593	transcripts
+T21	Negative_regulation 813 822	deficient
+E1	Transcription:T14 Theme:T1
+E2	Negative_regulation:T15 Theme:E1
+E3	Negative_regulation:T16 Theme:T3
+E4	Negative_regulation:T17 Theme:T4
+E5	Negative_regulation:T18 Theme:T6
+E6	Transcription:T19 Theme:T11
+E7	Transcription:T20 Theme:T12
+E8	Negative_regulation:T21 Theme:T13
+M1	Speculation E6

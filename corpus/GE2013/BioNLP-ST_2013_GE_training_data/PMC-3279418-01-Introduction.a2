@@ -1,0 +1,35 @@
+T14	Anaphora 114 126	this protein
+T17	Gene_expression 137 146	expressed
+T18	Negative_regulation 199 218	recessive mutations
+T19	Positive_regulation 381 390	resulting
+T20	Negative_regulation 404 415	termination
+T15	Anaphora 419 423	mRNA
+T21	Transcription 424 433	synthesis
+T22	Negative_regulation 438 445	absence
+T16	Anaphora 449 477	a functional protein product
+T23	Negative_regulation 1095 1104	decreased
+T24	Gene_expression 1105 1114	secretion
+T25	Negative_regulation 1321 1335	Neutralization
+T26	Negative_regulation 1385 1394	deficient
+T27	Negative_regulation 1742 1751	deficient
+T28	Negative_regulation 2468 2477	deficient
+T29	Negative_regulation 2521 2525	lack
+T30	Negative_regulation 2925 2934	deficient
+R1	Coreference Subject:T14 Object:T1
+R2	Coreference Subject:T15 Object:T2
+R3	Coreference Subject:T16 Object:T2
+E1	Gene_expression:T17 Theme:T1
+E2	Negative_regulation:T18 Theme:T2
+E3	Positive_regulation:T19 Theme:E4 Cause:E2
+E4	Negative_regulation:T20 Theme:E7
+E5	Positive_regulation:T19 Theme:E6 Cause:E2
+E6	Negative_regulation:T22 Theme:T2
+E7	Transcription:T21 Theme:T2
+E8	Negative_regulation:T23 Theme:E9
+E9	Gene_expression:T24 Theme:T3
+E10	Negative_regulation:T25 Theme:T4
+E11	Negative_regulation:T26 Theme:T5
+E12	Negative_regulation:T27 Theme:T8
+E13	Negative_regulation:T28 Theme:T10
+E14	Negative_regulation:T29 Theme:T11
+E15	Negative_regulation:T30 Theme:T13

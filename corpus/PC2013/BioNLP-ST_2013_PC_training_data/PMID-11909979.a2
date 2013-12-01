@@ -1,0 +1,87 @@
+*	Equiv T5 T6
+T29	Positive_regulation 18 26	required
+E1	Positive_regulation:T29 Cause:T1 Theme:E7
+E2	Positive_regulation:T29 Cause:T2 Theme:E7
+E3	Positive_regulation:T29 Cause:T1 Theme:E8
+E4	Positive_regulation:T29 Cause:T2 Theme:E8
+T30	Positive_regulation 55 62	induced
+E5	Positive_regulation:T30 Theme:E7
+E6	Positive_regulation:T30 Theme:E8
+T31	Phosphorylation 63 78	phosphorylation
+E7	Phosphorylation:T31 Theme:T3
+E8	Phosphorylation:T31 Theme:T4
+T32	Inactivation 125 134	knockouts
+E9	Inactivation:T32 Theme:T5
+T33	Inactivation 215 223	knockout
+E10	Inactivation:T33 Theme:T8
+E11	Inactivation:T33 Theme:T9
+T34	Positive_regulation 286 294	required
+E12	Positive_regulation:T34 Cause:T8 Theme:E18
+E13	Positive_regulation:T34 Cause:T9 Theme:E18
+E14	Positive_regulation:T34 Cause:T8 Theme:E19
+E15	Positive_regulation:T34 Cause:T9 Theme:E19
+T35	Positive_regulation 310 317	induced
+E16	Positive_regulation:T35 Theme:E18
+E17	Positive_regulation:T35 Theme:E19
+T36	Phosphorylation 318 333	phosphorylation
+E18	Phosphorylation:T36 Theme:T10
+E19	Phosphorylation:T36 Theme:T11
+T37	Positive_regulation 427 434	induced
+E20	Positive_regulation:T37 Theme:E22
+E21	Positive_regulation:T37 Theme:E23
+T38	Phosphorylation 435 450	phosphorylation
+E22	Phosphorylation:T38 Theme:T12
+E23	Phosphorylation:T38 Theme:T13
+T39	Negative_regulation 479 486	reduced
+E24	Negative_regulation:T39 Theme:E22
+E25	Negative_regulation:T39 Theme:E23
+T40	Negative_regulation 503 512	abolished
+E26	Negative_regulation:T40 Theme:E22
+E27	Negative_regulation:T40 Theme:E23
+M1	Negation E26
+M2	Negation E27
+T41	Positive_regulation 538 545	induced
+E28	Positive_regulation:T41 Theme:E29
+T42	Phosphorylation 546 561	phosphorylation
+E29	Phosphorylation:T42 Theme:T14 Site:T15
+T43	Regulation 589 595	linked
+E30	Regulation:T43 Cause:E29 Theme:E33
+E31	Regulation:T43 Cause:E29 Theme:E34
+E32	Regulation:T43 Cause:E29 Theme:E35
+T44	Transcription 603 616	transcription
+E33	Transcription:T44 Theme:T16
+E34	Transcription:T44 Theme:T17
+E35	Transcription:T44 Theme:T18
+T45	Inactivation 688 696	knockout
+E36	Inactivation:T45 Theme:T19
+E37	Inactivation:T45 Theme:T20
+T46	Positive_regulation 719 727	resulted
+E38	Positive_regulation:T46 Theme:E42 Cause:E36
+E39	Positive_regulation:T46 Theme:E43 Cause:E36
+E40	Positive_regulation:T46 Theme:E42 Cause:E37
+E41	Positive_regulation:T46 Theme:E43 Cause:E37
+T47	Negative_regulation 737 746	reduction
+E42	Negative_regulation:T47 Cause:T23 Theme:E44
+E43	Negative_regulation:T47 Cause:T23 Theme:E45
+T48	Transcription 770 783	transcription
+E44	Transcription:T48 Theme:T21
+E45	Transcription:T48 Theme:T22
+T49	Negative_regulation 845 854	reduction
+E46	Negative_regulation:T49 Cause:T24 Theme:E44
+E47	Negative_regulation:T49 Cause:T25 Theme:E44
+E48	Negative_regulation:T49 Cause:T24 Theme:E45
+E49	Negative_regulation:T49 Cause:T25 Theme:E45
+T50	Transcription 947 960	transcription
+E50	Transcription:T50 Theme:T26
+T51	Positive_regulation 972 980	response
+E51	Positive_regulation:T51 Theme:E50 Cause:E52
+T52	Pathway 1045 1054	apoptosis
+E52	Pathway:T52 
+T53	Regulation 1060 1070	unaffected
+E53	Regulation:T53 Theme:E50 Cause:E55
+E54	Regulation:T53 Theme:E50 Cause:E56
+M3	Negation E53
+M4	Negation E54
+T54	Inactivation 1095 1103	knockout
+E55	Inactivation:T54 Theme:T27
+E56	Inactivation:T54 Theme:T28

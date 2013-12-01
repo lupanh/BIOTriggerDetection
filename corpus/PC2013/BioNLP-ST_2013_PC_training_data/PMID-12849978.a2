@@ -1,0 +1,21 @@
+*	Equiv T11 T12
+T24	Positive_regulation 78 87	catalyzes
+E1	Positive_regulation:T24 Cause:T2 Theme:E3
+E2	Positive_regulation:T24 Cause:T2 Theme:E4
+T25	Negative_regulation 92 102	reversible
+E3	Negative_regulation:T25 Theme:E5
+E4	Negative_regulation:T25 Theme:E6
+T26	Phosphorylation 103 117	phosphorylytic
+E5	Phosphorylation:T26 Theme:T3
+E6	Phosphorylation:T26 Theme:T4
+T27	Positive_regulation 223 232	important
+E7	Positive_regulation:T27 Theme:E8 Cause:T2
+T28	Conversion 245 255	metabolism
+E8	Conversion:T28 Theme:T8
+T29	Positive_regulation 565 573	accepted
+E9	Positive_regulation:T29 Cause:T11 Theme:T13
+E10	Positive_regulation:T29 Cause:T11 Theme:T14
+E11	Positive_regulation:T29 Cause:T11 Theme:T15
+E12	Positive_regulation:T29 Cause:T11 Theme:T16
+T30	Gene_expression 895 904	expressed
+E13	Gene_expression:T30 Theme:T21

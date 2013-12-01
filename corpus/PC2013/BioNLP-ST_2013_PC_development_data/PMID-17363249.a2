@@ -1,0 +1,30 @@
+T17	Pathway 86 93	pathway
+E1	Pathway:T17 Participant:T1
+T18	Activation 303 312	activated
+E2	Activation:T18 Theme:T2
+E3	Activation:T18 Theme:T3
+T19	Inactivation 317 328	inactivated
+E4	Inactivation:T19 Theme:T2
+E5	Inactivation:T19 Theme:T3
+T20	Activation 521 531	activation
+E6	Activation:T20 Theme:T4
+T21	Positive_regulation 638 643	leads
+E7	Positive_regulation:T21 Theme:E8
+T22	Negative_regulation 653 664	attenuation
+E8	Negative_regulation:T22 Theme:E9
+T23	Pathway 673 682	signaling
+E9	Pathway:T23 Participant:T5
+T24	Localization 733 738	bound
+E10	Localization:T24 AtLoc:T6 Theme:T7
+T25	Phosphorylation 758 772	phosphorylated
+E11	Phosphorylation:T25 Theme:T7 Cause:T8 Site:T9
+T26	Phosphorylation 881 896	phosphorylation
+E12	Phosphorylation:T26 Theme:T10 Cause:T11
+T27	Negative_regulation 1013 1023	diminishes
+E13	Negative_regulation:T27 Theme:E14 Cause:T12
+T28	Binding 1046 1055	oligomers
+E14	Binding:T28 Theme:T13
+T29	Negative_regulation 1057 1064	dampens
+E15	Negative_regulation:T29 Cause:T12 Theme:E16
+T30	Activation 1065 1075	activation
+E16	Activation:T30 Theme:T14

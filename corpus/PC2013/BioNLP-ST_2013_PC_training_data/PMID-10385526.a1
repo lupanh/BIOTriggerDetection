@@ -1,0 +1,54 @@
+T1	Simple_chemical 4 8	zinc
+T2	Gene_or_gene_product 24 27	A20
+T3	Gene_or_gene_product 37 40	TNF
+T4	Complex 49 58	NF-kappaB
+T5	Gene_or_gene_product 108 111	RIP
+T6	Gene_or_gene_product 116 121	TRAF2
+T7	Complex 184 193	NF-kappaB
+T8	Gene_or_gene_product 213 217	ABIN
+T9	Simple_chemical 224 228	zinc
+T10	Gene_or_gene_product 244 247	A20
+T11	Gene_or_gene_product 253 274	tumor necrosis factor
+T12	Gene_or_gene_product 276 279	TNF
+T13	Gene_or_gene_product 286 299	interleukin 1
+T14	Gene_or_gene_product 301 305	IL-1
+T15	Complex 351 373	nuclear factor-kappa B
+T16	Complex 375 384	NF-kappaB
+T17	Gene_or_gene_product 455 458	A20
+T18	Gene_or_gene_product 509 512	A20
+T19	Gene_or_gene_product 530 533	TNF
+T20	Cellular_component 543 550	nuclear
+T21	Complex 584 593	NF-kappaB
+T22	Gene_or_gene_product 631 634	TNF
+T23	Complex 661 670	NF-kappaB
+T24	Gene_or_gene_product 707 710	TNF
+T25	Gene_or_gene_product 719 723	IL-6
+T26	Gene_or_gene_product 728 776	granulocyte macrophage-colony stimulating factor
+T27	Complex 804 813	NF-kappaB
+T28	Gene_or_gene_product 858 870	TNF receptor
+T29	Gene_or_gene_product 891 935	TNF receptor-associated death domain protein
+T30	Gene_or_gene_product 937 942	TRADD
+T31	Gene_or_gene_product 945 973	receptor interacting protein
+T32	Gene_or_gene_product 975 978	RIP
+T33	Gene_or_gene_product 985 1019	TNF recep- tor-associated factor 2
+T34	Gene_or_gene_product 1021 1026	TRAF2
+T35	Gene_or_gene_product 1064 1067	A20
+T36	Complex 1077 1086	NF-kappaB
+T37	Gene_or_gene_product 1127 1152	NF-kappaB-inducing kinase
+T38	Gene_or_gene_product 1154 1157	NIK
+T39	Gene_or_gene_product 1210 1213	Tax
+T40	Gene_or_gene_product 1261 1264	A20
+T41	Complex 1274 1283	NF-kappaB
+T42	Gene_or_gene_product 1338 1341	TNF
+T43	Gene_or_gene_product 1354 1357	RIP
+T44	Gene_or_gene_product 1362 1367	TRAF2
+T45	Gene_or_gene_product 1412 1415	NIK
+T46	Complex 1416 1430	IkappaB kinase
+T47	Complex 1499 1508	NF-kappaB
+T48	Gene_or_gene_product 1556 1559	A20
+T49	Gene_or_gene_product 1586 1590	ABIN
+T50	Complex 1609 1618	NF-kappaB
+T51	Gene_or_gene_product 1641 1644	A20
+T52	Gene_or_gene_product 1696 1699	A20
+T53	Complex 1741 1750	NF-kappaB
+T54	Gene_or_gene_product 1771 1775	ABIN

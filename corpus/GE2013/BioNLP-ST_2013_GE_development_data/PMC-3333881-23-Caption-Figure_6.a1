@@ -1,0 +1,21 @@
+T1	Protein 19 22	Tat
+T2	Protein 72 82	MIP-1alpha
+T3	Protein 115 128	IkappaB-alpha
+T4	Protein 133 136	p65
+T5	Protein 181 190	siRNA Tat
+T6	Protein 298 306	FLAG-Tat
+T7	Protein 331 334	p24
+T8	Protein 417 420	Tat
+T9	Protein 462 465	p24
+T10	Protein 509 512	p65
+T11	Protein 682 695	IkappaB-alpha
+T12	Protein 1114 1122	FLAG-Tat
+T13	Protein 1240 1249	protein G
+T14	Protein 1475 1484	siRNA Tat
+T15	Protein 1486 1495	siRNA p65
+T16	Protein 1604 1612	FLAG-Tat
+T17	Protein 1707 1717	MIP-1alpha
+T18	Protein 1800 1809	siRNA Tat
+T19	Protein 1920 1928	FLAG-Tat
+T20	Protein 2105 2115	MIP-1alpha
+T21	Protein 2120 2125	GAPDH

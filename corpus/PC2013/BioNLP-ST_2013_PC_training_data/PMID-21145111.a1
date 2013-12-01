@@ -1,0 +1,60 @@
+T1	Complex 0 6	IL-17R
+T2	Complex 68 73	IL-23
+T3	Gene_or_gene_product 74 77	p19
+T4	Complex 118 127	NF-kappaB
+T5	Gene_or_gene_product 135 138	JNK
+T6	Complex 139 143	AP-1
+T7	Complex 155 174	Interleukin (IL)-23
+T8	Gene_or_gene_product 237 240	CD4
+T9	Complex 401 406	IL-17
+T10	Complex 496 501	IL-23
+T11	Gene_or_gene_product 502 505	p19
+T12	Complex 524 529	IL-23
+T13	Complex 571 585	IL-17 receptor
+T14	Complex 587 593	IL-17R
+T15	Complex 627 632	IL-17
+T16	Complex 678 683	IL-23
+T17	Gene_or_gene_product 684 687	p19
+T18	Complex 749 754	IL-17
+T19	Complex 758 764	IL-17R
+T20	Complex 836 841	IL-23
+T21	Gene_or_gene_product 842 845	p19
+T22	Complex 847 852	IL-17
+T23	Gene_or_gene_product 897 900	Akt
+T24	Gene_or_gene_product 902 905	p38
+T25	Gene_or_gene_product 906 938	mitogen-activated protein kinase
+T26	Gene_or_gene_product 940 944	MAPK
+T27	Gene_or_gene_product 947 994	extracellular signal-regulated kinase (ERK) 1/2
+T28	Gene_or_gene_product 996 1019	c-Jun-N-terminal kinase
+T29	Gene_or_gene_product 1021 1024	JNK
+T30	Complex 1027 1048	nuclear factor-kappaB
+T31	Complex 1050 1059	NF-kappaB
+T32	Complex 1066 1085	activator protein-1
+T33	Complex 1087 1091	AP-1
+T34	Gene_or_gene_product 1118 1121	Akt
+T35	Gene_or_gene_product 1123 1131	p38 MAPK
+T36	Gene_or_gene_product 1133 1140	ERK 1/2
+T37	Complex 1145 1154	NF-kappaB
+T38	Gene_or_gene_product 1198 1201	JNK
+T39	Complex 1206 1210	AP-1
+T40	Complex 1235 1240	IL-23
+T41	Gene_or_gene_product 1241 1244	p19
+T42	Complex 1261 1266	IL-17
+T43	Complex 1296 1301	IL-17
+T44	Complex 1312 1321	NF-kappaB
+T45	Gene_or_gene_product 1348 1351	Akt
+T46	Gene_or_gene_product 1353 1361	p38 MAPK
+T47	Gene_or_gene_product 1366 1373	ERK 1/2
+T48	Complex 1392 1396	AP-1
+T49	Gene_or_gene_product 1436 1439	JNK
+T50	Complex 1532 1537	IL-17
+T51	Complex 1579 1584	IL-23
+T52	Gene_or_gene_product 1585 1588	p19
+T53	Gene_or_gene_product 1627 1630	Akt
+T54	Gene_or_gene_product 1633 1641	p38 MAPK
+T55	Gene_or_gene_product 1648 1655	ERK 1/2
+T56	Complex 1666 1675	NF-kappaB
+T57	Gene_or_gene_product 1698 1701	JNK
+T58	Complex 1702 1706	AP-1
+T59	Complex 1796 1801	IL-17
+T60	Complex 1806 1811	IL-23

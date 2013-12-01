@@ -1,0 +1,21 @@
+T1	Gene_or_gene_product 19 29	interferon
+T2	Complex 34 43	NF-kappaB
+T3	Gene_or_gene_product 758 768	interferon
+T4	Gene_or_gene_product 770 773	IFN
+T5	Gene_or_gene_product 779 782	IFN
+T6	Gene_or_gene_product 909 950	mitochondrial antiviral signaling protein
+T7	Gene_or_gene_product 952 956	MAVS
+T8	Gene_or_gene_product 984 1012	interferon regulatory factor
+T9	Gene_or_gene_product 1014 1017	IRF
+T10	Complex 1023 1032	NF-kappaB
+T11	Gene_or_gene_product 1113 1116	NSs
+T12	Gene_or_gene_product 1185 1200	beta interferon
+T13	Gene_or_gene_product 1202 1210	IFN-beta
+T14	Complex 1216 1225	NF-kappaB
+T15	Complex 1256 1265	NF-kappaB
+T16	Gene_or_gene_product 1337 1340	NSs
+T17	Gene_or_gene_product 1373 1377	TBK1
+T18	Gene_or_gene_product 1423 1426	IRF
+T19	Complex 1431 1440	NF-kappaB
+T20	Gene_or_gene_product 1619 1627	IFN-beta
+T21	Complex 1632 1641	NF-kappaB

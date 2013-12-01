@@ -1,0 +1,182 @@
+*	Equiv T1 T2
+*	Equiv T29 T30
+*	Equiv T31 T32
+T62	Entity 258 277	Rel homology domain
+T63	Positive_regulation 284 287	for
+T64	Binding 304 316	dimerization
+T65	Binding 325 332	binding
+T66	Phosphorylation 980 994	phosphorylated
+T67	Entity 1005 1010	Ser32
+T68	Entity 1015 1020	Ser36
+T69	Ubiquitination 1043 1056	ubiquitylated
+T70	Entity 1060 1065	Lys21
+T71	Entity 1070 1075	Lys22
+T72	Protein_catabolism 1082 1090	degraded
+T73	Positive_regulation 1091 1093	by
+T74	Phosphorylation 1156 1171	phosphorylation
+T75	Entity 1182 1188	Ser276
+T76	Positive_regulation 1189 1191	by
+T77	Entity 1212 1218	Ser311
+T78	Positive_regulation 1219 1221	by
+T79	Entity 1238 1244	Ser536
+T80	Positive_regulation 1245 1247	by
+T81	Acetylation 1266 1277	Acetylation
+T82	Entity 1288 1294	Lys218
+T83	Entity 1299 1305	Lys221
+T84	Positive_regulation 1306 1315	increases
+T85	Binding 1324 1331	binding
+T86	Negative_regulation 1336 1343	impairs
+T87	Binding 1348 1359	association
+T88	Acetylation 1384 1395	acetylation
+T89	Entity 1399 1405	Lys310
+T90	Deacetylation 1666 1679	Deacetylation
+T91	Deacetylation 1725 1736	acetylation
+T92	Entity 1747 1753	Lys122
+T93	Entity 1758 1764	Lys123
+T94	Binding 2540 2547	binding
+T95	Positive_regulation 2583 2590	induces
+T96	Positive_regulation 2617 2627	activation
+T97	Binding 2728 2737	interacts
+T98	Binding 2817 2822	binds
+T99	Positive_regulation 3040 3048	activate
+T100	Transcription 3054 3067	transcription
+T101	Binding 3139 3150	interacting
+T59	Anaphora 3156 3189	transacting factors and cofactors
+T60	Anaphora 3276 3306	the histone acetyltransferases
+T102	Localization 3340 3348	released
+T103	Binding 3414 3421	binding
+T104	Gene_expression 3605 3614	expressed
+T105	Positive_regulation 3691 3698	induced
+T106	Protein_catabolism 3732 3743	degradation
+T107	Negative_regulation 3817 3827	inhibiting
+T108	Positive_regulation 3839 3847	mediated
+T109	Deacetylation 3848 3861	deacetylation
+T110	Entity 3869 3875	Lys310
+T111	Gene_expression 4094 4103	synthesis
+T112	Binding 4169 4174	binds
+T113	Binding 4354 4365	interaction
+T61	Anaphora 4394 4399	which
+R1	Coreference Subject:T59 Object:T34
+R2	Coreference Subject:T59 Object:T35
+R3	Coreference Subject:T59 Object:T36
+R4	Coreference Subject:T59 Object:T37
+R5	Coreference Subject:T59 Object:T38
+R6	Coreference Subject:T59 Object:T39
+R7	Coreference Subject:T60 Object:T40
+R8	Coreference Subject:T60 Object:T41
+R9	Coreference Subject:T60 Object:T42
+R10	Coreference Subject:T61 Object:T113
+E1	Positive_regulation:T63 Theme:E2 Cause:T1 CSite:T62
+E2	Binding:T64 Theme:T1
+E3	Positive_regulation:T63 Theme:E2 Cause:T3 CSite:T62
+E4	Positive_regulation:T63 Theme:E2 Cause:T4 CSite:T62
+E5	Positive_regulation:T63 Theme:E2 Cause:T5 CSite:T62
+E6	Positive_regulation:T63 Theme:E2 Cause:T6 CSite:T62
+E7	Positive_regulation:T63 Theme:E8 Cause:T1 CSite:T62
+E8	Binding:T64 Theme:T3
+E9	Positive_regulation:T63 Theme:E8 Cause:T3 CSite:T62
+E10	Positive_regulation:T63 Theme:E8 Cause:T4 CSite:T62
+E11	Positive_regulation:T63 Theme:E8 Cause:T5 CSite:T62
+E12	Positive_regulation:T63 Theme:E8 Cause:T6 CSite:T62
+E13	Positive_regulation:T63 Theme:E14 Cause:T1 CSite:T62
+E14	Binding:T64 Theme:T4
+E15	Positive_regulation:T63 Theme:E14 Cause:T3 CSite:T62
+E16	Positive_regulation:T63 Theme:E14 Cause:T4 CSite:T62
+E17	Positive_regulation:T63 Theme:E14 Cause:T5 CSite:T62
+E18	Positive_regulation:T63 Theme:E14 Cause:T6 CSite:T62
+E19	Positive_regulation:T63 Theme:E20 Cause:T1 CSite:T62
+E20	Binding:T64 Theme:T5
+E21	Positive_regulation:T63 Theme:E20 Cause:T3 CSite:T62
+E22	Positive_regulation:T63 Theme:E20 Cause:T4 CSite:T62
+E23	Positive_regulation:T63 Theme:E20 Cause:T5 CSite:T62
+E24	Positive_regulation:T63 Theme:E20 Cause:T6 CSite:T62
+E25	Positive_regulation:T63 Theme:E26 Cause:T1 CSite:T62
+E26	Binding:T64 Theme:T6
+E27	Positive_regulation:T63 Theme:E26 Cause:T3 CSite:T62
+E28	Positive_regulation:T63 Theme:E26 Cause:T4 CSite:T62
+E29	Positive_regulation:T63 Theme:E26 Cause:T5 CSite:T62
+E30	Positive_regulation:T63 Theme:E26 Cause:T6 CSite:T62
+E31	Positive_regulation:T63 Theme:E32 Cause:T1 CSite:T62
+E32	Binding:T65 Theme:T1
+E33	Positive_regulation:T63 Theme:E32 Cause:T3 CSite:T62
+E34	Positive_regulation:T63 Theme:E32 Cause:T4 CSite:T62
+E35	Positive_regulation:T63 Theme:E32 Cause:T5 CSite:T62
+E36	Positive_regulation:T63 Theme:E32 Cause:T6 CSite:T62
+E37	Positive_regulation:T63 Theme:E38 Cause:T1 CSite:T62
+E38	Binding:T65 Theme:T3
+E39	Positive_regulation:T63 Theme:E38 Cause:T3 CSite:T62
+E40	Positive_regulation:T63 Theme:E38 Cause:T4 CSite:T62
+E41	Positive_regulation:T63 Theme:E38 Cause:T5 CSite:T62
+E42	Positive_regulation:T63 Theme:E38 Cause:T6 CSite:T62
+E43	Positive_regulation:T63 Theme:E44 Cause:T1 CSite:T62
+E44	Binding:T65 Theme:T4
+E45	Positive_regulation:T63 Theme:E44 Cause:T3 CSite:T62
+E46	Positive_regulation:T63 Theme:E44 Cause:T4 CSite:T62
+E47	Positive_regulation:T63 Theme:E44 Cause:T5 CSite:T62
+E48	Positive_regulation:T63 Theme:E44 Cause:T6 CSite:T62
+E49	Positive_regulation:T63 Theme:E50 Cause:T1 CSite:T62
+E50	Binding:T65 Theme:T5
+E51	Positive_regulation:T63 Theme:E50 Cause:T3 CSite:T62
+E52	Positive_regulation:T63 Theme:E50 Cause:T4 CSite:T62
+E53	Positive_regulation:T63 Theme:E50 Cause:T5 CSite:T62
+E54	Positive_regulation:T63 Theme:E50 Cause:T6 CSite:T62
+E55	Positive_regulation:T63 Theme:E56 Cause:T1 CSite:T62
+E56	Binding:T65 Theme:T6
+E57	Positive_regulation:T63 Theme:E56 Cause:T3 CSite:T62
+E58	Positive_regulation:T63 Theme:E56 Cause:T4 CSite:T62
+E59	Positive_regulation:T63 Theme:E56 Cause:T5 CSite:T62
+E60	Positive_regulation:T63 Theme:E56 Cause:T6 CSite:T62
+E61	Phosphorylation:T66 Theme:T10 Site:T67
+E62	Phosphorylation:T66 Theme:T10 Site:T68
+E63	Ubiquitination:T69 Theme:T10 Site:T70
+E64	Ubiquitination:T69 Theme:T10 Site:T71
+E65	Protein_catabolism:T72 Theme:T10
+E66	Positive_regulation:T73 Theme:E65
+E67	Phosphorylation:T74 Theme:T11 Site:T75
+E68	Phosphorylation:T74 Theme:T11 Site:T77
+E69	Phosphorylation:T74 Theme:T11 Site:T79
+E70	Positive_regulation:T76 Theme:E67 Cause:T12
+E71	Positive_regulation:T78 Theme:E67 Cause:T13
+E72	Positive_regulation:T80 Theme:E67 Cause:T14
+E73	Acetylation:T81 Theme:T15 Site:T82
+E74	Acetylation:T81 Theme:T15 Site:T83
+E75	Positive_regulation:T84 Theme:E76 Cause:E73
+E76	Binding:T85 Theme:T15
+E77	Positive_regulation:T84 Theme:E76 Cause:E74
+E78	Negative_regulation:T86 Theme:E79 Cause:E73
+E79	Binding:T87 Theme:T15 Theme2:T16
+E80	Negative_regulation:T86 Theme:E79 Cause:E74
+E81	Acetylation:T88 Theme:T15 Site:T89
+E82	Deacetylation:T90 Theme:T20 Cause:T21
+E83	Deacetylation:T90 Theme:T20 Cause:T22
+E84	Deacetylation:T91 Theme:T23 Site:T92
+E85	Deacetylation:T91 Theme:T23 Site:T93
+E86	Binding:T94 Theme:T24 Theme2:T25
+E87	Positive_regulation:T95 Theme:E88 Cause:E86
+E88	Positive_regulation:T96 Theme:T26
+E89	Binding:T97 Theme:T27
+E90	Binding:T98 Theme:T28
+E91	Positive_regulation:T99 Theme:E92 Cause:E90
+E92	Transcription:T100 Theme:T29
+E93	Positive_regulation:T99 Theme:E94 Cause:E90
+E94	Transcription:T100 Theme:T31
+E95	Binding:T101 Theme:T33 Theme2:T34
+E96	Binding:T101 Theme:T33 Theme2:T35
+E97	Binding:T101 Theme:T33 Theme2:T36
+E98	Binding:T101 Theme:T33 Theme2:T37
+E99	Binding:T101 Theme:T33 Theme2:T38
+E100	Binding:T101 Theme:T33 Theme2:T39
+E101	Binding:T101 Theme:T33 Theme2:T40
+E102	Binding:T101 Theme:T33 Theme2:T41
+E103	Binding:T101 Theme:T33 Theme2:T42
+E104	Localization:T102 Theme:T43
+E105	Binding:T103 Theme:T43
+E106	Gene_expression:T104 Theme:T45
+E107	Positive_regulation:T105 Theme:E108 Cause:T46
+E108	Protein_catabolism:T106 Theme:T47
+E109	Negative_regulation:T107 Theme:E110 Cause:T46
+E110	Positive_regulation:T108 Theme:E111 Cause:T49
+E111	Deacetylation:T109 Theme:T50 Site:T110
+E112	Gene_expression:T111 Theme:T53
+E113	Binding:T112 Theme:T54 Theme2:T55
+E114	Binding:T113 Theme:T56 Theme2:T57

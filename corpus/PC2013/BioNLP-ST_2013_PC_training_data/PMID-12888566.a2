@@ -1,0 +1,33 @@
+*	Equiv T5 T6
+*	Equiv T9 T10
+*	Equiv T20 T21
+T38	Binding 704 716	interactions
+E1	Binding:T38 Theme:T12 Theme2:T9
+E2	Binding:T38 Theme:T12 Theme2:T11
+T39	Binding 821 845	form stable heterodimers
+E3	Binding:T39 Theme2:T15 Theme:T16
+T40	Binding 864 874	homodimers
+E4	Binding:T40 Theme:T17
+T41	Dissociation 893 904	dissociated
+T42	Positive_regulation 893 904	dissociated
+E5	Dissociation:T41 Product:T17
+E6	Positive_regulation:T42 Theme:E5 Cause:T18
+T43	Gene_expression 1025 1033	produced
+E7	Gene_expression:T43 Theme:T19
+T44	Binding 1283 1287	bind
+E8	Binding:T44 Theme:T24 Theme2:T26
+E9	Binding:T44 Theme:T25 Theme2:T26
+E10	Binding:T44 Theme:T26 Theme2:T24
+E11	Binding:T44 Theme:T27 Theme2:T25
+T45	Binding 1436 1444	interact
+E12	Binding:T45 Theme:T29
+E13	Binding:T45 Theme:T28
+T46	Binding 1524 1555	form heterotetrameric complexes
+E14	Binding:T46 Theme:T29 Theme2:T28 Theme3:T26 Theme4:T27
+T47	Regulation 1763 1767	role
+E15	Regulation:T47 Theme:E16
+M1	Negation E15
+T48	Binding 1816 1827	association
+E16	Binding:T48 Theme:T32 Theme2:T33 Theme3:T34
+T49	Pathway 2040 2048	pathways
+E17	Pathway:T49 Participant:T37

@@ -1,0 +1,65 @@
+*	Equiv T6 T7
+*	Equiv T22 T23
+T36	Activation 43 53	activation
+E1	Activation:T36 Theme:T2
+T37	Degradation 66 77	degradation
+E2	Degradation:T37 Theme:T3
+T38	Localization 90 97	binding
+E3	Localization:T38 Theme:T4 ToLoc:T5
+T39	Positive_regulation 305 313	promotes
+E4	Positive_regulation:T39 Theme:E5
+T40	Positive_regulation 314 324	activation
+E5	Positive_regulation:T40 Theme:E6
+T41	Pathway 347 354	cascade
+E6	Pathway:T41 Participant:T8
+T42	Positive_regulation 359 366	induces
+E7	Positive_regulation:T42 Theme:E8 Cause:E4
+T43	Degradation 367 378	degradation
+E8	Degradation:T43 Theme:T9
+T44	Activation 409 418	activated
+E9	Activation:T44 Theme:T10
+T45	Binding 439 452	oligomeration
+E10	Binding:T45 Theme:T10
+T46	Pathway 533 542	apoptosis
+E11	Pathway:T46 
+T47	Dissociation 644 650	cleave
+E12	Dissociation:T47 Product:T13 Product2:T14
+T48	Activation 655 663	activate
+E13	Activation:T48 Theme:T14 Cause:T13
+T49	Activation 718 727	Activated
+E14	Activation:T49 Theme:T15
+T50	Activation 1045 1055	Activation
+E15	Activation:T50 Theme:T20
+T51	Positive_regulation 1072 1081	dependent
+E16	Positive_regulation:T51 Theme:E15 Cause:E17
+T52	Degradation 1089 1100	degradation
+E17	Degradation:T52 Theme:T21
+T53	Phosphorylation 1139 1153	phosphorylates
+E18	Phosphorylation:T53 Theme:T24 Cause:T23 Site:T25
+E19	Phosphorylation:T53 Theme:T24 Cause:T23 Site:T26
+T54	Ubiquitination 1205 1223	polyubiquitination
+T55	Positive_regulation 1205 1223	polyubiquitination
+E20	Ubiquitination:T54 Site:T27 Theme:T24
+E21	Ubiquitination:T54 Site:T28 Theme:T24
+E22	Positive_regulation:T55 Theme:E21 Cause:E19
+E23	Positive_regulation:T55 Theme:E20 Cause:E18
+T56	Degradation 1259 1270	degradation
+T57	Positive_regulation 1259 1270	degradation
+E24	Degradation:T56 Theme:T24
+E25	Positive_regulation:T57 Cause:E21 Theme:E27
+E26	Positive_regulation:T57 Theme:E24 Cause:E20
+E27	Degradation:T56 Theme:T24
+T58	Pathway 1348 1357	apoptotic
+E28	Pathway:T58 
+T59	Pathway 1372 1390	signaling pathways
+E29	Pathway:T59 Participant:T30
+T60	Activation 1434 1444	activation
+E30	Activation:T60 Theme:T32
+T61	Inactivation 1462 1472	inactivate
+E31	Inactivation:T61 Cause:E30 Theme:T33
+T62	Activation 1502 1511	activated
+E32	Activation:T62 Theme:T34
+T63	Negative_regulation 1525 1532	inhibit
+E33	Negative_regulation:T63 Theme:E34 Cause:E32
+T64	Activation 1537 1547	activation
+E34	Activation:T64 Theme:T35

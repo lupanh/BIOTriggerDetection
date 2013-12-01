@@ -1,0 +1,3 @@
+(S1 (S (NP (NP (NN Chromatin) (NN Immunoprecipitation)) (PRN (-LRB- -LRB-) (NP (NN ChIP)) (-RRB- -RRB-)))))
+(S1 (S (S (NP (NN ChIP) (NNS assays)) (VP (VBD was) (VP (VBN performed) (PP (IN as) (NP (ADVP (RB previously)) (NN described6)))))) (. .)))
+(S1 (S (S (NP (NP (DT The) (NNS primers)) (VP (VBN used) (S (VP (TO to) (VP (VB amplify) (NP (NP (DT the) (NN promoter) (NN region)) (ADJP (JJ adjacent) (PP (TO to) (NP (NP (DT the) (NN kappaB) (NNS sites)) (PP (IN of) (NP (NP (NN IL8)) (CC and) (NP (NN NFKBIA)) (, ,) (CONJP (RB as) (RB well) (IN as)) (NP (NN ACTB))))))))))))) (VP (VBP have) (VP (VBN been) (NP (NN described6))))) (. .)))

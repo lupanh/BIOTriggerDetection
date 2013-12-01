@@ -1,0 +1,25 @@
+T1	Simple_chemical 23 30	calcium
+T2	Simple_chemical 31 43	phospholipid
+T3	Cellular_component 64 73	cytosolic
+T4	Gene_or_gene_product 74 90	phospholipase A2
+T5	Gene_or_gene_product 93 119	Cytosolic phospholipase A2
+T6	Gene_or_gene_product 121 126	cPLA2
+T7	Simple_chemical 133 140	calcium
+T8	Simple_chemical 181 197	arachidonic acid
+T9	Cellular_component 209 217	membrane
+T10	Simple_chemical 218 231	phospholipids
+T11	Simple_chemical 264 275	eicosanoids
+T12	Simple_chemical 280 306	platelet-activating factor
+T13	Simple_chemical 343 350	calcium
+T14	Simple_chemical 451 458	calcium
+T15	Cellular_component 500 509	membranes
+T16	Cellular_component 558 566	membrane
+T17	Simple_chemical 760 776	phosphoinositide
+T18	Gene_or_gene_product 786 809	phospholipase C delta 1
+T19	Simple_chemical 878 885	calcium
+T20	Cellular_component 988 996	membrane
+T21	Cellular_component 1130 1138	membrane
+T22	Gene_or_gene_product 1151 1156	cPLA2
+T23	Gene_or_gene_product 1208 1213	cPLA2
+T24	Gene_or_gene_product 1262 1278	protein kinase C
+T25	Gene_or_gene_product 1283 1297	synaptotagmins

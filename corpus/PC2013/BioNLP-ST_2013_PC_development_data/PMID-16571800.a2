@@ -1,0 +1,72 @@
+T40	Binding 55 60	binds
+E1	Binding:T40 Theme:T2 Theme2:T1
+T41	Positive_regulation 70 81	facilitates
+E2	Positive_regulation:T41 Theme:E3 Cause:E1
+T42	Degradation 87 98	degradation
+E3	Degradation:T42 Theme:T3
+T43	Positive_regulation 148 157	increased
+E4	Positive_regulation:T43 Theme:T4
+T44	Negative_regulation 285 288	low
+E5	Negative_regulation:T44 Theme:T5
+T45	Positive_regulation 338 347	activates
+E6	Positive_regulation:T45 Theme:E7 Cause:T6
+T46	Transcription 352 365	transcription
+E7	Transcription:T46 Theme:T7
+T47	Binding 383 388	binds
+E8	Binding:T47 Theme:T8 Theme2:T9
+T48	Ubiquitination 393 406	ubiquitinates
+E9	Ubiquitination:T48 Theme:T9 Cause:T8
+T49	Positive_regulation 412 421	targeting
+E10	Positive_regulation:T49 Theme:E11 Cause:E8
+T50	Degradation 442 453	degradation
+E11	Degradation:T50 Theme:T10
+T51	Inactivation 518 530	undetectable
+E12	Inactivation:T51 Theme:T11 Cause:T12
+T52	Negative_regulation 616 625	depletion
+E13	Negative_regulation:T52 Theme:T13 Cause:T15
+E14	Negative_regulation:T52 Theme:T13 Cause:T16
+M1	Negation E14
+T53	Negative_regulation 790 799	prevented
+E15	Negative_regulation:T53 Theme:E16 Cause:T18
+T54	Ubiquitination 828 841	ubiquitinated
+E16	Ubiquitination:T54 Theme:T19
+T55	Positive_regulation 880 889	important
+E17	Positive_regulation:T55 Theme:E18 Cause:T20
+T56	Negative_regulation 899 908	depletion
+E18	Negative_regulation:T56 Theme:T21
+T57	Negative_regulation 1129 1136	blocked
+E19	Negative_regulation:T57 Cause:T25 Theme:E22
+T58	Positive_regulation 1141 1143	's
+E20	Positive_regulation:T58 Cause:T26 Theme:E22
+T59	Regulation 1148 1159	independent
+E21	Regulation:T59 Theme:E22 Cause:T27
+M2	Negation E21
+T60	Positive_regulation 1160 1175	transactivation
+E22	Positive_regulation:T60 Theme:T28
+T61	Positive_regulation 1343 1352	increased
+E23	Positive_regulation:T61 Cause:T29 Theme:T32
+E24	Positive_regulation:T61 Cause:T30 Theme:T32
+M3	Negation E24
+T62	Negative_regulation 1378 1385	reduced
+E25	Negative_regulation:T62 Cause:T29 Theme:T33
+E26	Negative_regulation:T62 Cause:T30 Theme:T33
+M4	Negation E26
+T63	Negative_regulation 1440 1449	depletion
+E27	Negative_regulation:T63 Theme:T34
+T64	Positive_regulation 1460 1468	restored
+E28	Positive_regulation:T64 Theme:E29 Cause:E27
+T65	Positive_regulation 1507 1517	accumulate
+E29	Positive_regulation:T65 Theme:T35
+T66	Binding 1608 1620	interactions
+E30	Binding:T66 Theme:T36 Theme2:T37
+T67	Positive_regulation 1645 1650	cause
+E31	Positive_regulation:T67 Theme:E33 Cause:E30
+T68	Regulation 1662 1673	independent
+E32	Regulation:T68 Theme:E33
+M5	Negation E32
+T69	Degradation 1674 1685	degradation
+E33	Degradation:T69 Theme:T38
+T70	Positive_regulation 1715 1724	important
+E34	Positive_regulation:T70 Theme:E35 Cause:E31
+T71	Positive_regulation 1733 1745	accumulation
+E35	Positive_regulation:T71 Theme:T39

@@ -1,0 +1,13 @@
+T1	Gene_or_gene_product 0 4	TP53
+T2	Gene_or_gene_product 14 18	MDM2
+T3	Gene_or_gene_product 231 234	p53
+T4	Gene_or_gene_product 247 251	TP53
+T5	Gene_or_gene_product 337 341	TP53
+T6	Gene_or_gene_product 574 578	TP53
+T7	Gene_or_gene_product 610 614	MDM2
+T8	Complex 680 683	HLA
+T9	Gene_or_gene_product 727 731	TP53
+T10	Gene_or_gene_product 733 737	TP53
+T11	Complex 1186 1189	HLA
+T12	Gene_or_gene_product 1299 1303	TP53
+T13	Gene_or_gene_product 1378 1382	MDM2

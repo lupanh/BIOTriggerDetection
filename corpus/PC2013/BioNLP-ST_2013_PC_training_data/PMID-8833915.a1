@@ -1,0 +1,29 @@
+T1	Complex 23 34	sodium pump
+T2	Gene_or_gene_product 57 75	Na+-Ca++ exchanger
+T3	Simple_chemical 105 115	glycosides
+T4	Complex 164 175	sodium pump
+T5	Complex 177 188	Na,K-ATPase
+T6	Simple_chemical 233 236	Na+
+T7	Simple_chemical 237 241	Ca++
+T8	Simple_chemical 299 303	Ca++
+T9	Complex 405 417	sodium pumps
+T10	Gene_or_gene_product 462 481	Na+-Ca++ exchangers
+T11	Gene_or_gene_product 706 724	Na,K-ATPase alpha1
+T12	Gene_or_gene_product 726 732	alpha2
+T13	Gene_or_gene_product 734 740	alpha3
+T14	Gene_or_gene_product 742 747	beta1
+T15	Gene_or_gene_product 753 772	Na+-Ca++ exchangers
+T16	Gene_or_gene_product 789 806	Na,K-ATPase beta2
+T17	Simple_chemical 867 876	glycoside
+T18	Complex 891 902	alpha1beta1
+T19	Complex 904 915	alpha2beta1
+T20	Complex 921 932	alpha3beta1
+T21	Gene_or_gene_product 934 940	alpha3
+T22	Gene_or_gene_product 942 947	beta1
+T23	Complex 949 960	sodium pump
+T24	Gene_or_gene_product 975 993	Na+-Ca++ exchanger
+T25	Simple_chemical 1158 1164	sodium
+T26	Simple_chemical 1183 1191	BDF 9148
+T27	Complex 1350 1368	glycoside receptor
+T28	Complex 1440 1452	sodium pumps
+T29	Gene_or_gene_product 1460 1479	Na+-Ca++ exchangers

@@ -1,0 +1,104 @@
+*	Equiv T2 T3
+*	Equiv T7 T8
+*	Equiv T11 T12
+*	Equiv T14 T15
+*	Equiv T17 T18
+*	Equiv T21 T22
+*	Equiv T26 T27
+*	Equiv T31 T32
+*	Equiv T37 T38
+*	Equiv T39 T40
+*	Equiv T41 T42
+*	Equiv T44 T45
+*	Equiv T49 T50
+*	Equiv T53 T54
+T57	Regulation 4 15	independent
+E1	Regulation:T57 Cause:T1 Theme:E3
+E2	Regulation:T57 Cause:T1 Theme:E4
+M1	Negation E1
+M2	Negation E2
+T58	Positive_regulation 16 28	upregulation
+E3	Positive_regulation:T58 Theme:E5 Cause:T5
+E4	Positive_regulation:T58 Theme:E5 Cause:T6
+T59	Gene_expression 58 68	expression
+E5	Gene_expression:T59 Theme:T2
+T60	Binding 178 183	binds
+E6	Binding:T60 Theme:T7 Theme2:T10
+T61	Positive_regulation 247 256	induction
+E7	Positive_regulation:T61 Theme:T11
+T62	Regulation 305 314	dependent
+E8	Regulation:T62 Cause:T13 Theme:E7
+T63	Positive_regulation 336 342	induce
+E9	Positive_regulation:T63 Theme:E10
+T64	Pathway 343 352	apoptosis
+E10	Pathway:T64 
+T65	Positive_regulation 357 367	upregulate
+E11	Positive_regulation:T65 Theme:E12
+T66	Transcription 379 394	mRNA expression
+E12	Transcription:T66 Theme:T14
+T67	Pathway 501 510	apoptosis
+E13	Pathway:T67 
+T68	Positive_regulation 511 519	inducing
+E14	Positive_regulation:T68 Theme:E13
+T69	Positive_regulation 529 537	increase
+E15	Positive_regulation:T69 Theme:E16
+T70	Transcription 542 552	expression
+E16	Transcription:T70 Theme:T17
+T71	Regulation 581 592	independent
+E17	Regulation:T71 Cause:T19 Theme:E15
+M3	Negation E17
+T72	Positive_regulation 644 653	increased
+E18	Positive_regulation:T72 Cause:T20 Theme:T21
+T73	Positive_regulation 805 812	induced
+E19	Positive_regulation:T73 Cause:T25 Theme:E21
+E20	Positive_regulation:T73 Cause:T25 Theme:T26
+T74	Pathway 813 822	apoptosis
+E21	Pathway:T74 
+T75	Regulation 892 903	independent
+E22	Regulation:T75 Cause:T28 Theme:E19
+E23	Regulation:T75 Cause:T28 Theme:E20
+M4	Negation E22
+M5	Negation E23
+T76	Positive_regulation 958 966	elevated
+E24	Positive_regulation:T76 Cause:T30 Theme:T31
+T77	Pathway 1071 1080	apoptosis
+E25	Pathway:T77 
+T78	Positive_regulation 1091 1100	induction
+E26	Positive_regulation:T78 Theme:T31
+T79	Negative_regulation 1105 1114	inhibited
+E27	Negative_regulation:T79 Theme:E26 Cause:T34
+T80	Positive_regulation 1215 1222	induced
+E28	Positive_regulation:T80 Theme:E29 Cause:T36
+T81	Pathway 1223 1232	apoptosis
+E29	Pathway:T81 
+T82	Positive_regulation 1245 1253	increase
+E30	Positive_regulation:T82 Theme:T37 Cause:T36
+M6	Negation E30
+T83	Positive_regulation 1322 1329	induced
+E31	Positive_regulation:T83 Cause:T39 Theme:E33
+E32	Positive_regulation:T83 Cause:T39 Theme:T41
+T84	Pathway 1330 1339	apoptosis
+E33	Pathway:T84 
+T85	Positive_regulation 1394 1403	induction
+E34	Positive_regulation:T85 Theme:T44 Cause:T46
+T86	Negative_regulation 1440 1447	delayed
+E35	Negative_regulation:T86 Theme:E34
+T87	Regulation 1505 1515	implicated
+E36	Regulation:T87 Cause:T47 Theme:E37
+M7	Speculation E36
+T88	Pathway 1529 1538	signaling
+E37	Pathway:T88 Participant:T48
+T89	Positive_regulation 1555 1564	induction
+E38	Positive_regulation:T89 Theme:T49 Cause:T51
+T90	Negative_regulation 1619 1626	delayed
+E39	Negative_regulation:T90 Theme:E38
+T91	Regulation 1704 1715	play a role
+E40	Regulation:T91 Cause:T53 Theme:E42
+M8	Speculation E40
+T92	Regulation 1723 1734	independent
+E41	Regulation:T92 Cause:T55 Theme:E42
+M9	Negation E41
+T93	Pathway 1735 1744	apoptosis
+E42	Pathway:T93 
+T94	Positive_regulation 1745 1752	induced
+E43	Positive_regulation:T94 Theme:E42

@@ -1,0 +1,23 @@
+*	Equiv T3 T4
+*	Equiv T5 T6
+*	Equiv T11 T12
+*	Equiv T21 T22
+T27	Pathway 244 253	signaling
+E1	Pathway:T27 Participant:T2 Participant2:T3 Participant3:T5
+T28	Transport 606 619	translocation
+E2	Transport:T28 FromLoc:T10 Theme:T12
+T29	Transport 1022 1035	translocation
+E3	Transport:T29 FromLoc:T16 Theme:T17
+T30	Positive_regulation 1058 1067	dependent
+T31	Regulation 1058 1067	dependent
+E4	Positive_regulation:T30 Theme:E3 Cause:T18
+E5	Regulation:T31 Cause:T19 Theme:E3
+M1	Negation E5
+T32	Positive_regulation 1106 1115	induction
+E6	Positive_regulation:T32 Theme:T20
+E7	Positive_regulation:T32 Theme:T21
+T33	Positive_regulation 1194 1201	depends
+E8	Positive_regulation:T33 Cause:T23 Theme:E6
+E9	Positive_regulation:T33 Cause:T24 Theme:E6
+E10	Positive_regulation:T33 Cause:T24 Theme:E7
+E11	Positive_regulation:T33 Cause:T23 Theme:E7

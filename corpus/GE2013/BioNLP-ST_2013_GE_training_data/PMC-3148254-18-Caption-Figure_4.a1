@@ -1,0 +1,15 @@
+T1	Protein 0 4	CD40
+T2	Protein 61 65	HOIP
+T3	Protein 83 87	CD40
+T4	Protein 124 128	HOIP
+T5	Protein 258 262	HOIP
+T6	Protein 324 328	HOIP
+T7	Protein 330 334	HOIP
+T8	Protein 340 344	HOIP
+T9	Protein 373 378	CD154
+T10	Protein 499 504	CD154
+T11	Protein 612 632	Phospho-IkappaBalpha
+T12	Protein 634 647	pIkappaBalpha
+T13	Protein 715 727	IkappaBalpha
+T14	Protein 810 822	IkappaBalpha
+T15	Protein 1036 1040	HOIP

@@ -1,0 +1,77 @@
+*	Equiv T5 T6
+*	Equiv T17 T18
+T33	Negative_regulation 8 16	inhibits
+E1	Negative_regulation:T33 Theme:E2 Cause:T1
+T34	Pathway 42 49	pathway
+E2	Pathway:T34 Participant:T2
+T35	Positive_regulation 69 78	dependent
+E3	Positive_regulation:T35 Theme:E1 Cause:T3
+E4	Positive_regulation:T35 Theme:E1 Cause:T4
+T36	Regulation 356 364	regulate
+E5	Regulation:T36 Theme:T7
+T37	Inactivation 441 452	inactivated
+E6	Inactivation:T37 Theme:T8 Cause:E7
+T38	Positive_regulation 500 506	result
+E7	Positive_regulation:T38 Theme:E8
+T39	Positive_regulation 510 523	up-regulation
+E8	Positive_regulation:T39 Theme:T9
+T40	Gene_expression 585 595	expressing
+E9	Gene_expression:T40 Theme:T10
+T41	Transport 601 606	carry
+E10	Transport:T41 Theme:T11
+T42	Gene_expression 637 644	express
+E11	Gene_expression:T42 Theme:T12
+M1	Negation E11
+T43	Gene_expression 718 728	expressing
+E12	Gene_expression:T43 Theme:T14
+T44	Positive_regulation 790 797	induced
+E13	Positive_regulation:T44 Cause:T15 Theme:E16
+E14	Positive_regulation:T44 Cause:T15 Theme:E17
+E15	Positive_regulation:T44 Cause:T15 Theme:E18
+T45	Activation 798 808	activation
+E16	Activation:T45 Theme:T16
+E17	Activation:T45 Theme:T19
+E18	Activation:T45 Theme:T17
+T46	Regulation 981 991	regulation
+E19	Regulation:T46 Theme:T20
+T47	Pathway 1073 1082	signaling
+E20	Pathway:T47 Participant:T21
+T48	Positive_regulation 1083 1088	leads
+E21	Positive_regulation:T48 Cause:E20 Theme:E23
+E22	Positive_regulation:T48 Cause:E20 Theme:E24
+T49	Inactivation 1107 1119	inactivation
+E23	Inactivation:T49 Theme:T22
+T50	Degradation 1127 1138	degradation
+E24	Degradation:T50 Theme:T22
+T51	Positive_regulation 1162 1171	dependent
+E25	Positive_regulation:T51 Cause:T23 Theme:E23
+E26	Positive_regulation:T51 Cause:T24 Theme:E23
+E27	Positive_regulation:T51 Cause:T23 Theme:E24
+E28	Positive_regulation:T51 Cause:T24 Theme:E24
+T52	Localization 1202 1211	exclusion
+E29	Localization:T52 AtLoc:T25 Theme:T26
+M2	Negation E29
+T53	Positive_regulation 1236 1245	dependent
+E30	Positive_regulation:T53 Cause:T27 Theme:E29
+T54	Activation 1287 1299	reactivation
+E31	Activation:T54 Theme:T28 Cause:E35
+E32	Activation:T54 Theme:T28 Cause:E36
+E33	Activation:T54 Theme:T28 Cause:E37
+T55	Gene_expression 1314 1324	expressing
+E34	Gene_expression:T55 Theme:T29
+T56	Positive_regulation 1336 1342	result
+E35	Positive_regulation:T56 Theme:E38
+E36	Positive_regulation:T56 Theme:E39
+E37	Positive_regulation:T56 Theme:E40
+T57	Negative_regulation 1360 1370	inhibition
+E38	Negative_regulation:T57 Theme:T30
+E39	Negative_regulation:T57 Theme:T31
+E40	Negative_regulation:T57 Theme:T32
+T58	Positive_regulation 1415 1422	results
+E41	Positive_regulation:T58 Theme:E44 Cause:E31
+E42	Positive_regulation:T58 Theme:E44 Cause:E32
+E43	Positive_regulation:T58 Theme:E44 Cause:E33
+T59	Positive_regulation 1430 1439	induction
+E44	Positive_regulation:T59 Theme:E45
+T60	Pathway 1443 1452	apoptosis
+E45	Pathway:T60 

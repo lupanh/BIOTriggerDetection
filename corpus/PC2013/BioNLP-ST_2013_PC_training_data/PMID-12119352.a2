@@ -1,0 +1,12 @@
+*	Equiv T3 T4
+T20	Negative_regulation 336 345	inhibitor
+E1	Negative_regulation:T20 Cause:T5 Theme:T6
+E2	Negative_regulation:T20 Cause:T5 Theme:T7
+T21	Negative_regulation 688 698	preventing
+E3	Negative_regulation:T21 Theme:E4
+T22	Positive_regulation 711 721	activation
+E4	Positive_regulation:T22 Theme:E5
+T23	Pathway 739 756	signaling cascade
+E5	Pathway:T23 Participant:T12
+T24	Regulation 1003 1012	sensitive
+E6	Regulation:T24 Cause:T17 Theme:T18

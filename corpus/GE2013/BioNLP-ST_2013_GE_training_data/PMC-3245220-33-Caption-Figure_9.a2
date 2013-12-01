@@ -1,0 +1,5 @@
+T2	Positive_regulation 73 83	activating
+T3	Phosphorylation 98 113	phosphorylation
+T4	Entity 117 123	Ser276
+E1	Positive_regulation:T2 Theme:E2
+E2	Phosphorylation:T3 Theme:T1 Site:T4

@@ -1,0 +1,39 @@
+T21	Negative_regulation 180 188	mutation
+T22	Negative_regulation 622 632	deficiency
+T23	Negative_regulation 957 965	mutation
+T24	Binding 1326 1332	ligand
+T25	Binding 1355 1361	ligand
+T26	Positive_regulation 1521 1529	resulted
+T27	Positive_regulation 1533 1542	increased
+T28	Gene_expression 1543 1553	expression
+T29	Regulation 1609 1619	difference
+T30	Gene_expression 1627 1637	expression
+T20	Anaphora 1648 1661	these markers
+T31	Negative_regulation 1712 1722	deficiency
+R1	Coreference Subject:T20 Object:T16
+R2	Coreference Subject:T20 Object:T17
+R3	Coreference Subject:T20 Object:T18
+E1	Negative_regulation:T21 Theme:T1
+E2	Negative_regulation:T22 Theme:T8
+E3	Negative_regulation:T23 Theme:T9
+E4	Binding:T24 Theme:T14
+E5	Binding:T25 Theme:T15
+E6	Positive_regulation:T26 Theme:E7
+E7	Positive_regulation:T27 Theme:E12
+E8	Positive_regulation:T26 Theme:E9
+E9	Positive_regulation:T27 Theme:E13
+E10	Positive_regulation:T26 Theme:E11
+E11	Positive_regulation:T27 Theme:E14
+E12	Gene_expression:T28 Theme:T16
+E13	Gene_expression:T28 Theme:T17
+E14	Gene_expression:T28 Theme:T18
+E15	Regulation:T29 Theme:E16
+E16	Gene_expression:T30 Theme:T16
+E17	Regulation:T29 Theme:E18
+E18	Gene_expression:T30 Theme:T17
+E19	Regulation:T29 Theme:E20
+E20	Gene_expression:T30 Theme:T18
+E21	Negative_regulation:T31 Theme:T19
+M1	Negation E15
+M2	Negation E17
+M3	Negation E19

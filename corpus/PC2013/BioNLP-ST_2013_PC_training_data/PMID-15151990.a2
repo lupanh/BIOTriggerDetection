@@ -1,0 +1,31 @@
+*	Equiv T9 T10
+*	Equiv T29 T30
+T31	Positive_regulation 23 32	essential
+E1	Positive_regulation:T31 Cause:T1 Theme:E2
+T32	Positive_regulation 33 45	co-activator
+E2	Positive_regulation:T32 Theme:E3 Cause:T1
+T33	Pathway 53 62	signaling
+E3	Pathway:T33 Participant:T2
+T34	Pathway 117 126	signaling
+E4	Pathway:T34 Participant:T3 Participant2:T4
+T35	Pathway 276 285	signaling
+E5	Pathway:T35 Participant:T5
+T36	Phosphorylation 483 496	phosphorylate
+E6	Phosphorylation:T36 Cause:T9 Theme:T11
+T37	Negative_regulation 518 525	inhibit
+E7	Negative_regulation:T37 Cause:T9 Theme:E8
+T38	Binding 534 541	binding
+E8	Binding:T38 Theme:T12
+T39	Gene_expression 777 790	overexpressed
+E9	Gene_expression:T39 Theme:T17
+T40	Negative_regulation 832 844	downregulate
+E10	Negative_regulation:T40 Theme:T20 Cause:E9
+E11	Negative_regulation:T40 Theme:T21 Cause:E9
+E12	Negative_regulation:T40 Theme:T20 Cause:T18
+E13	Negative_regulation:T40 Theme:T21 Cause:T18
+T41	Negative_regulation 940 950	Inhibition
+E14	Negative_regulation:T41 Theme:T23
+T42	Positive_regulation 1195 1213	positive regulator
+E15	Positive_regulation:T42 Cause:T26 Theme:E16
+T43	Pathway 1221 1230	signaling
+E16	Pathway:T43 Participant:T27

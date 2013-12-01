@@ -1,0 +1,78 @@
+T45	Positive_regulation 68 76	promotes
+T46	Transcription 81 96	transcriptional
+T47	Positive_regulation 97 107	activation
+T48	Positive_regulation 122 124	by
+T49	Binding 125 136	interacting
+T50	Regulation 193 201	affected
+T51	Gene_expression 233 243	expression
+T52	Regulation 539 547	modulate
+T53	Gene_expression 556 566	expression
+T54	Gene_expression 657 667	expression
+T43	Anaphora 732 734	it
+T55	Negative_regulation 746 754	detected
+T56	Binding 846 853	binding
+T57	Positive_regulation 859 866	induced
+T58	Positive_regulation 979 988	increased
+T59	Protein_catabolism 1037 1048	Degradation
+T60	Positive_regulation 1110 1118	followed
+T61	Gene_expression 1130 1139	synthesis
+T62	Regulation 1165 1178	independently
+T63	Binding 1637 1657	coimmunoprecipitated
+T64	Positive_regulation 1702 1711	activated
+T65	Gene_expression 1727 1737	expression
+T66	Positive_regulation 1747 1756	dependent
+T67	Negative_regulation 1781 1785	lack
+T44	Anaphora 1789 1795	effect
+T68	Positive_regulation 1796 1805	following
+T69	Binding 1882 1891	recruited
+T70	Entity 1899 1917	NF-kappaB enhancer
+T71	Binding 1947 1956	occupancy
+T72	Negative_regulation 1961 1970	abolished
+T73	Binding 2079 2089	associated
+T74	Positive_regulation 2122 2129	induced
+T75	Positive_regulation 2148 2158	activation
+T76	Gene_expression 2173 2183	expression
+T77	Binding 2192 2201	occupancy
+T78	Entity 2220 2228	promoter
+T79	Positive_regulation 2233 2242	increased
+T80	Binding 2243 2254	recruitment
+R1	Coreference Subject:T43 Object:T54
+R2	Coreference Subject:T44 Object:T64
+E1	Positive_regulation:T45 Theme:E2
+E2	Positive_regulation:T47 Theme:E3
+E3	Transcription:T46 Theme:T2
+E4	Positive_regulation:T48 Theme:E1 Cause:E5
+E5	Binding:T49 Theme:T1 Theme2:T3
+E6	Regulation:T50 Theme:E7 Cause:T5
+E7	Gene_expression:T51 Theme:T6
+E8	Regulation:T52 Theme:E9
+E9	Gene_expression:T53 Theme:T11
+E10	Gene_expression:T54 Theme:T12
+E11	Gene_expression:T54 Theme:T13
+E12	Negative_regulation:T55 Theme:E10 Cause:T14
+E13	Negative_regulation:T55 Theme:E11 Cause:T14
+E14	Binding:T56 Theme:T15
+E15	Positive_regulation:T57 Theme:E14
+E16	Positive_regulation:T58 Theme:E14 Cause:T19
+E17	Protein_catabolism:T59 Theme:T20
+E18	Positive_regulation:T60 Theme:E19 Cause:E17
+E19	Gene_expression:T61 Theme:T21
+E20	Regulation:T62 Theme:E19 Cause:T22
+E21	Binding:T63 Theme:T24 Theme2:T25
+E22	Positive_regulation:T64 Theme:T28 Cause:T24
+E23	Gene_expression:T65 Theme:T27
+E24	Positive_regulation:T66 Theme:E23 Cause:E22
+E25	Negative_regulation:T67 Theme:E22
+E26	Positive_regulation:T68 Theme:E25
+E27	Binding:T69 Theme:T31 Theme2:T33 Site2:T70
+E28	Binding:T71 Theme:T34 Theme2:T33 Site2:T70
+E29	Negative_regulation:T72 Theme:E28 Cause:T35
+E30	Binding:T73 Theme:T36 Theme2:T37
+E31	Positive_regulation:T74 Theme:E32
+E32	Positive_regulation:T75 Theme:E33 Cause:T39
+E33	Gene_expression:T76 Theme:T40
+E34	Binding:T77 Theme:T36 Theme2:T41 Site2:T78
+E35	Positive_regulation:T79 Theme:E36 Cause:T36
+E36	Binding:T80 Theme:T42 Theme2:T41 Site2:T78
+M1	Speculation E6
+M2	Negation E20

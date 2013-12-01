@@ -1,0 +1,60 @@
+T1	Gene_or_gene_product 0 10	SDF-1alpha
+T2	Gene_or_gene_product 24 37	interleukin-6
+T3	Gene_or_gene_product 46 51	CXCR4
+T4	Gene_or_gene_product 53 57	PI3K
+T5	Gene_or_gene_product 58 61	Akt
+T6	Gene_or_gene_product 63 66	ERK
+T7	Complex 72 81	NF-kappaB
+T8	Gene_or_gene_product 115 144	Stromal cell-derived factor-1
+T9	Gene_or_gene_product 146 151	SDF-1
+T10	Gene_or_gene_product 168 174	CXCL12
+T11	Gene_or_gene_product 184 217	receptor CXC chemokine receptor 4
+T12	Gene_or_gene_product 219 224	CXCR4
+T13	Gene_or_gene_product 291 296	SDF-1
+T14	Gene_or_gene_product 297 302	CXCR4
+T15	Gene_or_gene_product 365 370	SDF-1
+T16	Gene_or_gene_product 536 546	SDF-1alpha
+T17	Gene_or_gene_product 547 552	CXCR4
+T18	Gene_or_gene_product 635 645	SDF-1alpha
+T19	Gene_or_gene_product 655 659	IL-6
+T20	Gene_or_gene_product 784 788	IL-6
+T21	Gene_or_gene_product 814 824	SDF-1alpha
+T22	Gene_or_gene_product 839 849	SDF-1alpha
+T23	Gene_or_gene_product 860 864	IL-6
+T24	Gene_or_gene_product 942 945	ERK
+T25	Gene_or_gene_product 947 976	phosphatidylinositol 3-kinase
+T26	Gene_or_gene_product 978 982	PI3K
+T27	Complex 985 994	NF-kappaB
+T28	Gene_or_gene_product 1011 1018	IkappaB
+T29	Gene_or_gene_product 1069 1079	SDF-1alpha
+T30	Gene_or_gene_product 1095 1098	Akt
+T31	Gene_or_gene_product 1103 1109	ERK1/2
+T32	Gene_or_gene_product 1140 1150	SDF-1alpha
+T33	Gene_or_gene_product 1176 1196	IkappaB kinase alpha
+T34	Gene_or_gene_product 1197 1201	beta
+T35	Gene_or_gene_product 1203 1212	IKK alpha
+T36	Gene_or_gene_product 1213 1217	beta
+T37	Gene_or_gene_product 1236 1248	IkappaBalpha
+T38	Gene_or_gene_product 1266 1278	IkappaBalpha
+T39	Gene_or_gene_product 1292 1295	p65
+T40	Simple_chemical 1315 1323	Ser(276)
+T41	Gene_or_gene_product 1342 1345	p65
+T42	Gene_or_gene_product 1350 1353	p50
+T43	Cellular_component 1359 1366	cytosol
+T44	Cellular_component 1370 1377	nucleus
+T45	Complex 1382 1388	kappaB
+T46	Gene_or_gene_product 1420 1430	SDF-1alpha
+T47	Complex 1452 1458	kappaB
+T48	Gene_or_gene_product 1519 1522	p85
+T49	Gene_or_gene_product 1527 1530	Akt
+T50	Gene_or_gene_product 1537 1541	ERK2
+T51	Gene_or_gene_product 1555 1564	IKK alpha
+T52	Gene_or_gene_product 1565 1569	beta
+T53	Gene_or_gene_product 1601 1604	p65
+T54	Gene_or_gene_product 1609 1612	p50
+T55	Complex 1620 1629	NF-kappaB
+T56	Gene_or_gene_product 1663 1667	PI3K
+T57	Gene_or_gene_product 1672 1675	ERK
+T58	Gene_or_gene_product 1732 1742	SDF-1alpha
+T59	Gene_or_gene_product 1747 1751	IL-6
+T60	Gene_or_gene_product 1804 1814	SDF-1alpha

@@ -1,0 +1,21 @@
+T1	Gene_or_gene_product 4 13	ubiquitin
+T2	Gene_or_gene_product 31 34	A20
+T3	Gene_or_gene_product 66 84	Toll-like receptor
+T4	Gene_or_gene_product 97 100	A20
+T5	Cellular_component 106 117	cytoplasmic
+T6	Gene_or_gene_product 158 179	tumor necrosis factor
+T7	Gene_or_gene_product 181 184	TNF
+T8	Gene_or_gene_product 253 256	A20
+T9	Gene_or_gene_product 261 264	TNF
+T10	Gene_or_gene_product 268 271	A20
+T11	Gene_or_gene_product 276 290	TNF receptor 1
+T12	Gene_or_gene_product 343 346	A20
+T13	Gene_or_gene_product 386 389	TNF
+T14	Gene_or_gene_product 419 422	A20
+T15	Gene_or_gene_product 459 477	Toll-like receptor
+T16	Complex 523 532	NF-kappaB
+T17	Gene_or_gene_product 640 643	A20
+T18	Gene_or_gene_product 697 706	ubiquitin
+T19	Gene_or_gene_product 744 749	TRAF6
+T20	Gene_or_gene_product 827 830	TLR
+T21	Gene_or_gene_product 886 895	ubiquitin

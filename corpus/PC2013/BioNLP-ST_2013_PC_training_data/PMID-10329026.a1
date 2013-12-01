@@ -1,0 +1,25 @@
+T1	Gene_or_gene_product 32 53	retinol dehydrogenase
+T2	Simple_chemical 196 205	vitamin A
+T3	Simple_chemical 226 235	vitamin A
+T4	Simple_chemical 272 285	retinoic acid
+T5	Simple_chemical 287 289	RA
+T6	Simple_chemical 292 305	Retinoic acid
+T7	Simple_chemical 333 341	retinoid
+T8	Complex 383 413	retinoic acid/nuclear receptor
+T9	Simple_chemical 500 502	RA
+T10	Simple_chemical 629 636	retinol
+T11	Simple_chemical 673 686	retinoic acid
+T12	Simple_chemical 721 734	retinaldehyde
+T13	Gene_or_gene_product 763 784	retinol dehydrogenase
+T14	Gene_or_gene_product 786 789	RDH
+T15	Gene_or_gene_product 815 850	short-chain dehydrogenase/reductase
+T16	Gene_or_gene_product 852 855	SDR
+T17	Simple_chemical 932 945	retinaldehyde
+T18	Simple_chemical 951 958	retinol
+T19	Gene_or_gene_product 968 1000	cellular retinol-binding protein
+T20	Gene_or_gene_product 1007 1011	CRBP
+T21	Gene_or_gene_product 1142 1145	RDH
+T22	Simple_chemical 1319 1332	retinoic acid
+T23	Simple_chemical 1367 1371	NAD+
+T24	Gene_or_gene_product 1415 1419	CRBP
+T25	Simple_chemical 1426 1443	all-trans-retinol

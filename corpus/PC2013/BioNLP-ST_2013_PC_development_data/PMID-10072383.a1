@@ -1,0 +1,29 @@
+T1	Cellular_component 39 51	kinetochores
+T2	Gene_or_gene_product 59 77	type 1 phosphatase
+T3	Gene_or_gene_product 78 83	Glc7p
+T4	Cellular_component 185 197	kinetochores
+T5	Gene_or_gene_product 238 264	type 1 protein phosphatase
+T6	Gene_or_gene_product 273 280	glc7-10
+T7	Cellular_component 300 311	microtubule
+T8	Cellular_component 342 353	centromeric
+T9	Cellular_component 383 394	kinetochore
+T10	Gene_or_gene_product 462 488	type 1 protein phosphatase
+T11	Gene_or_gene_product 490 493	PP1
+T12	Gene_or_gene_product 521 528	glc7-10
+T13	Cellular_component 554 565	kinetochore
+T14	Cellular_component 566 577	microtubule
+T15	Cellular_component 628 638	chromosome
+T16	Gene_or_gene_product 671 677	Ndc10p
+T17	Complex 718 722	CBF3
+T18	Gene_or_gene_product 749 756	glc7-10
+T19	Gene_or_gene_product 767 773	Ndc10p
+T20	Gene_or_gene_product 800 807	glc7-10
+T21	Gene_or_gene_product 855 861	Ndc10p
+T22	Cellular_component 880 891	microtubule
+T23	Gene_or_gene_product 914 921	glc7-10
+T24	Gene_or_gene_product 964 971	glc7-10
+T25	Cellular_component 1011 1018	spindle
+T26	Cellular_component 1066 1077	kinetochore
+T27	Cellular_component 1078 1089	microtubule
+T28	Cellular_component 1137 1148	kinetochore
+T29	Cellular_component 1171 1178	spindle

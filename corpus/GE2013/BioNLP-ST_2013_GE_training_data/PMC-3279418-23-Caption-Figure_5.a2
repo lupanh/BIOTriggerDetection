@@ -1,0 +1,18 @@
+T7	Negative_regulation 0 6	Normal
+T8	Gene_expression 20 30	expression
+T9	Negative_regulation 35 44	decreased
+T10	Gene_expression 50 59	secretion
+T11	Gene_expression 68 78	expression
+T12	Gene_expression 716 726	production
+E1	Negative_regulation:T7 Theme:E2
+E2	Gene_expression:T8 Theme:T1
+E3	Negative_regulation:T7 Theme:E4
+E4	Gene_expression:T8 Theme:T2
+E5	Negative_regulation:T9 Theme:E6
+E6	Gene_expression:T10 Theme:T3
+E7	Negative_regulation:T9 Theme:E8
+E8	Gene_expression:T11 Theme:T4
+E9	Gene_expression:T12 Theme:T6
+M1	Negation E1
+M2	Negation E3
+M3	Speculation E9

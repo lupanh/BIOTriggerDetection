@@ -1,0 +1,35 @@
+T1	Gene_or_gene_product 27 37	Frizzled-2
+T2	Gene_or_gene_product 58 70	beta-catenin
+T3	Simple_chemical 101 105	Ca2+
+T4	Gene_or_gene_product 185 193	Frizzled
+T5	Gene_or_gene_product 315 323	Frizzled
+T6	Cellular_component 462 475	intracellular
+T7	Gene_or_gene_product 585 588	Wnt
+T8	Gene_or_gene_product 604 612	Frizzled
+T9	Gene_or_gene_product 669 679	Frizzled-2
+T10	Gene_or_gene_product 688 713	beta2-adrenergic receptor
+T11	Gene_or_gene_product 749 755	Wnt-5a
+T12	Gene_or_gene_product 759 769	Frizzled-2
+T13	Gene_or_gene_product 799 809	G proteins
+T14	Gene_or_gene_product 817 826	Galpha(i)
+T15	Simple_chemical 855 862	calcium
+T16	Cellular_component 868 888	intracellular stores
+T17	Gene_or_gene_product 937 972	nuclear factor of activated T cells
+T18	Gene_or_gene_product 1014 1028	beta-lactamase
+T19	Gene_or_gene_product 1088 1098	Frizzled-2
+T20	Simple_chemical 1118 1125	calcium
+T21	Gene_or_gene_product 1215 1221	Wnt-5a
+T22	Gene_or_gene_product 1275 1281	Wnt-3a
+T23	Gene_or_gene_product 1283 1293	Frizzled-2
+T24	Gene_or_gene_product 1318 1321	Wnt
+T25	Gene_or_gene_product 1322 1330	Frizzled
+T26	Gene_or_gene_product 1390 1402	beta-catenin
+T27	Gene_or_gene_product 1493 1501	Frizzled
+T28	Gene_or_gene_product 1676 1686	Frizzled-2
+T29	Gene_or_gene_product 1723 1733	Frizzled-1
+T30	Gene_or_gene_product 1774 1780	Wnt-3a
+T31	Gene_or_gene_product 1851 1857	Wnt-3a
+T32	Gene_or_gene_product 1895 1909	beta-lactamase
+T33	Gene_or_gene_product 1956 1966	luciferase
+T34	Gene_or_gene_product 1994 2002	Frizzled
+T35	Gene_or_gene_product 2044 2052	Frizzled

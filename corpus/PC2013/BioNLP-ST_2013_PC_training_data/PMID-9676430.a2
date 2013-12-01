@@ -1,0 +1,14 @@
+T26	Conversion 266 276	hydrolyzes
+T27	Positive_regulation 266 276	hydrolyzes
+E1	Conversion:T26 Theme:T8
+E2	Positive_regulation:T27 Cause:T6 Theme:E1
+E3	Conversion:T26 Theme:T9
+E4	Positive_regulation:T27 Cause:T6 Theme:E3
+T28	Regulation 420 426	effect
+E5	Regulation:T28 Theme:T10
+T29	Conversion 547 558	hydrolyzing
+E6	Conversion:T29 Theme:T14
+T30	Regulation 1535 1545	associated
+E7	Regulation:T30 Theme:T25
+T31	Positive_regulation 1551 1560	increased
+E8	Positive_regulation:T31 Theme:T25

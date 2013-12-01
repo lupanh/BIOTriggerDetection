@@ -1,0 +1,21 @@
+*	Equiv T10 T11
+T28	Gene_expression 12 22	expression
+E1	Gene_expression:T28 Theme:T1
+T29	Conversion 257 268	synthesized
+T30	Positive_regulation 257 268	synthesized
+E2	Conversion:T29 Product:T6
+E3	Positive_regulation:T30 Theme:E2 Cause:T10
+T31	Conversion 276 284	transfer
+T32	Positive_regulation 276 284	transfer
+E4	Conversion:T31 Theme:T7 Theme2:T8 Product:T9
+E5	Positive_regulation:T32 Cause:T10 Theme:E4
+T33	Positive_regulation 974 983	generated
+E6	Positive_regulation:T33 Theme:T17 Cause:T15
+T34	Conversion 1017 1028	transferred
+T35	Positive_regulation 1017 1028	transferred
+E7	Conversion:T34 Theme:T19 Product:T20 Theme2:T18
+E8	Positive_regulation:T35 Theme:E7 Cause:T17
+T36	Gene_expression 1228 1238	expression
+E9	Gene_expression:T36 Theme:T24
+T37	Regulation 1694 1701	related
+E10	Regulation:T37 Theme:T27 Cause:T25

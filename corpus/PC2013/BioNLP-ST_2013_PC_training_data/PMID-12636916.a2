@@ -1,0 +1,30 @@
+*	Equiv T11 T12
+T24	Positive_regulation 16 25	dependent
+E1	Positive_regulation:T24 Theme:E2
+T25	Regulation 26 36	regulation
+E2	Regulation:T25 Theme:T1
+T26	Pathway 67 77	cell cycle
+E3	Pathway:T26 
+T27	Positive_regulation 405 414	dependent
+E4	Positive_regulation:T27 Cause:T9 Theme:T8
+T28	Phosphorylation 431 444	phosphorylate
+E5	Phosphorylation:T28 Cause:T8 Theme:T10
+E6	Phosphorylation:T28 Cause:T8 Theme:T11
+T29	Positive_regulation 467 476	Induction
+E7	Positive_regulation:T29 Theme:T13
+T30	Positive_regulation 517 526	triggered
+E8	Positive_regulation:T30 Theme:E7 Cause:E9
+T31	Transport 534 547	translocation
+E9	Transport:T31 Theme:T14 ToLoc:T17
+T32	Regulation 571 581	associated
+E10	Regulation:T32 Cause:T15 Theme:E11
+T33	Regulation 582 592	regulatory
+E11	Regulation:T33 Cause:T14 Theme:T16
+T34	Regulation 642 652	correlates
+E12	Regulation:T34 Cause:E7 Theme:E14
+T35	Positive_regulation 663 672	dependent
+E13	Positive_regulation:T35 Cause:T18 Theme:E14
+T36	Dephosphorylation 673 690	dephosphorylation
+E14	Dephosphorylation:T36 Theme:T19
+T37	Regulation 877 887	regulation
+E15	Regulation:T37 Theme:T23

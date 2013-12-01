@@ -1,0 +1,42 @@
+T1	Gene_or_gene_product 125 145	Toll-like receptor 2
+T2	Gene_or_gene_product 156 175	Toll-like receptors
+T3	Gene_or_gene_product 177 181	TLRs
+T4	Simple_chemical 308 317	genistein
+T5	Simple_chemical 319 328	verapamil
+T6	Simple_chemical 330 343	chelerythrine
+T7	Gene_or_gene_product 349 364	pertussis toxin
+T8	Gene_or_gene_product 422 426	TLR2
+T9	Simple_chemical 481 494	chelerythrine
+T10	Gene_or_gene_product 498 514	protein kinase C
+T11	Gene_or_gene_product 595 599	TLR2
+T12	Simple_chemical 608 625	lipoteichoic acid
+T13	Simple_chemical 627 630	LTA
+T14	Gene_or_gene_product 728 758	phosphatidylinositol-3'-kinase
+T15	Gene_or_gene_product 760 765	PI3-K
+T16	Gene_or_gene_product 768 783	phospholipase C
+T17	Gene_or_gene_product 785 788	PLC
+T18	Simple_chemical 791 798	calcium
+T19	Gene_or_gene_product 809 825	protein kinase C
+T20	Gene_or_gene_product 827 830	PKC
+T21	Gene_or_gene_product 833 871	extra-cellular signal regulated kinase
+T22	Gene_or_gene_product 873 876	ERK
+T23	Complex 883 919	nuclear translocation factor kappa B
+T24	Complex 921 930	NF-kappaB
+T25	Gene_or_gene_product 935 939	TLR2
+T26	Simple_chemical 966 973	U-73122
+T27	Gene_or_gene_product 977 980	PLC
+T28	Simple_chemical 993 1003	wortmannin
+T29	Gene_or_gene_product 1007 1012	PI3-K
+T30	Simple_chemical 1025 1033	PD 98059
+T31	Gene_or_gene_product 1038 1041	ERK
+T32	Simple_chemical 1054 1061	Go 6976
+T33	Gene_or_gene_product 1065 1068	PKC
+T34	Simple_chemical 1084 1095	Bay 11-7082
+T35	Complex 1099 1108	NF-kappaB
+T36	Simple_chemical 1144 1147	LTA
+T37	Gene_or_gene_product 1246 1250	TLR2
+T38	Gene_or_gene_product 1260 1265	PI3-K
+T39	Gene_or_gene_product 1267 1270	PLC
+T40	Gene_or_gene_product 1272 1275	PKC
+T41	Gene_or_gene_product 1277 1280	ERK
+T42	Complex 1286 1295	NF-kappaB

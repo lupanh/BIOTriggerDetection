@@ -1,0 +1,24 @@
+*	Equiv T2 T3 T5 T4
+*	Equiv T14 T16
+*	Equiv T15 T17
+T24	Negative_regulation 135 144	mutations
+T25	Negative_regulation 593 602	deficient
+T26	Negative_regulation 716 726	deficiency
+T27	Negative_regulation 1061 1070	deficient
+T28	Negative_regulation 1080 1087	reduced
+T29	Transcription 1088 1101	transcription
+T30	Gene_expression 1106 1115	secretion
+T31	Negative_regulation 1554 1558	loss
+E1	Negative_regulation:T24 Theme:T2
+E2	Negative_regulation:T25 Theme:T6
+E3	Negative_regulation:T26 Theme:T7
+E4	Negative_regulation:T27 Theme:T11
+E5	Negative_regulation:T28 Theme:E6 Cause:E4
+E6	Transcription:T29 Theme:T12
+E7	Negative_regulation:T28 Theme:E8 Cause:E4
+E8	Transcription:T29 Theme:T13
+E9	Negative_regulation:T28 Theme:E10 Cause:E4
+E10	Gene_expression:T30 Theme:T12
+E11	Negative_regulation:T28 Theme:E12 Cause:E4
+E12	Gene_expression:T30 Theme:T13
+E13	Negative_regulation:T31 Theme:T23

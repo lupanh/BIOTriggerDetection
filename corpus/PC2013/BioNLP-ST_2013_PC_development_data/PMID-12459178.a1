@@ -1,0 +1,21 @@
+T1	Gene_or_gene_product 36 62	N-acetylglutamate synthase
+T2	Gene_or_gene_product 70 96	N-acetylglutamate synthase
+T3	Gene_or_gene_product 98 102	NAGS
+T4	Gene_or_gene_product 104 116	E.C. 2.3.1.1
+T5	Cellular_component 123 136	mitochondrial
+T6	Simple_chemical 172 189	N-acetylglutamate
+T7	Simple_chemical 191 194	NAG
+T8	Gene_or_gene_product 234 262	carbamylphosphate synthase I
+T9	Gene_or_gene_product 264 268	CPSI
+T10	Simple_chemical 295 299	urea
+T11	Gene_or_gene_product 321 325	NAGS
+T12	Gene_or_gene_product 368 372	CPSI
+T13	Simple_chemical 393 396	NAG
+T14	Gene_or_gene_product 408 412	NAGS
+T15	Gene_or_gene_product 485 489	NAGS
+T16	Cellular_component 555 568	mitochondrial
+T17	Gene_or_gene_product 629 633	NAGS
+T18	Gene_or_gene_product 825 829	NAGS
+T19	Simple_chemical 896 904	arginine
+T20	Gene_or_gene_product 916 920	NAGS
+T21	Gene_or_gene_product 945 949	NAGS

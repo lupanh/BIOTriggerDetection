@@ -1,0 +1,34 @@
+1	ELISA	_	NN	_	_	0	ROOT	_	_
+		
+1	The	_	DT	_	_	2	NMOD	_	_
+2	amount	_	NN	_	_	13	VMOD	_	_
+3	of	_	IN	_	_	2	NMOD	_	_
+4	IL-8	_	NN	_	_	3	PMOD	_	_
+5	present	_	JJ	_	_	4	APPO	_	_
+6	in	_	IN	_	_	5	AMOD	_	_
+7	supernatants	_	NNS	_	_	6	PMOD	_	_
+8	collected	_	VBN	_	_	7	APPO	_	_
+9	from	_	IN	_	_	8	VMOD	_	_
+10	Jurkat	_	NN	_	_	12	NMOD	_	_
+11	cell	_	NN	_	_	12	NMOD	_	_
+12	culture	_	NN	_	_	9	PMOD	_	_
+13	was	_	VBD	_	_	0	ROOT	_	_
+14	measured	_	VBN	_	_	13	VC	_	_
+15	using	_	VBG	_	_	14	VMOD	_	_
+16	a	_	DT	_	_	21	NMOD	_	_
+17	Human	_	JJ	_	_	21	NMOD	_	_
+18	Interleukin-8	_	NN	_	_	21	NMOD	_	_
+19	ELISA	_	NN	_	_	21	NMOD	_	_
+20	Ready-SET-Go	_	NN	_	_	21	NMOD	_	_
+21	kit	_	NN	_	_	15	VMOD	_	_
+22	(	_	(	_	_	23	P	_	_
+23	eBioscience	_	NN	_	_	21	PRN	_	_
+24	)	_	)	_	_	23	P	_	_
+25	according	_	VBG	_	_	15	VMOD	_	_
+26	to	_	TO	_	_	25	PMOD	_	_
+27	the	_	DT	_	_	28	NMOD	_	_
+28	manufacturer	_	NN	_	_	30	NMOD	_	_
+29	's	_	POS	_	_	28	SUFFIX	_	_
+30	instructions	_	NNS	_	_	26	PMOD	_	_
+31	.	_	.	_	_	13	P	_	_
+		

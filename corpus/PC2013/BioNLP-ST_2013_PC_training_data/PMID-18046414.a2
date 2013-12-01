@@ -1,0 +1,34 @@
+*	Equiv T6 T7
+*	Equiv T20 T21
+T36	Regulation 5 13	controls
+E1	Regulation:T36 Cause:T1 Theme:T3
+E2	Regulation:T36 Cause:T3 Theme:T2
+T37	Regulation 205 212	control
+E3	Regulation:T37 Theme:T5
+T38	Regulation 523 531	controls
+E4	Regulation:T38 Cause:T8 Theme:T9
+T39	Positive_regulation 594 603	necessary
+E5	Positive_regulation:T39 Cause:T10 Theme:E6
+T40	Regulation 612 623	maintenance
+E6	Regulation:T40 Theme:T11
+T41	Negative_regulation 708 717	inhibitor
+E7	Negative_regulation:T41 Cause:T13 Theme:T12
+T42	Negative_regulation 728 737	decreased
+E8	Negative_regulation:T42 Cause:T13 Theme:E10
+E9	Negative_regulation:T42 Cause:T13 Theme:E11
+T43	Gene_expression 742 757	gene expression
+E10	Gene_expression:T43 Theme:T16
+E11	Gene_expression:T43 Theme:T15
+T44	Inactivation 1094 1103	Knockdown
+E12	Inactivation:T44 Theme:T24
+T45	Binding 1292 1302	interacted
+E13	Binding:T45 Theme:T29 Theme:T30 Theme:T28
+T46	Negative_regulation 1317 1327	inhibition
+E14	Negative_regulation:T46 Cause:E13 Theme:T31
+T47	Binding 1368 1376	interact
+E15	Binding:T47 Theme:T32 Theme:T31
+M1	Negation E15
+T48	Activation 1389 1400	coactivated
+E16	Activation:T48 Cause:T33 Theme:T31
+T49	Regulation 1550 1557	control
+E17	Regulation:T49 Cause:T34 Theme:T35

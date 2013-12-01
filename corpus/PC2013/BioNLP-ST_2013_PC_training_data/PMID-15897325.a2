@@ -1,0 +1,37 @@
+T17	Positive_regulation 37 44	induced
+E1	Positive_regulation:T17 Cause:T1 Theme:E2
+T18	Pathway 45 54	apoptosis
+E2	Pathway:T18 
+T19	Positive_regulation 152 170	essential mediator
+E3	Positive_regulation:T19 Cause:T2 Theme:E6
+T20	Positive_regulation 178 187	dependent
+E4	Positive_regulation:T20 Theme:E6 Cause:T3
+T21	Regulation 196 207	independent
+E5	Regulation:T21 Cause:T4 Theme:E6
+M1	Negation E5
+T22	Pathway 208 217	apoptosis
+E6	Pathway:T22 
+T23	Activation 390 398	activate
+E7	Activation:T23 Theme:T5
+T24	Pathway 726 735	apoptotic
+E8	Pathway:T24 
+T25	Pathway 843 852	apoptosis
+E9	Pathway:T25 
+T26	Positive_regulation 903 910	induced
+E10	Positive_regulation:T26 Theme:E11 Cause:T11
+T27	Pathway 911 920	apoptosis
+E11	Pathway:T27 
+T28	Negative_regulation 939 949	attenuated
+E12	Negative_regulation:T28 Theme:E11
+T29	Regulation 1041 1054	participation
+E13	Regulation:T29 Theme:E14
+T30	Pathway 1063 1077	death pathways
+E14	Pathway:T30 Participant:T12
+T31	Activation 1196 1206	activation
+E15	Activation:T31 Theme:T13
+T32	Regulation 1488 1498	regulation
+E16	Regulation:T32 Theme:E18
+T33	Positive_regulation 1507 1514	induced
+E17	Positive_regulation:T33 Cause:T16 Theme:E18
+T34	Pathway 1515 1524	apoptosis
+E18	Pathway:T34 

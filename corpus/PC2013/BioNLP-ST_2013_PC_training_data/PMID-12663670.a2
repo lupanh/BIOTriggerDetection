@@ -1,0 +1,50 @@
+*	Equiv T1 T2
+*	Equiv T3 T4
+*	Equiv T5 T6
+*	Equiv T10 T11
+*	Equiv T20 T21
+*	Equiv T33 T34
+T47	Activation 4 14	activation
+E1	Activation:T47 Theme:T1
+T48	Activation 735 743	activate
+E2	Activation:T48 Theme:T18 Cause:T12
+E3	Activation:T48 Theme:T19 Cause:T12
+E4	Activation:T48 Theme:T20 Cause:T12
+E5	Activation:T48 Theme:T18 Cause:T13
+E6	Activation:T48 Theme:T19 Cause:T13
+E7	Activation:T48 Theme:T20 Cause:T13
+E8	Activation:T48 Theme:T18 Cause:T15
+E9	Activation:T48 Theme:T19 Cause:T15
+E10	Activation:T48 Theme:T20 Cause:T15
+E11	Activation:T48 Theme:T18 Cause:T14
+E12	Activation:T48 Theme:T19 Cause:T14
+E13	Activation:T48 Theme:T20 Cause:T14
+T49	Activation 993 1003	activation
+E14	Activation:T49 Theme:T27
+E15	Activation:T49 Theme:T28 Cause:E17
+E16	Activation:T49 Theme:T29 Cause:E17
+M1	Negation E15
+M2	Negation E16
+T50	Positive_regulation 1047 1055	required
+E17	Positive_regulation:T50 Theme:E18 Cause:E14
+T51	Phosphorylation 1064 1079	phosphorylation
+E18	Phosphorylation:T51 Theme:T30
+T52	Positive_regulation 1084 1110	transcriptional activation
+E19	Positive_regulation:T52 Theme:T30
+T53	Gene_expression 1127 1137	expression
+E20	Gene_expression:T53 Theme:T31
+T54	Gene_expression 1318 1328	expression
+E21	Gene_expression:T54 Theme:T33
+T55	Negative_regulation 1381 1387	blocks
+E22	Negative_regulation:T55 Theme:E23 Cause:E21
+T56	Phosphorylation 1388 1403	phosphorylation
+E23	Phosphorylation:T56 Theme:T35
+T57	Negative_regulation 1655 1664	inhibited
+E24	Negative_regulation:T57 Theme:T39 Cause:T37
+E25	Negative_regulation:T57 Theme:T39 Cause:T38
+T58	Gene_expression 1923 1933	expression
+E26	Gene_expression:T58 Theme:T42
+T59	Positive_regulation 2010 2019	dependent
+E27	Positive_regulation:T59 Cause:T43 Theme:E28
+T60	Phosphorylation 2020 2035	phosphorylation
+E28	Phosphorylation:T60 Theme:T44

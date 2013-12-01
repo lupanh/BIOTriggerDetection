@@ -1,0 +1,44 @@
+T1	Gene_or_gene_product 0 3	E2F
+T2	Gene_or_gene_product 14 21	histone
+T3	Complex 57 88	Tip60 acetyltransferase complex
+T4	Cellular_component 92 101	chromatin
+T5	Gene_or_gene_product 115 118	E2F
+T6	Complex 218 257	E2F4-p130-histone deacetylase complexes
+T7	Gene_or_gene_product 301 305	E2F1
+T8	Gene_or_gene_product 307 309	-2
+T9	Gene_or_gene_product 315 317	-3
+T10	Gene_or_gene_product 353 364	Histones H3
+T11	Gene_or_gene_product 369 371	H4
+T12	Gene_or_gene_product 485 488	E2F
+T13	Gene_or_gene_product 528 531	E2F
+T14	Cellular_component 584 593	chromatin
+T15	Gene_or_gene_product 653 657	E2F1
+T16	Gene_or_gene_product 708 711	E2F
+T17	Gene_or_gene_product 721 723	H4
+T18	Gene_or_gene_product 760 762	H3
+T19	Gene_or_gene_product 841 845	E2F1
+T20	Gene_or_gene_product 881 885	E2F1
+T21	Gene_or_gene_product 902 904	H3
+T22	Gene_or_gene_product 909 911	H4
+T23	Gene_or_gene_product 957 960	E2F
+T24	Gene_or_gene_product 978 982	E2F1
+T25	Gene_or_gene_product 1016 1042	histone acetyltransferases
+T26	Gene_or_gene_product 1044 1048	HATs
+T27	Gene_or_gene_product 1050 1054	p300
+T28	Gene_or_gene_product 1055 1058	CBP
+T29	Gene_or_gene_product 1063 1067	PCAF
+T30	Gene_or_gene_product 1068 1072	GCN5
+T31	Gene_or_gene_product 1110 1114	E2F1
+T32	Gene_or_gene_product 1140 1143	HAT
+T33	Gene_or_gene_product 1144 1149	Tip60
+T34	Complex 1198 1211	Tip60 complex
+T35	Gene_or_gene_product 1213 1218	Tip60
+T36	Gene_or_gene_product 1220 1225	TRRAP
+T37	Gene_or_gene_product 1227 1231	p400
+T38	Gene_or_gene_product 1233 1238	Tip48
+T39	Gene_or_gene_product 1244 1249	Tip49
+T40	Gene_or_gene_product 1290 1293	E2F
+T41	Gene_or_gene_product 1319 1324	Tip60
+T42	Cellular_component 1328 1337	chromatin
+T43	Complex 1434 1447	HAT complexes
+T44	Gene_or_gene_product 1460 1463	E2F

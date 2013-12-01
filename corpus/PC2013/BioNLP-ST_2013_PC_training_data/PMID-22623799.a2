@@ -1,0 +1,43 @@
+*	Equiv T3 T4
+*	Equiv T6 T7
+*	Equiv T8 T9
+*	Equiv T12 T13
+T22	Negative_regulation 0 11	Suppression
+E1	Negative_regulation:T22 Theme:T1
+E2	Negative_regulation:T22 Theme:T2
+T23	Positive_regulation 807 814	induced
+E3	Positive_regulation:T23 Theme:T3
+T24	Negative_regulation 869 883	downregulation
+E4	Negative_regulation:T24 Theme:T6
+T25	Activation 970 980	activation
+E5	Activation:T25 Theme:T8
+E6	Activation:T25 Theme:T10
+T26	Negative_regulation 1170 1180	suppressed
+E7	Negative_regulation:T26 Cause:T11 Theme:T12
+E8	Negative_regulation:T26 Cause:T11 Theme:T14
+T27	Activation 1266 1276	activation
+E9	Activation:T27 Theme:T15
+T28	Binding 1357 1367	associated
+E10	Binding:T28 Theme:T16 Theme2:T17
+T29	Negative_regulation 1386 1393	inhibit
+E11	Negative_regulation:T29 Cause:T16 Theme:E13
+E12	Negative_regulation:T29 Cause:T16 Theme:E14
+M1	Speculation E12
+M2	Speculation E11
+T30	Positive_regulation 1398 1408	activation
+E13	Positive_regulation:T30 Cause:E16 Theme:T18
+E14	Positive_regulation:T30 Cause:E16 Theme:E15
+T31	Pathway 1441 1450	signaling
+E15	Pathway:T31 Participant:T19
+T32	Binding 1464 1475	interaction
+E16	Binding:T32 Theme:T16 Theme2:T17
+T33	Negative_regulation 1579 1597	suppressive effect
+E17	Negative_regulation:T33 Theme:E19
+E18	Negative_regulation:T33 Theme:E20
+T34	Positive_regulation 1605 1615	activation
+E19	Positive_regulation:T34 Theme:T20
+E20	Positive_regulation:T34 Theme:E21
+T35	Pathway 1642 1651	signaling
+E21	Pathway:T35 Participant:T21
+T36	Pathway 1707 1716	apoptosis
+E22	Pathway:T36 

@@ -1,0 +1,20 @@
+T1	Gene_or_gene_product 52 72	p21-activated kinase
+T2	Gene_or_gene_product 121 142	p21-activated kinases
+T3	Gene_or_gene_product 144 147	Pak
+T4	Gene_or_gene_product 149 154	Ste20
+T5	Simple_chemical 211 214	GTP
+T6	Gene_or_gene_product 232 235	Rac
+T7	Gene_or_gene_product 240 245	Cdc42
+T8	Simple_chemical 250 256	lipids
+T9	Simple_chemical 266 277	sphingosine
+T10	Gene_or_gene_product 377 380	Pak
+T11	Gene_or_gene_product 441 444	Pak
+T12	Simple_chemical 532 543	sphingosine
+T13	Gene_or_gene_product 734 738	Pak1
+T14	Gene_or_gene_product 860 865	Cdc42
+T15	Simple_chemical 871 882	sphingosine
+T16	Gene_or_gene_product 894 898	Pak1
+T17	Gene_or_gene_product 1023 1027	Pak1
+T18	Simple_chemical 1090 1101	sphingosine
+T19	Simple_chemical 1208 1221	threonine 423
+T20	Simple_chemical 1421 1432	sphingosine

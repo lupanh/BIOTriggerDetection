@@ -1,0 +1,134 @@
+*	Equiv T23 T24
+*	Equiv T28 T29
+T47	Anaphora 397 402	which
+T53	Gene_expression 420 429	expressed
+T54	Positive_regulation 511 520	activates
+T55	Entity 525 534	promoters
+T56	Negative_regulation 1072 1081	knockdown
+T57	Gene_expression 1092 1102	expression
+T48	Anaphora 1253 1255	it
+T58	Localization 1261 1272	translocate
+T59	Entity 1301 1308	nucleus
+T60	Binding 1312 1318	access
+T49	Anaphora 1319 1322	its
+T61	Binding 1323 1329	target
+T62	Entity 1346 1353	nuclear
+T63	Localization 1354 1364	expression
+T64	Positive_regulation 1375 1384	following
+T65	Positive_regulation 1502 1511	following
+T66	Localization 1624 1635	transported
+T67	Entity 1645 1652	nucleus
+T68	Regulation 2070 2074	role
+T69	Phosphorylation 2078 2093	phosphorylating
+T70	Positive_regulation 2104 2111	enhance
+T50	Anaphora 2112 2115	its
+T71	Binding 2116 2127	interaction
+T72	Binding 2422 2429	binding
+T51	Anaphora 2465 2470	which
+T73	Localization 2476 2487	translocate
+T74	Entity 2495 2502	nucleus
+T52	Anaphora 2509 2513	they
+T75	Binding 2514 2522	interact
+T76	Positive_regulation 2635 2644	activated
+T77	Binding 2648 2657	interacts
+T78	Binding 2854 2865	recruitment
+T79	Entity 2933 2940	Nuclear
+T80	Localization 2941 2953	localisation
+T81	Localization 2958 2967	retention
+T82	Positive_regulation 2977 2985	mediated
+T83	Regulation 3089 3096	control
+T84	Entity 3100 3107	nuclear
+T85	Localization 3108 3114	export
+T86	Regulation 3162 3171	dependent
+T87	Entity 3186 3189	NL1
+T88	Binding 3225 3230	binds
+T89	Regulation 3455 3464	resulting
+T90	Localization 3474 3486	translocates
+T91	Entity 3494 3501	nucleus
+T92	Positive_regulation 3502 3516	in response to
+T93	Binding 3534 3545	interaction
+T94	Positive_regulation 3577 3585	requires
+T95	Localization 3731 3737	import
+T96	Regulation 3780 3789	important
+T97	Regulation 3798 3808	regulation
+T98	Positive_regulation 3815 3825	activation
+T99	Regulation 4237 4246	regulated
+T100	Negative_regulation 4379 4386	reduced
+T101	Positive_regulation 4394 4402	mediated
+T102	Gene_expression 4425 4433	activity
+T103	Localization 4491 4502	recruitment
+T104	Regulation 4513 4518	alter
+T105	Binding 4551 4555	bind
+T106	Regulation 4714 4721	effects
+T107	Phosphorylation 4767 4782	phosphorylation
+T108	Entity 4787 4794	nuclear
+T109	Localization 4795 4808	translocation
+T110	Regulation 4965 4972	effects
+T111	Localization 5026 5038	localization
+R1	Coreference Subject:T47 Object:T7
+R2	Coreference Subject:T48 Object:T18
+R3	Coreference Subject:T49 Object:T18
+R4	Coreference Subject:T50 Object:T22
+R5	Coreference Subject:T51 Object:T23
+R6	Coreference Subject:T52 Object:T51
+E1	Gene_expression:T53 Theme:T7
+E2	Positive_regulation:T54 Theme:T10 Site:T55 Cause:T8
+E3	Positive_regulation:T54 Theme:T9 Site:T55 Cause:T8
+E4	Positive_regulation:T54 Theme:T11 Site:T55 Cause:T8
+E5	Negative_regulation:T56 Theme:E6
+E6	Gene_expression:T57 Theme:T17
+E7	Localization:T58 Theme:T18 ToLoc:T59
+E8	Binding:T60 Theme:T18
+E9	Binding:T61 Theme:T18
+E10	Localization:T63 Theme:T19 ToLoc:T62
+E11	Positive_regulation:T64 Theme:E10
+E12	Positive_regulation:T65 Theme:E10
+E13	Localization:T66 Theme:T20 ToLoc:T67
+E14	Regulation:T68 Theme:E15
+E15	Phosphorylation:T69 Theme:T22
+E16	Positive_regulation:T70 Theme:E17 Cause:E15
+E17	Binding:T71 Theme:T22
+E18	Binding:T72 Theme:T23
+E19	Localization:T73 Theme:T23 ToLoc:T74
+E20	Binding:T75 Theme:T23
+E21	Positive_regulation:T76 Theme:T25
+E22	Binding:T77 Theme:T25
+E23	Binding:T78 Theme:T26 Theme2:T25
+E24	Localization:T80 Theme:T27 ToLoc:T79
+E25	Localization:T81 Theme:T27
+E26	Positive_regulation:T82 Theme:E24 Cause:E27
+E27	Regulation:T83 Theme:E29
+E28	Positive_regulation:T82 Theme:E25 Cause:E27
+E29	Localization:T85 Theme:T27 ToLoc:T84
+E30	Regulation:T86 Theme:E27 Cause:T28
+E31	Binding:T88 Theme:T27 Site:T87
+E32	Regulation:T89 Theme:E33
+E33	Localization:T90 Theme:T30 ToLoc:T91
+E34	Positive_regulation:T92 Theme:E33 Cause:E35
+E35	Binding:T93 Theme:T31 Theme2:T30
+E36	Positive_regulation:T94 Theme:E35
+E37	Localization:T95 Theme:T32
+E38	Regulation:T96 Theme:E39
+E39	Regulation:T97 Theme:E40
+E40	Positive_regulation:T98 Theme:T33
+E41	Regulation:T99 Theme:T34
+E42	Regulation:T99 Theme:T35
+E43	Regulation:T99 Theme:T36
+E44	Negative_regulation:T100 Theme:E45 Cause:T38
+E45	Positive_regulation:T101 Theme:E48 Cause:T39
+E46	Negative_regulation:T100 Theme:E47 Cause:T38
+E47	Positive_regulation:T101 Theme:E49 Cause:T39
+E48	Gene_expression:T102 Theme:T40
+E49	Gene_expression:T102 Theme:T41
+E50	Localization:T103 Theme:T43
+E51	Regulation:T104 Theme:E52 Cause:E50
+E52	Binding:T105 Theme:T44
+E53	Regulation:T106 Theme:E54
+E54	Phosphorylation:T107 Theme:T45
+E55	Regulation:T106 Theme:E56
+E56	Localization:T109 Theme:T45 ToLoc:T108
+E57	Regulation:T110 Theme:E58
+E58	Localization:T111 Theme:T46
+M1	Speculation E51
+M2	Speculation E53
+M3	Speculation E55

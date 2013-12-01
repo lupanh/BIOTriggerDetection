@@ -1,0 +1,49 @@
+*	Equiv T1 T2
+*	Equiv T7 T8
+*	Equiv T12 T13
+T28	Negative_regulation 0 10	Inhibition
+E1	Negative_regulation:T28 Cause:T6 Theme:E4
+E2	Negative_regulation:T28 Cause:T6 Theme:E5
+E3	Negative_regulation:T28 Cause:T6 Theme:E6
+T29	Gene_expression 80 90	expression
+E4	Gene_expression:T29 Theme:T1
+E5	Gene_expression:T29 Theme:T3
+E6	Gene_expression:T29 Theme:T4
+T30	Negative_regulation 518 528	inhibitors
+E7	Negative_regulation:T30 Cause:T12 Theme:E9
+E8	Negative_regulation:T30 Cause:T12 Theme:E10
+T31	Translation 545 556	translation
+E9	Translation:T31 Theme:T14
+E10	Translation:T31 Theme:T15
+T32	Negative_regulation 583 588	block
+E11	Negative_regulation:T32 Cause:T12 Theme:E13
+E12	Negative_regulation:T32 Cause:T12 Theme:E14
+T33	Translation 602 611	synthesis
+E13	Translation:T33 Theme:T16
+E14	Translation:T33 Theme:T17
+T34	Positive_regulation 765 773	enhanced
+E15	Positive_regulation:T34 Theme:E16
+T35	Transport 783 789	uptake
+E16	Transport:T35 Theme:T19
+T36	Negative_regulation 885 894	reduction
+E17	Negative_regulation:T36 Cause:T22 Theme:E19
+E18	Negative_regulation:T36 Cause:T22 Theme:E20
+T37	Gene_expression 909 919	expression
+E19	Gene_expression:T37 Theme:T20
+E20	Gene_expression:T37 Theme:T21
+T38	Positive_regulation 1140 1149	induction
+E21	Positive_regulation:T38 Theme:E22
+T39	Pathway 1153 1162	apoptosis
+E22	Pathway:T39 
+T40	Gene_expression 1342 1349	express
+E23	Gene_expression:T40 Theme:T23
+T41	Transport 1427 1434	deliver
+E24	Transport:T41 Theme:T24
+T42	Negative_regulation 1616 1621	block
+E25	Negative_regulation:T42 Theme:E28
+E26	Negative_regulation:T42 Theme:E29
+E27	Negative_regulation:T42 Theme:E30
+T43	Gene_expression 1646 1656	expression
+E28	Gene_expression:T43 Theme:T25
+E29	Gene_expression:T43 Theme:T26
+E30	Gene_expression:T43 Theme:T27

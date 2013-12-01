@@ -1,0 +1,20 @@
+T1	Gene_or_gene_product 0 8	IKK beta
+T2	Gene_or_gene_product 24 28	TSC1
+T3	Gene_or_gene_product 79 83	mTOR
+T4	Gene_or_gene_product 94 102	TNFalpha
+T5	Complex 285 317	tuberous sclerosis 1 (TSC1)/TSC2
+T6	Gene_or_gene_product 372 376	mTOR
+T7	Complex 404 413	TSC1/TSC2
+T8	Gene_or_gene_product 482 489	IKKbeta
+T9	Gene_or_gene_product 524 532	TNFalpha
+T10	Gene_or_gene_product 597 601	TSC1
+T11	Simple_chemical 605 611	Ser487
+T12	Simple_chemical 616 622	Ser511
+T13	Gene_or_gene_product 652 656	TSC1
+T14	Gene_or_gene_product 662 669	IKKbeta
+T15	Gene_or_gene_product 679 683	TSC1
+T16	Gene_or_gene_product 710 714	mTOR
+T17	Gene_or_gene_product 826 833	IKKbeta
+T18	Gene_or_gene_product 853 857	TSC1
+T19	Simple_chemical 858 864	Ser511
+T20	Gene_or_gene_product 885 889	VEGF

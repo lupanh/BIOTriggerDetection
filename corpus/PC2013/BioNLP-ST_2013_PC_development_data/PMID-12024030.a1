@@ -1,0 +1,31 @@
+T1	Cellular_component 28 37	chromatin
+T2	Gene_or_gene_product 48 52	Sir3
+T3	Complex 78 87	Sir2/Sir4
+T4	Gene_or_gene_product 122 126	Sir2
+T5	Gene_or_gene_product 264 268	Sir2
+T6	Simple_chemical 282 285	NAD
+T7	Gene_or_gene_product 296 315	histone deacetylase
+T8	Gene_or_gene_product 317 321	Sir3
+T9	Gene_or_gene_product 323 327	Sir4
+T10	Gene_or_gene_product 329 340	histones H3
+T11	Gene_or_gene_product 345 347	H4
+T12	Gene_or_gene_product 465 469	Sir2
+T13	Gene_or_gene_product 471 475	Net1
+T14	Gene_or_gene_product 481 486	Cdc14
+T15	Complex 517 526	Sir2/Sir4
+T16	Gene_or_gene_product 557 561	Sir2
+T17	Gene_or_gene_product 566 570	Sir4
+T18	Gene_or_gene_product 587 591	Sir3
+T19	Complex 679 688	Sir2/Sir4
+T20	Gene_or_gene_product 758 762	Sir2
+T21	Gene_or_gene_product 773 780	histone
+T22	Gene_or_gene_product 820 824	Sir3
+T23	Cellular_component 882 891	chromatin
+T24	Gene_or_gene_product 948 952	Sir2
+T25	Gene_or_gene_product 1130 1140	histone H3
+T26	Gene_or_gene_product 1145 1147	H4
+T27	Gene_or_gene_product 1201 1203	H4
+T28	Gene_or_gene_product 1227 1231	Sir2
+T29	Gene_or_gene_product 1274 1278	Sir2
+T30	Gene_or_gene_product 1309 1328	histone deacetylase
+T31	Cellular_component 1415 1424	chromatin

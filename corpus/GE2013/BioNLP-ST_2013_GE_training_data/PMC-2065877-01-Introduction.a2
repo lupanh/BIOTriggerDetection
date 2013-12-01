@@ -1,0 +1,66 @@
+*	Equiv T1 T2
+T58	Anaphora 975 977	it
+T60	Gene_expression 1046 1055	expressed
+T61	Binding 1256 1265	interacts
+T62	Gene_expression 1283 1292	expressed
+T63	Binding 1425 1440	oligomerization
+T64	Binding 1456 1464	interact
+T65	Binding 2027 2035	ligation
+T66	Negative_regulation 2158 2167	deficient
+T67	Entity 2268 2285	membrane proximal
+T68	Entity 2290 2316	distal cytoplasmic regions
+T69	Binding 2330 2334	bind
+T70	Negative_regulation 2558 2564	rescue
+T71	Negative_regulation 2570 2579	deficient
+T72	Binding 2659 2667	recruits
+T73	Entity 2729 2760	C-terminal activation regions 1
+T74	Entity 2765 2774	2 domains
+T75	Gene_expression 2998 3007	expressed
+T76	Positive_regulation 3008 3025	under the control
+T77	Gene_expression 3113 3120	express
+T78	Positive_regulation 3382 3391	activated
+T79	Positive_regulation 3435 3445	activation
+T80	Negative_regulation 4223 4230	absence
+T81	Positive_regulation 4234 4243	activated
+T82	Regulation 4259 4265	target
+T83	Positive_regulation 4321 4331	activation
+T59	Anaphora 4628 4644	the same targets
+T84	Regulation 4654 4665	deregulated
+R1	Coreference Subject:T58 Object:T1
+R2	Coreference Subject:T59 Object:T52
+R3	Coreference Subject:T59 Object:T53
+E1	Gene_expression:T60 Theme:T1
+E2	Binding:T61 Theme:T7 Theme2:T8
+E3	Gene_expression:T62 Theme:T8
+E4	Binding:T63 Theme:T9
+E5	Binding:T64 Theme:T10
+E6	Binding:T64 Theme:T11
+E7	Binding:T65 Theme:T17
+E8	Negative_regulation:T66 Theme:T20
+E9	Negative_regulation:T66 Theme:T21
+E10	Binding:T69 Theme:T22 Site:T67 Theme2:T23
+E11	Binding:T69 Theme:T22 Site:T68 Theme2:T24
+E12	Binding:T69 Theme:T22 Site:T68 Theme2:T25
+E13	Binding:T69 Theme:T22 Site:T68 Theme2:T26
+E14	Negative_regulation:T70 Theme:E15
+E15	Negative_regulation:T71 Theme:T28
+E16	Binding:T72 Theme:T30 Theme2:T29 Site2:T73
+E17	Binding:T72 Theme:T31 Theme2:T29 Site2:T73
+E18	Binding:T72 Theme:T32 Theme2:T29 Site2:T73
+E19	Binding:T72 Theme:T33 Theme2:T29 Site2:T73
+E20	Binding:T72 Theme:T34 Theme2:T29 Site2:T74
+E21	Gene_expression:T75 Theme:T36
+E22	Positive_regulation:T76 Theme:E21
+E23	Gene_expression:T77 Theme:T38
+E24	Positive_regulation:T78 Theme:T41
+E25	Positive_regulation:T79 Theme:T42
+E26	Negative_regulation:T80 Theme:E27
+E27	Positive_regulation:T81 Theme:T48
+E28	Regulation:T82 Theme:T48 Cause:T49
+E29	Positive_regulation:T83 Theme:T50
+E30	Regulation:T84 Theme:T52
+E31	Regulation:T84 Theme:T53
+M1	Negation E30
+M2	Speculation E30
+M3	Negation E31
+M4	Speculation E31

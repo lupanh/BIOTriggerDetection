@@ -1,0 +1,37 @@
+T1	Gene_or_gene_product 0 54	Heparan sulfate D-glucosaminyl 3-O-sulfotransferase-3A
+T2	Simple_chemical 80 91	glucosamine
+T3	Simple_chemical 120 131	glucosamine
+T4	Gene_or_gene_product 135 186	heparan sulfate D-glucosaminyl 3-O-sulfotransferase
+T5	Gene_or_gene_product 188 195	3-OST-1
+T6	Simple_chemical 238 253	heparan sulfate
+T7	Simple_chemical 278 294	heparan sulfates
+T8	Gene_or_gene_product 307 314	3-OST-2
+T9	Gene_or_gene_product 319 327	3-OST-3A
+T10	Gene_or_gene_product 341 348	3-OST-1
+T11	Simple_chemical 419 426	sulfate
+T12	Simple_chemical 434 438	3-OH
+T13	Simple_chemical 451 462	glucosamine
+T14	Gene_or_gene_product 542 550	3-OST-3A
+T15	Simple_chemical 558 573	tetrasaccharide
+T16	Gene_or_gene_product 585 593	3-OST-3A
+T17	Gene_or_gene_product 678 686	3-OST-3A
+T18	Gene_or_gene_product 697 705	3-OST-3A
+T19	Simple_chemical 715 731	tetrasaccharides
+T20	Simple_chemical 774 789	heparan sulfate
+T21	Gene_or_gene_product 811 825	heparin lyases
+T22	Simple_chemical 833 849	tetrasaccharides
+T23	Simple_chemical 870 882	nitrous acid
+T24	Simple_chemical 996 1012	tetrasaccharides
+T25	Simple_chemical 1057 1098	DeltaUA2S-GlcNS-IdoUA2S-[(35)S]GlcNH(2)3S
+T26	Simple_chemical 1103 1148	DeltaUA2S-GlcNS-IdoUA2S-[3-(35)S]GlcNH(2)3S6S
+T27	Gene_or_gene_product 1180 1188	3-OST-3A
+T28	Simple_chemical 1214 1225	glucosamine
+T29	Gene_or_gene_product 1244 1252	3-OST-3A
+T30	Simple_chemical 1304 1319	oligosaccharide
+T31	Simple_chemical 1355 1371	oligosaccharides
+T32	Simple_chemical 1393 1404	glucosamine
+T33	Gene_or_gene_product 1437 1445	3-OST-3A
+T34	Simple_chemical 1494 1505	glucosamine
+T35	Gene_or_gene_product 1531 1539	3-OST-3A
+T36	Gene_or_gene_product 1600 1608	3-OST-3A
+T37	Simple_chemical 1618 1633	heparan sulfate

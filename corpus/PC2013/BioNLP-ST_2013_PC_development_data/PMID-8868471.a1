@@ -1,0 +1,36 @@
+T1	Gene_or_gene_product 41 44	Rho
+T2	Gene_or_gene_product 59 100	phosphatidylinositol 4-phosphate 5-kinase
+T3	Gene_or_gene_product 182 185	Rho
+T4	Simple_chemical 193 196	GTP
+T5	Gene_or_gene_product 220 261	phosphatidylinositol 4-phosphate 5-kinase
+T6	Gene_or_gene_product 263 268	PIP5K
+T7	Gene_or_gene_product 331 334	Rho
+T8	Gene_or_gene_product 361 366	PIP5K
+T9	Gene_or_gene_product 393 400	Rho-GST
+T10	Gene_or_gene_product 453 458	PIP5K
+T11	Gene_or_gene_product 469 476	Rho-GST
+T12	Gene_or_gene_product 486 493	Ras-GST
+T13	Gene_or_gene_product 497 500	GST
+T14	Gene_or_gene_product 526 531	PIP5K
+T15	Gene_or_gene_product 557 562	PIP5K
+T16	Gene_or_gene_product 590 593	Rho
+T17	Simple_chemical 603 606	GTP
+T18	Simple_chemical 611 614	GDP
+T19	Gene_or_gene_product 682 687	PIP5K
+T20	Gene_or_gene_product 735 742	Rho-GST
+T21	Gene_or_gene_product 755 758	Rho
+T22	Gene_or_gene_product 770 775	PIP5K
+T23	Simple_chemical 789 806	phosphatidic acid
+T24	Gene_or_gene_product 850 855	PIP5K
+T25	Gene_or_gene_product 929 932	Rho
+T26	Gene_or_gene_product 971 976	PIP5K
+T27	Gene_or_gene_product 1031 1034	Rho
+T28	Gene_or_gene_product 1055 1060	PIP5K
+T29	Simple_chemical 1062 1065	ADP
+T30	Gene_or_gene_product 1082 1085	Rho
+T31	Gene_or_gene_product 1091 1093	C3
+T32	Gene_or_gene_product 1113 1118	PIP5K
+T33	Simple_chemical 1175 1178	ADP
+T34	Gene_or_gene_product 1191 1194	Rho
+T35	Gene_or_gene_product 1272 1275	Rho
+T36	Gene_or_gene_product 1311 1316	PIP5K

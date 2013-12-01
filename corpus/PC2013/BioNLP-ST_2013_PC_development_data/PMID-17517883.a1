@@ -1,0 +1,51 @@
+T1	Gene_or_gene_product 4 40	proline-rich Akt substrate of 40 kDa
+T2	Gene_or_gene_product 42 48	PRAS40
+T3	Gene_or_gene_product 82 121	mammalian target of rapamycin complex 1
+T4	Gene_or_gene_product 128 172	proline-rich Akt substrate of 40 kilodaltons
+T5	Gene_or_gene_product 174 180	PRAS40
+T6	Gene_or_gene_product 202 208	raptor
+T7	Complex 260 306	mammalian target of rapamycin (mTOR) complex 1
+T8	Complex 308 314	mTORC1
+T9	Complex 324 330	mTORC2
+T10	Gene_or_gene_product 358 364	PRAS40
+T11	Simple_chemical 366 374	Ser(183)
+T12	Gene_or_gene_product 392 396	S6K1
+T13	Gene_or_gene_product 401 407	4E-BP1
+T14	Gene_or_gene_product 411 417	raptor
+T15	Gene_or_gene_product 429 432	TOR
+T16	Simple_chemical 484 487	Phe
+T17	Gene_or_gene_product 559 565	PRAS40
+T18	Gene_or_gene_product 577 583	raptor
+T19	Gene_or_gene_product 622 628	PRAS40
+T20	Simple_chemical 630 638	Phe(129)
+T21	Simple_chemical 642 645	Ala
+T22	Simple_chemical 681 689	Phe(129)
+T23	Gene_or_gene_product 760 766	PRAS40
+T24	Gene_or_gene_product 778 784	raptor
+T25	Complex 829 835	mTORC1
+T26	Simple_chemical 858 866	Ser(183)
+T27	Simple_chemical 871 874	Asp
+T28	Gene_or_gene_product 876 882	PRAS40
+T29	Simple_chemical 884 892	Ser(183)
+T30	Simple_chemical 968 977	rapamycin
+T31	Simple_chemical 982 996	2-deoxyglucose
+T32	Complex 1027 1053	tuberous sclerosis complex
+T33	Gene_or_gene_product 1067 1073	PRAS40
+T34	Simple_chemical 1075 1083	Ser(183)
+T35	Gene_or_gene_product 1249 1253	Rheb
+T36	Gene_or_gene_product 1276 1282	PRAS40
+T37	Gene_or_gene_product 1317 1321	S6K1
+T38	Gene_or_gene_product 1326 1332	4E-BP1
+T39	Simple_chemical 1342 1351	rapamycin
+T40	Gene_or_gene_product 1421 1425	S6K1
+T41	Gene_or_gene_product 1429 1435	4E-BP1
+T42	Gene_or_gene_product 1466 1472	PRAS40
+T43	Simple_chemical 1474 1482	Ser(183)
+T44	Gene_or_gene_product 1503 1509	raptor
+T45	Gene_or_gene_product 1549 1555	PRAS40
+T46	Gene_or_gene_product 1615 1619	S6K1
+T47	Gene_or_gene_product 1624 1630	4E-BP1
+T48	Gene_or_gene_product 1656 1662	PRAS40
+T49	Complex 1682 1688	mTORC1
+T50	Gene_or_gene_product 1778 1784	raptor
+T51	Complex 1847 1853	mTORC1

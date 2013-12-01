@@ -1,0 +1,17 @@
+T1	Cellular_component 10 22	mitochondria
+T2	Simple_chemical 37 59	thiamine pyrophosphate
+T3	Simple_chemical 63 85	thiamine monophosphate
+T4	Cellular_component 106 128	mitochondrial membrane
+T5	Simple_chemical 179 182	TPP
+T6	Simple_chemical 187 190	TMP
+T7	Cellular_component 230 242	mitochondria
+T8	Gene_or_gene_product 280 299	TPP pyrophosphatase
+T9	Cellular_component 317 337	mitochondrial matrix
+T10	Simple_chemical 356 365	digitonin
+T11	Cellular_component 423 443	mitochondrial matrix
+T12	Simple_chemical 596 599	TMP
+T13	Cellular_component 614 636	mitochondrial membrane
+T14	Simple_chemical 739 742	TPP
+T15	Simple_chemical 799 802	CAT
+T16	Simple_chemical 826 829	ADP
+T17	Simple_chemical 830 833	ATP

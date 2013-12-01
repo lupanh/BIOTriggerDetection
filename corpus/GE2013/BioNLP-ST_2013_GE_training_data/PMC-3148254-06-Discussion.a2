@@ -1,0 +1,106 @@
+*	Equiv T75 T76
+T88	Regulation 135 144	dependent
+T89	Positive_regulation 177 185	mediated
+T90	Positive_regulation 186 198	upregulation
+T91	Gene_expression 207 217	expression
+T92	Regulation 452 462	downstream
+T93	Regulation 526 530	role
+T94	Positive_regulation 534 543	promoting
+T95	Binding 548 559	recruitment
+T96	Binding 776 786	engagement
+T97	Binding 1392 1400	interact
+T98	Positive_regulation 1568 1576	mediates
+T99	Binding 1577 1588	recruitment
+T100	Binding 1650 1660	associated
+T101	Regulation 1679 1683	role
+T102	Positive_regulation 1687 1697	activating
+T83	Anaphora 1713 1716	its
+T103	Binding 1717 1728	recruitment
+T84	Anaphora 1886 1920	post-transcriptional modifications
+T104	Phosphorylation 1931 1946	phosphorylation
+T105	Ubiquitination 1951 1965	ubiquitination
+T85	Anaphora 1967 1972	which
+T106	Negative_regulation 1996 2002	reduce
+T107	Positive_regulation 2006 2013	enhance
+T108	Positive_regulation 2087 2095	mediates
+T109	Binding 2096 2107	recruitment
+T110	Binding 2156 2165	recruited
+T86	Anaphora 2298 2300	it
+T111	Positive_regulation 2301 2324	functions as an adaptor
+T112	Binding 2333 2344	recruitment
+T113	Binding 2508 2515	binding
+T114	Positive_regulation 2680 2685	serve
+T115	Binding 2689 2696	recruit
+T116	Positive_regulation 2764 2773	necessary
+T117	Binding 2778 2789	recruitment
+T118	Binding 2904 2915	recruitment
+T119	Regulation 2958 2967	dependent
+T120	Binding 3010 3018	interact
+T121	Binding 3203 3207	bind
+T122	Binding 3217 3226	associate
+T123	Negative_regulation 3682 3692	deficiency
+T124	Negative_regulation 3986 3996	disruption
+T125	Entity 4004 4016	binding site
+T126	Negative_regulation 4064 4072	deletion
+T127	Entity 4080 4103	receptor binding domain
+T128	Binding 4195 4199	bind
+T129	Negative_regulation 4388 4395	absence
+T130	Binding 4896 4905	interacts
+T87	Anaphora 4911 4920	a protein
+T131	Binding 5490 5494	link
+T132	Negative_regulation 5590 5597	defects
+T133	Regulation 5605 5615	regulation
+R1	Coreference Subject:T83 Object:T24
+R4	Coreference Subject:T85 Object:T84
+R5	Coreference Subject:T86 Object:T33
+R6	Coreference Subject:T87 Object:T75
+E1	Phosphorylation:T104 Theme:T26
+E2	Ubiquitination:T105 Theme:T26
+E3	Regulation:T88 Theme:E4 Cause:T3
+E4	Positive_regulation:T89 Theme:E5 Cause:T4
+E5	Positive_regulation:T90 Theme:E6
+E6	Gene_expression:T91 Theme:T5
+E7	Regulation:T92 Theme:T6 Cause:T7
+E8	Regulation:T93 Theme:E9 Cause:T9
+E9	Positive_regulation:T94 Theme:E10
+E10	Binding:T95 Theme:T10
+E11	Binding:T96 Theme:T13
+E12	Binding:T97 Theme:T21
+E13	Positive_regulation:T98 Theme:E14
+E14	Binding:T99 Theme:T22
+E15	Binding:T100 Theme:T23 Theme2:T24
+E16	Regulation:T101 Theme:E17 Cause:T24
+E17	Positive_regulation:T102 Theme:T25
+E18	Binding:T103 Theme:T24
+E19	Negative_regulation:T106 Theme:T28 Cause:E1
+E20	Negative_regulation:T106 Theme:T28 Cause:E2
+E21	Positive_regulation:T107 Theme:T28 Cause:E1
+E22	Positive_regulation:T107 Theme:T28 Cause:E2
+E23	Positive_regulation:T108 Theme:E24 Cause:T29
+E24	Binding:T109 Theme:T30
+E25	Binding:T110 Theme:T31 Theme2:T32
+E26	Positive_regulation:T111 Theme:E27 Cause:T33
+E27	Binding:T112 Theme:T34
+E28	Binding:T113 Theme:T36
+E29	Positive_regulation:T114 Theme:E30
+E30	Binding:T115 Theme:T38
+E31	Positive_regulation:T116 Theme:E32
+E32	Binding:T117 Theme:T39
+E33	Binding:T118 Theme:T40
+E34	Regulation:T119 Theme:E33 Cause:T41
+E35	Binding:T120 Theme:T42 Theme2:T43
+E36	Binding:T121 Theme:T45
+E37	Binding:T122 Theme:T45
+E38	Negative_regulation:T123 Theme:T56
+E39	Negative_regulation:T124 Theme:T64 Site:T125
+E40	Negative_regulation:T126 Theme:T65 Site:T127
+E41	Binding:T128 Theme:T66 Theme2:T67
+E42	Negative_regulation:T129 Theme:T68
+E43	Binding:T130 Theme:T74 Theme2:T75
+E44	Binding:T131 Theme:T80 Theme2:T81
+E45	Negative_regulation:T132 Theme:E46
+E46	Regulation:T133 Theme:T82
+M1	Speculation E1
+M2	Speculation E2
+M3	Speculation E28
+M4	Speculation E45

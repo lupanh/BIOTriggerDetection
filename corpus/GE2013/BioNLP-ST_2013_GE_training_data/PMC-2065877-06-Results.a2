@@ -1,0 +1,137 @@
+*	Equiv T48 T50 T53
+*	Equiv T55 T60 T62 T61
+*	Equiv T66 T65
+T71	Positive_regulation 5 16	Upregulates
+T72	Positive_regulation 41 50	Activates
+T69	Anaphora 445 465	the tested cytokines
+T73	Gene_expression 471 479	detected
+T74	Transcription 589 602	Transcription
+T75	Positive_regulation 716 722	higher
+T76	Gene_expression 832 842	expression
+T77	Positive_regulation 936 948	upregulation
+T78	Positive_regulation 973 980	induced
+T79	Gene_expression 989 999	expression
+T80	Positive_regulation 1137 1146	increased
+T81	Gene_expression 1267 1277	Production
+T82	Positive_regulation 1496 1508	upregulation
+T83	Positive_regulation 1553 1565	upregulation
+T84	Positive_regulation 1766 1775	increased
+T85	Phosphorylation 1786 1800	phosphorylated
+T86	Positive_regulation 1828 1837	activated
+T87	Regulation 1847 1853	target
+T88	Regulation 1945 1956	correlation
+T89	Positive_regulation 1984 1993	induction
+T90	Positive_regulation 2018 2028	activation
+T91	Positive_regulation 2053 2063	activation
+T92	Positive_regulation 2087 2094	induced
+T93	Regulation 2176 2187	correlation
+T94	Gene_expression 2215 2225	expression
+T95	Positive_regulation 2249 2258	induction
+T96	Positive_regulation 2304 2313	induction
+T97	Regulation 2405 2413	affected
+T98	Negative_regulation 2423 2435	Neutralizing
+T99	Positive_regulation 2576 2586	activation
+T100	Positive_regulation 2726 2735	activated
+T101	Positive_regulation 2848 2856	enhanced
+T102	Positive_regulation 2864 2874	activation
+T103	Positive_regulation 3047 3057	activation
+T70	Anaphora 3059 3061	it
+T104	Positive_regulation 3077 3085	enhanced
+T105	Negative_regulation 3109 3128	neutralizing effect
+T106	Entity 3271 3278	Nuclear
+T107	Localization 3279 3292	translocation
+T108	Positive_regulation 3308 3319	consequence
+T109	Positive_regulation 3323 3333	activation
+T110	Entity 3339 3346	nuclear
+T111	Localization 3362 3370	detected
+T112	Entity 3451 3458	nuclear
+T113	Localization 3470 3480	detectable
+T114	Localization 3537 3545	detected
+T115	Positive_regulation 3624 3634	activation
+R1	Coreference Subject:T69 Object:T5
+R2	Coreference Subject:T69 Object:T6
+R3	Coreference Subject:T69 Object:T7
+R4	Coreference Subject:T69 Object:T8
+R5	Coreference Subject:T69 Object:T9
+R6	Coreference Subject:T69 Object:T10
+R7	Coreference Subject:T69 Object:T11
+R8	Coreference Subject:T69 Object:T12
+R9	Coreference Subject:T69 Object:T13
+R10	Coreference Subject:T70 Object:T103
+E1	Positive_regulation:T71 Theme:T2 Cause:T1
+E2	Positive_regulation:T72 Theme:T3 Cause:T1
+E3	Gene_expression:T73 Theme:T5
+E4	Gene_expression:T73 Theme:T6
+E5	Gene_expression:T73 Theme:T7
+E6	Gene_expression:T73 Theme:T8
+E7	Gene_expression:T73 Theme:T9
+E8	Gene_expression:T73 Theme:T10
+E9	Gene_expression:T73 Theme:T11
+E10	Gene_expression:T73 Theme:T12
+E11	Gene_expression:T73 Theme:T13
+E12	Transcription:T74 Theme:T16
+E13	Transcription:T74 Theme:T17
+E14	Transcription:T74 Theme:T18
+E15	Positive_regulation:T75 Theme:E12
+E16	Positive_regulation:T75 Theme:E13
+E17	Positive_regulation:T75 Theme:E14
+E18	Gene_expression:T76 Theme:T20
+E19	Gene_expression:T76 Theme:T21
+E20	Positive_regulation:T77 Theme:T24
+E21	Positive_regulation:T77 Theme:T25
+E22	Positive_regulation:T78 Theme:E20 Cause:E23
+E23	Gene_expression:T79 Theme:T26
+E24	Positive_regulation:T78 Theme:E21 Cause:E23
+E25	Positive_regulation:T80 Theme:T27
+E26	Gene_expression:T81 Theme:T30
+E27	Gene_expression:T81 Theme:T31
+E28	Positive_regulation:T82 Theme:T32
+E29	Positive_regulation:T83 Theme:T33
+E30	Positive_regulation:T84 Theme:E31
+E31	Phosphorylation:T85 Theme:T36
+E32	Positive_regulation:T86 Theme:T36
+E33	Regulation:T87 Theme:T36
+E34	Regulation:T88 Theme:E35 Cause:E36
+E35	Positive_regulation:T90 Theme:T39
+E36	Positive_regulation:T89 Theme:T38
+E37	Positive_regulation:T91 Theme:T40
+E38	Positive_regulation:T92 Theme:E37 Cause:T41
+E39	Regulation:T93 Theme:E40 Cause:E41
+E40	Positive_regulation:T95 Theme:T44
+E41	Gene_expression:T94 Theme:T43
+E42	Positive_regulation:T96 Theme:T45
+E43	Regulation:T97 Theme:E42 Cause:T46
+E44	Negative_regulation:T98 Theme:T47
+E45	Positive_regulation:T99 Theme:T48
+E46	Positive_regulation:T100 Theme:T50
+E47	Positive_regulation:T101 Theme:E48 Cause:T52
+E48	Positive_regulation:T102 Theme:T53
+E49	Positive_regulation:T103 Theme:T55
+E50	Positive_regulation:T104 Theme:E49
+E51	Negative_regulation:T105 Theme:T57
+E52	Localization:T107 Theme:T60 ToLoc:T106
+E53	Positive_regulation:T108 Theme:E52 Cause:E54
+E54	Positive_regulation:T109 Theme:T60
+E55	Localization:T111 Theme:T61 ToLoc:T110
+E56	Localization:T113 Theme:T62 ToLoc:T112
+E57	Localization:T114 Theme:T62 ToLoc:T112
+E58	Positive_regulation:T115 Theme:T65
+M1	Negation E3
+M2	Negation E4
+M3	Negation E5
+M4	Negation E6
+M5	Negation E7
+M6	Negation E8
+M7	Negation E9
+M8	Negation E10
+M9	Negation E11
+M10	Speculation E22
+M11	Speculation E24
+M12	Negation E34
+M13	Negation E38
+M14	Speculation E38
+M15	Negation E39
+M16	Speculation E43
+M17	Speculation E45
+M18	Speculation E50
+M19	Negation E55

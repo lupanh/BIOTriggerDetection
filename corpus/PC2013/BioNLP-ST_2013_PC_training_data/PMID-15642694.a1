@@ -1,0 +1,44 @@
+T1	Complex 25 46	nuclear factor-kappaB
+T2	Complex 47 54	p50/p50
+T3	Simple_chemical 85 91	Ser337
+T4	Gene_or_gene_product 99 133	protein kinase A catalytic subunit
+T5	Complex 140 149	NF-kappaB
+T6	Complex 150 157	p50/p50
+T7	Complex 274 283	NF-kappaB
+T8	Gene_or_gene_product 284 287	p50
+T9	Simple_chemical 288 296	Ser(337)
+T10	Gene_or_gene_product 347 350	p50
+T11	Simple_chemical 351 359	Ser(337)
+T12	Gene_or_gene_product 400 434	protein kinase A catalytic subunit
+T13	Gene_or_gene_product 436 440	PKAc
+T14	Complex 519 526	p50/p50
+T15	Gene_or_gene_product 625 629	PKAc
+T16	Complex 658 665	p50/p50
+T17	Gene_or_gene_product 706 709	p50
+T18	Gene_or_gene_product 713 717	PKAc
+T19	Simple_chemical 751 759	Ser(337)
+T20	Simple_chemical 763 770	alanine
+T21	Gene_or_gene_product 784 787	p50
+T22	Gene_or_gene_product 792 796	PKAc
+T23	Gene_or_gene_product 853 856	p50
+T24	Gene_or_gene_product 936 940	PKAc
+T25	Gene_or_gene_product 945 948	p50
+T26	Complex 1069 1072	PKA
+T27	Gene_or_gene_product 1147 1150	p50
+T28	Simple_chemical 1151 1159	Ser(337)
+T29	Gene_or_gene_product 1193 1197	PKAc
+T30	Cellular_component 1257 1264	nuclear
+T31	Complex 1265 1272	p50/p65
+T32	Gene_or_gene_product 1297 1324	tumor necrosis factor alpha
+T33	Complex 1341 1348	p50/p50
+T34	Gene_or_gene_product 1485 1489	PKAc
+T35	Gene_or_gene_product 1494 1497	p50
+T36	Gene_or_gene_product 1548 1551	p50
+T37	Simple_chemical 1552 1560	Ser(337)
+T38	Complex 1592 1599	p50/p50
+T39	Cellular_component 1607 1613	nuclei
+T40	Complex 1670 1677	p50/p50
+T41	Simple_chemical 1707 1715	Ser(337)
+T42	Gene_or_gene_product 1719 1723	PKAc
+T43	Complex 1803 1812	NF-kappaB
+T44	Cellular_component 1847 1860	extracellular

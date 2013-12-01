@@ -1,0 +1,36 @@
+T17	Gene_expression 69 79	expression
+T18	Regulation 126 136	controlled
+T19	Positive_regulation 463 471	increase
+T20	Positive_regulation 929 936	induced
+T21	Positive_regulation 937 947	activation
+T22	Positive_regulation 1551 1558	induced
+T23	Positive_regulation 1562 1570	increase
+T24	Protein_catabolism 1851 1862	degradation
+T25	Protein_catabolism 1977 1988	degradation
+T26	Protein_catabolism 2068 2076	degraded
+T15	Anaphora 2162 2164	it
+T27	Negative_regulation 2165 2170	masks
+T28	Entity 2175 2204	nuclear localisation sequence
+T16	Anaphora 2213 2215	it
+T29	Protein_catabolism 2236 2244	degraded
+R1	Coreference Subject:T15 Object:T13
+R2	Coreference Subject:T16 Object:T13
+E1	Gene_expression:T17 Theme:T1
+E2	Gene_expression:T17 Theme:T2
+E3	Regulation:T18 Theme:E1
+E4	Regulation:T18 Theme:E2
+E5	Positive_regulation:T19 Theme:T3
+E6	Positive_regulation:T20 Theme:E7
+E7	Positive_regulation:T21 Theme:T5
+E8	Positive_regulation:T20 Theme:E9
+E9	Positive_regulation:T21 Theme:T6
+E10	Positive_regulation:T22 Theme:E11
+E11	Positive_regulation:T23 Theme:T7
+E12	Positive_regulation:T22 Theme:E13
+E13	Positive_regulation:T23 Theme:T8
+E14	Protein_catabolism:T24 Theme:T10
+E15	Protein_catabolism:T25 Theme:T11
+E16	Protein_catabolism:T26 Theme:T12
+E17	Negative_regulation:T27 Theme:T14 Site:T28 Cause:T13
+E18	Protein_catabolism:T29 Theme:T13
+M1	Negation E15

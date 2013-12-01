@@ -1,0 +1,21 @@
+T1	Complex 0 9	NF-kappaB
+T2	Gene_or_gene_product 10 13	p65
+T3	Gene_or_gene_product 24 36	beta-catenin
+T4	Gene_or_gene_product 64 73	cyclin D1
+T5	Gene_or_gene_product 108 120	beta-catenin
+T6	Complex 125 134	NF-kappaB
+T7	Gene_or_gene_product 253 262	cyclin D1
+T8	Gene_or_gene_product 345 357	beta-catenin
+T9	Gene_or_gene_product 391 400	cyclin D1
+T10	Complex 434 443	NF-kappaB
+T11	Gene_or_gene_product 444 447	p65
+T12	Gene_or_gene_product 456 468	beta-catenin
+T13	Gene_or_gene_product 492 501	Chromatin
+T14	Simple_chemical 531 547	lithium chloride
+T15	Gene_or_gene_product 567 579	beta-catenin
+T16	Gene_or_gene_product 594 618	T-cell activating factor
+T17	Gene_or_gene_product 654 666	beta-catenin
+T18	Complex 698 707	NF-kappaB
+T19	Gene_or_gene_product 708 711	p65
+T20	Gene_or_gene_product 821 833	beta-catenin
+T21	Complex 838 847	NF-kappaB

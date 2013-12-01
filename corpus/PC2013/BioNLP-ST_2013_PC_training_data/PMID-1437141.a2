@@ -1,0 +1,5 @@
+*	Equiv T12 T13
+*	Equiv T16 T17
+*	Equiv T18 T19
+T34	Binding 26 35	formation
+E1	Binding:T34 Theme:T3 Theme2:T4

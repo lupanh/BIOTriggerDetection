@@ -1,0 +1,40 @@
+*	Equiv T2 T3
+*	Equiv T7 T8
+T29	Negative_regulation 0 8	Opposing
+E1	Negative_regulation:T29 Theme:E2
+T30	Regulation 9 25	regulatory roles
+E2	Regulation:T30 Theme:T1
+T31	Gene_expression 88 98	expression
+E3	Gene_expression:T31 Theme:T3
+T32	Regulation 428 437	regulated
+E4	Regulation:T32 Theme:T6 Cause:E5
+T33	Gene_expression 445 455	expression
+E5	Gene_expression:T33 Theme:T8
+T34	Negative_regulation 594 603	repressor
+E6	Negative_regulation:T34 Theme:T10 Cause:T9
+T35	Gene_expression 652 662	expression
+E7	Gene_expression:T35 Theme:T11
+T36	Negative_regulation 672 681	repressed
+E8	Negative_regulation:T36 Theme:T12 Cause:E9
+T37	Negative_regulation 709 719	inhibiting
+E9	Negative_regulation:T37 Cause:E7 Theme:E10
+T38	Activation 724 734	activation
+E10	Activation:T38 Theme:T13
+T39	Negative_regulation 777 786	repressor
+E11	Negative_regulation:T39 Theme:T15
+T40	Activation 860 869	activator
+E12	Activation:T40 Cause:T16 Theme:T17
+T41	Gene_expression 931 940	expressed
+E13	Gene_expression:T41 Theme:T18
+T42	Activation 947 956	activated
+E14	Activation:T42 Theme:T19 Cause:E13
+T43	Negative_regulation 1067 1076	repressed
+E15	Negative_regulation:T43 Theme:T25 Cause:T20
+E16	Negative_regulation:T43 Theme:T25 Cause:T21
+E17	Negative_regulation:T43 Theme:T25 Cause:T22
+T44	Activation 1136 1145	activated
+E18	Activation:T44 Theme:T25 Cause:T20
+E19	Activation:T44 Theme:T25 Cause:T21
+E20	Activation:T44 Theme:T25 Cause:T22
+T45	Regulation 1192 1199	effects
+E21	Regulation:T45 Theme:T27 Cause:T26

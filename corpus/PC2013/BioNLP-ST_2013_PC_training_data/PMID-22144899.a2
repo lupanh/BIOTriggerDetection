@@ -1,0 +1,34 @@
+*	Equiv T9 T10
+*	Equiv T13 T14
+T29	Negative_regulation 49 57	inhibits
+E1	Negative_regulation:T29 Theme:T2 Cause:E2
+T30	Regulation 80 89	targeting
+E2	Regulation:T30 Theme:T3 Cause:T1
+T31	Negative_regulation 607 615	blocking
+E3	Negative_regulation:T31 Theme:T4
+T32	Negative_regulation 930 937	inhibit
+E4	Negative_regulation:T32 Theme:E5 Cause:T10
+T33	Activation 948 958	activation
+E5	Activation:T33 Theme:T11
+T34	Binding 1069 1080	interaction
+E6	Binding:T34 Theme:T12 Theme2:T13
+T35	Positive_regulation 1164 1171	induces
+E7	Positive_regulation:T35 Theme:E9 Cause:E6
+T36	Regulation 1190 1201	independent
+E8	Regulation:T36 Cause:T15 Theme:E9
+M1	Negation E8
+T37	Degradation 1202 1213	degradation
+E9	Degradation:T37 Theme:T13
+T38	Negative_regulation 1362 1372	inhibitory
+E10	Negative_regulation:T38 Theme:T21
+T39	Regulation 1382 1388	linked
+E11	Regulation:T39 Theme:T22 Cause:E10
+T40	Negative_regulation 1413 1423	suppressed
+E12	Negative_regulation:T40 Theme:T22
+T41	Negative_regulation 1523 1533	inhibitory
+E13	Negative_regulation:T41 Theme:T23 Cause:T25
+E14	Negative_regulation:T41 Theme:T23 Cause:T24
+T42	Negative_regulation 1743 1753	inhibitory
+E15	Negative_regulation:T42 Theme:T27
+T43	Negative_regulation 1841 1848	inhibit
+E16	Negative_regulation:T43 Theme:T28

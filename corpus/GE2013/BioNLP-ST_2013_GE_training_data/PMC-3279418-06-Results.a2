@@ -1,0 +1,32 @@
+T16	Negative_regulation 158 165	absence
+T17	Positive_regulation 353 361	elicited
+T18	Gene_expression 378 388	production
+T19	Gene_expression 402 415	concentration
+T20	Positive_regulation 475 480	lower
+T21	Positive_regulation 595 603	agonists
+T22	Binding 614 620	ligand
+T23	Positive_regulation 734 741	induced
+T24	Gene_expression 758 768	production
+T25	Gene_expression 1056 1064	produced
+T26	Gene_expression 1180 1190	production
+T27	Positive_regulation 1223 1232	following
+T28	Gene_expression 1457 1467	production
+T29	Positive_regulation 1543 1550	induced
+T30	Positive_regulation 1551 1555	more
+E1	Negative_regulation:T16 Theme:T1
+E2	Positive_regulation:T17 Theme:E3
+E3	Gene_expression:T18 Theme:T2
+E4	Gene_expression:T19 Theme:T3
+E5	Positive_regulation:T20 Theme:E4
+E6	Positive_regulation:T21 Theme:T4
+E7	Positive_regulation:T21 Theme:T5
+E8	Binding:T22 Theme:T6 Theme2:T7
+E9	Positive_regulation:T23 Theme:E10 Cause:T8
+E10	Gene_expression:T24 Theme:T9
+E11	Gene_expression:T25 Theme:T12
+E12	Gene_expression:T26 Theme:T13
+E13	Positive_regulation:T27 Theme:E12
+E14	Gene_expression:T28 Theme:T14
+E15	Positive_regulation:T29 Theme:T15
+E16	Positive_regulation:T30 Theme:E15
+M1	Negation E5

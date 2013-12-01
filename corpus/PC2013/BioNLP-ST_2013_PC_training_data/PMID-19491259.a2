@@ -1,0 +1,32 @@
+*	Equiv T5 T6
+T20	Negative_regulation 51 60	Defective
+E1	Negative_regulation:T20 Theme:E2
+T21	Pathway 61 70	apoptosis
+E2	Pathway:T21 
+T22	Positive_regulation 200 209	essential
+E3	Positive_regulation:T22 Cause:T2 Theme:E5
+T23	Positive_regulation 218 227	dependent
+E4	Positive_regulation:T23 Cause:T3 Theme:E5
+T24	Pathway 228 237	apoptosis
+E5	Pathway:T24 
+T25	Inactivation 450 460	deficiency
+E6	Inactivation:T25 Theme:T9
+T26	Inactivation 578 585	absence
+E7	Inactivation:T26 Theme:T11
+T27	Positive_regulation 690 696	induce
+E8	Positive_regulation:T27 Cause:T13 Theme:E11
+E9	Positive_regulation:T27 Cause:T13 Theme:E13
+T28	Positive_regulation 701 710	dependent
+E10	Positive_regulation:T28 Cause:T14 Theme:E11
+T29	Gene_expression 716 726	expression
+E11	Gene_expression:T29 Theme:T15
+T30	Positive_regulation 736 745	dependent
+E12	Positive_regulation:T30 Cause:T16 Theme:E13
+T31	Pathway 746 755	apoptosis
+E13	Pathway:T31 
+T32	Inactivation 823 833	deficiency
+E14	Inactivation:T32 Theme:T17
+T33	Positive_regulation 1023 1031	mediated
+E15	Positive_regulation:T33 Cause:T19 Theme:E16
+T34	Pathway 1032 1041	apoptosis
+E16	Pathway:T34 

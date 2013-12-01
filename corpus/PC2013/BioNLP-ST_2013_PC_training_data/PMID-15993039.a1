@@ -1,0 +1,37 @@
+T1	Gene_or_gene_product 0 4	RhoA
+T2	Gene_or_gene_product 14 30	Phospholipase D1
+T3	Cellular_component 78 91	stress fibers
+T4	Cellular_component 96 111	focal adhesions
+T5	Gene_or_gene_product 131 135	RhoA
+T6	Cellular_component 213 225	cytoskeletal
+T7	Gene_or_gene_product 304 308	RhoA
+T8	Gene_or_gene_product 369 384	Phospholipase D
+T9	Gene_or_gene_product 386 389	PLD
+T10	Gene_or_gene_product 533 536	PLD
+T11	Gene_or_gene_product 547 551	PLD1
+T12	Gene_or_gene_product 560 564	PLD2
+T13	Gene_or_gene_product 581 585	RhoA
+T14	Gene_or_gene_product 698 702	RhoA
+T15	Gene_or_gene_product 730 734	PLD1
+T16	Gene_or_gene_product 764 768	RhoA
+T17	Simple_chemical 794 799	Asn41
+T18	Simple_chemical 801 806	Trp58
+T19	Simple_chemical 811 816	Asp76
+T20	Gene_or_gene_product 883 886	PLD
+T21	Gene_or_gene_product 961 965	RhoA
+T22	Gene_or_gene_product 976 980	PLD1
+T23	Gene_or_gene_product 1065 1069	PLD1
+T24	Cellular_component 1077 1089	cytoskeletal
+T25	Gene_or_gene_product 1119 1123	RhoA
+T26	Gene_or_gene_product 1157 1161	PLD1
+T27	Gene_or_gene_product 1186 1190	RhoA
+T28	Cellular_component 1200 1212	stress fiber
+T29	Cellular_component 1217 1231	focal adhesion
+T30	Gene_or_gene_product 1269 1273	PLD1
+T31	Gene_or_gene_product 1287 1291	RhoA
+T32	Cellular_component 1301 1313	cytoskeletal
+T33	Gene_or_gene_product 1374 1378	PLD1
+T34	Simple_chemical 1417 1429	tetracycline
+T35	Gene_or_gene_product 1511 1515	PLD1
+T36	Cellular_component 1550 1562	stress fiber
+T37	Cellular_component 1567 1581	focal adhesion

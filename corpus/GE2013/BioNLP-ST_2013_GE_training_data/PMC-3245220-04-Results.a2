@@ -1,0 +1,14 @@
+T6	Positive_regulation 249 259	expression
+T7	Protein_catabolism 263 270	cleaved
+T8	Protein_catabolism 475 482	cleaved
+T9	Positive_regulation 497 505	elevated
+T10	Negative_regulation 621 625	less
+T11	Protein_catabolism 626 633	cleaved
+T12	Negative_regulation 1109 1117	negative
+E1	Positive_regulation:T6 Theme:E2
+E2	Protein_catabolism:T7 Theme:T1
+E3	Protein_catabolism:T8 Theme:T2
+E4	Positive_regulation:T9 Theme:E3
+E5	Negative_regulation:T10 Theme:E6
+E6	Protein_catabolism:T11 Theme:T3
+E7	Negative_regulation:T12 Theme:T5

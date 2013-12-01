@@ -1,0 +1,5 @@
+T5	Gene_expression 388 403	co-transfection
+T6	Gene_expression 1008 1018	expression
+E1	Gene_expression:T5 Theme:T1
+E2	Gene_expression:T5 Theme:T2
+E3	Gene_expression:T6 Theme:T4

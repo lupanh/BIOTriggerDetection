@@ -1,0 +1,37 @@
+T1	Complex 14 24	NF-kappa B
+T2	Gene_or_gene_product 77 97	toll-like receptor 2
+T3	Gene_or_gene_product 98 102	TAK1
+T4	Complex 113 132	NIK-IKK alpha /beta
+T5	Gene_or_gene_product 133 148	I kappa B alpha
+T6	Gene_or_gene_product 153 159	MKK3/6
+T7	Gene_or_gene_product 160 174	p38 MAP kinase
+T8	Complex 763 773	NF-kappa B
+T9	Complex 924 934	NF-kappa B
+T10	Complex 998 1008	NF-kappa B
+T11	Complex 1064 1074	NF-kappa B
+T12	Complex 1130 1178	NF-kappa B inducing kinase (NIK)--IKK alpha/beta
+T13	Gene_or_gene_product 1198 1213	I kappa B alpha
+T14	Complex 1259 1269	NF-kappa B
+T15	Gene_or_gene_product 1327 1333	MKK3/6
+T16	Gene_or_gene_product 1335 1377	p38 mitogen-activated protein (MAP) kinase
+T17	Complex 1415 1433	NIK-IKK alpha/beta
+T18	Gene_or_gene_product 1434 1449	I kappa B alpha
+T19	Gene_or_gene_product 1454 1460	MKK3/6
+T20	Gene_or_gene_product 1462 1476	p38 MAP kinase
+T21	Gene_or_gene_product 1499 1549	transforming growth factor-beta activated kinase 1
+T22	Gene_or_gene_product 1551 1555	TAK1
+T23	Gene_or_gene_product 1584 1604	toll-like receptor 2
+T24	Gene_or_gene_product 1606 1610	TLR2
+T25	Complex 1641 1651	NF-kappa B
+T26	Gene_or_gene_product 1722 1731	IL-1 beta
+T27	Gene_or_gene_product 1733 1737	IL-8
+T28	Gene_or_gene_product 1743 1770	tumor necrosis factor-alpha
+T29	Cellular_component 1855 1869	outer membrane
+T30	Complex 1941 1951	NF-kappa B
+T31	Complex 2044 2054	NF-kappa B
+T32	Gene_or_gene_product 2059 2063	TLR2
+T33	Gene_or_gene_product 2064 2068	TAK1
+T34	Complex 2079 2098	NIK--IKK alpha/beta
+T35	Gene_or_gene_product 2099 2114	I kappa B alpha
+T36	Gene_or_gene_product 2119 2125	MKK3/6
+T37	Gene_or_gene_product 2127 2141	p38 MAP kinase

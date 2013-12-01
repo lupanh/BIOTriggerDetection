@@ -1,0 +1,45 @@
+T1	Gene_or_gene_product 10 38	multidrug resistance protein
+T2	Gene_or_gene_product 39 43	MRP4
+T3	Simple_chemical 59 72	prostaglandin
+T4	Simple_chemical 150 164	Prostaglandins
+T5	Simple_chemical 268 281	prostaglandin
+T6	Cellular_component 347 355	membrane
+T7	Simple_chemical 367 381	prostaglandins
+T8	Simple_chemical 476 490	prostaglandins
+T9	Gene_or_gene_product 510 553	ATP-binding cassette (ABC) transporter ABCC
+T10	Gene_or_gene_product 555 583	multidrug resistance protein
+T11	Gene_or_gene_product 585 588	MRP
+T12	Cellular_component 601 609	membrane
+T13	Cellular_component 638 655	membrane vesicles
+T14	Gene_or_gene_product 699 703	MRP4
+T15	Simple_chemical 728 731	ATP
+T16	Simple_chemical 752 768	prostaglandin E1
+T17	Simple_chemical 770 774	PGE1
+T18	Simple_chemical 780 784	PGE2
+T19	Gene_or_gene_product 799 803	MRP1
+T20	Gene_or_gene_product 805 809	MRP2
+T21	Gene_or_gene_product 811 815	MRP3
+T22	Gene_or_gene_product 821 825	MRP5
+T23	Simple_chemical 844 848	PGE1
+T24	Simple_chemical 852 856	PGE2
+T25	Gene_or_gene_product 862 866	MRP4
+T26	Simple_chemical 889 893	PGE1
+T27	Simple_chemical 898 902	PGE2
+T28	Simple_chemical 1014 1023	PGF1alpha
+T29	Simple_chemical 1025 1034	PGF2alpha
+T30	Simple_chemical 1036 1040	PGA1
+T31	Simple_chemical 1046 1060	thromboxane B2
+T32	Gene_or_gene_product 1132 1136	MRP4
+T33	Gene_or_gene_product 1221 1225	MRP4
+T34	Gene_or_gene_product 1265 1269	MRP1
+T35	Simple_chemical 1295 1308	prostaglandin
+T36	Gene_or_gene_product 1321 1324	PGT
+T37	Simple_chemical 1359 1363	PGE1
+T38	Simple_chemical 1368 1372	PGE2
+T39	Gene_or_gene_product 1401 1405	MRP4
+T40	Gene_or_gene_product 1432 1436	MRP4
+T41	Gene_or_gene_product 1443 1447	MRP4
+T42	Simple_chemical 1490 1502	indomethacin
+T43	Gene_or_gene_product 1573 1577	MRP4
+T44	Simple_chemical 1590 1604	prostaglandins
+T45	Simple_chemical 1653 1666	prostaglandin

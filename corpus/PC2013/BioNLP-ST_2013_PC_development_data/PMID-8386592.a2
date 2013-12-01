@@ -1,0 +1,17 @@
+T14	Binding 143 165	form a ternary complex
+E1	Binding:T14 Theme:T3 Theme2:T4
+T15	Positive_regulation 342 351	increased
+E2	Positive_regulation:T15 Theme:E3
+T16	Phosphorylation 352 367	phosphorylation
+E3	Phosphorylation:T16 Theme:T6
+T17	Activation 410 420	activation
+E4	Activation:T17 Theme:T7
+T18	Phosphorylation 455 470	Phosphorylation
+E5	Phosphorylation:T18 Theme:T8 Cause:T9
+T19	Regulation 601 607	effect
+E6	Regulation:T19 Theme:E7 Cause:E5
+M1	Negation E6
+T20	Binding 633 642	formation
+E7	Binding:T20 Theme:T8
+T21	Phosphorylation 665 679	phosphorylates
+E8	Phosphorylation:T21 Cause:T10 Theme:T11

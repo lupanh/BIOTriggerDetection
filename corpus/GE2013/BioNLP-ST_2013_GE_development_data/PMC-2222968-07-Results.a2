@@ -1,0 +1,58 @@
+T42	Negative_regulation 6 15	Represses
+T43	Entity 26 34	Promoter
+T44	Negative_regulation 92 102	repression
+T45	Entity 217 234	GATA-binding site
+T40	Anaphora 308 317	This site
+T46	Regulation 399 421	play an important role
+T47	Regulation 431 441	regulation
+T48	Gene_expression 669 676	express
+T49	Entity 715 723	promoter
+T50	Gene_expression 775 785	expressing
+T41	Anaphora 856 869	the construct
+T51	Positive_regulation 874 880	active
+T52	Gene_expression 905 912	express
+T53	Positive_regulation 950 964	Overexpression
+T54	Negative_regulation 1178 1186	deleting
+T55	Entity 1191 1209	GATA3-binding site
+T56	Negative_regulation 1382 1391	repressor
+T57	Entity 1423 1431	promoter
+T58	Binding 1463 1468	binds
+T59	Entity 1491 1499	promoter
+T60	Binding 1817 1824	binding
+T61	Gene_expression 1872 1882	expressing
+T62	Gene_expression 1957 1971	overexpressing
+T63	Binding 2005 2012	binding
+T64	Binding 2084 2089	binds
+T65	Entity 2112 2120	promoter
+T66	Binding 2270 2275	binds
+T67	Entity 2289 2304	promoter region
+T68	Binding 2408 2415	binding
+T69	Negative_regulation 2441 2451	repressing
+T70	Gene_expression 2458 2468	expression
+R1	Coreference Subject:T40 Object:T45
+R2	Coreference Subject:T41 Object:T49
+E1	Negative_regulation:T42 Theme:T2 Site:T43 Cause:T1
+E2	Negative_regulation:T44 Theme:T4 Cause:T3
+E3	Regulation:T46 Theme:E4 Cause:T5 CSite:T45
+E4	Regulation:T47 Theme:T7
+E5	Gene_expression:T48 Theme:T10
+E6	Gene_expression:T50 Theme:T12
+E7	Positive_regulation:T51 Theme:T11 Site:T49 Cause:E8
+E8	Gene_expression:T52 Theme:T14
+E9	Positive_regulation:T53 Theme:T15
+E10	Negative_regulation:T54 Theme:T16 Site:T55
+E11	Negative_regulation:T56 Theme:T23 Site:T57 Cause:T22
+E12	Binding:T58 Theme:T24 Theme2:T25 Site2:T59
+E13	Binding:T60 Theme:T28
+E14	Gene_expression:T61 Theme:T29
+E15	Gene_expression:T62 Theme:T30
+E16	Binding:T63 Theme:T31
+E17	Binding:T64 Theme:T32 Theme2:T33 Site2:T65
+E18	Binding:T66 Theme:T35 Theme2:T36 Site2:T67
+E19	Binding:T68 Theme:T37 Theme2:T38
+E20	Negative_regulation:T69 Theme:E21 Cause:E19
+E21	Gene_expression:T70 Theme:T39
+M1	Speculation E2
+M2	Speculation E3
+M3	Negation E8
+M4	Speculation E13

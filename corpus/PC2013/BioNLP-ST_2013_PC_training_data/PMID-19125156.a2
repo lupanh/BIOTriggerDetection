@@ -1,0 +1,31 @@
+T15	Transport 125 133	secreted
+E1	Transport:T15 Theme:T2
+T16	Negative_regulation 403 410	disrupt
+E2	Negative_regulation:T16 Theme:E3
+T17	Pathway 415 422	pathway
+E3	Pathway:T17 Participant:T4
+T18	Negative_regulation 452 460	inhibits
+E4	Negative_regulation:T18 Theme:T5
+T19	Localization 499 504	bound
+E5	Localization:T19 Theme:T5 AtLoc:T6
+T20	Positive_regulation 529 538	essential
+E6	Positive_regulation:T20 Cause:T5 Theme:E7
+T21	Gene_expression 546 556	production
+E7	Gene_expression:T21 Theme:T7
+T22	Negative_regulation 584 593	abrogates
+E8	Negative_regulation:T22 Theme:E9
+T23	Degradation 594 605	destruction
+E9	Degradation:T23 Theme:T8
+T24	Negative_regulation 634 645	suppressors
+E10	Negative_regulation:T24 Theme:E11 Cause:T8
+T25	Pathway 666 673	pathway
+E11	Pathway:T25 Participant:T9 Participant2:T10
+T26	Pathway 770 777	pathway
+E12	Pathway:T26 Participant:T11
+T27	Negative_regulation 850 860	reversible
+E13	Negative_regulation:T27 Theme:E14
+M1	Speculation E13
+T28	Negative_regulation 861 872	suppression
+E14	Negative_regulation:T28 Theme:E15
+T29	Pathway 893 900	pathway
+E15	Pathway:T29 Participant:T12 Participant2:T13

@@ -1,0 +1,11 @@
+T5	Phosphorylation 721 735	phosphorylated
+T6	Entity 742 752	serine 133
+T7	Phosphorylation 755 769	phosphorylated
+T8	Entity 785 795	serines 32
+T9	Entity 800 802	36
+T10	Phosphorylation 805 819	phosphorylated
+T11	Entity 843 853	serine 276
+E1	Phosphorylation:T5 Theme:T1 Site:T6
+E2	Phosphorylation:T7 Theme:T2 Site:T8
+E3	Phosphorylation:T7 Theme:T2 Site:T9
+E4	Phosphorylation:T10 Theme:T3 Site:T11

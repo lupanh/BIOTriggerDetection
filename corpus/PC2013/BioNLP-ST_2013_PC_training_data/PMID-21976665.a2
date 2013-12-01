@@ -1,0 +1,39 @@
+*	Equiv T1 T2
+*	Equiv T8 T7
+T27	Regulation 0 10	Uncoupling
+E1	Regulation:T27 Theme:E3
+M1	Negation E1
+T28	Positive_regulation 42 50	mediated
+E2	Positive_regulation:T28 Cause:T1 Theme:E3
+T29	Regulation 56 66	regulation
+E3	Regulation:T29 Theme:T3
+T30	Activation 103 113	Activation
+E4	Activation:T30 Theme:T4
+T31	Dissociation 184 192	cleavage
+E5	Dissociation:T31 Product:T5
+T32	Negative_regulation 404 410	impair
+E6	Negative_regulation:T32 Theme:T10 Cause:T7
+T33	Regulation 665 674	regulates
+E7	Regulation:T33 Cause:T12 Theme:E9
+E8	Regulation:T33 Cause:T12 Theme:E10
+T34	Positive_regulation 697 706	responses
+E9	Positive_regulation:T34 Theme:T13
+E10	Positive_regulation:T34 Theme:T14
+T35	Positive_regulation 877 886	necessary
+E11	Positive_regulation:T35 Cause:T15 Theme:E12
+T36	Negative_regulation 938 948	inhibitory
+E12	Negative_regulation:T36 Theme:T16
+T37	Positive_regulation 1027 1035	critical
+E13	Positive_regulation:T37 Cause:T15 Theme:E14
+T38	Binding 1059 1070	interaction
+E14	Binding:T38 Theme:T20 Theme2:T21
+T39	Negative_regulation 1149 1155	reduce
+E15	Negative_regulation:T39 Theme:E16
+M2	Negation E15
+T40	Regulation 1160 1166	effect
+E16	Regulation:T40 Theme:T22
+T41	Negative_regulation 1238 1248	inhibitory
+E17	Negative_regulation:T41 Cause:T24 Theme:T25
+T42	Regulation 1275 1284	uncoupled
+E18	Regulation:T42 Theme:E17
+M3	Negation E18

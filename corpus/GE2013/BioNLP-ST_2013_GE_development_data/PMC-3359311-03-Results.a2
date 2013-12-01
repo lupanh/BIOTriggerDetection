@@ -1,0 +1,14 @@
+T3	Regulation 542 549	altered
+T4	Regulation 560 569	dependent
+T5	Gene_expression 575 585	production
+T6	Positive_regulation 586 600	in response to
+T7	Negative_regulation 690 698	decrease
+T8	Localization 704 713	secretion
+E1	Regulation:T3 Theme:E2
+E2	Positive_regulation:T6 Theme:E3
+E3	Regulation:T4 Theme:E4
+E4	Gene_expression:T5 Theme:T1
+E5	Negative_regulation:T7 Theme:E6
+E6	Localization:T8 Theme:T2
+M1	Speculation E1
+M2	Negation E5

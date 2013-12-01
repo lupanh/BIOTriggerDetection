@@ -1,0 +1,142 @@
+T46	Protein_catabolism 13 24	degradation
+T47	Entity 34 41	nuclear
+T48	Localization 42 55	translocation
+T49	Regulation 71 80	regulates
+T50	Entity 85 92	nuclear
+T51	Localization 93 99	import
+T45	Anaphora 195 198	its
+T52	Entity 199 206	nuclear
+T53	Localization 207 220	translocation
+T54	Localization 270 283	translocation
+T55	Binding 396 407	association
+T56	Binding 536 543	binding
+T57	Positive_regulation 565 574	essential
+T58	Entity 579 586	nuclear
+T59	Localization 587 600	translocation
+T60	Protein_catabolism 649 660	degradation
+T61	Positive_regulation 666 678	prerequisite
+T62	Regulation 682 688	unmask
+T63	Entity 693 696	NLS
+T64	Binding 736 740	bind
+T65	Protein_catabolism 818 829	degradation
+T66	Positive_regulation 833 841	required
+T67	Localization 850 860	liberation
+T68	Binding 886 897	association
+T69	Negative_regulation 1005 1009	SSAA
+T70	Negative_regulation 1011 1020	resistant
+T71	Positive_regulation 1032 1039	induced
+T72	Phosphorylation 1040 1055	phosphorylation
+T73	Protein_catabolism 1060 1071	degradation
+T74	Positive_regulation 1139 1148	augmented
+T75	Binding 1153 1164	interaction
+T76	Binding 1295 1306	association
+T77	Negative_regulation 1311 1320	abolished
+T78	Protein_catabolism 1344 1354	degradable
+T79	Negative_regulation 1443 1453	precluding
+T80	Entity 1459 1466	nuclear
+T81	Localization 1467 1480	translocation
+T82	Binding 1519 1530	association
+T83	Negative_regulation 1554 1562	reducing
+T84	Gene_expression 1576 1586	expression
+T85	Negative_regulation 1664 1672	depleted
+T86	Binding 1758 1769	association
+T87	Positive_regulation 1778 1787	augmented
+T88	Entity 1819 1826	nuclear
+T89	Localization 1832 1840	detected
+T90	Positive_regulation 1908 1914	induce
+T91	Protein_catabolism 1928 1939	degradation
+T92	Positive_regulation 1995 2004	increased
+T93	Binding 2005 2016	association
+T94	Entity 2088 2095	nuclear
+T95	Localization 2096 2108	accumulation
+T96	Protein_catabolism 2148 2159	degradation
+T97	Positive_regulation 2268 2276	promotes
+T98	Binding 2296 2307	association
+T99	Entity 2312 2319	nuclear
+T100	Localization 2320 2329	transport
+T101	Protein_catabolism 2357 2368	degradation
+T102	Positive_regulation 2427 2435	required
+T103	Binding 2464 2475	association
+T104	Phosphorylation 2543 2558	phosphorylation
+T105	Protein_catabolism 2563 2574	degradation
+T106	Positive_regulation 2616 2621	cause
+T107	Binding 2627 2638	association
+T108	Positive_regulation 2659 2667	followed
+T109	Entity 2671 2678	nuclear
+T110	Localization 2679 2692	translocation
+T111	Phosphorylation 2744 2759	phosphorylation
+R1	Coreference Subject:T45 Object:T4
+E1	Protein_catabolism:T46 Theme:T1
+E2	Localization:T48 Theme:T2 ToLoc:T47
+E3	Regulation:T49 Theme:E4
+E4	Localization:T51 Theme:T3 ToLoc:T50
+E5	Localization:T53 Theme:T4 ToLoc:T52
+E6	Localization:T54 Theme:T5
+E7	Binding:T56 Theme:T8
+E8	Positive_regulation:T57 Theme:E9 Cause:E7
+E9	Localization:T59 Theme:T8 ToLoc:T58
+E10	Protein_catabolism:T60 Theme:T9
+E11	Positive_regulation:T61 Theme:E12 Cause:E10
+E12	Regulation:T62 Theme:T10 Site:T63
+E13	Binding:T64 Theme:T11 Theme2:T13
+E14	Binding:T64 Theme:T12 Theme2:T13
+E15	Protein_catabolism:T65 Theme:T14
+E16	Positive_regulation:T66 Theme:E17 Cause:E15
+E17	Localization:T67 Theme:T15
+E18	Binding:T68 Theme:T16
+E19	Negative_regulation:T69 Theme:T18
+E20	Negative_regulation:T70 Theme:E21 Cause:E19
+E21	Positive_regulation:T71 Theme:E24 Cause:T19
+E22	Negative_regulation:T70 Theme:E23 Cause:E19
+E23	Positive_regulation:T71 Theme:E25 Cause:T19
+E24	Phosphorylation:T72 Theme:T18
+E25	Protein_catabolism:T73 Theme:T18
+E26	Positive_regulation:T74 Theme:E27
+E27	Binding:T75 Theme:T21
+E28	Binding:T76 Theme:T22
+E29	Negative_regulation:T77 Theme:E28 Cause:E30
+E30	Protein_catabolism:T78 Theme:T23
+E31	Negative_regulation:T79 Theme:E32 Cause:T24
+E32	Localization:T81 Theme:T25 ToLoc:T80
+E33	Binding:T82 Theme:T26
+E34	Negative_regulation:T83 Theme:E35
+E35	Gene_expression:T84 Theme:T28
+E36	Negative_regulation:T85 Theme:T31 Cause:T29
+E37	Binding:T86 Theme:T32
+E38	Positive_regulation:T87 Theme:E37 Cause:E36
+E39	Localization:T89 Theme:T33 ToLoc:T88
+E40	Positive_regulation:T90 Theme:E41
+E41	Protein_catabolism:T91 Theme:T34
+E42	Positive_regulation:T92 Theme:E43 Cause:E40
+E43	Binding:T93 Theme:T35
+E44	Positive_regulation:T92 Theme:E45 Cause:E40
+E45	Localization:T95 Theme:T36 ToLoc:T94
+E46	Protein_catabolism:T96 Theme:T37
+E47	Positive_regulation:T97 Theme:E48
+E48	Binding:T98 Theme:T38
+E49	Positive_regulation:T97 Theme:E50
+E50	Localization:T100 Theme:T38 ToLoc:T99
+E51	Protein_catabolism:T101 Theme:T39
+E52	Positive_regulation:T102 Theme:E53
+E53	Binding:T103 Theme:T40
+E54	Phosphorylation:T104 Theme:T41
+E55	Protein_catabolism:T105 Theme:T41
+E56	Positive_regulation:T106 Theme:E57 Cause:E54
+E57	Positive_regulation:T108 Theme:E60 Cause:E59
+E58	Positive_regulation:T106 Theme:E57 Cause:E55
+E59	Binding:T107 Theme:T42
+E60	Localization:T110 Theme:T42 ToLoc:T109
+E61	Phosphorylation:T111 Theme:T44
+M1	Speculation E1
+M2	Speculation E2
+M3	Speculation E16
+M4	Speculation E18
+M5	Negation E30
+M6	Speculation E31
+M7	Speculation E33
+M8	Negation E38
+M9	Negation E39
+M10	Negation E42
+M11	Negation E44
+M12	Speculation E47
+M13	Speculation E49

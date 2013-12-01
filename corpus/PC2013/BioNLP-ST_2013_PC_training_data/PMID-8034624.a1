@@ -1,0 +1,42 @@
+T1	Gene_or_gene_product 14 39	phosphoinositide 3-kinase
+T2	Gene_or_gene_product 52 59	Cdc42Hs
+T3	Gene_or_gene_product 71 74	p85
+T4	Gene_or_gene_product 81 84	Ras
+T5	Gene_or_gene_product 97 102	Cdc42
+T6	Cellular_component 246 267	cytoskeletal elements
+T7	Gene_or_gene_product 353 360	Cdc42Hs
+T8	Gene_or_gene_product 439 478	glutathione S-transferase (GST)-Cdc42Hs
+T9	Simple_chemical 514 521	guanine
+T10	Gene_or_gene_product 598 601	p85
+T11	Gene_or_gene_product 606 635	phosphatidylinositol 3-kinase
+T12	Gene_or_gene_product 637 648	PI 3-kinase
+T13	Simple_chemical 654 665	GTP gamma S
+T14	Simple_chemical 667 702	guanosine 5'-3-O-(thio)triphosphate
+T15	Gene_or_gene_product 710 721	GST-Cdc42Hs
+T16	Gene_or_gene_product 735 738	p85
+T17	Simple_chemical 761 772	GTP gamma S
+T18	Gene_or_gene_product 779 790	GST-Cdc42Hs
+T19	Simple_chemical 819 822	GTP
+T20	Complex 829 845	GST-Cdc42Hs-Q61L
+T21	Simple_chemical 869 880	GTP gamma S
+T22	Gene_or_gene_product 904 919	GST-Cdc42HsT35A
+T23	Gene_or_gene_product 937 944	Rho-GAP
+T24	Gene_or_gene_product 964 967	p85
+T25	Gene_or_gene_product 976 987	Cdc42Hs-GAP
+T26	Gene_or_gene_product 1039 1042	p85
+T27	Gene_or_gene_product 1046 1053	Cdc42Hs
+T28	Gene_or_gene_product 1068 1079	PI 3-kinase
+T29	Gene_or_gene_product 1136 1139	p85
+T30	Complex 1176 1197	GST-Cdc42-GTP gamma S
+T31	Gene_or_gene_product 1242 1245	p85
+T32	Complex 1250 1270	GST-Rac1-GTP gamma S
+T33	Gene_or_gene_product 1287 1290	p85
+T34	Complex 1295 1315	GST-RhoA-GTP gamma S
+T35	Gene_or_gene_product 1345 1356	PI 3-kinase
+T36	Gene_or_gene_product 1370 1377	Rho-GAP
+T37	Gene_or_gene_product 1397 1400	p85
+T38	Gene_or_gene_product 1439 1446	Cdc42Hs
+T39	Gene_or_gene_product 1456 1459	p85
+T40	Simple_chemical 1484 1487	GTP
+T41	Gene_or_gene_product 1503 1510	Cdc42Hs
+T42	Gene_or_gene_product 1515 1519	Rac1

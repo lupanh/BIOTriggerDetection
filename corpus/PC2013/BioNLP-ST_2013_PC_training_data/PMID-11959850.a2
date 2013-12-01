@@ -1,0 +1,37 @@
+*	Equiv T8 T9
+T20	Activation 21 31	activation
+E1	Activation:T20 Theme:T1
+T21	Pathway 109 119	cell cycle
+E2	Pathway:T21 
+T22	Regulation 135 145	controlled
+E3	Regulation:T22 Theme:E2 Cause:E5
+E4	Regulation:T22 Theme:E2 Cause:E6
+T23	Activation 197 207	activation
+E5	Activation:T23 Theme:T3 Cause:E7
+E6	Activation:T23 Theme:T3 Cause:E8
+T24	Binding 236 243	binding
+E7	Binding:T24 Theme:T4 Theme2:T5
+T25	Phosphorylation 281 296	phosphorylation
+E8	Phosphorylation:T25 Site:T6 Theme:T7 Cause:T8
+T26	Binding 460 469	formation
+E9	Binding:T26 Theme:T10
+T27	Activation 474 484	activation
+E10	Activation:T27 Theme:T10
+T28	Binding 608 625	complex formation
+E11	Binding:T28 Theme:T11
+T29	Activation 630 640	activation
+E12	Activation:T29 Theme:T11
+T30	Binding 780 791	association
+E13	Binding:T30 Theme:T12 Theme2:T13
+T31	Phosphorylation 952 967	phosphorylation
+E14	Phosphorylation:T31 Site:T14 Theme:T12
+T32	Binding 980 988	contacts
+E15	Binding:T32 Theme:T15 Theme2:T16
+T33	Positive_regulation 1063 1069	induce
+E16	Positive_regulation:T33 Theme:E17 Cause:E18
+T34	Binding 1074 1087	isomerization
+E17	Binding:T34 Theme:T17
+T35	Positive_regulation 1127 1136	promoting
+E18	Positive_regulation:T35 Theme:E19 Cause:E15
+T36	Phosphorylation 1168 1183	phosphorylation
+E19	Phosphorylation:T36 Theme:T17 Cause:T18

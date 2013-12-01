@@ -1,0 +1,21 @@
+*	Equiv T2 T3
+T33	Gene_expression 288 298	expression
+E1	Gene_expression:T33 Theme:T5
+T34	Gene_expression 370 379	expressed
+E2	Gene_expression:T34 Theme:T7
+T35	Gene_expression 444 451	express
+E3	Gene_expression:T35 Theme:T8
+T36	Gene_expression 497 504	express
+E4	Gene_expression:T36 Theme:T10
+E5	Gene_expression:T36 Theme:T11
+M1	Negation E4
+M2	Negation E5
+T37	Positive_regulation 1008 1016	required
+E6	Positive_regulation:T37 Theme:E7 Cause:T19
+T38	Conversion 1025 1037	biosynthesis
+E7	Conversion:T38 Product:T20
+T39	Binding 1047 1058	cooperation
+T40	Positive_regulation 1047 1058	cooperation
+E8	Binding:T39 Theme:T21 Theme2:T22
+E9	Positive_regulation:T40 Theme:E8 Cause:T23
+M3	Negation E8

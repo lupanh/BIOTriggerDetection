@@ -1,0 +1,75 @@
+*	Equiv T5 T6
+*	Equiv T7 T8
+*	Equiv T14 T15
+T45	Binding 40 55	oligomerization
+E1	Binding:T45 Theme:T1
+E2	Binding:T45 Theme:T2
+T46	Positive_regulation 78 88	sufficient
+E3	Positive_regulation:T46 Cause:E1 Theme:E7
+E4	Positive_regulation:T46 Cause:E2 Theme:E7
+E5	Positive_regulation:T46 Cause:E2 Theme:E8
+E6	Positive_regulation:T46 Cause:E1 Theme:E8
+T47	Activation 105 115	activation
+E7	Activation:T47 Theme:T4
+E8	Activation:T47 Theme:T3
+T48	Positive_regulation 241 250	stimulate
+E9	Positive_regulation:T48 Theme:T9 Cause:E21
+E10	Positive_regulation:T48 Theme:T10 Cause:E21
+E11	Positive_regulation:T48 Theme:T9 Cause:E22
+E12	Positive_regulation:T48 Theme:T10 Cause:E22
+E13	Positive_regulation:T48 Theme:T9 Cause:E23
+E14	Positive_regulation:T48 Theme:T10 Cause:E23
+E15	Positive_regulation:T48 Theme:T9 Cause:E24
+E16	Positive_regulation:T48 Theme:T10 Cause:E24
+E17	Positive_regulation:T48 Theme:T9 Cause:E25
+E18	Positive_regulation:T48 Theme:T10 Cause:E25
+E19	Positive_regulation:T48 Theme:T9 Cause:E26
+E20	Positive_regulation:T48 Theme:T10 Cause:E26
+T49	Activation 300 310	activation
+E21	Activation:T49 Cause:T5 Theme:T12
+E22	Activation:T49 Cause:T7 Theme:T12
+E23	Activation:T49 Cause:T5 Theme:T13
+E24	Activation:T49 Cause:T7 Theme:T13
+E25	Activation:T49 Cause:T5 Theme:T14
+E26	Activation:T49 Cause:T7 Theme:T14
+T50	Pathway 409 416	signals
+E27	Pathway:T50 Participant:T17
+E28	Pathway:T50 Participant:T16
+T51	Positive_regulation 421 431	transduced
+E29	Positive_regulation:T51 Cause:T18 Theme:E27
+E30	Positive_regulation:T51 Cause:T19 Theme:E27
+E31	Positive_regulation:T51 Cause:T18 Theme:E28
+E32	Positive_regulation:T51 Cause:T19 Theme:E28
+T52	Gene_expression 471 484	Overexpressed
+E33	Gene_expression:T52 Theme:T20
+E34	Gene_expression:T52 Theme:T21
+T53	Activation 500 508	activate
+E35	Activation:T53 Theme:T22 Cause:T21
+E36	Activation:T53 Theme:T23 Cause:T21
+E37	Activation:T53 Theme:T24 Cause:T21
+E38	Activation:T53 Theme:T22 Cause:T20
+E39	Activation:T53 Theme:T23 Cause:T20
+E40	Activation:T53 Theme:T24 Cause:T20
+T54	Binding 778 793	Oligomerization
+E41	Binding:T54 Theme:T31
+T55	Positive_regulation 823 830	results
+E42	Positive_regulation:T55 Cause:E41 Theme:E46
+E43	Positive_regulation:T55 Cause:E41 Theme:E47
+E44	Positive_regulation:T55 Cause:E41 Theme:E48
+E45	Positive_regulation:T55 Cause:E41 Theme:E49
+T56	Binding 843 850	binding
+E46	Binding:T56 Theme:T32 Theme2:T31
+T57	Activation 907 917	activation
+E47	Activation:T57 Theme:T35
+E48	Activation:T57 Theme:T34
+E49	Activation:T57 Theme:T33
+T58	Positive_regulation 988 996	enhances
+E50	Positive_regulation:T58 Cause:T38 Theme:E51
+T59	Binding 1001 1008	binding
+E51	Binding:T59 Theme:T39 Theme2:T40
+T60	Pathway 1109 1118	signaling
+E52	Pathway:T60 Participant:T42 Participant2:T41
+T61	Regulation 1122 1127	based
+E53	Regulation:T61 Theme:E52 Cause:E54
+T62	Binding 1131 1146	oligomerization
+E54	Binding:T62 Theme:T43 Theme2:T44

@@ -1,0 +1,45 @@
+1	Statistical	_	JJ	_	_	2	NMOD	_	_
+2	analysis	_	NN	_	_	0	ROOT	_	_
+		
+1	Statistical	_	JJ	_	_	2	NMOD	_	_
+2	analysis	_	NN	_	_	3	VMOD	_	_
+3	was	_	VBD	_	_	0	ROOT	_	_
+4	performed	_	VBN	_	_	3	VC	_	_
+5	by	_	IN	_	_	4	VMOD	_	_
+6	two-tail	_	JJ	_	_	8	NMOD	_	_
+7	unpaired	_	JJ	_	_	8	NMOD	_	_
+8	Student	_	NN	_	_	10	NMOD	_	_
+9	's	_	POS	_	_	8	SUFFIX	_	_
+10	t-test	_	NN	_	_	5	PMOD	_	_
+11	.	_	.	_	_	3	P	_	_
+		
+1	Data	_	NNS	_	_	2	VMOD	_	_
+2	were	_	VBD	_	_	0	ROOT	_	_
+3	reported	_	VBN	_	_	2	VC	_	_
+4	as	_	IN	_	_	3	VMOD	_	_
+5	means	_	NN	_	_	4	PMOD	_	_
+6	+/-	_	CC	_	_	5	COORD	_	_
+7	SE	_	NN	_	_	6	CONJ	_	_
+8	.	_	.	_	_	2	P	_	_
+		
+1	Differences	_	NNS	_	_	5	VMOD	_	_
+2	between	_	IN	_	_	1	NMOD	_	_
+3	the	_	DT	_	_	4	NMOD	_	_
+4	means	_	NNS	_	_	2	PMOD	_	_
+5	were	_	VBD	_	_	0	ROOT	_	_
+6	considered	_	VBN	_	_	5	VC	_	_
+7	as	_	RB	_	_	6	VMOD	_	_
+8	statistically	_	RB	_	_	7	AMOD	_	_
+9	significant	_	JJ	_	_	7	AMOD	_	_
+10	at	_	IN	_	_	7	AMOD	_	_
+11	the	_	DT	_	_	14	NMOD	_	_
+12	95	_	CD	_	_	13	AMOD	_	_
+13	%	_	NN	_	_	14	NMOD	_	_
+14	level	_	NN	_	_	10	PMOD	_	_
+15	(	_	(	_	_	17	P	_	_
+16	P	_	NN	_	_	17	NMOD	_	_
+17	<	_	NN	_	_	14	PRN	_	_
+18	0.05	_	CD	_	_	17	NMOD	_	_
+19	)	_	)	_	_	17	P	_	_
+20	.	_	.	_	_	5	P	_	_
+		

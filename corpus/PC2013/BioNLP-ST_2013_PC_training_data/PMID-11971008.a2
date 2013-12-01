@@ -1,0 +1,60 @@
+*	Equiv T4 T3
+*	Equiv T13 T12
+*	Equiv T20 T21
+*	Equiv T32 T33
+T40	Pathway 14 23	apoptosis
+E1	Pathway:T40 
+T41	Positive_regulation 24 32	inducing
+E2	Positive_regulation:T41 Theme:E1
+T42	Negative_regulation 37 47	preventing
+E3	Negative_regulation:T42 Theme:E1
+T43	Positive_regulation 178 187	induction
+E4	Positive_regulation:T43 Theme:E5
+T44	Pathway 191 200	apoptosis
+E5	Pathway:T44 
+T45	Negative_regulation 357 365	inhibits
+E6	Negative_regulation:T45 Cause:T3 Theme:E7
+T46	Activation 366 376	activation
+E7	Activation:T46 Theme:T5
+T47	Positive_regulation 586 593	results
+E8	Positive_regulation:T47 Cause:T7 Theme:E9
+T48	Pathway 608 617	apoptosis
+E9	Pathway:T48 
+T49	Pathway 879 886	cascade
+E10	Pathway:T49 Participant:T10
+T50	Negative_regulation 1025 1035	diminished
+E11	Negative_regulation:T50 Theme:E14 Cause:T14
+E12	Negative_regulation:T50 Theme:E14 Cause:T12
+T51	Positive_regulation 1040 1047	induced
+E13	Positive_regulation:T51 Cause:T15 Theme:E14
+T52	Pathway 1048 1057	apoptosis
+E14	Pathway:T52 
+T53	Pathway 1146 1156	cell death
+E15	Pathway:T53 
+T54	Positive_regulation 1264 1273	augmented
+E16	Positive_regulation:T54 Theme:E18
+T55	Positive_regulation 1278 1286	mediated
+E17	Positive_regulation:T55 Cause:T22 Theme:E18
+T56	Pathway 1287 1296	apoptosis
+E18	Pathway:T56 
+T57	Pathway 1414 1421	cascade
+E19	Pathway:T57 
+T58	Regulation 1512 1519	effects
+E20	Regulation:T58 Theme:E23 Cause:T28
+E21	Regulation:T58 Theme:E23 Cause:T29
+T59	Positive_regulation 1578 1586	mediated
+E22	Positive_regulation:T59 Theme:E23
+T60	Pathway 1587 1596	apoptosis
+E23	Pathway:T60 
+T61	Positive_regulation 1617 1626	dependent
+E24	Positive_regulation:T61 Cause:T30 Theme:E25
+T62	Pathway 1627 1637	cell death
+E25	Pathway:T62 
+T63	Negative_regulation 1657 1667	attenuated
+E26	Negative_regulation:T63 Cause:T32 Theme:E25
+T64	Pathway 1816 1825	apoptosis
+E27	Pathway:T64 
+T65	Regulation 1906 1913	targets
+E28	Regulation:T65 Theme:E29
+T66	Pathway 1964 1981	apoptotic pathway
+E29	Pathway:T66 Participant:T36 Participant2:T37

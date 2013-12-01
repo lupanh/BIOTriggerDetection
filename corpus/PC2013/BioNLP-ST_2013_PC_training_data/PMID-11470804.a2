@@ -1,0 +1,21 @@
+*	Equiv T4 T5
+*	Equiv T7 T8
+T33	Gene_expression 355 364	expressed
+E1	Gene_expression:T33 Theme:T7
+T34	Gene_expression 692 705	overexpressed
+E2	Gene_expression:T34 Theme:T14
+E3	Gene_expression:T34 Theme:T15
+T35	Conversion 811 819	utilizes
+T36	Positive_regulation 811 819	utilizes
+E4	Conversion:T35 Theme:T18
+E5	Positive_regulation:T36 Theme:E4 Cause:T17
+T37	Localization 1075 1084	localized
+E6	Localization:T37 ToLoc:T28 Theme:T26
+E7	Localization:T37 ToLoc:T28 Theme:T27
+T38	Positive_regulation 1178 1186	produced
+T39	Conversion 1178 1186	produced
+E8	Positive_regulation:T38 Cause:T31 Theme:E10
+E9	Positive_regulation:T38 Cause:T32 Theme:E10
+E10	Conversion:T39 Product:T30
+T40	Conversion 1215 1223	utilized
+E11	Conversion:T40 Theme:T30

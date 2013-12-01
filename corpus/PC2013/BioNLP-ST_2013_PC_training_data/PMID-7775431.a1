@@ -1,0 +1,25 @@
+T1	Complex 66 88	interleukin 1 receptor
+T2	Gene_or_gene_product 206 224	interleukin 1 beta
+T3	Gene_or_gene_product 226 235	IL-1 beta
+T4	Complex 247 260	IL-1 receptor
+T5	Gene_or_gene_product 333 339	Type I
+T6	Gene_or_gene_product 344 366	Type II IL-1 receptors
+T7	Gene_or_gene_product 433 437	IL-1
+T8	Gene_or_gene_product 607 638	IL-1 receptor accessory protein
+T9	Gene_or_gene_product 640 649	IL-1R AcP
+T10	Gene_or_gene_product 802 811	IL-1R AcP
+T11	Gene_or_gene_product 831 833	Ig
+T12	Cellular_component 874 887	extracellular
+T13	Gene_or_gene_product 958 964	Type I
+T14	Gene_or_gene_product 969 991	Type II IL-1 receptors
+T15	Gene_or_gene_product 1031 1040	IL-1R AcP
+T16	Gene_or_gene_product 1106 1110	IL-1
+T17	Gene_or_gene_product 1165 1177	Type I IL-1R
+T18	Gene_or_gene_product 1182 1191	IL-1R AcP
+T19	Gene_or_gene_product 1240 1252	Type I IL-1R
+T20	Gene_or_gene_product 1264 1274	IL-1 alpha
+T21	Gene_or_gene_product 1278 1287	IL-1 beta
+T22	Gene_or_gene_product 1296 1302	IL-1ra
+T23	Gene_or_gene_product 1393 1405	Type I IL-1R
+T24	Gene_or_gene_product 1410 1419	IL-1 beta
+T25	Complex 1494 1507	IL-1 receptor

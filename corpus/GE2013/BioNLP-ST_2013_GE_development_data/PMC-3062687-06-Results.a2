@@ -1,0 +1,88 @@
+T45	Phosphorylation 8 22	phosphorylates
+T46	Entity 31 41	serine 209
+T47	Phosphorylation 128 142	phosphorylates
+T48	Phosphorylation 301 314	phosphorylate
+T49	Phosphorylation 407 427	incorporation of 32P
+T50	Phosphorylation 431 448	autophosphorylatd
+T51	Phosphorylation 502 515	phosporylated
+T52	Phosphorylation 699 713	phosphorylated
+T53	Entity 808 829	amino acid residue(s)
+T54	Phosphorylation 830 844	phosphorylated
+T55	Phosphorylation 941 955	phosphorylated
+T56	Phosphorylation 997 1011	phosphorylated
+T57	Entity 1012 1016	S209
+T58	Entity 1465 1470	S209A
+T59	Regulation 1471 1477	mutant
+T60	Entity 1534 1539	S209A
+T61	Regulation 1540 1548	mutation
+T62	Negative_regulation 1549 1556	reduced
+T63	Positive_regulation 1565 1573	mediated
+T64	Phosphorylation 1579 1594	phosphorylation
+T65	Phosphorylation 1702 1716	phosphorylated
+T66	Entity 1826 1840	sequence motif
+T67	Binding 1867 1877	recognized
+T68	Entity 2080 2084	S209
+T69	Phosphorylation 2085 2100	phosphorylation
+T70	Positive_regulation 2105 2108	due
+T71	Entity 2232 2236	S209
+T72	Positive_regulation 2244 2252	critical
+T73	Phosphorylation 2275 2289	phosphorylates
+T74	Gene_expression 2315 2326	transfected
+T75	Positive_regulation 2436 2450	overexpressing
+T76	Positive_regulation 2459 2467	enhanced
+T77	Phosphorylation 2478 2493	phosphorylation
+T44	Anaphora 2499 2514	phosphorylation
+T78	Negative_regulation 2531 2541	eliminated
+T79	Regulation 2545 2565	alanine substitution
+T80	Entity 2582 2586	S209
+T81	Phosphorylation 2630 2645	phosphorylation
+T82	Phosphorylation 2743 2757	phosphorylated
+T83	Entity 2761 2765	S209
+T84	Regulation 2776 2785	dependent
+T85	Positive_regulation 2793 2797	upon
+R1	Coreference Subject:T44 Object:T77
+E1	Phosphorylation:T45 Theme:T2 Site:T46 Cause:T1
+E2	Phosphorylation:T47 Theme:T4 Cause:T3
+E3	Phosphorylation:T47 Theme:T5 Cause:T3
+E4	Phosphorylation:T48 Theme:T7 Cause:T6
+E5	Phosphorylation:T49 Theme:T9
+E6	Phosphorylation:T49 Theme:T10
+E7	Phosphorylation:T50 Theme:T9
+E8	Phosphorylation:T50 Theme:T10
+E9	Phosphorylation:T51 Theme:T11
+E10	Phosphorylation:T51 Theme:T12
+E11	Phosphorylation:T52 Theme:T15 Cause:T16
+E12	Phosphorylation:T52 Theme:T15 Cause:T17
+E13	Phosphorylation:T54 Theme:T18 Site:T53 Cause:T19
+E14	Phosphorylation:T55 Theme:T20
+E15	Phosphorylation:T56 Theme:T22 Site:T57 Cause:T21
+E16	Regulation:T59 Theme:T26 Site:T58
+E17	Regulation:T61 Theme:T28 Site:T60
+E18	Negative_regulation:T62 Theme:E19 Cause:E17
+E19	Positive_regulation:T63 Theme:E20 Cause:T27
+E20	Phosphorylation:T64 Theme:T28
+E21	Phosphorylation:T65 Theme:T29
+E22	Binding:T67 Theme:T30 Site:T66
+E23	Phosphorylation:T69 Theme:T32 Site:T68
+E24	Positive_regulation:T70 Theme:E23 Cause:T33
+E25	Positive_regulation:T72 Theme:E26 Cause:T35 CSite:T71
+E26	Phosphorylation:T73 Theme:T35 Cause:T34
+E27	Gene_expression:T74 Theme:T36
+E28	Gene_expression:T74 Theme:T37
+E29	Positive_regulation:T75 Theme:T38
+E30	Positive_regulation:T76 Theme:E31 Cause:E29
+E31	Phosphorylation:T77 Theme:T39
+E32	Negative_regulation:T78 Theme:E31 Cause:E33
+E33	Regulation:T79 Theme:T39 Site:T80
+E34	Phosphorylation:T81 Theme:T39 Site:T80
+E35	Phosphorylation:T82 Theme:T42 Site:T83
+E36	Regulation:T84 Theme:E35
+E37	Positive_regulation:T85 Theme:E36
+M1	Speculation E4
+M2	Negation E9
+M3	Negation E10
+M4	Speculation E11
+M5	Negation E12
+M6	Speculation E12
+M7	Negation E24
+M8	Speculation E25

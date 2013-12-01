@@ -1,0 +1,23 @@
+T6	Gene_expression 427 436	secretion
+T7	Gene_expression 678 688	production
+T5	Anaphora 692 716	aforementioned cytokines
+R1	Coreference Subject:T5 Object:T1
+R2	Coreference Subject:T5 Object:T2
+R3	Coreference Subject:T5 Object:T3
+R4	Coreference Subject:T5 Object:T4
+E1	Gene_expression:T6 Theme:T1
+E2	Gene_expression:T6 Theme:T2
+E3	Gene_expression:T6 Theme:T3
+E4	Gene_expression:T6 Theme:T4
+E5	Gene_expression:T7 Theme:T1
+E6	Gene_expression:T7 Theme:T2
+E7	Gene_expression:T7 Theme:T3
+E8	Gene_expression:T7 Theme:T4
+M1	Speculation E1
+M2	Speculation E2
+M3	Speculation E3
+M4	Speculation E4
+M5	Negation E5
+M6	Negation E6
+M7	Negation E7
+M8	Negation E8

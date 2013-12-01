@@ -1,0 +1,26 @@
+T1	Gene_or_gene_product 0 3	p63
+T2	Gene_or_gene_product 8 11	p73
+T3	Gene_or_gene_product 82 85	p53
+T4	Gene_or_gene_product 110 113	p73
+T5	Gene_or_gene_product 118 121	p63
+T6	Gene_or_gene_product 272 275	p21
+T7	Gene_or_gene_product 290 293	p73
+T8	Gene_or_gene_product 341 346	c-Abl
+T9	Gene_or_gene_product 361 364	p63
+T10	Gene_or_gene_product 463 466	p63
+T11	Gene_or_gene_product 471 474	p73
+T12	Gene_or_gene_product 617 620	p73
+T13	Gene_or_gene_product 625 628	p63
+T14	Simple_chemical 677 684	calcium
+T15	Gene_or_gene_product 712 721	p73 delta
+T16	Gene_or_gene_product 760 763	p63
+T17	Gene_or_gene_product 849 858	DeltaNp63
+T18	Gene_or_gene_product 902 906	p73s
+T19	Gene_or_gene_product 910 913	p63
+T20	Gene_or_gene_product 991 1000	p73 gamma
+T21	Gene_or_gene_product 1002 1007	delta
+T22	Gene_or_gene_product 1013 1016	p63
+T23	Gene_or_gene_product 1061 1069	loricrin
+T24	Gene_or_gene_product 1074 1084	involucrin
+T25	Gene_or_gene_product 1161 1164	p73
+T26	Gene_or_gene_product 1169 1172	p63

@@ -1,0 +1,31 @@
+*	Equiv T9 T10
+T26	Positive_regulation 39 45	assist
+E1	Positive_regulation:T26 Theme:T4 Cause:T1
+E2	Positive_regulation:T26 Theme:T4 Cause:T3
+T27	Positive_regulation 56 66	activating
+E3	Positive_regulation:T27 Theme:E5 Cause:E1
+E4	Positive_regulation:T27 Theme:E5 Cause:E2
+T28	Transcription 79 92	transcription
+E5	Transcription:T28 Theme:T5
+T29	Negative_regulation 107 132	transcriptional repressor
+E6	Negative_regulation:T29 Cause:T6 Theme:T7
+T30	Positive_regulation 218 226	assisted
+E7	Positive_regulation:T30 Theme:T8
+T31	Binding 234 245	interaction
+E8	Binding:T31 Theme:T8 Theme2:T10
+T32	Binding 435 440	bound
+E9	Binding:T32 Theme:T15 Theme2:T14 Theme3:T12 Theme4:T11
+T33	Positive_regulation 533 544	requirement
+E10	Positive_regulation:T33 Theme:E11 Cause:E9
+T34	Transcription 566 579	transcription
+E11	Transcription:T34 Theme:T17
+T35	Gene_expression 639 649	expression
+E12	Gene_expression:T35 Theme:T18
+T36	Positive_regulation 650 657	induced
+E13	Positive_regulation:T36 Theme:E12 Cause:T19
+E14	Positive_regulation:T36 Theme:E12 Cause:T20
+T37	Transport 695 702	recruit
+E15	Transport:T37 Theme:T21
+E16	Transport:T37 Theme:T22
+T38	Binding 761 772	cooperation
+E17	Binding:T38 Theme:T23 Theme2:T24

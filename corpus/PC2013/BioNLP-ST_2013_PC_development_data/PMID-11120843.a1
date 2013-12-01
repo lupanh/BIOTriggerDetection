@@ -1,0 +1,32 @@
+T1	Gene_or_gene_product 47 67	Toll-like receptor 1
+T2	Gene_or_gene_product 113 131	Toll-like receptor
+T3	Gene_or_gene_product 133 136	TLR
+T4	Complex 253 267	IL-1 receptors
+T5	Gene_or_gene_product 315 319	TLR1
+T6	Gene_or_gene_product 323 326	TLR
+T7	Gene_or_gene_product 362 366	TLR1
+T8	Gene_or_gene_product 452 456	TLR2
+T9	Gene_or_gene_product 458 462	TLR1
+T10	Gene_or_gene_product 513 517	TLR1
+T11	Gene_or_gene_product 522 526	TLR2
+T12	Gene_or_gene_product 630 634	TLR1
+T13	Gene_or_gene_product 639 643	TLR2
+T14	Gene_or_gene_product 782 785	TLR
+T15	Simple_chemical 872 875	LPS
+T16	Gene_or_gene_product 919 923	TLR1
+T17	Gene_or_gene_product 924 928	TLR2
+T18	Gene_or_gene_product 980 984	LpxA
+T19	Gene_or_gene_product 1000 1004	LpxA
+T20	Simple_chemical 1021 1024	LPS
+T21	Gene_or_gene_product 1067 1071	TLR1
+T22	Gene_or_gene_product 1076 1080	TLR2
+T23	Simple_chemical 1103 1106	LPS
+T24	Gene_or_gene_product 1148 1152	TLR1
+T25	Gene_or_gene_product 1153 1154	2
+T26	Simple_chemical 1195 1198	LPS
+T27	Simple_chemical 1273 1276	LPS
+T28	Complex 1293 1298	IL-1R
+T29	Gene_or_gene_product 1371 1375	TLR1
+T30	Gene_or_gene_product 1380 1384	TLR2
+T31	Gene_or_gene_product 1527 1531	TLRs
+T32	Gene_or_gene_product 1591 1595	Toll

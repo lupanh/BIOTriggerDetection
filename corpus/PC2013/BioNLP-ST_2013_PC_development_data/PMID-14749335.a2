@@ -1,0 +1,40 @@
+*	Equiv T24 T25
+T39	Pathway 274 281	pathway
+E1	Pathway:T39 Participant:T7
+T40	Phosphorylation 528 543	phosphorylation
+E2	Phosphorylation:T40 Theme:T12
+T41	Negative_regulation 613 620	blocked
+E3	Negative_regulation:T41 Cause:T13 Theme:E6
+E4	Negative_regulation:T41 Cause:T13 Theme:E7
+E5	Negative_regulation:T41 Cause:T13 Theme:E9
+T42	Phosphorylation 656 671	phosphorylation
+E6	Phosphorylation:T42 Theme:T17
+T43	Positive_regulation 705 718	up-regulation
+E7	Positive_regulation:T43 Theme:E8
+T44	Transport 755 764	secretion
+E8	Transport:T44 Theme:T18
+T45	Positive_regulation 809 821	accumulation
+E9	Positive_regulation:T45 Theme:T19
+T46	Gene_expression 864 874	expression
+E10	Gene_expression:T46 Theme:T21
+E11	Gene_expression:T46 Theme:T23
+E12	Gene_expression:T46 Theme:T28
+T47	Negative_regulation 1217 1226	inhibited
+E13	Negative_regulation:T47 Theme:E19 Cause:E10
+E14	Negative_regulation:T47 Theme:E21 Cause:E10
+E15	Negative_regulation:T47 Theme:E19 Cause:E11
+E16	Negative_regulation:T47 Theme:E21 Cause:E11
+E17	Negative_regulation:T47 Theme:E19 Cause:E12
+E18	Negative_regulation:T47 Theme:E21 Cause:E12
+T48	Positive_regulation 1244 1257	up-regulation
+E19	Positive_regulation:T48 Theme:E20
+T49	Transport 1283 1292	secretion
+E20	Transport:T49 Theme:T29
+T50	Positive_regulation 1337 1349	accumulation
+E21	Positive_regulation:T50 Theme:T30
+T51	Positive_regulation 1420 1433	up-regulation
+E22	Positive_regulation:T51 Theme:T31
+T52	Negative_regulation 1514 1523	inhibited
+E23	Negative_regulation:T52 Theme:E22 Cause:T33
+T53	Phosphorylation 1652 1667	phosphorylation
+E24	Phosphorylation:T53 Theme:T36

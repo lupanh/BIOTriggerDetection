@@ -1,0 +1,3 @@
+(S1 (S (NP (ADJP (FW In) (FW vitro)) (NN translation))))
+(S1 (S (S (NP (NP (NN HA-IkappaB-alpha)) (, ,) (NP (NN p65)) (CC and) (NP (NN Tat))) (VP (VBD were) (VP (VP (VBN expressed) (PP (IN under) (NP (DT the) (NN T7) (NN promoter)))) (CC and) (VP (ADVP (FW in) (FW vitro)) (VBN translated) (S (VP (VBG using) (NP (NP (DT the) (JJ TnT) (JJ quick) (JJ coupled) (NN transcription/translation) (NN system)) (PRN (-LRB- -LRB-) (NP (NN Promega)) (-RRB- -RRB-))))))) (, ,) (SBAR (IN as) (S (ADVP (RB previously)) (VP (VBN reported) (PRN (-LRB- -LRB-) (NP (CD 50)) (-RRB- -RRB-))))))) (. .)))
+(S1 (S (S (NP (NNS Details)) (VP (VBP are) (VP (VBN described) (PP (IN in) (NP (JJ Supplementary) (NNS Data)))))) (. .)))

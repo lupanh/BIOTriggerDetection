@@ -1,0 +1,64 @@
+*	Equiv T2 T3
+*	Equiv T22 T23
+T45	Localization 542 553	sequestered
+E1	Localization:T45 Theme:T6 AtLoc:T7
+T46	Transport 619 631	translocated
+E2	Transport:T46 ToLoc:T8 Theme:T6
+T47	Localization 678 686	location
+E3	Localization:T47 Theme:T9
+T48	Regulation 703 713	controlled
+E4	Regulation:T48 Theme:E3 Cause:T10
+T49	Binding 766 770	bind
+E5	Binding:T49 Theme:T10 Theme:T11
+T50	Negative_regulation 831 841	preventing
+E6	Negative_regulation:T50 Cause:E5 Theme:E7
+T51	Transport 850 856	uptake
+E7	Transport:T51 ToLoc:T13 Theme:T11
+T52	Positive_regulation 914 919	leads
+E8	Positive_regulation:T52 Theme:E11
+E9	Positive_regulation:T52 Theme:E12
+E10	Positive_regulation:T52 Theme:E13
+T53	Phosphorylation 933 948	phosphorylation
+E11	Phosphorylation:T53 Theme:T15
+T54	Ubiquitination 950 964	ubiquitination
+E12	Ubiquitination:T54 Theme:T15
+T55	Degradation 993 1004	degradation
+E13	Degradation:T55 Theme:T15
+T56	Positive_regulation 1023 1028	frees
+E14	Positive_regulation:T56 Theme:E15 Cause:E13
+T57	Transport 1042 1053	translocate
+E15	Transport:T57 ToLoc:T17 Theme:T16
+T58	Activation 1118 1128	activation
+E16	Activation:T58 Theme:T18
+T59	Regulation 1417 1425	regulate
+E17	Regulation:T59 Theme:T19
+T60	Positive_regulation 1594 1605	responsible
+E18	Positive_regulation:T60 Theme:E19 Cause:T22
+T61	Phosphorylation 1628 1643	phosphorylation
+E19	Phosphorylation:T61 Theme:T24
+T62	Activation 1691 1701	activating
+E20	Activation:T62 Theme:T25
+T63	Phosphorylation 1806 1819	phosphorylate
+E21	Phosphorylation:T63 Theme:T29 Cause:T27
+E22	Phosphorylation:T63 Theme:T29 Cause:T28
+T64	Phosphorylation 1944 1959	phosphorylation
+E23	Phosphorylation:T64 Theme:T33
+T65	Regulation 2149 2157	controls
+E24	Regulation:T65 Cause:T38 Theme:E26
+E25	Regulation:T65 Cause:T38 Theme:E27
+T66	Ubiquitination 2166 2180	ubiquitination
+E26	Ubiquitination:T66 Theme:T39
+T67	Degradation 2185 2196	degradation
+E27	Degradation:T67 Theme:T39
+T68	Phosphorylation 2245 2260	phosphorylation
+E28	Phosphorylation:T68 Theme:T40
+T69	Phosphorylation 2275 2295	hyperphosphorylation
+E29	Phosphorylation:T69 Theme:T41
+T70	Positive_regulation 2304 2313	induction
+E30	Positive_regulation:T70 Theme:E31
+T71	Gene_expression 2325 2334	synthesis
+E31	Gene_expression:T71 Theme:T42
+T72	Regulation 2415 2423	modulate
+E32	Regulation:T72 Theme:T44 Cause:E28
+E33	Regulation:T72 Theme:T44 Cause:E29
+E34	Regulation:T72 Theme:T44 Cause:E30

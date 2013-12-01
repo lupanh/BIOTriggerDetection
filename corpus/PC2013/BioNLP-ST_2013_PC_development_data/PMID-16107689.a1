@@ -1,0 +1,27 @@
+T1	Gene_or_gene_product 50 54	Rfx1
+T2	Gene_or_gene_product 55 59	Crt1
+T3	Gene_or_gene_product 151 155	Crt1
+T4	Complex 183 192	Ssn6-Tup1
+T5	Gene_or_gene_product 226 250	ribonucleotide reductase
+T6	Gene_or_gene_product 252 255	RNR
+T7	Gene_or_gene_product 319 323	Crt1
+T8	Complex 328 337	Ssn6-Tup1
+T9	Gene_or_gene_product 433 437	Crt1
+T10	Gene_or_gene_product 559 563	Crt1
+T11	Gene_or_gene_product 675 679	Crt1
+T12	Complex 737 746	Ssn6-Tup1
+T13	Complex 805 814	Ssn6-Tup1
+T14	Gene_or_gene_product 819 839	histone deacetylases
+T15	Gene_or_gene_product 841 846	HDACs
+T16	Complex 932 941	Ssn6-Tup1
+T17	Gene_or_gene_product 946 951	HDACs
+T18	Gene_or_gene_product 1017 1022	TFIID
+T19	Complex 1027 1034	SWI/SNF
+T20	Gene_or_gene_product 1077 1081	Crt1
+T21	Complex 1122 1131	Ssn6-Tup1
+T22	Gene_or_gene_product 1179 1183	Crt1
+T23	Gene_or_gene_product 1214 1218	Crt1
+T24	Complex 1556 1565	Ssn6-Tup1
+T25	Gene_or_gene_product 1625 1630	TFIID
+T26	Complex 1635 1642	SWI/SNF
+T27	Gene_or_gene_product 1747 1751	Crt1

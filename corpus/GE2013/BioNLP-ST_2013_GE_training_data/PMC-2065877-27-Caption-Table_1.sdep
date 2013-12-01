@@ -1,0 +1,11 @@
+root(ROOT-0, Summary-1)
+prep(Summary-1, of-2)
+pobj(of-2, Analysis-3)
+partmod(Analysis-3, Performed-4)
+prep(Performed-4, on-5)
+pobj(on-5, Wild-Type-6)
+cc(Wild-Type-6, and-7)
+conj(Wild-Type-6, LMP1-8)
+amod(Lymphomas-10, Transgenic-9)
+dep(Wild-Type-6, Lymphomas-10)
+

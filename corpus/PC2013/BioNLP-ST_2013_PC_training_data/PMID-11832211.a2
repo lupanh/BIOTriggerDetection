@@ -1,0 +1,25 @@
+*	Equiv T8 T9
+*	Equiv T22 T23
+T26	Regulation 91 99	controls
+E1	Regulation:T26 Theme:E5 Cause:T1
+E2	Regulation:T26 Theme:E5 Cause:T2
+E3	Regulation:T26 Theme:E5 Cause:T5
+E4	Regulation:T26 Theme:E5 Cause:T4
+T27	Localization 106 118	localization
+E5	Localization:T27 Theme:T6
+T28	Dissociation 225 233	released
+E6	Dissociation:T28 Product:T7
+T29	Negative_regulation 243 252	inhibitor
+E7	Negative_regulation:T29 Cause:T8 Theme:T7
+T30	Positive_regulation 483 491	promotes
+E8	Positive_regulation:T30 Theme:E9 Cause:T11
+T31	Transport 498 505	release
+E9	Transport:T31 Theme:T12 FromLoc:T13
+T32	Regulation 638 648	associated
+E10	Regulation:T32 Cause:T18 Theme:T19
+T33	Positive_regulation 710 719	initiates
+E11	Positive_regulation:T33 Theme:E12
+T34	Dissociation 726 733	release
+E12	Dissociation:T34 Product:T21
+T35	Dissociation 878 886	released
+E13	Dissociation:T35 Product:T25

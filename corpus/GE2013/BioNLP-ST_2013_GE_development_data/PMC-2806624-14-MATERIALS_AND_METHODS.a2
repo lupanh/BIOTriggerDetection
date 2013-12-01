@@ -1,0 +1,14 @@
+T19	Regulation 779 785	effect
+T20	Gene_expression 789 803	overexpression
+T21	Gene_expression 1021 1032	transfected
+T22	Gene_expression 1173 1183	expression
+E1	Regulation:T19 Theme:T11 Cause:E2
+E2	Gene_expression:T20 Theme:T9
+E3	Regulation:T19 Theme:T11 Cause:E4
+E4	Gene_expression:T20 Theme:T10
+E5	Gene_expression:T21 Theme:T15
+E6	Gene_expression:T21 Theme:T16
+E7	Gene_expression:T22 Theme:T17
+M1	Speculation E1
+M2	Speculation E3
+M3	Speculation E7

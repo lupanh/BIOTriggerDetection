@@ -1,0 +1,20 @@
+T10	Phosphorylation 60 75	Phosphorylation
+T11	Entity 79 85	Ser276
+T12	Negative_regulation 706 715	inhibitor
+T13	Gene_expression 725 739	overexpression
+T14	Negative_regulation 875 882	reduced
+T15	Entity 883 889	Ser276
+T16	Phosphorylation 890 905	phosphorylation
+T17	Regulation 1045 1054	important
+T18	Positive_regulation 1082 1089	induced
+T19	Entity 1179 1185	Ser276
+T20	Phosphorylation 1186 1201	phosphorylation
+E1	Phosphorylation:T10 Theme:T1 Site:T11
+E2	Negative_regulation:T12 Theme:T2
+E3	Negative_regulation:T12 Theme:T3
+E4	Gene_expression:T13 Theme:T4
+E5	Negative_regulation:T14 Theme:E6
+E6	Phosphorylation:T16 Theme:T6 Site:T15
+E7	Regulation:T17 Theme:E8
+E8	Positive_regulation:T18 Theme:E9
+E9	Phosphorylation:T20 Theme:T8 Site:T19

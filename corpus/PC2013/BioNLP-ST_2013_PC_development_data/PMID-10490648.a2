@@ -1,0 +1,81 @@
+T61	Binding 5 14	localizes
+E1	Binding:T61 Theme:T1 Theme2:T2
+T62	Regulation 62 72	regulatory
+E2	Regulation:T62 Theme:E3
+T63	Negative_regulation 86 94	relieves
+E3	Negative_regulation:T63 Theme:E4
+T64	Phosphorylation 104 119	phosphorylation
+E4	Phosphorylation:T64 Site:T3 Theme:T4
+T65	Activation 370 380	activation
+E5	Activation:T65 Theme:T7
+T66	Binding 388 393	bound
+E6	Binding:T66 Theme:T7
+T67	Negative_regulation 461 469	inactive
+E7	Negative_regulation:T67 Theme:E6 Cause:E9
+E8	Negative_regulation:T67 Theme:E6 Cause:E10
+T68	Phosphorylation 480 495	phosphorylation
+E9	Phosphorylation:T68 Theme:T10 Cause:T11 Site:T8
+E10	Phosphorylation:T68 Theme:T10 Cause:T11 Site:T9
+T69	Negative_regulation 605 624	negative regulators
+E11	Negative_regulation:T69 Theme:T14 Cause:T12
+E12	Negative_regulation:T69 Theme:T14 Cause:T13
+T70	Localization 760 769	localizes
+E13	Localization:T70 Theme:T16 ToLoc:T17
+T71	Positive_regulation 835 844	dependent
+E14	Positive_regulation:T71 Cause:T18 Theme:E13
+T72	Localization 1049 1058	localizes
+E15	Localization:T72 Theme:T22 ToLoc:T23
+T73	Positive_regulation 1076 1085	congruent
+E16	Positive_regulation:T73 Theme:E15 Cause:T24
+T74	Binding 1312 1320	interact
+E17	Binding:T74 Theme:T30 Theme2:T25
+E18	Binding:T74 Theme:T30 Theme2:T26
+T75	Binding 1399 1403	plus
+E19	Binding:T75 Theme:T31 Theme2:T32
+T76	Binding 1418 1422	plus
+E20	Binding:T76 Theme:T33 Theme2:T34
+T77	Gene_expression 1479 1493	overexpressing
+E21	Gene_expression:T77 Theme:T31
+E22	Gene_expression:T77 Theme:T32
+E23	Gene_expression:T77 Theme:T34
+T78	Binding 1542 1552	associates
+E24	Binding:T78 Theme:T35 Theme2:T32
+E25	Binding:T78 Theme:T35 Theme2:T34
+T79	Phosphorylation 1856 1871	Phosphorylation
+E26	Phosphorylation:T79 Theme:T44
+T80	Ubiquitination 1876 1892	ubiquitinylation
+E27	Ubiquitination:T80 Theme:T44
+T81	Negative_regulation 1944 1951	reduced
+E28	Negative_regulation:T81 Theme:E26 Cause:E33
+E29	Negative_regulation:T81 Theme:E27 Cause:E33
+E30	Negative_regulation:T81 Theme:E26 Cause:E32
+E31	Negative_regulation:T81 Theme:E27 Cause:E32
+T82	Negative_regulation 1961 1968	lacking
+E32	Negative_regulation:T82 Theme:T45
+E33	Negative_regulation:T82 Theme:T46
+T83	Binding 2092 2101	formation
+E34	Binding:T83 Theme:T47
+T84	Binding 2141 2148	docking
+E35	Binding:T84 Theme:T48
+T85	Positive_regulation 2191 2201	permitting
+E36	Positive_regulation:T85 Theme:E37
+T86	Transport 2202 2213	recruitment
+E37	Transport:T86 Theme:T49
+T87	Binding 2260 2265	bound
+E38	Binding:T87 Theme:T51
+T88	Positive_regulation 2272 2280	allowing
+E39	Positive_regulation:T88 Theme:E40
+T89	Phosphorylation 2281 2296	phosphorylation
+E40	Phosphorylation:T89 Theme:T51 Cause:T52
+T90	Pathway 2351 2361	cell cycle
+E41	Pathway:T90 
+T91	Regulation 2377 2385	coupling
+E42	Regulation:T91 Cause:E43 Theme:E44
+T92	Binding 2398 2406	assembly
+E43	Binding:T92 Theme:T55
+T93	Negative_regulation 2410 2421	alleviation
+E44	Negative_regulation:T93 Theme:E46
+T94	Positive_regulation 2430 2439	dependent
+E45	Positive_regulation:T94 Cause:T56 Theme:E46
+T95	Negative_regulation 2440 2450	inhibition
+E46	Negative_regulation:T95 Theme:T57

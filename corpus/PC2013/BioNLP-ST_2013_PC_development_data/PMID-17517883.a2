@@ -1,0 +1,79 @@
+*	Equiv T1 T2
+*	Equiv T4 T5
+*	Equiv T7 T8
+T52	Binding 209 216	binding
+E1	Binding:T52 Theme:T6 Theme2:T4
+T53	Phosphorylation 233 247	phosphorylated
+E2	Phosphorylation:T53 Site:T11 Cause:T7 Theme:T4
+E3	Phosphorylation:T53 Site:T11 Cause:T9 Theme:T4
+M1	Negation E3
+T54	Binding 381 388	binding
+E4	Binding:T54 Theme:T12 Theme:T13 Theme:T14
+T55	Positive_regulation 418 426	requires
+E5	Positive_regulation:T55 Theme:E4
+T56	Binding 566 573	binding
+E6	Binding:T56 Theme:T17 Theme:T18
+T57	Negative_regulation 597 606	inhibited
+E7	Negative_regulation:T57 Theme:E6
+T58	Binding 767 774	binding
+E8	Binding:T58 Theme:T23 Theme:T24
+T59	Negative_regulation 794 803	abolished
+E9	Negative_regulation:T59 Theme:E8
+T60	Phosphorylation 836 851	phosphorylation
+E10	Phosphorylation:T60 Site:T26 Theme:T25
+T61	Phosphorylation 898 912	phosphorylated
+E11	Phosphorylation:T61 Site:T29 Theme:T28
+T62	Phosphorylation 935 950	phosphorylation
+E12	Phosphorylation:T62 Theme:T28 Site:T29
+T63	Negative_regulation 955 964	inhibited
+E13	Negative_regulation:T63 Cause:T30 Theme:E12
+E14	Negative_regulation:T63 Cause:T31 Theme:E12
+E15	Negative_regulation:T63 Theme:E12 Cause:E16
+T64	Gene_expression 1005 1019	overexpression
+E16	Gene_expression:T64 Theme:T32
+T65	Phosphorylation 1085 1100	phosphorylation
+E17	Phosphorylation:T65 Site:T34 Theme:T33
+T66	Negative_regulation 1110 1119	inhibited
+E18	Negative_regulation:T66 Theme:E17
+T67	Negative_regulation 1200 1210	inhibition
+E19	Negative_regulation:T67 Theme:E17
+T68	Negative_regulation 1215 1223	reversed
+E20	Negative_regulation:T68 Theme:E19 Cause:E21
+T69	Gene_expression 1227 1241	overexpression
+E21	Gene_expression:T69 Theme:T35
+T70	Gene_expression 1262 1275	Overexpressed
+E22	Gene_expression:T70 Theme:T36
+T71	Negative_regulation 1283 1293	suppressed
+E23	Negative_regulation:T71 Cause:T36 Theme:E25
+E24	Negative_regulation:T71 Cause:T36 Theme:E26
+T72	Phosphorylation 1298 1313	phosphorylation
+E25	Phosphorylation:T72 Theme:T37
+E26	Phosphorylation:T72 Theme:T38
+T73	Gene_expression 1403 1417	overexpression
+E27	Gene_expression:T73 Theme:T41
+E28	Gene_expression:T73 Theme:T40
+T74	Negative_regulation 1436 1446	suppressed
+E29	Negative_regulation:T74 Theme:E33 Cause:E28
+E30	Negative_regulation:T74 Theme:E34 Cause:E28
+E31	Negative_regulation:T74 Theme:E33 Cause:E27
+E32	Negative_regulation:T74 Theme:E34 Cause:E27
+T75	Phosphorylation 1447 1462	phosphorylation
+E33	Phosphorylation:T75 Site:T43 Theme:T42
+T76	Binding 1492 1499	binding
+E34	Binding:T76 Theme:T44 Theme:T42
+T77	Positive_regulation 1528 1535	induced
+E35	Positive_regulation:T77 Theme:E36
+T78	Negative_regulation 1536 1545	depletion
+E36	Negative_regulation:T78 Theme:T45
+T79	Positive_regulation 1556 1564	enhanced
+E37	Positive_regulation:T79 Cause:E36 Theme:E40
+E38	Positive_regulation:T79 Cause:E36 Theme:E39
+T80	Phosphorylation 1591 1606	phosphorylation
+E39	Phosphorylation:T80 Theme:T47
+E40	Phosphorylation:T80 Theme:T46
+T81	Binding 1788 1792	bind
+E41	Binding:T81 Theme:T50
+T82	Negative_regulation 1818 1826	limiting
+E42	Negative_regulation:T82 Theme:T51 Cause:E41
+T83	Regulation 1900 1910	regulation
+E43	Regulation:T83 Theme:T51

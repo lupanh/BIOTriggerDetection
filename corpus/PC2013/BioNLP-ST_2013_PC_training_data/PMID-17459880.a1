@@ -1,0 +1,28 @@
+T1	Complex 31 57	anaphase-promoting complex
+T2	Gene_or_gene_product 77 81	Mnd2
+T3	Complex 151 177	anaphase-promoting complex
+T4	Complex 179 182	APC
+T5	Gene_or_gene_product 192 196	Mnd2
+T6	Cellular_component 226 242	sister chromatid
+T7	Complex 364 373	APC(Ama1)
+T8	Gene_or_gene_product 374 383	ubiquitin
+T9	Complex 459 462	APC
+T10	Gene_or_gene_product 483 487	Mnd2
+T11	Gene_or_gene_product 608 612	Mnd2
+T12	Gene_or_gene_product 675 679	Mnd2
+T13	Simple_chemical 705 712	alanine
+T14	Gene_or_gene_product 880 884	MND2
+T15	Simple_chemical 922 929	alanine
+T16	Cellular_component 1020 1027	nucleus
+T17	Complex 1050 1059	APC(Ama1)
+T18	Gene_or_gene_product 1079 1083	Clb5
+T19	Gene_or_gene_product 1150 1154	Mnd2
+T20	Simple_chemical 1180 1193	aspartic acid
+T21	Gene_or_gene_product 1310 1314	Mnd2
+T22	Complex 1331 1334	APC
+T23	Complex 1406 1409	APC
+T24	Gene_or_gene_product 1421 1425	Mnd2
+T25	Gene_or_gene_product 1510 1514	Clb5
+T26	Gene_or_gene_product 1590 1594	Mnd2
+T27	Complex 1612 1615	APC
+T28	Cellular_component 1662 1669	nuclear

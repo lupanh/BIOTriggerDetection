@@ -1,0 +1,25 @@
+T1	Gene_or_gene_product 0 8	Separase
+T2	Gene_or_gene_product 10 21	polo kinase
+T3	Cellular_component 27 38	kinetochore
+T4	Gene_or_gene_product 47 52	Slk19
+T5	Gene_or_gene_product 58 63	Spo12
+T6	Gene_or_gene_product 100 105	Cdc14
+T7	Gene_or_gene_product 177 182	Cdc14
+T8	Gene_or_gene_product 253 257	Cfi1
+T9	Gene_or_gene_product 258 262	Net1
+T10	Cellular_component 270 279	nucleolus
+T11	Gene_or_gene_product 433 436	Cdc
+T12	Gene_or_gene_product 492 497	Cdc14
+T13	Cellular_component 515 524	nucleolus
+T14	Gene_or_gene_product 585 596	polo kinase
+T15	Gene_or_gene_product 597 601	Cdc5
+T16	Gene_or_gene_product 607 615	separase
+T17	Gene_or_gene_product 616 620	Esp1
+T18	Cellular_component 626 637	kinetochore
+T19	Gene_or_gene_product 657 662	Slk19
+T20	Gene_or_gene_product 668 673	Spo12
+T21	Gene_or_gene_product 720 725	Cdc14
+T22	Gene_or_gene_product 739 743	Cfi1
+T23	Gene_or_gene_product 744 748	Net1
+T24	Gene_or_gene_product 790 795	Cdc14
+T25	Gene_or_gene_product 872 877	Cdc14

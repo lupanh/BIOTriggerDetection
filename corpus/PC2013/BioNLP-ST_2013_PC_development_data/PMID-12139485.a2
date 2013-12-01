@@ -1,0 +1,48 @@
+*	Equiv T6 T7 T8 T9
+*	Equiv T12 T13
+*	Equiv T32 T33
+*	Equiv T34 T35
+T39	Positive_regulation 20 28	mediates
+E1	Positive_regulation:T39 Cause:E2 Theme:E4
+E2	Positive_regulation:T39 Cause:T1 Theme:T4
+E3	Positive_regulation:T39 Cause:E2 Theme:E5
+T40	Activation 33 43	activation
+E4	Activation:T40 Theme:T2
+E5	Activation:T40 Theme:T3
+T41	Regulation 231 241	regulation
+E6	Regulation:T41 Theme:T8 Cause:T5
+T42	Pathway 441 451	cell cycle
+E7	Pathway:T42 
+T43	Binding 519 523	bind
+E8	Binding:T43 Theme:T11 Theme2:T10
+T44	Pathway 570 580	cell-cycle
+E9	Pathway:T44 
+T45	Binding 753 758	bound
+E10	Binding:T45 Theme:T14
+T46	Negative_regulation 1048 1057	inhibitor
+E11	Negative_regulation:T46 Cause:T24 Theme:T23
+T47	Positive_regulation 1132 1142	activation
+E12	Positive_regulation:T47 Theme:E13
+T48	Pathway 1162 1169	pathway
+E13	Pathway:T48 Participant:T25
+T49	Positive_regulation 1352 1359	induces
+E14	Positive_regulation:T49 Theme:E16 Cause:T27
+E15	Positive_regulation:T49 Theme:E16 Cause:T26
+T50	Positive_regulation 1364 1376	accumulation
+E16	Positive_regulation:T50 Theme:E17
+T51	Negative_regulation 1384 1412	transcriptionally repressive
+E17	Negative_regulation:T51 Theme:T28
+T52	Positive_regulation 1511 1518	induced
+E18	Positive_regulation:T52 Theme:T30
+T53	Positive_regulation 1557 1565	involved
+E19	Positive_regulation:T53 Cause:T31 Theme:E20
+T54	Regulation 1581 1607	transcriptional regulation
+E20	Regulation:T54 Theme:T32
+T55	Regulation 1736 1745	regulated
+E21	Regulation:T55 Cause:T36 Theme:T35
+T56	Regulation 1765 1775	regulation
+E22	Regulation:T56 Cause:E23 Theme:T35
+T57	Pathway 1795 1802	pathway
+E23	Pathway:T57 Participant:T37
+T58	Positive_regulation 1825 1833	mediated
+E24	Positive_regulation:T58 Cause:T38 Theme:E22

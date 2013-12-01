@@ -1,0 +1,77 @@
+T36	Regulation 13 22	regulated
+E1	Regulation:T36 Cause:T1 Theme:E2
+T37	Phosphorylation 23 38	phosphorylation
+E2	Phosphorylation:T37 Theme:T2
+T38	Regulation 74 83	modulates
+E3	Regulation:T38 Cause:E2 Theme:T2
+E4	Regulation:T38 Cause:E2 Theme:E5
+T39	Binding 119 126	binding
+E5	Binding:T39 Theme:T3 Theme:T2
+T40	Positive_regulation 226 235	dependent
+E6	Positive_regulation:T40 Cause:T5 Theme:T4
+E7	Positive_regulation:T40 Cause:T6 Theme:T4
+T41	Regulation 259 268	regulated
+E8	Regulation:T41 Theme:T4 Cause:T7
+E9	Regulation:T41 Theme:T4 Cause:E11
+T42	Regulation 302 311	sensitive
+E10	Regulation:T42 Cause:T8 Theme:E11
+T43	Pathway 317 324	pathway
+E11	Pathway:T43 Participant:T9
+T44	Negative_regulation 352 361	decreases
+E12	Negative_regulation:T44 Theme:E13 Cause:T10
+T45	Binding 392 396	bind
+E13	Binding:T45 Theme:T11 Theme:T12
+T46	Regulation 423 432	sensitive
+E14	Regulation:T46 Cause:T13 Theme:E13
+T47	Phosphorylation 461 476	phosphorylation
+E15	Phosphorylation:T47 Site:T15 Theme:T14
+T48	Binding 556 563	binding
+E16	Binding:T48 Theme:T16 Theme:T14
+T49	Phosphorylation 571 586	Phosphorylation
+E17	Phosphorylation:T49 Site:T15 Theme:T14
+T50	Positive_regulation 603 612	increased
+E18	Positive_regulation:T50 Cause:T17 Theme:E17
+T51	Regulation 639 648	sensitive
+E19	Regulation:T51 Cause:T18 Theme:E18
+T52	Regulation 658 668	Regulation
+E20	Regulation:T52 Theme:E21
+T53	Phosphorylation 676 691	phosphorylation
+E21	Phosphorylation:T53 Site:T19 Theme:T14
+T54	Positive_regulation 706 714	requires
+E22	Positive_regulation:T54 Cause:T20 Theme:E20
+T55	Negative_regulation 829 839	attenuates
+E23	Negative_regulation:T55 Theme:E27
+E24	Negative_regulation:T55 Theme:E28
+E25	Negative_regulation:T55 Theme:E30
+E26	Negative_regulation:T55 Theme:E29
+T56	Regulation 844 851	effects
+E27	Regulation:T56 Cause:T22 Theme:E31
+E28	Regulation:T56 Cause:T23 Theme:E31
+E29	Regulation:T56 Cause:T23 Theme:T26
+E30	Regulation:T56 Cause:T22 Theme:T26
+T57	Binding 889 896	binding
+E31	Binding:T57 Theme:T24 Theme:T25
+T58	Phosphorylation 955 970	Phosphorylation
+E32	Phosphorylation:T58 Site:T27 Theme:T14
+T59	Regulation 998 1002	link
+E33	Regulation:T59 Cause:E32 Theme:E36
+E34	Regulation:T59 Cause:E32 Theme:E37
+T60	Pathway 1020 1029	signaling
+E35	Pathway:T60 Participant:T29
+T61	Regulation 1037 1044	control
+E36	Regulation:T61 Cause:T28 Theme:E38
+E37	Regulation:T61 Theme:E38 Cause:E35
+T62	Phosphorylation 1053 1068	phosphorylation
+E38	Phosphorylation:T62 Theme:T30
+T63	Pathway 1147 1154	pathway
+E39	Pathway:T63 Participant:T31
+T64	Phosphorylation 1198 1212	phosphorylated
+E40	Phosphorylation:T64 Site:T27 Theme:T14
+M1	Speculation E40
+T65	Regulation 1362 1368	target
+E41	Regulation:T65 Cause:E42 Theme:T34
+T66	Pathway 1378 1387	signaling
+E42	Pathway:T66 Participant:T35
+T67	Regulation 1388 1401	independently
+E43	Regulation:T67 Theme:T34
+M2	Negation E43

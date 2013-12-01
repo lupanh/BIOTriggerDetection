@@ -1,0 +1,26 @@
+T1	Gene_or_gene_product 11 21	14-3-3 tau
+T2	Gene_or_gene_product 25 29	E2F1
+T3	Gene_or_gene_product 209 213	E2F1
+T4	Gene_or_gene_product 242 246	E2F1
+T5	Gene_or_gene_product 290 294	E2F1
+T6	Gene_or_gene_product 402 405	ATM
+T7	Gene_or_gene_product 411 414	ATM
+T8	Gene_or_gene_product 440 444	E2F1
+T9	Gene_or_gene_product 488 498	14-3-3 tau
+T10	Simple_chemical 502 515	phosphoserine
+T11	Gene_or_gene_product 542 546	E2F1
+T12	Gene_or_gene_product 562 572	14-3-3 tau
+T13	Gene_or_gene_product 588 591	ATM
+T14	Gene_or_gene_product 607 611	E2F1
+T15	Gene_or_gene_product 643 647	E2F1
+T16	Gene_or_gene_product 677 687	14-3-3 tau
+T17	Gene_or_gene_product 691 695	E2F1
+T18	Gene_or_gene_product 705 709	E2F2
+T19	Gene_or_gene_product 713 717	E2F3
+T20	Gene_or_gene_product 756 766	14-3-3 tau
+T21	Gene_or_gene_product 816 820	E2F1
+T22	Gene_or_gene_product 848 851	p73
+T23	Gene_or_gene_product 853 859	Apaf-1
+T24	Gene_or_gene_product 865 873	caspases
+T25	Gene_or_gene_product 948 958	14-3-3 tau
+T26	Gene_or_gene_product 980 984	E2F1

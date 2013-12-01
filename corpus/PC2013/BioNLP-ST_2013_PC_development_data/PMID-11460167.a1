@@ -1,0 +1,48 @@
+T1	Gene_or_gene_product 0 4	TAK1
+T2	Gene_or_gene_product 10 19	ubiquitin
+T3	Gene_or_gene_product 40 43	MKK
+T4	Complex 48 51	IKK
+T5	Gene_or_gene_product 54 59	TRAF6
+T6	Complex 98 112	IkappaB kinase
+T7	Complex 114 117	IKK
+T8	Gene_or_gene_product 123 148	Jun amino-terminal kinase
+T9	Gene_or_gene_product 150 153	JNK
+T10	Gene_or_gene_product 205 218	interleukin-1
+T11	Gene_or_gene_product 220 224	IL-1
+T12	Simple_chemical 230 249	lipopolysaccharides
+T13	Simple_chemical 251 254	LPS
+T14	Complex 257 260	IKK
+T15	Gene_or_gene_product 275 280	TRAF6
+T16	Gene_or_gene_product 316 347	TRAF6-regulated IKK activator 1
+T17	Gene_or_gene_product 349 355	TRIKA1
+T18	Gene_or_gene_product 361 367	TRIKA2
+T19	Complex 378 384	TRIKA1
+T20	Gene_or_gene_product 398 407	ubiquitin
+T21	Gene_or_gene_product 447 452	Ubc13
+T22	Gene_or_gene_product 457 462	Uev1A
+T23	Gene_or_gene_product 495 499	Mms2
+T24	Complex 507 518	Ubc complex
+T25	Gene_or_gene_product 534 539	TRAF6
+T26	Simple_chemical 570 576	Lys 63
+T27	Simple_chemical 578 581	K63
+T28	Gene_or_gene_product 590 603	polyubiquitin
+T29	Complex 624 627	IKK
+T30	Complex 744 750	TRIKA2
+T31	Gene_or_gene_product 773 777	TAK1
+T32	Gene_or_gene_product 779 783	TAB1
+T33	Gene_or_gene_product 788 792	TAB2
+T34	Complex 844 847	IKK
+T35	Gene_or_gene_product 906 910	TAK1
+T36	Complex 955 958	IKK
+T37	Gene_or_gene_product 987 992	TRAF6
+T38	Complex 997 1008	Ubc13-Uev1A
+T39	Gene_or_gene_product 1036 1040	TAK1
+T40	Gene_or_gene_product 1058 1062	MKK6
+T41	Gene_or_gene_product 1084 1087	JNK
+T42	Gene_or_gene_product 1088 1091	p38
+T43	Simple_chemical 1133 1136	K63
+T44	Gene_or_gene_product 1194 1199	TRAF6
+T45	Simple_chemical 1221 1224	K63
+T46	Gene_or_gene_product 1225 1238	polyubiquitin
+T47	Complex 1371 1374	IKK
+T48	Gene_or_gene_product 1379 1382	JNK

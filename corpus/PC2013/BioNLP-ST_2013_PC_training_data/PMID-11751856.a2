@@ -1,0 +1,26 @@
+*	Equiv T3 T4
+*	Equiv T12 T13
+T22	Negative_regulation 0 19	Negative regulation
+E1	Negative_regulation:T22 Theme:E3 Cause:T2
+T23	Positive_regulation 42 50	mediated
+E2	Positive_regulation:T23 Cause:T1 Theme:E3
+T24	Pathway 51 60	signaling
+E3	Pathway:T24 Participant:T1
+T25	Pathway 316 325	signaling
+E4	Pathway:T25 Participant:T6
+T26	Regulation 359 369	associates
+E5	Regulation:T26 Cause:T7 Theme:T8
+E6	Regulation:T26 Cause:T7 Theme:T9
+T27	Negative_regulation 525 533	suppress
+E7	Negative_regulation:T27 Theme:T12
+T28	Activation 599 609	activation
+E8	Activation:T28 Theme:T14
+T29	Phosphorylation 704 718	phosphorylated
+E9	Phosphorylation:T29 Cause:T17 Theme:T15
+T30	Positive_regulation 732 743	stimulation
+E10	Positive_regulation:T30 Theme:E9 Cause:T18
+E11	Positive_regulation:T30 Theme:E9 Cause:T19
+T31	Negative_regulation 777 796	Negative regulation
+E12	Negative_regulation:T31 Theme:E13 Cause:T21
+T32	Pathway 804 813	signaling
+E13	Pathway:T32 Participant:T20

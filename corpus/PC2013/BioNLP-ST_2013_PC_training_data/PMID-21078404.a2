@@ -1,0 +1,80 @@
+*	Equiv T4 T5
+*	Equiv T10 T11
+*	Equiv T14 T15
+*	Equiv T16 T17
+*	Equiv T22 T23
+*	Equiv T26 T27
+*	Equiv T35 T36
+T42	Regulation 0 10	Regulation
+E1	Regulation:T42 Theme:E2 Cause:E3
+T43	Pathway 38 47	signaling
+E2	Pathway:T43 Participant:T1
+T44	Conversion 60 72	modification
+E3	Conversion:T44 Theme:T3
+T45	Regulation 462 469	effects
+E4	Regulation:T45 Theme:T9
+T46	Positive_regulation 484 492	mediated
+E5	Positive_regulation:T46 Theme:E4 Cause:T11
+T47	Positive_regulation 540 553	up-regulation
+E6	Positive_regulation:T47 Theme:T12
+T48	Regulation 763 783	play important roles
+E7	Regulation:T48 Theme:E9 Cause:T15
+E8	Regulation:T48 Theme:E9 Cause:T17
+T49	Regulation 791 801	regulation
+E9	Regulation:T49 Theme:E10
+T50	Pathway 812 821	signaling
+E10	Pathway:T50 Participant:T18
+T51	Positive_regulation 894 901	induces
+E11	Positive_regulation:T51 Theme:E12 Cause:E14
+T52	Positive_regulation 909 922	up-regulation
+E12	Positive_regulation:T52 Theme:T19
+T53	Positive_regulation 945 954	dependent
+E13	Positive_regulation:T53 Cause:T20 Theme:E14
+T54	Conversion 959 969	production
+E14	Conversion:T54 Product:T21
+T55	Negative_regulation 1002 1011	decreases
+E15	Negative_regulation:T55 Theme:T24 Cause:T22
+E16	Negative_regulation:T55 Theme:T24 Cause:E17
+T56	Conversion 1044 1056	modification
+E17	Conversion:T56 Theme:T26
+T57	Regulation 1166 1173	effects
+E18	Regulation:T57 Theme:E20 Cause:T28
+E19	Regulation:T57 Theme:E20 Cause:T29
+T58	Gene_expression 1198 1208	expression
+E20	Gene_expression:T58 Theme:T30
+T59	Positive_regulation 1216 1222	caused
+E21	Positive_regulation:T59 Cause:E26 Theme:E18
+E22	Positive_regulation:T59 Cause:E25 Theme:E18
+E23	Positive_regulation:T59 Cause:E26 Theme:E19
+E24	Positive_regulation:T59 Cause:E25 Theme:E19
+T60	Localization 1263 1271	location
+E25	Localization:T60 AtLoc:T31 Theme:T32
+E26	Localization:T60 AtLoc:T31 Theme:T33
+T61	Pathway 1279 1288	signaling
+E27	Pathway:T61 Participant:T32
+T62	Pathway 1304 1313	signaling
+E28	Pathway:T62 Participant:T33
+T63	Conversion 1338 1353	S-nitrosylation
+E29	Conversion:T63 Theme:T34
+T64	Positive_regulation 1367 1375	requires
+E30	Positive_regulation:T64 Theme:E29 Cause:E31
+T65	Binding 1384 1395	interaction
+E31	Binding:T65 Theme2:T37 Theme:T35
+T66	Regulation 1494 1504	regulation
+E32	Regulation:T66 Theme:E34 Cause:T39
+E33	Regulation:T66 Theme:E34 Cause:T40
+T67	Conversion 1517 1529	modification
+E34	Conversion:T67 Theme:T38
+T68	Positive_regulation 1548 1556	underlie
+E35	Positive_regulation:T68 Theme:E37 Cause:E32
+E36	Positive_regulation:T68 Theme:E37 Cause:E33
+M1	Speculation E35
+M2	Speculation E36
+T69	Positive_regulation 1561 1570	resultant
+E37	Positive_regulation:T69 Theme:E38
+T70	Regulation 1571 1578	changes
+E38	Regulation:T70 Theme:E39
+T71	Pathway 1589 1598	signaling
+E39	Pathway:T71 Participant:T41
+T72	Positive_regulation 1599 1606	induced
+E40	Positive_regulation:T72 Theme:E38

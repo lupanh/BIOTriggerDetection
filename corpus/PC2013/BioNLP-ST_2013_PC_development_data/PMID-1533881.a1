@@ -1,0 +1,35 @@
+T1	Gene_or_gene_product 0 4	p105
+T2	Complex 10 20	NF-kappa B
+T3	Gene_or_gene_product 21 24	p50
+T4	Gene_or_gene_product 95 100	v-Rel
+T5	Complex 158 168	NF-kappa B
+T6	Gene_or_gene_product 284 289	c-Rel
+T7	Gene_or_gene_product 350 354	p105
+T8	Gene_or_gene_product 386 389	p50
+T9	Complex 401 411	NF-kappa B
+T10	Gene_or_gene_product 450 454	p105
+T11	Gene_or_gene_product 509 513	p105
+T12	Gene_or_gene_product 539 542	Rel
+T13	Gene_or_gene_product 671 674	Rel
+T14	Gene_or_gene_product 754 757	p50
+T15	Gene_or_gene_product 806 810	p105
+T16	Gene_or_gene_product 874 877	p50
+T17	Complex 908 915	kappa B
+T18	Gene_or_gene_product 968 973	v-Rel
+T19	Gene_or_gene_product 1008 1013	v-Rel
+T20	Gene_or_gene_product 1116 1120	p124
+T21	Gene_or_gene_product 1135 1139	p115
+T22	Gene_or_gene_product 1180 1184	p105
+T23	Gene_or_gene_product 1201 1205	p124
+T24	Gene_or_gene_product 1211 1216	v-Rel
+T25	Gene_or_gene_product 1251 1255	p105
+T26	Gene_or_gene_product 1260 1264	p124
+T27	Gene_or_gene_product 1324 1326	V8
+T28	Gene_or_gene_product 1355 1359	p105
+T29	Gene_or_gene_product 1364 1367	p50
+T30	Gene_or_gene_product 1394 1399	v-Rel
+T31	Gene_or_gene_product 1412 1417	c-Rel
+T32	Gene_or_gene_product 1463 1467	p105
+T33	Gene_or_gene_product 1471 1476	v-Rel
+T34	Gene_or_gene_product 1555 1560	v-Rel
+T35	Gene_or_gene_product 1587 1591	p105

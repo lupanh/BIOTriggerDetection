@@ -1,0 +1,43 @@
+*	Equiv T18 T19
+*	Equiv T21 T20
+T38	Binding 19 28	interacts
+E1	Binding:T38 Theme:T1 Theme2:T2
+T39	Negative_regulation 43 50	repress
+E2	Negative_regulation:T39 Cause:E1 Theme:E3
+T40	Pathway 64 71	pathway
+E3	Pathway:T40 Participant:T3 Participant2:T4
+T41	Negative_regulation 86 95	inhibitor
+E4	Negative_regulation:T41 Cause:T5 Theme:T6
+T42	Regulation 190 199	regulates
+E5	Regulation:T42 Cause:T8 Theme:E6
+T43	Pathway 209 226	signaling pathway
+E6	Pathway:T43 Participant:T9 Participant2:T10
+T44	Binding 413 423	associated
+E7	Binding:T44 Theme:T14 Theme2:T15
+T45	Gene_expression 455 469	Overexpression
+E8	Gene_expression:T45 Theme:T16
+T46	Inactivation 585 595	Knock down
+E9	Inactivation:T46 Theme:T22
+T47	Negative_regulation 723 732	decreased
+E10	Negative_regulation:T47 Cause:T25 Theme:E11
+T48	Binding 738 745	binding
+E11	Binding:T48 Theme:T26
+T49	Positive_regulation 779 787	enhanced
+E12	Positive_regulation:T49 Theme:E13 Cause:T25
+T50	Ubiquitination 793 807	ubiquitination
+E13	Ubiquitination:T50 Theme:T27
+T51	Binding 864 875	interaction
+E14	Binding:T51 Theme:T28 Theme2:T29
+T52	Transport 951 964	translocation
+E15	Transport:T52 Theme:T31 FromLoc:T30 ToLoc:T30
+T53	Positive_regulation 978 987	augmented
+E16	Positive_regulation:T53 Theme:E15 Cause:T32
+T54	Pathway 1048 1057	signaling
+E17	Pathway:T54 Participant:T33
+T55	Negative_regulation 1058 1066	inhibits
+E18	Negative_regulation:T55 Theme:E20 Cause:E17
+E19	Negative_regulation:T55 Theme:E20 Cause:E21
+T56	Pathway 1076 1083	pathway
+E20	Pathway:T56 Participant:T34 Participant2:T35
+T57	Binding 1096 1107	interaction
+E21	Binding:T57 Theme:T36 Theme2:T37

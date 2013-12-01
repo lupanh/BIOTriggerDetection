@@ -1,0 +1,64 @@
+*	Equiv T3 T4
+*	Equiv T14 T15
+T43	Positive_regulation 70 78	required
+E1	Positive_regulation:T43 Cause:T1 Theme:E2
+T44	Pathway 83 92	signaling
+E2	Pathway:T44 Participant:T2
+T45	Pathway 122 131	Signaling
+E3	Pathway:T45 Participant:T3
+T46	Positive_regulation 196 216	positively regulated
+E4	Positive_regulation:T46 Cause:T5 Theme:E3
+T47	Binding 252 262	associates
+E5	Binding:T47 Theme:T6 Theme:T7
+E6	Binding:T47 Theme:T6 Theme:T9
+M1	Negation E6
+T48	Binding 322 331	interacts
+E7	Binding:T48 Theme:T10 Theme:T11
+T49	Positive_regulation 354 362	requires
+E8	Positive_regulation:T49 Theme:E7
+T50	Phosphorylation 513 528	phosphorylation
+E9	Phosphorylation:T50 Cause:T17 Theme:T16
+E10	Phosphorylation:T50 Cause:T17 Theme:T14
+T51	Regulation 625 631	alters
+E11	Regulation:T51 Cause:T18 Theme:E12
+T52	Phosphorylation 636 651	phosphorylation
+E12	Phosphorylation:T52 Theme:T19
+T53	Binding 670 675	binds
+E13	Binding:T53 Theme:T20 Theme:T21
+T54	Positive_regulation 702 710	requires
+E14	Positive_regulation:T54 Theme:E13 Cause:T22
+T55	Binding 741 748	Binding
+E15	Binding:T55 Theme:T23 Theme:T24
+T56	Negative_regulation 781 790	inhibited
+E16	Negative_regulation:T56 Theme:E15 Cause:T26
+E17	Negative_regulation:T56 Theme:E15 Cause:T25
+T57	Negative_regulation 802 821	negative regulators
+E18	Negative_regulation:T57 Theme:T27 Cause:T26
+E19	Negative_regulation:T57 Theme:T27 Cause:T25
+T58	Positive_regulation 837 847	stimulated
+E20	Positive_regulation:T58 Cause:T28 Theme:E15
+T59	Regulation 871 880	sensitive
+E21	Regulation:T59 Theme:E20 Cause:T29
+T60	Regulation 931 941	regulation
+E22	Regulation:T60 Cause:T31 Theme:T30
+T61	Positive_regulation 975 983	mediated
+E23	Positive_regulation:T61 Theme:E24
+T62	Inactivation 984 993	knockdown
+E24	Inactivation:T62 Theme:T32
+T63	Negative_regulation 1004 1011	impairs
+E25	Negative_regulation:T63 Cause:E24 Theme:E28
+E26	Negative_regulation:T63 Cause:E24 Theme:E29
+T64	Positive_regulation 1045 1055	stimulated
+E27	Positive_regulation:T64 Cause:T33 Theme:E28
+T65	Phosphorylation 1056 1071	phosphorylation
+E28	Phosphorylation:T65 Theme:T34
+T66	Phosphorylation 1090 1105	phosphorylation
+E29	Phosphorylation:T66 Theme:T35
+T67	Regulation 1134 1140	effect
+E30	Regulation:T67 Cause:E24 Theme:E33
+E31	Regulation:T67 Cause:E24 Theme:E32
+M2	Negation E30
+M3	Negation E31
+T68	Phosphorylation 1148 1163	phosphorylation
+E32	Phosphorylation:T68 Theme:T37
+E33	Phosphorylation:T68 Theme:T36

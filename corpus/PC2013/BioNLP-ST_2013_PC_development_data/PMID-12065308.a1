@@ -1,0 +1,38 @@
+T1	Gene_or_gene_product 8 34	glycogen synthase kinase-3
+T2	Gene_or_gene_product 38 47	TNF-alpha
+T3	Complex 56 65	NF-kappaB
+T4	Complex 108 129	Nuclear factor-kappaB
+T5	Complex 131 140	NF-kappaB
+T6	Gene_or_gene_product 254 290	glycogen synthase kinase (GSK)-3beta
+T7	Complex 359 368	NF-kappaB
+T8	Gene_or_gene_product 511 516	GSK-3
+T9	Gene_or_gene_product 520 529	TNF-alpha
+T10	Complex 538 547	NF-kappaB
+T11	Simple_chemical 598 602	LiCl
+T12	Gene_or_gene_product 632 637	GSK-3
+T13	Gene_or_gene_product 681 690	TNF-alpha
+T14	Gene_or_gene_product 784 798	caspase 8-like
+T15	Gene_or_gene_product 803 809	3-like
+T16	Cellular_component 822 829	nuclear
+T17	Simple_chemical 863 867	LiCl
+T18	Gene_or_gene_product 895 908	IkappaB-alpha
+T19	Complex 922 936	IkappaB kinase
+T20	Complex 938 941	IKK
+T21	Complex 953 962	NF-kappaB
+T22	Gene_or_gene_product 985 988	p65
+T23	Cellular_component 989 996	nuclear
+T24	Complex 1051 1060	NF-kappaB
+T25	Gene_or_gene_product 1081 1102	nitric oxide synthase
+T26	Complex 1114 1123	NF-kappaB
+T27	Gene_or_gene_product 1150 1153	p65
+T28	Gene_or_gene_product 1187 1192	GSK-3
+T29	Gene_or_gene_product 1280 1289	GSK-3beta
+T30	Gene_or_gene_product 1305 1330	glutathione S-transferase
+T31	Gene_or_gene_product 1332 1335	GST
+T32	Gene_or_gene_product 1337 1340	p65
+T33	Gene_or_gene_product 1359 1362	GST
+T34	Gene_or_gene_product 1363 1366	p65
+T35	Gene_or_gene_product 1412 1417	GSK-3
+T36	Gene_or_gene_product 1444 1453	TNF-alpha
+T37	Gene_or_gene_product 1480 1483	p65
+T38	Complex 1520 1529	NF-kappaB

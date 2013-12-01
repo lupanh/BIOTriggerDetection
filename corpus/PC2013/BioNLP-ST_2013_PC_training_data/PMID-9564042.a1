@@ -1,0 +1,31 @@
+T1	Gene_or_gene_product 10 21	thioredoxin
+T2	Gene_or_gene_product 47 89	apoptosis signal-regulating kinase (ASK) 1
+T3	Gene_or_gene_product 92 134	Apoptosis signal-regulating kinase (ASK) 1
+T4	Gene_or_gene_product 164 216	mitogen-activated protein (MAP) kinase kinase kinase
+T5	Gene_or_gene_product 237 260	c-Jun N-terminal kinase
+T6	Gene_or_gene_product 262 265	JNK
+T7	Gene_or_gene_product 271 285	p38 MAP kinase
+T8	Gene_or_gene_product 315 348	tumor necrosis factor (TNF)-alpha
+T9	Gene_or_gene_product 402 406	ASK1
+T10	Gene_or_gene_product 458 462	ASK1
+T11	Gene_or_gene_product 481 492	thioredoxin
+T12	Gene_or_gene_product 494 497	Trx
+T13	Gene_or_gene_product 633 637	ASK1
+T14	Gene_or_gene_product 639 642	Trx
+T15	Gene_or_gene_product 685 689	ASK1
+T16	Gene_or_gene_product 726 729	Trx
+T17	Gene_or_gene_product 740 744	ASK1
+T18	Gene_or_gene_product 780 784	ASK1
+T19	Simple_chemical 830 849	N-acetyl-L-cysteine
+T20	Gene_or_gene_product 884 893	TNF-alpha
+T21	Simple_chemical 899 916	hydrogen peroxide
+T22	Gene_or_gene_product 939 943	ASK1
+T23	Gene_or_gene_product 990 993	Trx
+T24	Gene_or_gene_product 998 1002	ASK1
+T25	Gene_or_gene_product 1059 1062	Trx
+T26	Gene_or_gene_product 1088 1091	Trx
+T27	Gene_or_gene_product 1129 1133	ASK1
+T28	Gene_or_gene_product 1160 1163	Trx
+T29	Gene_or_gene_product 1196 1200	ASK1
+T30	Gene_or_gene_product 1220 1223	Trx
+T31	Gene_or_gene_product 1251 1255	ASK1

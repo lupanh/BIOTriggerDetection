@@ -1,0 +1,75 @@
+*	Equiv T4 T5
+*	Equiv T6 T7
+T33	Negative_regulation 20 29	inhibited
+E1	Negative_regulation:T33 Theme:T1 Cause:E3
+T34	Positive_regulation 37 45	mediated
+E2	Positive_regulation:T34 Cause:T2 Theme:E3
+T35	Phosphorylation 46 61	phosphorylation
+E3	Phosphorylation:T35 Theme:T1
+T36	Inactivation 90 94	Loss
+E4	Inactivation:T36 Theme:T4
+T37	Positive_regulation 133 142	increases
+E5	Positive_regulation:T37 Theme:E6 Cause:E4
+T38	Pathway 180 189	signaling
+E6	Pathway:T38 Participant:T6
+T39	Gene_expression 254 264	expressing
+E7	Gene_expression:T39 Theme:T8
+T40	Negative_regulation 294 304	repression
+E8	Negative_regulation:T40 Theme:E9
+T41	Pathway 313 322	signaling
+E9	Pathway:T41 Participant:T9
+T42	Negative_regulation 326 334	relieved
+E10	Negative_regulation:T42 Theme:E8
+M1	Speculation E10
+T43	Positive_regulation 338 346	activate
+E11	Positive_regulation:T43 Theme:E12 Cause:E10
+T44	Pathway 352 359	pathway
+E12	Pathway:T44 Participant:T6
+T45	Regulation 407 419	participates
+E13	Regulation:T45 Cause:T10 Theme:E11
+M2	Speculation E13
+T46	Localization 459 470	colocalizes
+E14	Localization:T46 Theme:T11 AtLoc:T13
+E15	Localization:T46 Theme:T12 AtLoc:T13
+T47	Phosphorylation 476 494	hypophosphorylated
+E16	Phosphorylation:T47 Theme:T12
+M3	Negation E16
+T48	Negative_regulation 589 596	repress
+E17	Negative_regulation:T48 Cause:T14 Theme:E18
+T49	Pathway 602 611	signaling
+E18	Pathway:T49 Participant:T15
+T50	Phosphorylation 655 669	phosphorylated
+E19	Phosphorylation:T50 Theme:T16 Cause:T17
+T51	Localization 681 693	translocates
+E20	Localization:T51 ToLoc:T18 Theme:T16
+T52	Negative_regulation 710 719	relieving
+E21	Negative_regulation:T52 Theme:E22 Cause:T16
+T53	Negative_regulation 725 735	repression
+E22	Negative_regulation:T53 Theme:T19
+T54	Phosphorylation 737 752	Phosphorylation
+E23	Phosphorylation:T54 Site:T21 Theme:T20
+E24	Phosphorylation:T54 Site:T22 Theme:T20
+T55	Regulation 796 801	alter
+E25	Regulation:T55 Theme:E27 Cause:E23
+E26	Regulation:T55 Theme:E27 Cause:E24
+M4	Negation E25
+M5	Negation E26
+T56	Regulation 820 828	activity
+E27	Regulation:T56 Theme:T23 Cause:T20
+T57	Localization 845 855	partitions
+T58	Positive_regulation 845 855	partitions
+E28	Localization:T57 AtLoc:T25 Theme:T24
+E29	Positive_regulation:T58 Theme:E28 Cause:E24
+E30	Positive_regulation:T58 Theme:E28 Cause:E23
+T59	Binding 892 897	bound
+E31	Binding:T59 Theme:T26 Theme:T24
+T60	Binding 932 937	bound
+E32	Binding:T60 Theme:T27 Theme:T28
+T61	Positive_regulation 951 959	response
+E33	Positive_regulation:T61 Cause:E34 Theme:E32
+T62	Phosphorylation 967 982	phosphorylation
+E34	Phosphorylation:T62 Theme:T27 Cause:T29
+T63	Transport 986 997	sequestered
+E35	Transport:T63 Theme:T27
+T64	Binding 1021 1026	bound
+E36	Binding:T64 Theme:T31

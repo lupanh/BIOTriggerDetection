@@ -1,0 +1,87 @@
+*	Equiv T2 T1
+T38	Negative_regulation 1100 1107	lacking
+T39	Negative_regulation 1236 1240	null
+T40	Gene_expression 1312 1326	overexpressing
+T41	Positive_regulation 2099 2103	Upon
+T42	Phosphorylation 2162 2176	phosphorylated
+T43	Protein_catabolism 2197 2205	degraded
+T36	Anaphora 2303 2306	its
+T44	Localization 2307 2314	release
+T45	Protein_modification 2360 2391	post-translational modification
+T46	Phosphorylation 2450 2465	phosphorylation
+T47	Phosphorylation 2593 2608	phosphorylation
+T48	Entity 2629 2635	Ser276
+T49	Entity 2637 2643	Ser529
+T50	Entity 2647 2653	Ser536
+T51	Entity 2776 2782	Ser276
+T52	Phosphorylation 2803 2817	phosphorylated
+T53	Phosphorylation 2969 2984	phosphorylation
+T54	Entity 2988 2994	Ser276
+T55	Entity 2999 3005	Ser536
+T37	Anaphora 3006 3010	that
+T56	Regulation 3014 3023	regulated
+T57	Phosphorylation 3141 3155	phosphorylated
+T58	Entity 3159 3165	Ser536
+T59	Entity 3194 3201	nuclear
+T60	Localization 3202 3215	translocation
+T61	Phosphorylation 3302 3317	phosphorylation
+T62	Entity 3321 3327	Ser276
+T63	Phosphorylation 3401 3416	phosphorylation
+T64	Entity 3420 3426	Ser276
+T65	Positive_regulation 3444 3446	by
+T66	Positive_regulation 3641 3652	stabilizing
+T67	Phosphorylation 3736 3750	phosphorylates
+T68	Entity 3768 3774	Ser276
+T102	Positive_regulation 4843 4850	induces
+T103	Transcription 4885 4895	production
+T104	Positive_regulation 5079 5092	overexpressed
+T105	Negative_regulation 5189 5199	inhibition
+T106	Phosphorylation 5437 5451	phosphorylates
+T107	Regulation 6661 6670	regulated
+T108	Phosphorylation 6711 6726	phosphorylation
+T109	Entity 6730 6736	Ser276
+T110	Regulation 6775 6784	dependent
+T111	Regulation 6870 6879	regulated
+T112	Phosphorylation 6880 6895	phosphorylation
+T113	Entity 6899 6905	Ser276
+R1	Coreference Subject:T36 Object:T22
+R2	Coreference Subject:T37 Object:T53
+E1	Negative_regulation:T38 Theme:T11
+E2	Negative_regulation:T39 Theme:T12
+E3	Gene_expression:T40 Theme:T14
+E4	Positive_regulation:T41 Theme:E5
+E5	Phosphorylation:T42 Theme:T18
+E6	Positive_regulation:T41 Theme:E7
+E7	Protein_catabolism:T43 Theme:T18
+E8	Localization:T44 Theme:T22
+E9	Protein_modification:T45 Theme:T22
+E10	Phosphorylation:T46 Theme:T23
+E11	Phosphorylation:T47 Theme:T24 Site:T48
+E12	Phosphorylation:T47 Theme:T24 Site:T49
+E13	Phosphorylation:T47 Theme:T24 Site:T50
+E14	Phosphorylation:T52 Theme:T25 Site:T51 Cause:T26
+E15	Phosphorylation:T53 Theme:T25 Site:T54
+E16	Phosphorylation:T53 Theme:T25 Site:T55
+E17	Regulation:T56 Theme:E15 Cause:T27
+E18	Regulation:T56 Theme:E16 Cause:T27
+E19	Phosphorylation:T57 Theme:T28 Site:T58
+E20	Localization:T60 Theme:T29 ToLoc:T59
+E21	Phosphorylation:T61 Theme:T30 Site:T62
+E22	Phosphorylation:T63 Theme:T31 Site:T64
+E23	Positive_regulation:T65 Theme:E22
+E24	Positive_regulation:T66 Theme:T33
+E25	Phosphorylation:T67 Theme:T35 Site:T68 Cause:T34
+E26	Positive_regulation:T102 Theme:E27 Cause:T86
+E27	Transcription:T103 Theme:T87
+E28	Positive_regulation:T102 Theme:E29 Cause:T86
+E29	Transcription:T103 Theme:T88
+E30	Positive_regulation:T102 Theme:E31 Cause:T86
+E31	Transcription:T103 Theme:T89
+E32	Positive_regulation:T104 Theme:T91
+E33	Negative_regulation:T105 Theme:T92
+E34	Phosphorylation:T106 Theme:T96 Cause:T95
+E35	Regulation:T107 Theme:E36
+E36	Phosphorylation:T108 Theme:T100 Site:T109
+E37	Regulation:T110 Theme:E35
+E38	Regulation:T111 Theme:E39
+E39	Phosphorylation:T112 Theme:T101 Site:T113

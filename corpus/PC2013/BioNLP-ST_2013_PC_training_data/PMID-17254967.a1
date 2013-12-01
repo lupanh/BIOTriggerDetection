@@ -1,0 +1,34 @@
+T1	Gene_or_gene_product 0 3	p27
+T2	Gene_or_gene_product 23 26	Src
+T3	Complex 51 64	cyclin E-Cdk2
+T4	Gene_or_gene_product 88 95	p27Kip1
+T5	Gene_or_gene_product 190 193	Src
+T6	Gene_or_gene_product 204 207	p27
+T7	Gene_or_gene_product 245 248	p27
+T8	Simple_chemical 252 263	tyrosine 74
+T9	Simple_chemical 268 279	tyrosine 88
+T10	Gene_or_gene_product 281 284	Src
+T11	Gene_or_gene_product 314 317	p27
+T12	Gene_or_gene_product 333 336	Src
+T13	Gene_or_gene_product 364 367	p27
+T14	Gene_or_gene_product 381 384	Src
+T15	Gene_or_gene_product 400 403	p27
+T16	Complex 424 437	cyclin E-Cdk2
+T17	Gene_or_gene_product 459 462	Src
+T18	Complex 484 501	p27-cyclin E-Cdk2
+T19	Gene_or_gene_product 555 558	Src
+T20	Gene_or_gene_product 571 575	Cdk2
+T21	Gene_or_gene_product 597 600	p27
+T22	Complex 641 654	cyclin E-Cdk2
+T23	Complex 669 682	cyclin E-Cdk2
+T24	Gene_or_gene_product 693 696	p27
+T25	Gene_or_gene_product 736 739	Src
+T26	Gene_or_gene_product 783 786	p27
+T27	Gene_or_gene_product 821 824	Src
+T28	Cellular_component 848 855	nuclear
+T29	Gene_or_gene_product 856 859	p27
+T30	Simple_chemical 928 937	tamoxifen
+T31	Gene_or_gene_product 974 977	Src
+T32	Gene_or_gene_product 1002 1005	p27
+T33	Simple_chemical 1025 1034	tamoxifen
+T34	Gene_or_gene_product 1087 1090	Src

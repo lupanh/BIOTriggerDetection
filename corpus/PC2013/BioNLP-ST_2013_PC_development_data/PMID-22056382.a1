@@ -1,0 +1,32 @@
+T1	Complex 32 41	NF-kappaB
+T2	Gene_or_gene_product 46 51	Notch
+T3	Gene_or_gene_product 80 89	Ppargamma
+T4	Gene_or_gene_product 228 232	KRAS
+T5	Complex 301 310	NF-kappaB
+T6	Gene_or_gene_product 411 439	inhibitor of kappaB kinase 2
+T7	Gene_or_gene_product 441 445	Ikk2
+T8	Complex 477 486	NF-kappaB
+T9	Gene_or_gene_product 528 533	Notch
+T10	Gene_or_gene_product 583 588	Notch
+T11	Gene_or_gene_product 740 744	Kras
+T12	Gene_or_gene_product 750 754	Pdx1
+T13	Gene_or_gene_product 755 758	cre
+T14	Gene_or_gene_product 813 817	Ikk2
+T15	Gene_or_gene_product 955 960	Notch
+T16	Gene_or_gene_product 974 978	Hes1
+T17	Gene_or_gene_product 983 987	Hey1
+T18	Gene_or_gene_product 989 998	Tnf-alpha
+T19	Complex 1020 1029	NF-kappaB
+T20	Gene_or_gene_product 1073 1078	Notch
+T21	Gene_or_gene_product 1118 1123	Notch
+T22	Gene_or_gene_product 1150 1159	Tnf-alpha
+T23	Gene_or_gene_product 1203 1213	histone H3
+T24	Gene_or_gene_product 1221 1225	Hes1
+T25	Gene_or_gene_product 1266 1270	Ikk2
+T26	Gene_or_gene_product 1281 1285	Hes1
+T27	Gene_or_gene_product 1311 1316	Pparg
+T28	Cellular_component 1353 1360	nuclear
+T29	Gene_or_gene_product 1370 1379	Ppargamma
+T30	Gene_or_gene_product 1405 1414	Tnf-alpha
+T31	Gene_or_gene_product 1415 1419	Ikk2
+T32	Gene_or_gene_product 1424 1429	Notch

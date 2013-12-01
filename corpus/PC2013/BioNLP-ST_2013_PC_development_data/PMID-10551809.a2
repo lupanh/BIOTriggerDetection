@@ -1,0 +1,53 @@
+*	Equiv T2 T3
+T21	Regulation 73 83	regulating
+E1	Regulation:T21 Cause:T1 Theme:E2
+T22	Negative_regulation 84 98	autoinhibition
+E2	Negative_regulation:T22 Theme:T1 Cause:T1
+T23	Regulation 167 176	regulated
+E3	Regulation:T23 Theme:T3 Cause:T6
+E4	Regulation:T23 Theme:T4 Cause:T6
+E5	Regulation:T23 Theme:T4 Cause:T7
+E6	Regulation:T23 Theme:T4 Cause:T9
+E7	Regulation:T23 Theme:T3 Cause:T7
+E8	Regulation:T23 Theme:T3 Cause:T9
+T24	Binding 215 222	binding
+E9	Binding:T24 Theme:T6 Theme2:T5
+E10	Binding:T24 Theme:T7 Theme2:T5
+T25	Positive_regulation 285 294	stimulate
+E11	Positive_regulation:T25 Cause:T6 Theme:E17
+E12	Positive_regulation:T25 Cause:T7 Theme:E17
+E13	Positive_regulation:T25 Cause:T9 Theme:E17
+E14	Positive_regulation:T25 Cause:T6 Theme:E18
+E15	Positive_regulation:T25 Cause:T7 Theme:E18
+E16	Positive_regulation:T25 Cause:T9 Theme:E18
+T26	Phosphorylation 295 314	autophosphorylation
+E17	Phosphorylation:T26 Cause:T4 Theme:T2
+E18	Phosphorylation:T26 Theme:T4 Cause:T2
+T27	Activation 381 391	activation
+E19	Activation:T27 Theme:T10
+T28	Activation 452 462	activation
+E20	Activation:T28 Theme:T11
+T29	Binding 544 551	binding
+E21	Binding:T29 Theme:T12
+T30	Binding 739 748	interacts
+E22	Binding:T30 Theme:T13
+T31	Binding 804 815	interaction
+E23	Binding:T31 Theme:T13
+T32	Regulation 819 828	regulated
+E24	Regulation:T32 Theme:E23
+T33	Positive_regulation 841 850	dependent
+E25	Positive_regulation:T33 Theme:E24
+T34	Positive_regulation 883 893	stimulated
+E26	Positive_regulation:T34 Theme:T16 Cause:T14
+E27	Positive_regulation:T34 Theme:T16 Cause:T15
+T35	Negative_regulation 915 924	inhibited
+E28	Negative_regulation:T35 Theme:T16
+T36	Phosphorylation 1039 1057	autophosphorylated
+E29	Phosphorylation:T36 Theme:T17 Cause:T17
+T37	Positive_regulation 1061 1069	response
+E30	Positive_regulation:T37 Theme:E29 Cause:T18
+T38	Activation 1113 1119	active
+E31	Activation:T38 Theme:T17
+T39	Regulation 1127 1138	insensitive
+E32	Regulation:T39 Theme:T17
+M1	Negation E32

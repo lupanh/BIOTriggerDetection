@@ -1,0 +1,15 @@
+*	Equiv T2 T3 T4
+*	Equiv T6 T7
+*	Equiv T8 T9
+T22	Gene_expression 12 22	expression
+E1	Gene_expression:T22 Theme:T1
+T23	Positive_regulation 144 154	catalyzing
+E2	Positive_regulation:T23 Cause:T2 Theme:T6
+T24	Activation 221 230	activator
+E3	Activation:T24 Theme:T8 Cause:T6
+T25	Pathway 300 305	cycle
+E4	Pathway:T25 Participant:T10 Participant2:T8
+T26	Inactivation 376 384	inactive
+E5	Inactivation:T26 Theme:T12
+T27	Gene_expression 958 967	expressed
+E6	Gene_expression:T27 Theme:T21

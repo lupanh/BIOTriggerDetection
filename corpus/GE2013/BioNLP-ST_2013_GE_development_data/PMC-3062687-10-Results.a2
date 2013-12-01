@@ -1,0 +1,211 @@
+T89	Phosphorylation 61 79	autophosphorylated
+T90	Regulation 111 118	depends
+T91	Entity 126 136	lysine 159
+T92	Negative_regulation 186 194	inhibits
+T93	Entity 200 204	S209
+T94	Phosphorylation 205 220	phosphorylation
+T95	Phosphorylation 373 391	autophosphorylated
+T96	Entity 400 405	K159A
+T97	Negative_regulation 418 429	kinase-dead
+T98	Regulation 490 498	required
+T99	Negative_regulation 512 519	inhibit
+T100	Phosphorylation 528 543	phosphorlyation
+T101	Entity 555 559	S209
+T102	Gene_expression 650 660	expression
+T103	Negative_regulation 675 682	reduced
+T104	Positive_regulation 687 694	induced
+T105	Entity 700 704	S209
+T106	Phosphorylation 705 720	phosphorylation
+T107	Negative_regulation 747 753	failed
+T86	Anaphora 757 759	do
+T108	Positive_regulation 804 812	required
+T109	Negative_regulation 816 823	protect
+T110	Positive_regulation 842 850	mediated
+T111	Phosphorylation 851 866	phosphorylation
+T112	Negative_regulation 1015 1024	inhibited
+T113	Entity 1030 1037	nuclear
+T114	Localization 1038 1051	translocation
+T115	Regulation 1061 1070	dependent
+T116	Positive_regulation 1092 1100	activity
+T117	Entity 1168 1172	S209
+T118	Phosphorylation 1173 1188	phosphorylation
+T119	Positive_regulation 1307 1315	increase
+T120	Entity 1324 1328	S209
+T121	Phosphorylation 1329 1344	phosphorylation
+T122	Positive_regulation 1361 1373	augmentation
+T123	Phosphorylation 1382 1397	phosphorylation
+T124	Negative_regulation 1402 1409	reduced
+T125	Phosphorylation 1484 1499	phosphorylation
+T126	Positive_regulation 1504 1512	enhanced
+T127	Negative_regulation 1565 1572	lacking
+T128	Gene_expression 1722 1729	express
+T129	Negative_regulation 1830 1839	abolished
+T130	Positive_regulation 1844 1851	induced
+T131	Entity 1857 1861	S209
+T132	Phosphorylation 1862 1877	phosphorylation
+T133	Negative_regulation 1921 1928	inhibit
+T134	Phosphorylation 1934 1949	phosphorylation
+T135	Positive_regulation 2031 2039	required
+T136	Negative_regulation 2043 2048	block
+T137	Entity 2054 2058	S209
+T138	Phosphorylation 2059 2074	phosphorylation
+T87	Anaphora 2105 2124	inhibitory activity
+T139	Negative_regulation 2160 2166	impair
+T140	Entity 2178 2185	nuclear
+T141	Localization 2186 2199	translocation
+T142	Positive_regulation 2208 2215	trigged
+T143	Positive_regulation 2223 2244	constitutively-active
+T144	Positive_regulation 2263 2267	SSEE
+T145	Positive_regulation 2361 2370	triggered
+T146	Entity 2381 2388	nuclear
+T147	Localization 2389 2402	translocation
+T148	Negative_regulation 2412 2423	kinase-dead
+T149	Negative_regulation 2433 2437	SSAA
+T150	Entity 2463 2470	nuclear
+T151	Localization 2471 2483	accumulation
+T152	Negative_regulation 2502 2510	retarded
+T153	Entity 2667 2674	nuclear
+T154	Localization 2675 2688	translocation
+T155	Positive_regulation 2720 2724	SSEE
+T156	Gene_expression 2726 2736	expressing
+T157	Regulation 2794 2800	affect
+T158	Entity 2810 2817	nuclear
+T159	Localization 2818 2831	translocation
+T160	Negative_regulation 2844 2848	SSAA
+T161	Gene_expression 2850 2860	expressing
+T162	Negative_regulation 2968 2975	inhibit
+T163	Entity 2981 2988	nuclear
+T164	Localization 2989 3002	translocation
+T165	Gene_expression 3017 3027	expressing
+T166	Positive_regulation 3043 3052	activated
+T167	Phosphorylation 3103 3116	phosphorylate
+T168	Positive_regulation 3125 3129	thus
+T169	Negative_regulation 3130 3140	inhibiting
+T170	Positive_regulation 3149 3157	mediated
+T171	Entity 3163 3167	S209
+T172	Phosphorylation 3168 3183	phosphorylation
+T173	Phosphorylation 3332 3351	autophosphorylation
+T174	Phosphorylation 3384 3399	phosphorylation
+T175	Phosphorylation 3444 3461	32P incorporation
+T176	Phosphorylation 3739 3753	phosphorylated
+T88	Anaphora 3846 3848	it
+T177	Regulation 3875 3896	substrate specificity
+T178	Negative_regulation 3934 3941	reduced
+T179	Positive_regulation 3950 3958	mediated
+T180	Phosphorylation 3964 3979	phosphorylation
+T181	Positive_regulation 4030 4038	mediated
+T182	Phosphorylation 4056 4071	phosphorylation
+T183	Positive_regulation 4154 4162	mediated
+T184	Phosphorylation 4163 4178	phosphorylation
+T185	Phosphorylation 4182 4201	autophosphorylation
+T186	Negative_regulation 4316 4326	inhibiting
+T187	Positive_regulation 4339 4347	mediated
+T188	Entity 4353 4357	S209
+T189	Phosphorylation 4358 4373	phosphorylation
+R1	Coreference Subject:T86 Object:T103
+R2	Coreference Subject:T87 Object:T136
+R3	Coreference Subject:T88 Object:T71
+E1	Phosphorylation:T89 Theme:T3
+E2	Regulation:T90 Theme:E1 Cause:T3 CSite:T91
+E3	Negative_regulation:T92 Theme:E4 Cause:T4
+E4	Phosphorylation:T94 Theme:T5 Site:T93
+E5	Phosphorylation:T95 Theme:T8
+E6	Negative_regulation:T97 Theme:T9 Cause:T9 CSite:T96
+E7	Regulation:T98 Theme:E8
+E8	Negative_regulation:T99 Theme:E9
+E9	Phosphorylation:T100 Theme:T12 Site:T101
+E10	Gene_expression:T102 Theme:T14
+E11	Negative_regulation:T103 Theme:E12 Cause:E10
+E12	Positive_regulation:T104 Theme:E13
+E13	Phosphorylation:T106 Theme:T15 Site:T105
+E14	Negative_regulation:T107 Theme:E11
+E15	Positive_regulation:T108 Theme:E16
+E16	Negative_regulation:T109 Theme:E17
+E17	Positive_regulation:T110 Theme:E18 Cause:T18
+E18	Phosphorylation:T111 Theme:T17
+E19	Negative_regulation:T112 Theme:E20 Cause:T19
+E20	Localization:T114 Theme:T20 ToLoc:T113
+E21	Negative_regulation:T112 Theme:E22 Cause:T19
+E22	Regulation:T115 Theme:E23 Cause:T21
+E23	Positive_regulation:T116 Theme:T22
+E24	Phosphorylation:T118 Theme:T24 Site:T117
+E25	Positive_regulation:T119 Theme:E26
+E26	Phosphorylation:T121 Theme:T25 Site:T120
+E27	Positive_regulation:T122 Theme:E28
+E28	Phosphorylation:T123 Theme:T26
+E29	Negative_regulation:T124 Theme:E27
+E30	Phosphorylation:T125 Theme:T27
+E31	Positive_regulation:T126 Theme:E30 Cause:E32
+E32	Negative_regulation:T127 Theme:T28
+E33	Gene_expression:T128 Theme:T32
+E34	Negative_regulation:T129 Theme:E35 Cause:T34
+E35	Positive_regulation:T130 Theme:E36 Cause:T35
+E36	Phosphorylation:T132 Theme:T36 Site:T131
+E37	Negative_regulation:T133 Theme:E38
+E38	Phosphorylation:T134 Theme:T37
+E39	Positive_regulation:T135 Theme:E40
+E40	Negative_regulation:T136 Theme:E41
+E41	Phosphorylation:T138 Theme:T39 Site:T137
+E42	Negative_regulation:T139 Theme:E43 Cause:E40
+E43	Positive_regulation:T142 Theme:E44 Cause:T42
+E44	Localization:T141 Theme:T41 ToLoc:T140
+E45	Positive_regulation:T143 Theme:T42
+E46	Positive_regulation:T144 Theme:T43
+E47	Positive_regulation:T145 Theme:E48 Cause:T44
+E48	Localization:T147 Theme:T45 ToLoc:T146
+E49	Negative_regulation:T148 Theme:T46
+E50	Negative_regulation:T149 Theme:T46
+E51	Localization:T151 Theme:T47 ToLoc:T150
+E52	Negative_regulation:T152 Theme:E51
+E53	Localization:T154 Theme:T50 ToLoc:T153
+E54	Positive_regulation:T155 Theme:T52
+E55	Gene_expression:T156 Theme:T51
+E56	Gene_expression:T156 Theme:T52
+E57	Regulation:T157 Theme:E58
+E58	Localization:T159 Theme:T53 ToLoc:T158
+E59	Negative_regulation:T160 Theme:T54
+E60	Gene_expression:T161 Theme:T54
+E61	Negative_regulation:T162 Theme:E62 Cause:T55
+E62	Localization:T164 Theme:T56 ToLoc:T163
+E63	Gene_expression:T165 Theme:T57
+E64	Positive_regulation:T166 Theme:T57
+E65	Phosphorylation:T167 Theme:T59
+E66	Positive_regulation:T168 Theme:E67 Cause:E65
+E67	Negative_regulation:T169 Theme:E68 Cause:T58
+E68	Positive_regulation:T170 Theme:E69 Cause:T60
+E69	Phosphorylation:T172 Theme:T61 Site:T171
+E70	Phosphorylation:T173 Theme:T64
+E71	Phosphorylation:T174 Theme:T64
+E72	Phosphorylation:T175 Theme:T66
+E73	Phosphorylation:T176 Theme:T71 Cause:T70
+E74	Phosphorylation:T176 Theme:T72 Cause:T70
+E75	Regulation:T177 Theme:T71
+E76	Negative_regulation:T178 Theme:E77 Cause:T74
+E77	Positive_regulation:T179 Theme:E80 Cause:T75
+E78	Negative_regulation:T178 Theme:E79 Cause:T74
+E79	Positive_regulation:T181 Theme:E81 Cause:T77
+E80	Phosphorylation:T180 Theme:T76
+E81	Phosphorylation:T182 Theme:T78
+E82	Positive_regulation:T183 Theme:E83 Cause:T79
+E83	Phosphorylation:T184 Theme:T80
+E84	Positive_regulation:T183 Theme:E85 Cause:T79
+E85	Phosphorylation:T184 Theme:T81
+E86	Positive_regulation:T183 Theme:E87 Cause:T79
+E87	Phosphorylation:T185 Theme:T80
+E88	Positive_regulation:T183 Theme:E89 Cause:T79
+E89	Phosphorylation:T185 Theme:T81
+E90	Negative_regulation:T186 Theme:E91
+E91	Positive_regulation:T187 Theme:E92 Cause:T84
+E92	Phosphorylation:T189 Theme:T85 Site:T188
+M1	Speculation E7
+M2	Negation E37
+M3	Speculation E42
+M4	Negation E57
+M5	Speculation E66
+M6	Negation E72
+M7	Negation E76
+M8	Negation E78
+M9	Negation E82
+M10	Negation E84
+M11	Negation E86
+M12	Negation E88

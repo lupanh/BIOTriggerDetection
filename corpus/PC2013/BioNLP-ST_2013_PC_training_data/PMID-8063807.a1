@@ -1,0 +1,21 @@
+T1	Gene_or_gene_product 12 37	arylacetamide deacetylase
+T2	Gene_or_gene_product 68 76	esterase
+T3	Simple_chemical 117 126	arylamine
+T4	Gene_or_gene_product 172 196	hormone-sensitive lipase
+T5	Gene_or_gene_product 210 235	arylacetamide deacetylase
+T6	Gene_or_gene_product 237 240	DAC
+T7	Cellular_component 275 284	cytosolic
+T8	Gene_or_gene_product 285 314	arylamine N-acetyltransferase
+T9	Simple_chemical 382 391	arylamine
+T10	Simple_chemical 396 414	heterocyclic amine
+T11	Gene_or_gene_product 506 509	DAC
+T12	Simple_chemical 538 547	arylamine
+T13	Gene_or_gene_product 1099 1102	DAC
+T14	Gene_or_gene_product 1193 1196	DAC
+T15	Gene_or_gene_product 1342 1366	hormone-sensitive lipase
+T16	Gene_or_gene_product 1376 1384	lipase 2
+T17	Gene_or_gene_product 1445 1463	carboxyl esterases
+T18	Gene_or_gene_product 1548 1551	DAC
+T19	Gene_or_gene_product 1576 1584	esterase
+T20	Simple_chemical 1693 1702	arylamine
+T21	Simple_chemical 1707 1725	heterocyclic amine

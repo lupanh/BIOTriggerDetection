@@ -1,0 +1,103 @@
+*	Equiv T5 T6
+*	Equiv T13 T12
+*	Equiv T14 T15
+*	Equiv T26 T27
+T48	Positive_regulation 14 22	required
+E1	Positive_regulation:T48 Cause:T1 Theme:E3
+T49	Positive_regulation 32 41	dependent
+E2	Positive_regulation:T49 Cause:T2 Theme:E3
+T50	Negative_regulation 42 52	inhibition
+E3	Negative_regulation:T50 Theme:E5
+T51	Positive_regulation 65 72	induced
+E4	Positive_regulation:T51 Cause:T3 Theme:E5
+T52	Activation 83 93	activation
+E5	Activation:T52 Theme:T4
+T53	Activation 246 256	activation
+E6	Activation:T53 Theme:T7
+T54	Regulation 281 291	controlled
+E7	Regulation:T54 Theme:E6
+T55	Deubiquitination 300 314	deubiquitinase
+E8	Deubiquitination:T55 Theme:T8
+T56	Negative_regulation 341 359	negative regulator
+E9	Negative_regulation:T56 Theme:E10 Cause:T8
+T57	Pathway 373 383	signalling
+E10	Pathway:T57 Participant:T9
+T58	Negative_regulation 471 489	negative regulator
+E11	Negative_regulation:T58 Theme:E12
+T59	Activation 503 513	activation
+E12	Activation:T59 Theme:T11
+T60	Binding 573 580	binding
+E13	Binding:T60 Theme:T12 Theme2:T14
+T61	Ubiquitination 584 597	ubiquitinated
+E14	Ubiquitination:T61 Theme:T14
+T62	Negative_regulation 636 643	prevent
+E15	Negative_regulation:T62 Theme:E16 Cause:E13
+T63	Activation 654 664	activation
+E16	Activation:T63 Theme:T16
+T64	Binding 708 719	interacting
+E17	Binding:T64 Theme:T18 Theme2:T17
+T65	Binding 782 793	interaction
+E18	Binding:T65 Theme:T19 Theme2:T20
+T66	Regulation 895 902	altered
+E19	Regulation:T66 Theme:E20
+T67	Binding 910 921	interaction
+E20	Binding:T67 Theme:T23 Theme2:T22
+T68	Negative_regulation 987 994	inhibit
+E21	Negative_regulation:T68 Theme:E24 Cause:T25
+E22	Negative_regulation:T68 Theme:E24 Cause:T24
+M1	Negation E21
+T69	Positive_regulation 1035 1042	induced
+E23	Positive_regulation:T69 Cause:T26 Theme:E24
+T70	Activation 1053 1063	activation
+E24	Activation:T70 Theme:T28
+T71	Positive_regulation 1070 1078	mediated
+E25	Positive_regulation:T71 Cause:T29 Theme:E26
+T72	Negative_regulation 1079 1089	inhibition
+E26	Negative_regulation:T72 Theme:E28
+T73	Positive_regulation 1102 1109	induced
+E27	Positive_regulation:T73 Cause:T30 Theme:E28
+T74	Activation 1120 1130	activation
+E28	Activation:T74 Theme:T31
+T75	Negative_regulation 1135 1144	abrogated
+E29	Negative_regulation:T75 Theme:E26 Cause:E30
+T76	Gene_expression 1148 1158	expression
+E30	Gene_expression:T76 Theme:T32
+T77	Inactivation 1185 1194	knockdown
+E31	Inactivation:T77 Theme:T33
+T78	Negative_regulation 1229 1236	inhibit
+E32	Negative_regulation:T78 Theme:E34 Cause:T34
+M2	Negation E32
+T79	Positive_regulation 1246 1253	induced
+E33	Positive_regulation:T79 Cause:T35 Theme:E34
+T80	Activation 1264 1274	activation
+E34	Activation:T80 Theme:T36
+T81	Negative_regulation 1298 1305	reduced
+E35	Negative_regulation:T81 Theme:E36 Cause:T34
+T82	Binding 1306 1317	interaction
+E36	Binding:T82 Theme:T37
+T83	Ubiquitination 1323 1336	ubiquitinated
+E37	Ubiquitination:T83 Theme:T37
+T84	Ubiquitination 1355 1368	ubiquitinated
+E38	Ubiquitination:T84 Theme:T38
+T85	Positive_regulation 1377 1386	increased
+E39	Positive_regulation:T85 Theme:E38
+T86	Deubiquitination 1418 1434	Deubiquitination
+E40	Deubiquitination:T86 Theme:T40
+T87	Gene_expression 1445 1459	over-expressed
+E41	Gene_expression:T87 Theme:T41
+T88	Negative_regulation 1469 1478	abrogated
+E42	Negative_regulation:T88 Theme:E40
+T89	Regulation 1548 1557	regulates
+E43	Regulation:T89 Theme:E44 Cause:E45
+T90	Activation 1568 1578	activation
+E44	Activation:T90 Theme:T44
+T91	Positive_regulation 1582 1591	mediating
+E45	Positive_regulation:T91 Theme:E46 Cause:T43
+T92	Binding 1592 1603	interaction
+E46	Binding:T92 Theme:T45 Theme2:T46
+T93	Ubiquitination 1617 1630	ubiquitinated
+E47	Ubiquitination:T93 Theme:T46
+T94	Positive_regulation 1640 1652	facilitating
+E48	Positive_regulation:T94 Theme:E49 Cause:E43
+T95	Deubiquitination 1653 1669	deubiquitination
+E49	Deubiquitination:T95 Theme:T47

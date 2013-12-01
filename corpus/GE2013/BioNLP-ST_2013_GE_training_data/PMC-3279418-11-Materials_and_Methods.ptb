@@ -1,0 +1,4 @@
+(S1 (S (NP (NP (NN Generation)) (PP (IN of) (NP (NN BMDC))))))
+(S1 (S (S (NP (NNS BMDC)) (VP (VBD were) (VP (VBN developed) (PP (IN as) (NP (NP (NP (ADJP (RB previously) (VBN reported))) (PRN (-LRB- -LSB-) (NP (CD 54)) (-RRB- -RSB-))) (, ,) (FRAG (-LRB- -LSB-) (NP (CD 55)) (-RRB- -RSB-))))))) (. .)))
+(S1 (S (S (NP (NNS Cells)) (VP (VBD were) (VP (VBN collected) (PP (IN after) (NP (NP (CD 10-12) (NNS days)) (PP (IN of) (NP (NN culture)))))))) (. .)))
+(S1 (S (S (NP (DT The) (NN cell) (NN yield)) (VP (VBD was) (NP (CD 2-3x107) (NN cells/mouse)) (PP (IN with) (NP (ADJP (CD 80-95) (NN %)) (NN BMDC))))) (. .)))

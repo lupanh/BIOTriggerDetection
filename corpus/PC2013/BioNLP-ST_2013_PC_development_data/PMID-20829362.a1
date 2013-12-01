@@ -1,0 +1,34 @@
+T1	Simple_chemical 16 28	cysteine 179
+T2	Gene_or_gene_product 32 44	IkappaBalpha
+T3	Simple_chemical 55 64	nimbolide
+T4	Complex 93 102	NF-kappaB
+T5	Simple_chemical 484 493	nimbolide
+T6	Simple_chemical 497 509	triterpenoid
+T7	Simple_chemical 650 658	limonoid
+T8	Gene_or_gene_product 727 732	Bcl-2
+T9	Gene_or_gene_product 734 740	Bcl-xL
+T10	Gene_or_gene_product 742 747	IAP-1
+T11	Gene_or_gene_product 753 758	IAP-2
+T12	Gene_or_gene_product 776 785	cyclin D1
+T13	Gene_or_gene_product 798 803	MMP-9
+T14	Gene_or_gene_product 824 828	VEGF
+T15	Complex 848 874	nuclear factor (NF)-kappaB
+T16	Complex 914 923	NF-kappaB
+T17	Complex 995 1004	NF-kappaB
+T18	Complex 1080 1089	NF-kappaB
+T19	Simple_chemical 1104 1113	nimbolide
+T20	Complex 1142 1156	IkappaB kinase
+T21	Complex 1158 1161	IKK
+T22	Gene_or_gene_product 1192 1204	IkappaBalpha
+T23	Cellular_component 1238 1245	nuclear
+T24	Simple_chemical 1340 1348	limonoid
+T25	Simple_chemical 1382 1390	cysteine
+T26	Simple_chemical 1415 1423	Cys(179)
+T27	Gene_or_gene_product 1427 1435	IKK-beta
+T28	Simple_chemical 1441 1448	alanine
+T29	Simple_chemical 1473 1482	nimbolide
+T30	Simple_chemical 1500 1508	Cys(179)
+T31	Complex 1549 1558	NF-kappaB
+T32	Simple_chemical 1606 1615	nimbolide
+T33	Complex 1694 1697	IKK
+T34	Complex 1724 1733	NF-kappaB

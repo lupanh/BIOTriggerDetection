@@ -1,0 +1,28 @@
+T11	Localization 27 34	release
+T12	Localization 98 105	release
+T13	Positive_regulation 222 231	elevating
+T14	Localization 450 457	release
+T15	Positive_regulation 551 559	resulted
+T16	Negative_regulation 574 584	inhibition
+T17	Negative_regulation 616 624	remained
+T18	Positive_regulation 625 633	elevated
+T19	Localization 702 709	release
+T20	Negative_regulation 714 728	down-regulated
+T21	Regulation 820 829	regulated
+T22	Regulation 860 870	regulation
+T23	Regulation 874 885	independent
+E1	Localization:T11 Theme:T1
+E2	Localization:T12 Theme:T2
+E3	Positive_regulation:T13 Theme:T3
+E4	Localization:T14 Theme:T4
+E5	Positive_regulation:T15 Theme:E6
+E6	Negative_regulation:T16 Theme:T6
+E7	Negative_regulation:T17 Theme:E8
+E8	Positive_regulation:T18 Theme:T7
+E9	Localization:T19 Theme:T8
+E10	Negative_regulation:T20 Theme:E9
+E11	Regulation:T21 Theme:T9
+E12	Regulation:T22 Theme:T10
+E13	Regulation:T23 Theme:E12
+M1	Negation E7
+M2	Negation E13

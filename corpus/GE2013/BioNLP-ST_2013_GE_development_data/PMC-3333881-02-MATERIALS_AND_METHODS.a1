@@ -1,0 +1,17 @@
+T1	Protein 28 46	3xHA-IkappaB-alpha
+T2	Protein 60 63	Tat
+T3	Protein 77 93	Tat C(22,25,27)A
+T4	Protein 107 132	Tat R(49,52,53,55,56,57)A
+T5	Protein 142 145	Tat
+T6	Protein 155 171	Tat C(22,25,27)A
+T7	Protein 184 209	Tat R(49,52,53,55,56,57)A
+T8	Protein 281 284	env
+T9	Protein 405 413	beta-Gal
+T10	Protein 483 491	3xHA-p65
+T11	Protein 501 515	3xHA-p65deltaC
+T12	Protein 532 546	3xHA-p65deltaN
+T13	Protein 569 584	Tat T,N(23,24)A
+T14	Protein 598 611	Tat K(50,51)A
+T15	Protein 621 636	Tat T,N(23,24)A
+T16	Protein 646 659	Tat K(50,51)A
+T17	Protein 676 679	Tat

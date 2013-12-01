@@ -1,0 +1,36 @@
+T1	Simple_chemical 19 32	deoxycytidine
+T2	Simple_chemical 40 54	monophosphates
+T3	Gene_or_gene_product 58 72	UMP-CMP kinase
+T4	Simple_chemical 142 155	deoxycytidine
+T5	Simple_chemical 310 343	1-beta-D-arabinofuranosylcytosine
+T6	Simple_chemical 345 349	araC
+T7	Simple_chemical 355 383	2', 2'-difluorodeoxycytidine
+T8	Simple_chemical 385 389	dFdC
+T9	Simple_chemical 400 411	diphosphate
+T10	Gene_or_gene_product 437 451	UMP-CMP kinase
+T11	Cellular_component 607 617	chromosome
+T12	Gene_or_gene_product 671 685	UMP-CMP kinase
+T13	Simple_chemical 701 704	CMP
+T14	Simple_chemical 706 710	dCMP
+T15	Simple_chemical 716 719	UMP
+T16	Simple_chemical 748 752	dUMP
+T17	Simple_chemical 754 757	AMP
+T18	Simple_chemical 763 767	dAMP
+T19	Simple_chemical 795 809	monophosphates
+T20	Simple_chemical 813 817	araC
+T21	Simple_chemical 822 826	dFdC
+T22	Simple_chemical 886 890	dCMP
+T23	Simple_chemical 895 898	CMP
+T24	Gene_or_gene_product 961 981	deoxycytidine kinase
+T25	Gene_or_gene_product 986 1000	UMP-CMP kinase
+T26	Simple_chemical 1025 1029	araC
+T27	Simple_chemical 1031 1035	dFdC
+T28	Simple_chemical 1041 1062	2',3'-dideoxycytidine
+T29	Simple_chemical 1072 1083	diphosphate
+T30	Gene_or_gene_product 1130 1144	UMP-CMP kinase
+T31	Gene_or_gene_product 1286 1300	UMP-CMP kinase
+T32	Cellular_component 1323 1345	chromosome 1p34.1-1p33
+T33	Gene_or_gene_product 1401 1415	UMP-CMP kinase
+T34	Gene_or_gene_product 1443 1468	green fluorescent protein
+T35	Cellular_component 1555 1562	cytosol
+T36	Cellular_component 1567 1574	nucleus

@@ -1,0 +1,15 @@
+T22	Positive_regulation 59 67	enhances
+T23	Gene_expression 83 93	expression
+T24	Binding 98 109	interaction
+T25	Gene_expression 421 431	expression
+T26	Binding 498 505	binding
+T27	Gene_expression 1718 1728	expression
+E1	Positive_regulation:T22 Theme:E2 Cause:E3
+E2	Gene_expression:T23 Theme:T2
+E3	Binding:T24 Theme:T1 Theme2:T3
+E4	Gene_expression:T25 Theme:T8
+E5	Binding:T26 Theme:T10
+E6	Gene_expression:T27 Theme:T17
+M1	Speculation E4
+M2	Speculation E5
+M3	Speculation E6

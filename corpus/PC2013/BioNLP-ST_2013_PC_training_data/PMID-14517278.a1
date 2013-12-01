@@ -1,0 +1,44 @@
+T1	Simple_chemical 0 3	LPS
+T2	Gene_or_gene_product 4 8	TLR4
+T3	Gene_or_gene_product 22 27	IRF-3
+T4	Gene_or_gene_product 28 29	7
+T5	Complex 34 43	NF-kappaB
+T6	Gene_or_gene_product 71 75	TRAM
+T7	Gene_or_gene_product 80 84	TRIF
+T8	Gene_or_gene_product 87 189	Toll-IL-1-resistance (TIR) domain-containing adaptor-inducing IFN-beta (TRIF)-related adaptor molecule
+T9	Gene_or_gene_product 191 195	TRAM
+T10	Gene_or_gene_product 211 214	TIR
+T11	Gene_or_gene_product 286 299	Toll receptor
+T12	Gene_or_gene_product 316 320	TRIF
+T13	Gene_or_gene_product 322 326	TRAM
+T14	Gene_or_gene_product 337 373	interferon regulatory factor (IRF)-3
+T15	Gene_or_gene_product 375 380	IRF-7
+T16	Complex 386 395	NF-kappaB
+T17	Gene_or_gene_product 426 451	Toll-like receptor (TLR)3
+T18	Gene_or_gene_product 456 457	4
+T19	Gene_or_gene_product 492 506	IFN-alpha/beta
+T20	Gene_or_gene_product 508 569	regulated on activation, normal T cell expressed and secreted
+T21	Gene_or_gene_product 571 577	RANTES
+T22	Gene_or_gene_product 584 621	gamma interferon-inducible protein 10
+T23	Gene_or_gene_product 623 628	IP-10
+T24	Gene_or_gene_product 678 711	myeloid differentiation factor 88
+T25	Gene_or_gene_product 713 718	MyD88
+T26	Gene_or_gene_product 789 793	TRIF
+T27	Gene_or_gene_product 827 831	TLR3
+T28	Gene_or_gene_product 844 848	TLR4
+T29	Simple_chemical 850 853	LPS
+T30	Gene_or_gene_product 899 903	TRAM
+T31	Gene_or_gene_product 925 929	TLR4
+T32	Gene_or_gene_product 939 943	TRAM
+T33	Gene_or_gene_product 959 963	TRIF
+T34	Gene_or_gene_product 965 991	MyD88 adaptor-like protein
+T35	Gene_or_gene_product 993 996	Mal
+T36	Gene_or_gene_product 998 1003	TIRAP
+T37	Gene_or_gene_product 1009 1013	TLR4
+T38	Gene_or_gene_product 1027 1031	TLR3
+T39	Gene_or_gene_product 1060 1064	TRIF
+T40	Gene_or_gene_product 1069 1073	TRAM
+T41	Simple_chemical 1091 1094	LPS
+T42	Gene_or_gene_product 1095 1099	TLR4
+T43	Gene_or_gene_product 1126 1131	MyD88
+T44	Simple_chemical 1189 1192	LPS

@@ -1,0 +1,40 @@
+T1	Simple_chemical 30 44	acylcarnitines
+T2	Cellular_component 78 90	mitochondria
+T3	Simple_chemical 147 161	acylcarnitines
+T4	Cellular_component 195 207	mitochondria
+T5	Simple_chemical 263 276	acylcarnitine
+T6	Cellular_component 332 344	mitochondria
+T7	Simple_chemical 403 416	acylcarnitine
+T8	Simple_chemical 449 464	acetylcarnitine
+T9	Cellular_component 483 495	mitochondria
+T10	Simple_chemical 501 509	pyruvate
+T11	Simple_chemical 526 541	acetylcarnitine
+T12	Cellular_component 553 565	mitochondria
+T13	Simple_chemical 614 623	carnitine
+T14	Simple_chemical 640 650	acetyl-CoA
+T15	Simple_chemical 666 674	pyruvate
+T16	Gene_or_gene_product 678 700	pyruvate dehydrogenase
+T17	Gene_or_gene_product 723 750	carnitine acetyltransferase
+T18	Simple_chemical 764 779	acetylcarnitine
+T19	Cellular_component 800 812	mitochondria
+T20	Simple_chemical 818 827	octanoate
+T21	Simple_chemical 871 879	malonate
+T22	Simple_chemical 881 896	Acetylcarnitine
+T23	Simple_chemical 1048 1066	propionylcarnitine
+T24	Simple_chemical 1070 1089	isobutyrylcarnitine
+T25	Cellular_component 1108 1120	mitochondria
+T26	Simple_chemical 1134 1155	alpha-ketoisovalerate
+T27	Simple_chemical 1160 1190	alpha-keto-beta-methylvalerate
+T28	Simple_chemical 1254 1267	propionyl-CoA
+T29	Simple_chemical 1292 1301	acyl-CoAs
+T30	Simple_chemical 1307 1316	carnitine
+T31	Simple_chemical 1370 1383	propionyl-CoA
+T32	Simple_chemical 1409 1422	propionyl-CoA
+T33	Simple_chemical 1463 1484	alpha-ketoisovalerate
+T34	Cellular_component 1494 1513	extra-mitochondrial
+T35	Simple_chemical 1519 1528	carnitine
+T36	Cellular_component 1552 1558	matrix
+T37	Simple_chemical 1581 1589	acyl-CoA
+T38	Simple_chemical 1605 1621	alpha-keto acids
+T39	Simple_chemical 1656 1664	pyruvate
+T40	Simple_chemical 1696 1702	malate

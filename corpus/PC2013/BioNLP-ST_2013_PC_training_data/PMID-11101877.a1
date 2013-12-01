@@ -1,0 +1,35 @@
+T1	Gene_or_gene_product 0 20	Toll-like receptor 2
+T2	Complex 30 40	NF-kappa B
+T3	Gene_or_gene_product 63 67	Rac1
+T4	Gene_or_gene_product 98 117	Toll-like receptors
+T5	Gene_or_gene_product 119 123	TLRs
+T6	Cellular_component 181 200	membrane components
+T7	Cellular_component 363 376	intracellular
+T8	Gene_or_gene_product 404 407	TLR
+T9	Gene_or_gene_product 458 462	TLR2
+T10	Gene_or_gene_product 547 550	Rho
+T11	Gene_or_gene_product 559 563	Rac1
+T12	Gene_or_gene_product 568 573	Cdc42
+T13	Gene_or_gene_product 641 645	TLR2
+T14	Gene_or_gene_product 665 672	Rac1N17
+T15	Gene_or_gene_product 700 708	Cdc42N17
+T16	Complex 716 738	nuclear factor-kappa B
+T17	Complex 740 750	NF-kappa B
+T18	Gene_or_gene_product 824 828	Rac1
+T19	Gene_or_gene_product 833 862	phosphatidylinositol-3 kinase
+T20	Gene_or_gene_product 864 868	PI3K
+T21	Gene_or_gene_product 877 881	TLR2
+T22	Cellular_component 882 891	cytosolic
+T23	Simple_chemical 900 908	Tyrosine
+T24	Gene_or_gene_product 928 932	TLR2
+T25	Complex 1017 1027	NF-kappa B
+T26	Gene_or_gene_product 1086 1090	Rac1
+T27	Gene_or_gene_product 1092 1096	PI3K
+T28	Gene_or_gene_product 1101 1104	Akt
+T29	Cellular_component 1113 1120	nuclear
+T30	Gene_or_gene_product 1121 1124	p65
+T31	Gene_or_gene_product 1158 1173	I kappa B alpha
+T32	Gene_or_gene_product 1192 1196	Rac1
+T33	Gene_or_gene_product 1216 1225	I kappa B
+T34	Complex 1250 1260	NF-kappa B
+T35	Gene_or_gene_product 1325 1329	TLR2

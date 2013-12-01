@@ -1,0 +1,26 @@
+T1	Gene_or_gene_product 11 14	GLK
+T2	Complex 41 50	NF-kappaB
+T3	Gene_or_gene_product 86 95	PKC-theta
+T4	Gene_or_gene_product 109 131	Protein kinase C-theta
+T5	Gene_or_gene_product 133 142	PKC-theta
+T6	Complex 199 208	NF-kappaB
+T7	Complex 238 261	T cell antigen receptor
+T8	Complex 263 266	TCR
+T9	Gene_or_gene_product 302 311	PKC-theta
+T10	Gene_or_gene_product 350 353	GLK
+T11	Gene_or_gene_product 355 361	MAP4K3
+T12	Gene_or_gene_product 382 391	PKC-theta
+T13	Complex 399 402	TCR
+T14	Complex 414 417	TCR
+T15	Gene_or_gene_product 438 441	GLK
+T16	Gene_or_gene_product 503 509	SLP-76
+T17	Gene_or_gene_product 511 514	GLK
+T18	Gene_or_gene_product 714 717	GLK
+T19	Gene_or_gene_product 747 756	PKC-theta
+T20	Complex 772 775	IKK
+T21	Gene_or_gene_product 809 812	GLK
+T22	Gene_or_gene_product 889 892	GLK
+T23	Gene_or_gene_product 918 927	PKC-theta
+T24	Gene_or_gene_product 947 950	GLK
+T25	Gene_or_gene_product 951 960	PKC-theta
+T26	Complex 961 964	IKK

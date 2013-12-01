@@ -1,0 +1,23 @@
+T1	Gene_or_gene_product 32 53	uridine phosphorylase
+T2	Gene_or_gene_product 56 77	Uridine phosphorylase
+T3	Simple_chemical 130 137	uridine
+T4	Simple_chemical 142 154	deoxyuridine
+T5	Simple_chemical 158 164	uracil
+T6	Simple_chemical 169 175	ribose
+T7	Simple_chemical 180 203	deoxyribose-1-phosphate
+T8	Simple_chemical 259 269	pyrimidine
+T9	Gene_or_gene_product 348 369	uridine phosphorylase
+T10	Gene_or_gene_product 433 454	uridine phosphorylase
+T11	Gene_or_gene_product 491 514	uridine phosphorylase-2
+T12	Gene_or_gene_product 516 523	UPase-2
+T13	Simple_chemical 574 581	uridine
+T14	Simple_chemical 583 595	deoxyuridine
+T15	Simple_chemical 601 610	thymidine
+T16	Simple_chemical 630 651	pyrimidine nucleoside
+T17	Simple_chemical 660 675	5-fluorouridine
+T18	Simple_chemical 680 706	5-fluoro-2(')-deoxyuridine
+T19	Gene_or_gene_product 718 725	UPase-2
+T20	Cellular_component 745 755	chromosome
+T21	Gene_or_gene_product 832 839	UPase-2
+T22	Gene_or_gene_product 945 966	uridine phosphorylase
+T23	Simple_chemical 1127 1148	pyrimidine nucleoside

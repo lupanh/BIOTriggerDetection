@@ -1,0 +1,53 @@
+*	Equiv T3 T4
+*	Equiv T5 T6
+*	Equiv T7 T8
+*	Equiv T9 T10
+*	Equiv T17 T18
+T42	Conversion 48 59	deamination
+T43	Positive_regulation 48 59	deamination
+E1	Conversion:T42 Theme:T2
+E2	Positive_regulation:T43 Cause:T1 Theme:E1
+T44	Conversion 147 157	deaminated
+E3	Conversion:T44 Theme:T3 Product:T5
+T45	Conversion 214 223	converted
+E4	Conversion:T45 Theme:T5 Product:T7
+E5	Conversion:T45 Theme:T5 Product:T9
+T46	Positive_regulation 349 359	importance
+E6	Positive_regulation:T46 Theme:E8 Cause:T11
+E7	Positive_regulation:T46 Theme:E8 Cause:T12
+T47	Conversion 413 422	formation
+E8	Conversion:T47 Product:T13 Theme:T14
+T48	Positive_regulation 538 546	resulted
+E9	Positive_regulation:T48 Theme:E11 Cause:T16
+E10	Positive_regulation:T48 Theme:E11 Cause:T17
+T49	Conversion 554 563	formation
+E11	Conversion:T49 Theme:T15 Product:T19
+T50	Conversion 648 657	generated
+T51	Positive_regulation 648 657	generated
+E12	Conversion:T50 Product:T21
+E13	Positive_regulation:T51 Cause:T20 Theme:E12
+T52	Gene_expression 751 761	expression
+E14	Gene_expression:T52 Theme:T23
+E15	Gene_expression:T52 Theme:T24
+T53	Positive_regulation 1005 1014	increased
+E16	Positive_regulation:T53 Theme:T27
+T54	Regulation 1108 1115	effects
+E17	Regulation:T54 Theme:T28
+T55	Negative_regulation 1155 1163	decrease
+E18	Negative_regulation:T55 Theme:T29 Cause:T30
+T56	Conversion 1331 1340	generates
+T57	Positive_regulation 1331 1340	generates
+E19	Conversion:T56 Product:T32 Theme:T33
+E20	Positive_regulation:T57 Theme:E19 Cause:T31
+E21	Positive_regulation:T57 Theme:E19 Cause:T34
+T58	Positive_regulation 1442 1451	important
+E22	Positive_regulation:T58 Theme:E24 Cause:T36
+E23	Positive_regulation:T58 Theme:E24 Cause:T35
+T59	Conversion 1484 1493	formation
+E24	Conversion:T59 Product:T37
+T60	Negative_regulation 1537 1546	inhibited
+E25	Negative_regulation:T60 Theme:T38
+T61	Positive_regulation 1587 1597	compensate
+E26	Positive_regulation:T61 Cause:T39 Theme:E27
+T62	Conversion 1606 1616	conversion
+E27	Conversion:T62 Theme:T40 Product:T41

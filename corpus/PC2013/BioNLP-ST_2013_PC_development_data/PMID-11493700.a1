@@ -1,0 +1,22 @@
+T1	Gene_or_gene_product 0 5	p70S6
+T2	Gene_or_gene_product 94 97	BAD
+T3	Gene_or_gene_product 195 229	70-kDa ribosomal protein S6 kinase
+T4	Gene_or_gene_product 231 237	p70S6K
+T5	Cellular_component 326 334	membrane
+T6	Gene_or_gene_product 341 347	p70S6K
+T7	Gene_or_gene_product 409 412	BAD
+T8	Simple_chemical 460 469	Rapamycin
+T9	Gene_or_gene_product 500 506	p70S6K
+T10	Simple_chemical 543 550	Ser-136
+T11	Gene_or_gene_product 554 557	BAD
+T12	Gene_or_gene_product 595 623	insulin-like growth factor 1
+T13	Gene_or_gene_product 625 630	IGF-1
+T14	Gene_or_gene_product 643 648	IGF-1
+T15	Gene_or_gene_product 676 679	BAD
+T16	Simple_chemical 680 687	Ser-136
+T17	Gene_or_gene_product 705 711	p70S6K
+T18	Gene_or_gene_product 735 741	p70S6K
+T19	Cellular_component 863 876	mitochondrial
+T20	Gene_or_gene_product 877 880	BAD
+T21	Cellular_component 889 898	ribosomal
+T22	Gene_or_gene_product 907 909	S6

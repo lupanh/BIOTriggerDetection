@@ -1,0 +1,31 @@
+T9	Positive_regulation 13 19	Induce
+T10	Positive_regulation 23 31	Increase
+T11	Transcription 56 71	mRNA Expression
+T12	Positive_regulation 76 84	increase
+T13	Gene_expression 103 113	expression
+T14	Gene_expression 128 138	production
+T15	Positive_regulation 171 183	upregulation
+T8	Anaphora 196 211	these molecules
+T16	Positive_regulation 241 248	induced
+T17	Positive_regulation 258 266	increase
+T18	Regulation 347 355	affected
+R1	Coreference Subject:T8 Object:T3
+R2	Coreference Subject:T8 Object:T4
+E1	Positive_regulation:T9 Theme:E2
+E2	Positive_regulation:T10 Theme:E5
+E3	Positive_regulation:T9 Theme:E4
+E4	Positive_regulation:T10 Theme:E6
+E5	Transcription:T11 Theme:T1
+E6	Transcription:T11 Theme:T2
+E7	Positive_regulation:T12 Theme:E8
+E8	Gene_expression:T13 Theme:T3
+E9	Positive_regulation:T12 Theme:E10
+E10	Gene_expression:T14 Theme:T4
+E11	Positive_regulation:T15 Theme:T3
+E12	Positive_regulation:T15 Theme:T4
+E13	Positive_regulation:T16 Theme:E14
+E14	Positive_regulation:T17 Theme:T5
+E15	Positive_regulation:T16 Theme:E16
+E16	Positive_regulation:T17 Theme:T6
+E17	Regulation:T18 Theme:T7
+M1	Negation E17

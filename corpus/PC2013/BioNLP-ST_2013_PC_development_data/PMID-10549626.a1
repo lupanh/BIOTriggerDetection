@@ -1,0 +1,23 @@
+T1	Gene_or_gene_product 22 26	TLR2
+T2	Gene_or_gene_product 31 35	TLR4
+T3	Cellular_component 96 105	cell wall
+T4	Gene_or_gene_product 119 145	Toll-like receptor (TLR) 2
+T5	Gene_or_gene_product 150 154	TLR4
+T6	Cellular_component 210 219	cell wall
+T7	Simple_chemical 240 258	lipopolysaccharide
+T8	Simple_chemical 260 263	LPS
+T9	Gene_or_gene_product 298 302	TLR2
+T10	Gene_or_gene_product 317 321	TLR2
+T11	Simple_chemical 353 356	LPS
+T12	Gene_or_gene_product 377 381	TLR4
+T13	Gene_or_gene_product 398 402	TLR2
+T14	Simple_chemical 431 434	LPS
+T15	Gene_or_gene_product 473 477	TLR2
+T16	Cellular_component 555 565	cell walls
+T17	Simple_chemical 599 612	peptidoglycan
+T18	Gene_or_gene_product 614 618	TLR4
+T19	Simple_chemical 678 696	lipoteichoic acids
+T20	Gene_or_gene_product 729 733	TLR2
+T21	Gene_or_gene_product 738 742	TLR4
+T22	Cellular_component 773 782	cell wall
+T23	Gene_or_gene_product 806 810	TLR2

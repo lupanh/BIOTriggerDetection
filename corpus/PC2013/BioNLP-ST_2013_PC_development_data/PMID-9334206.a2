@@ -1,0 +1,38 @@
+T40	Positive_regulation 184 192	mediates
+E1	Positive_regulation:T40 Theme:E5
+E2	Positive_regulation:T40 Theme:E6
+T41	Regulation 197 208	independent
+E3	Regulation:T41 Cause:T7 Theme:E5
+E4	Regulation:T41 Cause:T7 Theme:E6
+M1	Negation E3
+M2	Negation E4
+T42	Transport 209 218	transport
+E5	Transport:T42 Theme:T9
+E6	Transport:T42 Theme:T10
+T43	Transport 352 358	uptake
+E7	Transport:T43 Theme:T11
+T44	Positive_regulation 438 446	mediated
+E8	Positive_regulation:T44 Cause:T12 Theme:E9
+T45	Transport 461 467	uptake
+E9	Transport:T45 Theme:T13
+T46	Transport 481 490	transport
+E10	Transport:T46 Theme:T14
+T47	Transport 812 818	uptake
+E11	Transport:T47 Theme:T17
+M3	Negation E11
+T48	Transport 853 859	uptake
+E12	Transport:T48 Theme:T18
+T49	Regulation 885 896	independent
+E13	Regulation:T49 Cause:T19 Theme:E12
+M4	Negation E13
+T50	Transport 1017 1026	transport
+E14	Transport:T50 Theme:T20
+T51	Regulation 1030 1037	coupled
+E15	Regulation:T51 Cause:T21 Theme:E14
+T52	Positive_regulation 1987 1995	mediated
+E16	Positive_regulation:T52 Cause:T34 Theme:E17
+T53	Transport 2009 2018	transport
+E17	Transport:T53 Theme:T35
+T54	Regulation 2026 2037	independent
+E18	Regulation:T54 Cause:T36 Theme:E17
+M5	Negation E18

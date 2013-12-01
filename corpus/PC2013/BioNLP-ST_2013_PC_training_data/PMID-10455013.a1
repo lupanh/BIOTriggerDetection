@@ -1,0 +1,24 @@
+T1	Simple_chemical 19 26	Ser-241
+T2	Gene_or_gene_product 60 105	3-phosphoinositide-dependent protein kinase-1
+T3	Gene_or_gene_product 165 210	3-phosphoinositide-dependent protein kinase-1
+T4	Gene_or_gene_product 212 216	PDK1
+T5	Simple_chemical 276 282	Ser-25
+T6	Simple_chemical 284 291	Ser-241
+T7	Simple_chemical 293 300	Ser-393
+T8	Simple_chemical 302 309	Ser-396
+T9	Simple_chemical 314 321	Ser-410
+T10	Gene_or_gene_product 403 431	insulin-like growth factor-1
+T11	Simple_chemical 445 452	Ser-241
+T12	Simple_chemical 456 459	Ala
+T13	Gene_or_gene_product 470 474	PDK1
+T14	Simple_chemical 553 556	Ala
+T15	Gene_or_gene_product 572 576	PDK1
+T16	Simple_chemical 587 594	Ser-241
+T17	Gene_or_gene_product 638 642	PDK1
+T18	Gene_or_gene_product 682 707	protein phosphatase 2A(1)
+T19	Simple_chemical 709 716	Ser-241
+T20	Gene_or_gene_product 752 756	PDK1
+T21	Gene_or_gene_product 847 851	PDK1
+T22	Gene_or_gene_product 901 905	PDK1
+T23	Simple_chemical 961 968	Ser-241
+T24	Gene_or_gene_product 986 990	PDK1

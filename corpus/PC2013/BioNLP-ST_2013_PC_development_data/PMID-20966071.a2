@@ -1,0 +1,94 @@
+*	Equiv T9 T10
+T68	Phosphorylation 0 15	Phosphorylation
+E1	Phosphorylation:T68 Site:T3 Cause:T4 Theme:T2
+T69	Positive_regulation 95 103	critical
+E2	Positive_regulation:T69 Cause:E1 Theme:E3
+T70	Gene_expression 115 125	expression
+E3	Gene_expression:T70 Theme:T5
+T71	Positive_regulation 188 196	critical
+E4	Positive_regulation:T71 Theme:E5 Cause:T7
+T72	Gene_expression 211 212	r
+E5	Gene_expression:T72 Theme:T8
+T73	Regulation 295 303	involved
+E6	Regulation:T73 Cause:T9 Theme:E7
+T74	Activation 317 327	activation
+E7	Activation:T74 Theme:T11
+T75	Positive_regulation 357 365	required
+E8	Positive_regulation:T75 Cause:T12 Theme:E9
+T76	Gene_expression 377 387	expression
+E9	Gene_expression:T76 Theme:T13
+T77	Positive_regulation 391 399	response
+E10	Positive_regulation:T77 Cause:T14 Theme:E9
+T78	Phosphorylation 412 427	phosphorylation
+E11	Phosphorylation:T78 Theme:T15
+T79	Degradation 443 454	degradation
+E12	Degradation:T79 Theme:T15
+T80	Phosphorylation 498 513	phosphorylation
+E13	Phosphorylation:T80 Site:T16 Theme:T19
+T81	Transport 526 539	translocation
+E14	Transport:T81 ToLoc:T17 Theme:T19
+T82	Gene_expression 586 596	expression
+E15	Gene_expression:T82 Theme:T20
+T83	Positive_regulation 600 608	response
+E16	Positive_regulation:T83 Cause:T21 Theme:E15
+T84	Positive_regulation 621 632	requirement
+E17	Positive_regulation:T84 Theme:T23
+T85	Positive_regulation 658 665	induced
+E18	Positive_regulation:T85 Cause:T24 Theme:E19
+T86	Gene_expression 673 683	expression
+E19	Gene_expression:T86 Theme:T25
+T87	Regulation 691 701	associated
+E20	Regulation:T87 Cause:E17 Theme:E21
+T88	Binding 711 722	interaction
+E21	Binding:T88 Theme:T23
+T89	Phosphorylation 732 747	phosphorylation
+E22	Phosphorylation:T89 Cause:T26 Theme:T23
+T90	Positive_regulation 797 808	requirement
+E23	Positive_regulation:T90 Theme:E24
+T91	Activation 827 837	activation
+E24	Activation:T91 Theme:T28
+T92	Binding 853 860	binding
+E25	Binding:T92 Theme:T30
+T93	Phosphorylation 919 934	phosphorylation
+E26	Phosphorylation:T93 Cause:T31 Theme:T30
+T94	Positive_regulation 988 996	increase
+E27	Positive_regulation:T94 Cause:T32 Theme:E32
+E28	Positive_regulation:T94 Cause:T32 Theme:E33
+E29	Positive_regulation:T94 Cause:T32 Theme:E34
+E30	Positive_regulation:T94 Cause:T32 Theme:E35
+E31	Positive_regulation:T94 Cause:T32 Theme:E36
+T95	Binding 1001 1012	association
+E32	Binding:T95 Theme:T33
+E33	Binding:T95 Theme:T34
+E34	Binding:T95 Theme:T35
+E35	Binding:T95 Theme:T36
+E36	Binding:T95 Theme:T37
+T96	Binding 1088 1095	binding
+E37	Binding:T96 Theme2:T40 Theme:T39
+T97	Phosphorylation 1288 1303	phosphorylation
+E38	Phosphorylation:T97 Cause:T45 Theme:T42 Site:T43
+E39	Phosphorylation:T97 Cause:T45 Theme:T42 Site:T44
+M1	Speculation E38
+M2	Speculation E39
+T98	Phosphorylation 1359 1374	phosphorylation
+E40	Phosphorylation:T98 Cause:T49 Theme:T48
+T99	Phosphorylation 1467 1482	phosphorylation
+E41	Phosphorylation:T99 Cause:T53 Site:T50 Theme:T52
+T100	Negative_regulation 1607 1615	reversed
+E42	Negative_regulation:T100 Theme:E43
+T101	Gene_expression 1623 1633	expression
+E43	Gene_expression:T101 Theme:T60
+T102	Phosphorylation 1701 1716	phosphorylation
+E44	Phosphorylation:T102 Site:T62 Theme:T59
+T103	Positive_regulation 1729 1738	induction
+E45	Positive_regulation:T103 Theme:E46
+T104	Gene_expression 1749 1759	expression
+E46	Gene_expression:T104 Theme:T63
+T105	Regulation 1821 1832	involvement
+E47	Regulation:T105 Theme:T64
+T106	Positive_regulation 1850 1869	positive regulation
+E48	Positive_regulation:T106 Theme:T66
+T107	Positive_regulation 1890 1895	drive
+E49	Positive_regulation:T107 Theme:E50 Cause:E47
+T108	Gene_expression 1903 1913	expression
+E50	Gene_expression:T108 Theme:T67

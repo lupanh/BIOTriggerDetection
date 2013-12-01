@@ -1,0 +1,36 @@
+*	Equiv T2 T3
+*	Equiv T8 T9
+T10	Regulation 0 7	Effects
+E1	Regulation:T10 Theme:E2
+T11	Transcription 47 57	expression
+E2	Transcription:T11 Theme:T1
+T12	Regulation 137 144	effects
+E3	Regulation:T12 Theme:E5
+E4	Regulation:T12 Theme:E6
+T13	Transcription 181 191	expression
+E5	Transcription:T13 Theme:T3
+T14	Localization 245 257	localization
+E6	Localization:T14 Theme:T3
+T15	Transcription 387 397	expression
+E7	Transcription:T15 Theme:T4
+T16	Localization 436 448	localization
+E8	Localization:T16 Theme:T5
+T17	Pathway 515 524	apoptosis
+E9	Pathway:T17 
+T18	Localization 665 674	relocated
+E10	Localization:T18 Theme:T6
+T19	Degradation 685 693	degraded
+E11	Degradation:T19 Theme:T6
+T20	Transcription 757 767	expression
+E12	Transcription:T20 Theme:T9
+T21	Regulation 813 820	changed
+E13	Regulation:T21 Theme:E12
+M1	Negation E13
+T22	Positive_regulation 868 876	inhibits
+E14	Positive_regulation:T22 Theme:E15
+T23	Positive_regulation 916 924	inducing
+E15	Positive_regulation:T23 Theme:E16
+T24	Regulation 933 940	undergo
+E16	Regulation:T24 Theme:E17
+T25	Pathway 941 950	apoptosis
+E17	Pathway:T25 

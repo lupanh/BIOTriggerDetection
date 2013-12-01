@@ -1,0 +1,5 @@
+(S1 (S (NP (NN Luciferase) (NN Reporter) (NN Gene) (NNS Assays))))
+(S1 (S (S (NP (NN Luciferase) (NN reporter) (NN gene) (NNS assays)) (VP (VBD were) (VP (VBN performed) (PP (IN as) (NP (ADVP (RB previously)) (NN described6)))))) (. .)))
+(S1 (S (S (ADVP (RB Briefly)) (, ,) (NP (NNS cells)) (VP (VBD were) (VP (VBN cotransfected) (PP (IN at) (NP (NP (DT a) (NN ratio)) (PP (IN of) (NP (NP (NNS 10:1)) (PP (IN with) (NP (JJ various) (JJ promoter-driven) (NN firefly) (NN luciferase) (NNS constructs))))) (PP (TO to) (NP (DT the) (NN Renilla) (NN luciferase) (NN pTKRL) (NN plasmid))))) (, ,) (ADVP (RB together)) (PP (IN with) (NP (VBN indicated) (NNS plasmids)))))) (. .)))
+(S1 (S (S (NP (NNS Cells)) (VP (VBD were) (VP (VP (VBN cultured) (PP (IN for) (NP (CD 1-2) (NNS days)))) (CC and) (ADVP (RB then)) (VP (VBN stimulated) (PP (IN in) (NP (NN triplicate))) (PP (IN before) (NP (NN harvest))))))) (. .)))
+(S1 (S (S (NP (NNS Lysates)) (VP (VBD were) (VP (VBN analyzed) (S (VP (VBG using) (NP (NP (DT the) (NN Dual-Luciferase) (NN Kit)) (PRN (-LRB- -LRB-) (NP (NN Promega)) (-RRB- -RRB-)))))))) (. .)))

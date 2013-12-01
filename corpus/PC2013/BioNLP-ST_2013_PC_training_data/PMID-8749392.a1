@@ -1,0 +1,31 @@
+T1	Gene_or_gene_product 0 16	Protein kinase C
+T2	Gene_or_gene_product 100 117	Protein kinase Cs
+T3	Simple_chemical 191 196	lipid
+T4	Gene_or_gene_product 228 244	protein kinase C
+T5	Gene_or_gene_product 456 472	protein kinase C
+T6	Simple_chemical 622 647	threonine at position 500
+T7	Simple_chemical 649 653	T500
+T8	Simple_chemical 683 687	T641
+T9	Simple_chemical 692 696	S660
+T10	Gene_or_gene_product 725 749	protein kinase C beta II
+T11	Simple_chemical 778 782	T500
+T12	Simple_chemical 787 791	S660
+T13	Gene_or_gene_product 837 859	protein phosphatase 2A
+T14	Simple_chemical 904 909	lipid
+T15	Gene_or_gene_product 983 1004	protein phosphatase 1
+T16	Gene_or_gene_product 1068 1084	protein kinase C
+T17	Simple_chemical 1107 1111	S660
+T18	Simple_chemical 1141 1145	S660
+T19	Simple_chemical 1154 1158	T641
+T20	Simple_chemical 1208 1212	S660
+T21	Gene_or_gene_product 1246 1262	protein kinase C
+T22	Cellular_component 1272 1279	cytosol
+T23	Simple_chemical 1290 1294	T500
+T24	Gene_or_gene_product 1414 1430	protein kinase C
+T25	Gene_or_gene_product 1445 1461	protein kinase C
+T26	Simple_chemical 1557 1561	T500
+T27	Simple_chemical 1689 1693	T641
+T28	Simple_chemical 1791 1795	S660
+T29	Cellular_component 1820 1831	subcellular
+T30	Gene_or_gene_product 1948 1965	protein kinase Cs
+T31	Gene_or_gene_product 2024 2040	protein kinase C

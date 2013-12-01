@@ -1,0 +1,59 @@
+*	Equiv T3 T4
+*	Equiv T8 T9
+T30	Binding 7 14	binding
+E1	Binding:T30 Theme:T1 Theme2:T2
+T31	Regulation 88 93	links
+E2	Regulation:T31 Cause:E1 Theme:E5
+E3	Regulation:T31 Cause:E1 Theme:E6
+E4	Regulation:T31 Cause:E1 Theme:E6
+T32	Pathway 102 121	apoptotic signaling
+E5	Pathway:T32 
+T33	Pathway 126 136	cell cycle
+E6	Pathway:T33 
+T34	Positive_regulation 297 307	inactivate
+E7	Positive_regulation:T34 Theme:T5 Cause:E8
+T35	Pathway 323 330	pathway
+E8	Pathway:T35 Participant:T6
+T36	Regulation 353 363	associates
+E9	Regulation:T36 Cause:T7 Theme:T8
+T37	Positive_regulation 483 491	required
+E10	Positive_regulation:T37 Cause:T10 Theme:E11
+T38	Binding 499 506	binding
+E11	Binding:T38 Theme:T11
+T39	Regulation 513 523	correlated
+E12	Regulation:T39 Cause:E10 Theme:E15
+E13	Regulation:T39 Cause:E10 Theme:E14
+T40	Positive_regulation 529 538	increased
+E14	Positive_regulation:T40 Theme:T12
+T41	Positive_regulation 573 586	up-regulation
+E15	Positive_regulation:T41 Theme:T13
+T42	Gene_expression 620 634	Overexpression
+E16	Gene_expression:T42 Theme:T14
+T43	Negative_regulation 641 650	inhibited
+E17	Negative_regulation:T43 Cause:E16 Theme:E19
+T44	Positive_regulation 656 663	induced
+E18	Positive_regulation:T44 Cause:T15 Theme:E19
+T45	Pathway 664 673	apoptosis
+E19	Pathway:T45 
+T46	Binding 716 723	binding
+E20	Binding:T46 Theme:T17 Theme2:T16
+T47	Positive_regulation 737 743	induce
+E21	Positive_regulation:T47 Theme:E22 Cause:E20
+T48	Pathway 744 753	apoptosis
+E22	Pathway:T48 
+T49	Positive_regulation 1004 1015	stimulation
+E23	Positive_regulation:T49 Theme:T22
+T50	Positive_regulation 1105 1116	stimulation
+E24	Positive_regulation:T50 Theme:T25
+T51	Positive_regulation 1117 1123	causes
+E25	Positive_regulation:T51 Theme:T26 Cause:E24
+T52	Dissociation 1130 1140	dissociate
+E26	Dissociation:T52 Product:T26
+T53	Binding 1212 1217	binds
+E27	Binding:T53 Theme:T27
+T54	Positive_regulation 1266 1277	stimulation
+E28	Positive_regulation:T54 Theme:T28
+T55	Regulation 1319 1323	link
+E29	Regulation:T55 Cause:T29 Theme:E30
+T56	Pathway 1332 1341	apoptotic
+E30	Pathway:T56 

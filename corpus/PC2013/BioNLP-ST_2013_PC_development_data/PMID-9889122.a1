@@ -1,0 +1,21 @@
+T1	Gene_or_gene_product 43 47	Cds1
+T2	Gene_or_gene_product 66 71	Cdc25
+T3	Gene_or_gene_product 142 146	Cdc2
+T4	Simple_chemical 182 187	Thr14
+T5	Simple_chemical 192 197	Tyr15
+T6	Gene_or_gene_product 285 289	Cdc2
+T7	Gene_or_gene_product 431 435	Wee1
+T8	Gene_or_gene_product 436 440	Myt1
+T9	Gene_or_gene_product 457 462	Cdc25
+T10	Gene_or_gene_product 639 644	Cdc25
+T11	Gene_or_gene_product 733 738	Cdc25
+T12	Simple_chemical 766 776	wortmannin
+T13	Gene_or_gene_product 794 829	phosphatidylinositol (PI) 3-kinases
+T14	Gene_or_gene_product 885 917	mutated in ataxia telangiectasia
+T15	Gene_or_gene_product 990 995	Cdc25
+T16	Gene_or_gene_product 1042 1046	Chk1
+T17	Gene_or_gene_product 1100 1110	Cds1/Rad53
+T18	Gene_or_gene_product 1156 1160	Cds1
+T19	Gene_or_gene_product 1329 1334	Cdc25
+T20	Gene_or_gene_product 1348 1352	Cds1
+T21	Gene_or_gene_product 1360 1364	Chk1

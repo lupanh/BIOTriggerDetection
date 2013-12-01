@@ -1,0 +1,36 @@
+T1	Gene_or_gene_product 40 44	mTOR
+T2	Gene_or_gene_product 97 104	insulin
+T3	Gene_or_gene_product 108 128	initiation factor 4E
+T4	Gene_or_gene_product 170 199	mammalian target of rapamycin
+T5	Gene_or_gene_product 201 205	mTOR
+T6	Gene_or_gene_product 412 416	mTOR
+T7	Gene_or_gene_product 498 502	mTOR
+T8	Gene_or_gene_product 629 678	Eukaryotic initiation factor 4E-binding protein 1
+T9	Gene_or_gene_product 680 686	4E-BP1
+T10	Gene_or_gene_product 812 818	4E-BP1
+T11	Simple_chemical 847 856	rapamycin
+T12	Simple_chemical 919 928	rapamycin
+T13	Gene_or_gene_product 953 957	mTOR
+T14	Gene_or_gene_product 976 983	insulin
+T15	Simple_chemical 1034 1039	Ser64
+T16	Simple_chemical 1040 1042	65
+T17	Simple_chemical 1069 1078	rapamycin
+T18	Gene_or_gene_product 1143 1147	mTOR
+T19	Gene_or_gene_product 1159 1163	S6K1
+T20	Gene_or_gene_product 1205 1209	mTOR
+T21	Simple_chemical 1234 1239	Thr69
+T22	Simple_chemical 1240 1242	70
+T23	Gene_or_gene_product 1246 1252	4E-BP1
+T24	Gene_or_gene_product 1263 1269	4E-BP1
+T25	Gene_or_gene_product 1274 1278	S6K1
+T26	Gene_or_gene_product 1288 1292	mTOR
+T27	Gene_or_gene_product 1302 1308	raptor
+T28	Gene_or_gene_product 1350 1354	mTOR
+T29	Gene_or_gene_product 1358 1364	4E-BP1
+T30	Gene_or_gene_product 1369 1373	S6K1
+T31	Gene_or_gene_product 1427 1433	4E-BP1
+T32	Gene_or_gene_product 1468 1473	eIF4E
+T33	Gene_or_gene_product 1502 1508	4E-BP1
+T34	Gene_or_gene_product 1512 1516	mTOR
+T35	Gene_or_gene_product 1633 1637	mTOR
+T36	Gene_or_gene_product 1686 1690	mTOR

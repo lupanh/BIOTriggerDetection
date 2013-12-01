@@ -1,0 +1,56 @@
+T1	Gene_or_gene_product 0 5	TRIP6
+T2	Gene_or_gene_product 11 15	RIP2
+T3	Complex 66 75	NF-kappaB
+T4	Gene_or_gene_product 98 128	Receptor-interacting protein 2
+T5	Gene_or_gene_product 130 134	RIP2
+T6	Gene_or_gene_product 155 165	RIP kinase
+T7	Gene_or_gene_product 317 321	RIP2
+T8	Complex 371 380	NF-kappaB
+T9	Gene_or_gene_product 431 452	tumor necrosis factor
+T10	Gene_or_gene_product 454 457	TNF
+T11	Gene_or_gene_product 460 473	interleukin 1
+T12	Gene_or_gene_product 475 479	IL-1
+T13	Gene_or_gene_product 482 502	Toll-like receptor 2
+T14	Gene_or_gene_product 504 508	TLR2
+T15	Gene_or_gene_product 511 515	TLR3
+T16	Gene_or_gene_product 517 521	TLR4
+T17	Gene_or_gene_product 526 530	Nod1
+T18	Gene_or_gene_product 596 601	TRIP6
+T19	Gene_or_gene_product 607 611	RIP2
+T20	Gene_or_gene_product 681 686	TRIP6
+T21	Gene_or_gene_product 702 706	RIP2
+T22	Gene_or_gene_product 712 715	TNF
+T23	Gene_or_gene_product 720 724	IL-1
+T24	Gene_or_gene_product 761 766	TRIP6
+T25	Gene_or_gene_product 779 783	RIP2
+T26	Complex 793 802	NF-kappaB
+T27	Gene_or_gene_product 861 866	TRIP6
+T28	Gene_or_gene_product 908 912	RIP2
+T29	Gene_or_gene_product 914 919	TRIP6
+T30	Gene_or_gene_product 940 945	TRAF2
+T31	Gene_or_gene_product 987 990	TNF
+T32	Complex 1017 1030	IL-1 receptor
+T33	Gene_or_gene_product 1032 1036	TLR2
+T34	Gene_or_gene_product 1041 1045	Nod1
+T35	Gene_or_gene_product 1065 1070	TRIP6
+T36	Complex 1083 1092	NF-kappaB
+T37	Gene_or_gene_product 1107 1110	TNF
+T38	Gene_or_gene_product 1112 1116	IL-1
+T39	Gene_or_gene_product 1118 1122	TLR2
+T40	Gene_or_gene_product 1126 1130	Nod1
+T41	Gene_or_gene_product 1200 1205	TRIP6
+T42	Complex 1215 1224	NF-kappaB
+T43	Gene_or_gene_product 1239 1242	TNF
+T44	Gene_or_gene_product 1244 1248	IL-1
+T45	Gene_or_gene_product 1250 1254	TLR2
+T46	Gene_or_gene_product 1258 1262	Nod1
+T47	Gene_or_gene_product 1274 1279	TRIP6
+T48	Gene_or_gene_product 1297 1301	RIP2
+T49	Gene_or_gene_product 1307 1311	Nod1
+T50	Gene_or_gene_product 1321 1324	ERK
+T51	Gene_or_gene_product 1411 1416	TRIP6
+T52	Gene_or_gene_product 1421 1425	RIP2
+T53	Gene_or_gene_product 1444 1448	RIP2
+T54	Complex 1475 1484	NF-kappaB
+T55	Gene_or_gene_product 1489 1492	ERK
+T56	Gene_or_gene_product 1533 1538	TRIP6

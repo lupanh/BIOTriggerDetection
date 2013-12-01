@@ -1,0 +1,18 @@
+T5	Regulation 0 4	Role
+T6	Positive_regulation 19 26	induced
+T7	Gene_expression 54 64	production
+T8	Regulation 81 85	role
+T9	Gene_expression 106 116	production
+T10	Regulation 146 157	involvement
+T11	Negative_regulation 165 176	attenuation
+T12	Positive_regulation 184 191	induced
+T13	Gene_expression 202 212	production
+E1	Regulation:T5 Theme:E2
+E2	Positive_regulation:T6 Theme:E3
+E3	Gene_expression:T7 Theme:T1
+E4	Regulation:T8 Theme:E5
+E5	Gene_expression:T9 Theme:T2
+E6	Regulation:T10 Theme:E7
+E7	Negative_regulation:T11 Theme:E8
+E8	Positive_regulation:T12 Theme:E9
+E9	Gene_expression:T13 Theme:T3

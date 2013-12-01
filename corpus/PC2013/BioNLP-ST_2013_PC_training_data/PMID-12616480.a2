@@ -1,0 +1,60 @@
+*	Equiv T9 T10
+*	Equiv T12 T13
+*	Equiv T21 T22
+*	Equiv T23 T24
+T41	Positive_regulation 431 442	stimulation
+E1	Positive_regulation:T41 Cause:T7 Theme:E2
+T42	Positive_regulation 443 450	induced
+E2	Positive_regulation:T42 Theme:E3
+T43	Binding 453 470	complex formation
+E3	Binding:T43 Theme:T8 Theme2:T10
+T44	Positive_regulation 563 572	induction
+E4	Positive_regulation:T44 Cause:E2 Theme:T11
+E5	Positive_regulation:T44 Cause:E2 Theme:T13
+E6	Positive_regulation:T44 Cause:E2 Theme:T14
+T45	Positive_regulation 675 684	induction
+E7	Positive_regulation:T45 Theme:T15
+E8	Positive_regulation:T45 Theme:T16
+E9	Positive_regulation:T45 Theme:T17
+M1	Negation E8
+M2	Negation E9
+T46	Negative_regulation 733 740	blocked
+E10	Negative_regulation:T46 Cause:T19 Theme:E8
+E11	Negative_regulation:T46 Cause:T20 Theme:E8
+E12	Negative_regulation:T46 Cause:T20 Theme:E7
+E13	Negative_regulation:T46 Cause:T19 Theme:E7
+E14	Negative_regulation:T46 Cause:T20 Theme:E9
+E15	Negative_regulation:T46 Cause:T19 Theme:E9
+T47	Negative_regulation 760 770	inhibitors
+E16	Negative_regulation:T47 Theme:T18 Cause:T19
+E17	Negative_regulation:T47 Theme:T18 Cause:T20
+T48	Negative_regulation 834 843	inhibitor
+E18	Negative_regulation:T48 Theme:T22 Cause:T24
+T49	Negative_regulation 878 885	blocked
+E19	Negative_regulation:T49 Cause:T24 Theme:E21
+E20	Negative_regulation:T49 Cause:T24 Theme:E22
+T50	Positive_regulation 890 899	induction
+E21	Positive_regulation:T50 Theme:T25
+E22	Positive_regulation:T50 Theme:T26
+T51	Regulation 938 944	effect
+E23	Regulation:T51 Theme:T27 Cause:T24
+M3	Negation E23
+T52	Negative_regulation 966 976	Inhibition
+E24	Negative_regulation:T52 Theme:T28
+T53	Regulation 1071 1077	effect
+E25	Regulation:T53 Theme:E26 Cause:E24
+M4	Negation E25
+T54	Binding 1097 1104	binding
+E26	Binding:T54 Theme:T32
+T55	Localization 1181 1193	localization
+E27	Localization:T55 Theme:T33 AtLoc:T34
+T56	Binding 1202 1209	binding
+E28	Binding:T56 Theme:T33
+T57	Positive_regulation 1253 1279	transcriptional activation
+E29	Positive_regulation:T57 Theme:T35
+T58	Activation 1386 1396	activation
+E30	Activation:T58 Theme:T37
+T59	Positive_regulation 1427 1434	results
+E31	Positive_regulation:T59 Theme:E32 Cause:E30
+T60	Binding 1456 1473	complex formation
+E32	Binding:T60 Theme:T38

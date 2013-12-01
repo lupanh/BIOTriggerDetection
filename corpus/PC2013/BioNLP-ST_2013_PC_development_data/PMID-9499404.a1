@@ -1,0 +1,33 @@
+T1	Gene_or_gene_product 0 5	Cdc53
+T2	Complex 41 57	Cdc34/Skp1/F-box
+T3	Simple_chemical 107 117	methionine
+T4	Gene_or_gene_product 182 205	cyclin-dependent kinase
+T5	Gene_or_gene_product 207 210	Cdk
+T6	Gene_or_gene_product 222 226	Sic1
+T7	Gene_or_gene_product 250 259	ubiquitin
+T8	Gene_or_gene_product 279 284	Cdc34
+T9	Gene_or_gene_product 311 320	ubiquitin
+T10	Gene_or_gene_product 348 352	Skp1
+T11	Gene_or_gene_product 354 359	Cdc53
+T12	Gene_or_gene_product 383 387	Cdc4
+T13	Complex 393 400	SCFCdc4
+T14	Gene_or_gene_product 411 415	Skp1
+T15	Gene_or_gene_product 545 549	Skp1
+T16	Gene_or_gene_product 565 570	Cdc53
+T17	Gene_or_gene_product 589 593	Skp1
+T18	Gene_or_gene_product 602 607	Cdc53
+T19	Gene_or_gene_product 643 647	Cdc4
+T20	Gene_or_gene_product 649 654	Met30
+T21	Gene_or_gene_product 660 664	Grr1
+T22	Gene_or_gene_product 666 671	Cdc53
+T23	Gene_or_gene_product 711 716	Cdc34
+T24	Gene_or_gene_product 721 725	Skp1
+T25	Gene_or_gene_product 865 869	Cdc4
+T26	Gene_or_gene_product 901 905	Sic1
+T27	Gene_or_gene_product 907 911	Grr1
+T28	Gene_or_gene_product 947 956	G1 cyclin
+T29	Gene_or_gene_product 957 961	Cln2
+T30	Gene_or_gene_product 967 972	Met30
+T31	Simple_chemical 1003 1013	methionine
+T32	Complex 1051 1067	Cdc34-Cdc53-Skp1
+T33	Gene_or_gene_product 1149 1152	SCF

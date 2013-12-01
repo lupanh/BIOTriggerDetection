@@ -1,0 +1,58 @@
+T1	Gene_or_gene_product 15 35	Toll-like receptor 2
+T2	Gene_or_gene_product 40 41	6
+T3	Gene_or_gene_product 69 96	soluble tuberculosis factor
+T4	Gene_or_gene_product 122 157	outer surface protein A lipoprotein
+T5	Gene_or_gene_product 167 191	Toll-interacting protein
+T6	Gene_or_gene_product 196 200	IL-1
+T7	Gene_or_gene_product 233 253	Toll-like receptor 2
+T8	Gene_or_gene_product 266 286	Toll-like receptor 2
+T9	Gene_or_gene_product 288 292	TLR2
+T10	Gene_or_gene_product 298 302	TLR4
+T11	Gene_or_gene_product 456 460	TLR4
+T12	Gene_or_gene_product 478 482	TLR2
+T13	Simple_chemical 499 502	LPS
+T14	Gene_or_gene_product 586 590	TLR2
+T15	Gene_or_gene_product 678 682	TLR2
+T16	Complex 703 725	phenol-soluble modulin
+T17	Complex 727 730	PSM
+T18	Gene_or_gene_product 832 859	soluble tuberculosis factor
+T19	Gene_or_gene_product 861 864	STF
+T20	Gene_or_gene_product 892 927	outer surface protein A lipoprotein
+T21	Gene_or_gene_product 929 935	OspA-L
+T22	Gene_or_gene_product 952 956	TLR2
+T23	Gene_or_gene_product 1065 1068	STF
+T24	Gene_or_gene_product 1070 1076	OspA-L
+T25	Complex 1082 1085	PSM
+T26	Gene_or_gene_product 1089 1093	TLR2
+T27	Gene_or_gene_product 1116 1120	TLR2
+T28	Complex 1143 1152	NF-kappaB
+T29	Gene_or_gene_product 1181 1186	IL-1R
+T30	Gene_or_gene_product 1240 1244	TLR2
+T31	Gene_or_gene_product 1248 1252	TLR6
+T32	Gene_or_gene_product 1278 1281	STF
+T33	Gene_or_gene_product 1286 1292	OspA-L
+T34	Complex 1304 1307	PSM
+T35	Gene_or_gene_product 1311 1315	TLR2
+T36	Gene_or_gene_product 1391 1395	TLR2
+T37	Gene_or_gene_product 1400 1404	TLR6
+T38	Gene_or_gene_product 1419 1423	TLR2
+T39	Gene_or_gene_product 1456 1480	Toll-interacting protein
+T40	Gene_or_gene_product 1482 1488	Tollip
+T41	Gene_or_gene_product 1516 1520	TLR2
+T42	Gene_or_gene_product 1525 1529	TLR4
+T43	Gene_or_gene_product 1573 1579	Tollip
+T44	Complex 1589 1598	NF-kappaB
+T45	Gene_or_gene_product 1625 1629	TLR2
+T46	Gene_or_gene_product 1634 1638	TLR4
+T47	Gene_or_gene_product 1732 1736	TLR2
+T48	Gene_or_gene_product 1741 1745	TLR6
+T49	Gene_or_gene_product 1774 1777	STF
+T50	Gene_or_gene_product 1782 1788	OspA-L
+T51	Complex 1820 1823	PSM
+T52	Gene_or_gene_product 1853 1857	TLR2
+T53	Gene_or_gene_product 1905 1910	IL-1R
+T54	Gene_or_gene_product 1947 1951	TLR4
+T55	Simple_chemical 1952 1955	LPS
+T56	Gene_or_gene_product 2002 2008	Tollip
+T57	Gene_or_gene_product 2053 2057	TLR2
+T58	Gene_or_gene_product 2062 2066	TLR4

@@ -1,0 +1,30 @@
+T1	Gene_or_gene_product 35 81	A20-binding inhibitor of NF-kappa B activation
+T2	Gene_or_gene_product 83 89	ABIN-1
+T3	Complex 92 114	Nuclear factor kappa B
+T4	Complex 116 126	NF-kappa B
+T5	Complex 376 386	NF-kappa B
+T6	Simple_chemical 397 401	zinc
+T7	Gene_or_gene_product 417 420	A20
+T8	Complex 472 482	NF-kappa B
+T9	Gene_or_gene_product 509 530	tumor necrosis factor
+T10	Gene_or_gene_product 532 535	TNF
+T11	Gene_or_gene_product 570 573	A20
+T12	Gene_or_gene_product 592 639	A20-binding inhibitors of NF-kappa B activation
+T13	Gene_or_gene_product 641 646	ABINs
+T14	Gene_or_gene_product 685 688	TNF
+T15	Complex 711 721	NF-kappa B
+T16	Gene_or_gene_product 747 751	ABIN
+T17	Complex 800 810	NF-kappa B
+T18	Gene_or_gene_product 834 837	A20
+T19	Gene_or_gene_product 904 909	ABINs
+T20	Gene_or_gene_product 914 936	I kappa B kinase gamma
+T21	Complex 968 984	I kappa B kinase
+T22	Complex 1049 1059	NF-kappa B
+T23	Gene_or_gene_product 1083 1089	ABIN-1
+T24	Gene_or_gene_product 1130 1133	A20
+T25	Gene_or_gene_product 1170 1176	ABIN-1
+T26	Complex 1235 1245	NF-kappa B
+T27	Gene_or_gene_product 1269 1275	ABIN-1
+T28	Gene_or_gene_product 1289 1292	A20
+T29	Gene_or_gene_product 1356 1359	A20
+T30	Gene_or_gene_product 1364 1370	ABIN-1

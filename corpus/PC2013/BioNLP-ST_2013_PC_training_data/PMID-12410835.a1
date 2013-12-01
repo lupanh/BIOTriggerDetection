@@ -1,0 +1,36 @@
+T1	Gene_or_gene_product 24 28	Rlm1
+T2	Gene_or_gene_product 57 61	Mpk1
+T3	Cellular_component 62 71	cell wall
+T4	Gene_or_gene_product 82 92	MAP kinase
+T5	Gene_or_gene_product 99 103	Mpk1
+T6	Gene_or_gene_product 104 114	MAP kinase
+T7	Cellular_component 147 156	cell wall
+T8	Gene_or_gene_product 219 223	Rlm1
+T9	Cellular_component 260 269	cell wall
+T10	Gene_or_gene_product 278 282	Rlm1
+T11	Gene_or_gene_product 307 311	MEF2
+T12	Gene_or_gene_product 387 391	Rlm1
+T13	Cellular_component 477 486	cell wall
+T14	Cellular_component 557 566	cell wall
+T15	Gene_or_gene_product 586 590	lacZ
+T16	Gene_or_gene_product 630 634	Rlm1
+T17	Gene_or_gene_product 700 704	Mpk1
+T18	Gene_or_gene_product 734 738	Rlm1
+T19	Simple_chemical 753 759	Ser427
+T20	Simple_chemical 764 770	Thr439
+T21	Gene_or_gene_product 877 881	Rlm1
+T22	Simple_chemical 976 981	seryl
+T23	Simple_chemical 986 994	threonyl
+T24	Gene_or_gene_product 1026 1030	Rlm1
+T25	Gene_or_gene_product 1128 1138	MAP kinase
+T26	Gene_or_gene_product 1193 1198	MEF2A
+T27	Gene_or_gene_product 1203 1208	MEF2C
+T28	Gene_or_gene_product 1226 1230	Rlm1
+T29	Cellular_component 1335 1344	cell wall
+T30	Cellular_component 1362 1375	intracellular
+T31	Gene_or_gene_product 1408 1412	Rlm1
+T32	Cellular_component 1428 1435	nucleus
+T33	Gene_or_gene_product 1548 1552	Mpk1
+T34	Gene_or_gene_product 1567 1571	Rlm1
+T35	Simple_chemical 1630 1636	Ser427
+T36	Simple_chemical 1641 1647	Thr439

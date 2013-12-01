@@ -1,0 +1,78 @@
+T27	Binding 13 28	tetramerisation
+E1	Binding:T27 Theme:T1
+T28	Positive_regulation 226 233	crucial
+E2	Positive_regulation:T28 Theme:E4 Cause:T3
+T29	Pathway 238 248	cell cycle
+E3	Pathway:T29 
+T30	Regulation 249 256	control
+E4	Regulation:T30 Theme:E3
+T31	Regulation 399 408	stabilise
+E5	Regulation:T31 Theme:T4
+T32	Activation 413 421	activate
+E6	Activation:T32 Theme:T4
+T33	Pathway 430 440	cell cycle
+E7	Pathway:T33 Participant:T4
+T34	Pathway 449 459	DNA repair
+E8	Pathway:T34 Participant:T4
+T35	Pathway 461 470	apoptosis
+E9	Pathway:T35 Participant:T4
+T36	Binding 513 521	tetramer
+E10	Binding:T36 Theme:T5
+T37	Negative_regulation 545 549	loss
+E11	Negative_regulation:T37 Theme:E12
+T38	Binding 553 568	tetramerisation
+E12	Binding:T38 Theme:T5
+M1	Negation E12
+T39	Regulation 599 608	influence
+E13	Regulation:T39 Theme:T6 Cause:E11
+T40	Gene_expression 850 859	expressed
+E14	Gene_expression:T40 Theme:T7
+T41	Gene_expression 949 958	expressed
+E15	Gene_expression:T41 Theme:T9
+T42	Phosphorylation 1058 1072	phosphorylated
+E16	Phosphorylation:T42 Site:T12 Theme:T11
+T43	Positive_regulation 1094 1103	dependent
+E17	Positive_regulation:T43 Theme:E16
+T44	Phosphorylation 1139 1154	phosphorylation
+E18	Phosphorylation:T44 Site:T14 Theme:T13
+T45	Regulation 1178 1187	dependent
+E19	Regulation:T45 Theme:E18
+M2	Negation E19
+T46	Binding 1202 1216	form tetramers
+E20	Binding:T46 Theme:T15
+M3	Negation E20
+T47	Negative_regulation 1239 1246	reduced
+E21	Negative_regulation:T47 Cause:E20 Theme:E24
+E22	Negative_regulation:T47 Cause:E20 Theme:E25
+E23	Negative_regulation:T47 Cause:E20 Theme:E26
+T48	Phosphorylation 1272 1287	phosphorylation
+E24	Phosphorylation:T48 Theme:T15 Site:T16
+E25	Phosphorylation:T48 Theme:T15 Site:T17
+E26	Phosphorylation:T48 Theme:T15 Site:T18
+T49	Negative_regulation 1310 1317	reduced
+E27	Negative_regulation:T49 Cause:E20 Theme:E31
+E28	Negative_regulation:T49 Cause:E20 Theme:E33
+E29	Negative_regulation:T49 Cause:E20 Theme:E34
+E30	Negative_regulation:T49 Cause:E20 Theme:E32
+T50	Phosphorylation 1329 1344	phosphorylation
+E31	Phosphorylation:T50 Theme:T15 Site:T19
+E32	Phosphorylation:T50 Theme:T15 Site:T20
+T51	Acetylation 1349 1360	acetylation
+E33	Acetylation:T51 Theme:T15 Site:T19
+E34	Acetylation:T51 Theme:T15 Site:T20
+T52	Binding 1409 1424	tetramerisation
+E35	Binding:T52 Theme:T21
+T53	Positive_regulation 1428 1436	required
+E36	Positive_regulation:T53 Cause:E35 Theme:E41
+E37	Positive_regulation:T53 Cause:E35 Theme:E45
+E38	Positive_regulation:T53 Cause:E35 Theme:E42
+E39	Positive_regulation:T53 Cause:E35 Theme:E44
+E40	Positive_regulation:T53 Theme:E43 Cause:E35
+T54	Transcription 1464 1477	transcription
+E41	Transcription:T54 Theme:T22
+E42	Transcription:T54 Theme:T23
+T55	Translation 1482 1500	protein expression
+E43	Translation:T55 Theme:T22
+E44	Translation:T55 Theme:T23
+T56	Transport 1505 1516	recruitment
+E45	Transport:T56 Theme:T24

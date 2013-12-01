@@ -1,0 +1,30 @@
+T36	Binding 78 88	containing
+E1	Binding:T36 Theme:T3 Theme2:T4 Theme3:T6
+T37	Acetylation 151 162	acetylation
+E2	Acetylation:T37 Theme:T7
+T38	Regulation 215 225	associated
+E3	Regulation:T38 Theme:E2
+T39	Acetylation 386 396	acetylates
+E4	Acetylation:T39 Theme:T12 Cause:T10
+T40	Acetylation 517 527	acetylated
+E5	Acetylation:T40 Theme:T15 Site:T14 Cause:T16
+T41	Positive_regulation 635 643	required
+E6	Positive_regulation:T41 Theme:E7 Cause:T17
+T42	Pathway 648 658	cell cycle
+E7	Pathway:T42 
+T43	Regulation 985 992	related
+E8	Regulation:T43 Cause:T22 Theme:E9
+T44	Positive_regulation 993 1002	essential
+E9	Positive_regulation:T44 Theme:T21
+T45	Positive_regulation 1426 1434	supports
+E10	Positive_regulation:T45 Theme:E11 Cause:T30
+T46	Positive_regulation 1438 1447	essential
+E11	Positive_regulation:T46 Theme:E12
+T47	Regulation 1448 1452	link
+E12	Regulation:T47 Cause:E13 Theme:E15
+T48	Acetylation 1472 1483	acetylation
+E13	Acetylation:T48 Theme:T35
+T49	Pathway 1516 1526	cell cycle
+E14	Pathway:T49 
+T50	Regulation 1527 1534	control
+E15	Regulation:T50 Theme:E14

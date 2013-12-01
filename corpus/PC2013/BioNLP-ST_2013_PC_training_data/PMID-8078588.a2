@@ -1,0 +1,34 @@
+*	Equiv T3 T4
+T19	Regulation 24 32	effector
+E1	Regulation:T19 Cause:T1 Theme:E4
+M1	Speculation E1
+T20	Positive_regulation 45 52	induced
+E2	Positive_regulation:T20 Cause:T2 Theme:E4
+T21	Pathway 53 63	cell cycle
+E3	Pathway:T21 
+T22	Negative_regulation 64 70	arrest
+E4	Negative_regulation:T22 Theme:E3
+T23	Positive_regulation 147 155	inducing
+E5	Positive_regulation:T23 Theme:E7 Cause:T4
+T24	Pathway 167 177	cell cycle
+E6	Pathway:T24 
+T25	Negative_regulation 178 184	arrest
+E7	Negative_regulation:T25 Theme:E6
+T26	Negative_regulation 318 327	inhibited
+E8	Negative_regulation:T26 Cause:T8 Theme:T6
+E9	Negative_regulation:T26 Cause:T8 Theme:T7
+T27	Gene_expression 419 429	expression
+E10	Gene_expression:T27 Theme:T11
+T28	Positive_regulation 433 440	induced
+E11	Positive_regulation:T28 Theme:E10 Cause:T12
+T29	Regulation 548 556	effector
+E12	Regulation:T29 Cause:T13 Theme:E15
+M2	Speculation E12
+T30	Positive_regulation 569 577	mediated
+E13	Positive_regulation:T30 Cause:T14 Theme:E15
+T31	Pathway 578 588	cell cycle
+E14	Pathway:T31 
+T32	Negative_regulation 589 595	arrest
+E15	Negative_regulation:T32 Theme:E14
+T33	Localization 622 629	located
+E16	Localization:T33 ToLoc:T16 Theme:T15

@@ -1,0 +1,40 @@
+T21	Negative_regulation 9 20	suppression
+E1	Negative_regulation:T21 Cause:T1 Theme:T2
+T22	Pathway 84 91	pathway
+E2	Pathway:T22 Participant:T3
+T23	Negative_regulation 355 364	repressor
+E3	Negative_regulation:T23 Cause:T5 Theme:E4
+T24	Pathway 377 384	pathway
+E4	Pathway:T24 Participant:T6
+T25	Dissociation 390 400	disruption
+E5	Dissociation:T25 Theme:T7
+T26	Pathway 533 550	signaling pathway
+E6	Pathway:T26 Participant:T9
+T27	Binding 563 572	interacts
+E7	Binding:T27 Theme:T8 Theme:T10
+T28	Phosphorylation 582 596	phosphorylates
+E8	Phosphorylation:T28 Site:T11 Theme:T10 Cause:T8
+E9	Phosphorylation:T28 Site:T12 Theme:T10 Cause:T8
+T29	Negative_regulation 637 648	suppression
+E10	Negative_regulation:T29 Theme:T13 Cause:E7
+E11	Negative_regulation:T29 Theme:T13 Cause:E8
+E12	Negative_regulation:T29 Theme:T13 Cause:E9
+T30	Positive_regulation 670 678	mediated
+E13	Positive_regulation:T30 Cause:T14 Theme:E14
+T31	Negative_regulation 684 695	suppression
+E14	Negative_regulation:T31 Theme:T15
+T32	Positive_regulation 696 705	activates
+E15	Positive_regulation:T32 Cause:E14 Theme:E16
+T33	Pathway 715 722	pathway
+E16	Pathway:T33 Participant:T16
+T34	Gene_expression 802 812	expression
+E17	Gene_expression:T34 Theme:T17
+T35	Activation 816 825	activated
+E18	Activation:T35 Theme:T17
+T36	Regulation 837 847	associated
+E19	Regulation:T36 Cause:E17 Theme:E21
+E20	Regulation:T36 Cause:E17 Theme:E22
+T37	Phosphorylation 865 880	phosphorylation
+E21	Phosphorylation:T37 Site:T19 Theme:T18
+T38	Gene_expression 890 900	production
+E22	Gene_expression:T38 Theme:T20

@@ -1,0 +1,18 @@
+T1	Gene_or_gene_product 20 28	cyclin E
+T2	Complex 76 79	CCT
+T3	Gene_or_gene_product 82 90	Cyclin E
+T4	Gene_or_gene_product 109 137	cyclin-dependent kinase Cdk2
+T5	Gene_or_gene_product 232 240	cyclin E
+T6	Gene_or_gene_product 480 488	cyclin E
+T7	Cellular_component 533 542	cytosolic
+T8	Complex 554 557	CCT
+T9	Complex 588 591	CCT
+T10	Gene_or_gene_product 645 653	cyclin E
+T11	Complex 692 695	CCT
+T12	Gene_or_gene_product 706 714	cyclin E
+T13	Gene_or_gene_product 767 775	cyclin E
+T14	Complex 895 898	CCT
+T15	Simple_chemical 929 932	ATP
+T16	Gene_or_gene_product 1010 1014	Cdk2
+T17	Gene_or_gene_product 1079 1087	cyclin E
+T18	Simple_chemical 1096 1099	ATP

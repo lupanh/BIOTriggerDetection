@@ -1,0 +1,39 @@
+*	Equiv T3 T4
+*	Equiv T7 T8
+*	Equiv T10 T11
+*	Equiv T23 T24
+T36	Activation 5 14	activates
+E1	Activation:T36 Theme:T2 Cause:T1
+T37	Negative_regulation 42 51	overcomes
+E2	Negative_regulation:T37 Theme:E4 Cause:T1
+T38	Negative_regulation 56 66	repressive
+E3	Negative_regulation:T38 Theme:E4
+T39	Regulation 67 73	effect
+E4	Regulation:T39 Cause:T3 Theme:T5
+T40	Regulation 148 154	effect
+E5	Regulation:T40 Cause:E6 Theme:T9
+T41	Binding 162 173	interaction
+E6	Binding:T41 Theme:T6 Theme2:T7
+T42	Activation 325 334	activated
+E7	Activation:T42 Cause:T12 Theme:T13
+T43	Negative_regulation 407 416	repressed
+E8	Negative_regulation:T43 Cause:T15 Theme:T16
+T44	Negative_regulation 492 500	overcame
+E9	Negative_regulation:T44 Cause:T19 Theme:E11
+T45	Negative_regulation 505 515	repressive
+E10	Negative_regulation:T45 Theme:E11
+T46	Regulation 516 522	effect
+E11	Regulation:T46 Cause:T20 Theme:T21
+T47	Activation 728 738	activation
+E12	Activation:T47 Theme:T27
+E13	Activation:T47 Theme:T26
+T48	Binding 806 810	bind
+E14	Binding:T48 Theme:T29 Theme2:T28
+T49	Binding 912 919	binding
+E15	Binding:T49 Theme:T31
+T50	Positive_regulation 1181 1189	enhanced
+E16	Positive_regulation:T50 Theme:T34
+T51	Positive_regulation 1221 1230	important
+E17	Positive_regulation:T51 Theme:E18 Cause:E16
+T52	Regulation 1234 1245	controlling
+E18	Regulation:T52 Theme:T35

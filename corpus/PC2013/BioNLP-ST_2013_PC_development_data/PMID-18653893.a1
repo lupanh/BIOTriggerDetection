@@ -1,0 +1,24 @@
+T1	Gene_or_gene_product 0 4	Eco1
+T2	Complex 15 22	cohesin
+T3	Cellular_component 59 75	sister chromatid
+T4	Cellular_component 98 109	chromosomes
+T5	Cellular_component 135 146	chromosomal
+T6	Complex 147 154	cohesin
+T7	Simple_chemical 261 267	acetyl
+T8	Gene_or_gene_product 280 284	Eco1
+T9	Gene_or_gene_product 290 294	Eco1
+T10	Gene_or_gene_product 392 398	eco1-1
+T11	Simple_chemical 473 479	lysine
+T12	Complex 483 490	cohesin
+T13	Gene_or_gene_product 493 497	Smc3
+T14	Gene_or_gene_product 512 516	Eco1
+T15	Gene_or_gene_product 563 567	Smc3
+T16	Gene_or_gene_product 588 592	Eco1
+T17	Cellular_component 644 660	sister chromatid
+T18	Gene_or_gene_product 687 693	eco1-1
+T19	Complex 751 758	cohesin
+T20	Gene_or_gene_product 772 776	Wapl
+T21	Gene_or_gene_product 804 808	Eco1
+T22	Complex 818 825	cohesin
+T23	Cellular_component 839 855	sister chromatid
+T24	Gene_or_gene_product 937 941	Eco1

@@ -1,0 +1,6 @@
+(S1 (S (NP (NN NF-kappaB) (NN Activation))))
+(S1 (S (S (NP (NP (NN NF-kappaB) (NN binding) (NN activity)) (PP (IN in) (NP (JJ nuclear) (NNS extracts)))) (VP (VBD was) (VP (VBN determined) (S (VP (VBG using) (NP (NP (DT an) (JJ ELISA-based) (NN kit)) (PRN (-LRB- -LRB-) (NP (NP (NN Trans-AM) (NN p65)) (, ,) (NP (JJ Active) (NN Motif)) (, ,) (NP (NNP Rixensart) (, ,) (NNP Belgium))) (-RRB- -RRB-)))))))) (. .)))
+(S1 (S (S (PP (IN In) (NP (JJ brief))) (, ,) (NP (NP (CD 5) (NN microg)) (PP (IN of) (NP (JJ nuclear) (NNS extracts)))) (VP (VBD were) (VP (VBN incubated) (PP (IN with) (NP (NP (DT a) (NN plate)) (VP (VBN coated) (PP (IN with) (NP (DT an) (NN NF-kappaB) (NN consensus) (NN oligonucleotide))))))))) (. .)))
+(S1 (S (S (NP (NNS Plates)) (VP (VBD were) (VP (VBN washed) (PP (IN before) (NP (NP (NN addition)) (PP (IN of) (NP (DT an) (JJ anti-p65) (NN antibody)))))))) (. .)))
+(S1 (S (S (NP (NN Antibody) (NN binding)) (VP (VBD was) (VP (VP (VBN detected) (PP (IN with) (NP (DT a) (JJ secondary) (JJ HRP-conjugated) (NN antibody)))) (CC and) (VP (VBN developed) (PP (IN with) (NP (NN TMB) (NN substrate))))))) (. .)))
+(S1 (S (S (NP (NP (DT The) (NN intensity)) (PP (IN of) (NP (DT the) (NN reaction)))) (VP (VBD was) (VP (VBN measured) (PP (IN at) (NP (CD 450) (NN nm)))))) (. .)))

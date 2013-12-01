@@ -1,0 +1,61 @@
+*	Equiv T3 T4
+*	Equiv T13 T14
+*	Equiv T15 T16
+*	Equiv T20 T21
+T27	Regulation 0 10	Regulation
+E1	Regulation:T27 Cause:T4 Theme:E7
+E2	Regulation:T27 Cause:T5 Theme:E7
+E3	Regulation:T27 Cause:T5 Theme:E8
+E4	Regulation:T27 Cause:T4 Theme:E8
+E5	Regulation:T27 Theme:E9 Cause:T4
+E6	Regulation:T27 Theme:E9 Cause:T5
+T28	Phosphorylation 29 44	phosphorylation
+E7	Phosphorylation:T28 Theme:T1
+E8	Phosphorylation:T28 Theme:T2
+T29	Transcription 49 64	transcriptional
+E9	Transcription:T29 Theme:T2
+T30	Regulation 210 219	regulated
+E10	Regulation:T30 Theme:T6 Cause:E11
+T31	Localization 247 256	retention
+T32	Positive_regulation 247 256	retention
+E11	Localization:T31 AtLoc:T7 Theme:T6
+E12	Positive_regulation:T32 Theme:E11 Cause:T8
+T33	Regulation 329 339	regulation
+E13	Regulation:T33 Theme:T9
+T34	Dissociation 366 373	release
+E14	Dissociation:T34 Product:T9
+T35	Positive_regulation 424 432	involves
+E15	Positive_regulation:T35 Theme:E16 Cause:E17
+T36	Phosphorylation 433 448	phosphorylation
+E16	Phosphorylation:T36 Theme:T11
+T37	Pathway 492 499	pathway
+E17	Pathway:T37 Participant:T14 Participant2:T16
+T38	Regulation 500 509	involving
+E18	Regulation:T38 Theme:E17 Cause:E20
+E19	Regulation:T38 Theme:E17 Cause:E21
+T39	Activation 510 520	activation
+E20	Activation:T39 Theme:T14
+E21	Activation:T39 Theme:T16
+T40	Positive_regulation 618 627	dependent
+E22	Positive_regulation:T40 Cause:E23 Theme:T17
+T41	Phosphorylation 631 646	phosphorylation
+E23	Phosphorylation:T41 Theme:T17
+T42	Negative_regulation 732 742	Inhibition
+E24	Negative_regulation:T42 Theme:E26 Cause:T19
+E25	Negative_regulation:T42 Theme:E26 Cause:T21
+T43	Phosphorylation 746 761	phosphorylation
+E26	Phosphorylation:T43 Theme:T18
+T44	Positive_regulation 814 821	results
+E27	Positive_regulation:T44 Theme:E29 Cause:E24
+E28	Positive_regulation:T44 Theme:E29 Cause:E25
+T45	Negative_regulation 825 829	loss
+E29	Negative_regulation:T45 Theme:E30
+T46	Transcription 838 853	transcriptional
+E30	Transcription:T46 Theme:T22
+T47	Negative_regulation 871 882	interfering
+E31	Negative_regulation:T47 Cause:E29 Theme:E32
+M1	Negation E31
+T48	Binding 892 899	binding
+E32	Binding:T48 Theme:T22
+T49	Pathway 992 1000	pathways
+E33	Pathway:T49 Participant:T23 Participant2:T24 Participant3:T25 Participant4:T26

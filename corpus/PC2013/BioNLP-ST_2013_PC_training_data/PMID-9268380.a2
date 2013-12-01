@@ -1,0 +1,58 @@
+*	Equiv T5 T6
+*	Equiv T7 T8
+T30	Pathway 16 26	cell cycle
+E1	Pathway:T30 
+T31	Regulation 27 36	regulated
+E2	Regulation:T31 Cause:E1 Theme:T1
+T32	Negative_regulation 49 57	inhibits
+E3	Negative_regulation:T32 Cause:T1 Theme:T2
+E4	Negative_regulation:T32 Cause:T1 Theme:T3
+M1	Negation E4
+T33	Activation 87 97	Activation
+E5	Activation:T33 Theme:T4
+T34	Positive_regulation 180 188	mediated
+E6	Positive_regulation:T34 Theme:E5 Cause:E8
+E7	Positive_regulation:T34 Theme:E5 Cause:E9
+T35	Dephosphorylation 208 225	dephosphorylation
+E8	Dephosphorylation:T35 Theme:T9 Site:T6
+E9	Dephosphorylation:T35 Theme:T9 Site:T8
+T36	Positive_regulation 404 415	responsible
+E10	Positive_regulation:T36 Theme:E11 Cause:T10
+T37	Phosphorylation 420 435	phosphorylating
+E11	Phosphorylation:T37 Site:T11 Theme:T9
+T38	Phosphorylation 498 513	phosphorylating
+E12	Phosphorylation:T38 Site:T13 Theme:T9 Cause:T14
+T39	Pathway 683 693	cell cycle
+E13	Pathway:T39 
+T40	Regulation 694 704	regulation
+E14	Regulation:T40 Theme:E13 Cause:T15
+T41	Phosphorylation 755 769	phosphorylates
+E15	Phosphorylation:T41 Theme:T18 Cause:T16
+E16	Phosphorylation:T41 Cause:T16 Theme:T19
+E17	Phosphorylation:T41 Cause:T16 Theme:T20
+M2	Negation E16
+M3	Negation E17
+T42	Inactivation 774 785	inactivates
+E18	Inactivation:T42 Theme:T18 Cause:T16
+E19	Inactivation:T42 Cause:T16 Theme:T19
+E20	Inactivation:T42 Cause:T16 Theme:T20
+M4	Negation E20
+M5	Negation E19
+T43	Binding 791 801	containing
+E21	Binding:T43 Theme:T17 Theme2:T18
+T44	Binding 837 847	containing
+E22	Binding:T44 Theme:T18 Theme2:T19
+E23	Binding:T44 Theme:T18 Theme2:T20
+T45	Pathway 949 959	cell cycle
+E24	Pathway:T45 
+T46	Negative_regulation 985 994	decreased
+E25	Negative_regulation:T46 Theme:T21
+T47	Phosphorylation 1035 1054	hyperphosphorylated
+E26	Phosphorylation:T47 Theme:T23
+T48	Phosphorylation 1096 1111	phosphorylating
+E27	Phosphorylation:T48 Cause:T24 Theme:T25
+T49	Regulation 1160 1166	affect
+E28	Regulation:T49 Cause:E27 Theme:T26
+M6	Negation E28
+T50	Negative_regulation 1231 1251	negatively regulated
+E29	Negative_regulation:T50 Theme:T27

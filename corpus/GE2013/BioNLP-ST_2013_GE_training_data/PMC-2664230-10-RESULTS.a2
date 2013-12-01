@@ -1,0 +1,31 @@
+T7	Positive_regulation 69 74	leads
+T8	Protein_catabolism 97 108	degradation
+T9	Regulation 199 206	effects
+T10	Phosphorylation 258 273	phosphorylation
+T11	Positive_regulation 287 296	increased
+T12	Positive_regulation 297 306	following
+T13	Negative_regulation 419 432	downregulated
+T14	Positive_regulation 437 444	induced
+T15	Phosphorylation 459 474	phosphorylation
+T16	Phosphorylation 540 555	phosphorylation
+T17	Positive_regulation 560 569	increased
+T18	Positive_regulation 570 579	following
+T19	Negative_regulation 647 656	decreased
+T20	Positive_regulation 661 668	induced
+T21	Phosphorylation 691 706	phosphorylation
+E1	Positive_regulation:T7 Theme:E2
+E2	Protein_catabolism:T8 Theme:T1
+E3	Regulation:T9 Theme:T2
+E4	Phosphorylation:T10 Theme:T3
+E5	Positive_regulation:T11 Theme:E4
+E6	Positive_regulation:T12 Theme:E5
+E7	Negative_regulation:T13 Theme:E8
+E8	Positive_regulation:T14 Theme:E9
+E9	Phosphorylation:T15 Theme:T4
+E10	Phosphorylation:T16 Theme:T5
+E11	Positive_regulation:T17 Theme:E10
+E12	Positive_regulation:T18 Theme:E11
+E13	Negative_regulation:T19 Theme:E14
+E14	Positive_regulation:T20 Theme:E15
+E15	Phosphorylation:T21 Theme:T6
+M1	Speculation E3

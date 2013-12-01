@@ -1,0 +1,28 @@
+T1	Gene_or_gene_product 0 4	MSK1
+T2	Gene_or_gene_product 9 13	MSK2
+T3	Gene_or_gene_product 82 86	CREB
+T4	Gene_or_gene_product 91 95	ATF1
+T5	Gene_or_gene_product 139 185	mitogen- and stress-activated protein kinase 1
+T6	Gene_or_gene_product 187 191	MSK1
+T7	Gene_or_gene_product 197 201	MSK2
+T8	Gene_or_gene_product 232 236	MSK1
+T9	Gene_or_gene_product 241 245	MSK2
+T10	Gene_or_gene_product 359 363	CREB
+T11	Gene_or_gene_product 368 372	ATF1
+T12	Gene_or_gene_product 454 458	CREB
+T13	Gene_or_gene_product 463 467	ATF1
+T14	Gene_or_gene_product 565 569	CREB
+T15	Simple_chemical 573 579	Ser133
+T16	Gene_or_gene_product 661 666	c-fos
+T17	Gene_or_gene_product 668 672	junB
+T18	Gene_or_gene_product 678 682	egr1
+T19	Gene_or_gene_product 705 709	MSK1
+T20	Gene_or_gene_product 714 718	MSK2
+T21	Gene_or_gene_product 750 755	c-fos
+T22	Gene_or_gene_product 760 764	junB
+T23	Simple_chemical 799 809	anisomycin
+T24	Simple_chemical 870 899	tetradecanoyl phorbol acetate
+T25	Gene_or_gene_product 903 926	epidermal growth factor
+T26	Gene_or_gene_product 964 968	egr1
+T27	Gene_or_gene_product 1078 1082	MSK1
+T28	Gene_or_gene_product 1083 1087	MSK2

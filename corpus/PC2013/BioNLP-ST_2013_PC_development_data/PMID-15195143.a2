@@ -1,0 +1,52 @@
+T36	Gene_expression 0 10	Expression
+E1	Gene_expression:T36 Theme:T2
+E2	Gene_expression:T36 Theme:T1
+T37	Regulation 34 43	regulated
+E3	Regulation:T37 Cause:T3 Theme:E1
+E4	Regulation:T37 Cause:T3 Theme:E2
+T38	Regulation 187 197	regulating
+E5	Regulation:T38 Theme:E6
+T39	Binding 212 219	binding
+E6	Binding:T39 Theme:T8
+T40	Transcription 360 373	transcription
+E7	Transcription:T40 Theme:T10
+E8	Transcription:T40 Theme:T11
+T41	Positive_regulation 403 412	activated
+E9	Positive_regulation:T41 Cause:T12 Theme:E7
+E10	Positive_regulation:T41 Cause:T14 Theme:E7
+E11	Positive_regulation:T41 Cause:T13 Theme:E7
+E12	Positive_regulation:T41 Cause:T15 Theme:E7
+E13	Positive_regulation:T41 Cause:T15 Theme:E8
+E14	Positive_regulation:T41 Cause:T14 Theme:E8
+E15	Positive_regulation:T41 Cause:T13 Theme:E8
+E16	Positive_regulation:T41 Cause:T12 Theme:E8
+M1	Negation E10
+M2	Negation E12
+M3	Negation E13
+M4	Negation E14
+T42	Positive_regulation 625 634	necessary
+E17	Positive_regulation:T42 Theme:E21
+E18	Positive_regulation:T42 Theme:E22
+T43	Positive_regulation 648 655	induced
+E19	Positive_regulation:T43 Cause:T19 Theme:E21
+E20	Positive_regulation:T43 Cause:T19 Theme:E22
+T44	Activation 656 666	activation
+E21	Activation:T44 Theme:T20
+E22	Activation:T44 Theme:T21
+T45	Negative_regulation 724 734	suppressed
+E23	Negative_regulation:T45 Cause:T22 Theme:E22
+E24	Negative_regulation:T45 Cause:T22 Theme:E21
+T46	Positive_regulation 824 833	dependent
+E25	Positive_regulation:T46 Theme:T23
+E26	Positive_regulation:T46 Theme:T24
+T47	Regulation 885 895	stabilized
+E27	Regulation:T47 Theme:T26
+T48	Transcription 938 948	expression
+E28	Transcription:T48 Theme:T27
+T49	Negative_regulation 969 979	suppressed
+E29	Negative_regulation:T49 Theme:E28
+T50	Positive_regulation 1151 1162	accumulated
+E30	Positive_regulation:T50 Cause:T30 Theme:T31
+E31	Positive_regulation:T50 Cause:T30 Theme:T32
+T51	Positive_regulation 1300 1312	accumulation
+E32	Positive_regulation:T51 Theme:T33

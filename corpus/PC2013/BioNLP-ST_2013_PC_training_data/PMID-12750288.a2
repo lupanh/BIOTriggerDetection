@@ -1,0 +1,109 @@
+*	Equiv T16 T17
+*	Equiv T30 T31
+*	Equiv T32 T33
+T50	Regulation 4 15	independent
+E1	Regulation:T50 Theme:E2 Cause:T1
+M1	Negation E1
+T51	Activation 16 26	activation
+E2	Activation:T51 Theme:T2
+T52	Positive_regulation 107 114	results
+E3	Positive_regulation:T52 Theme:E4 Cause:E2
+T53	Positive_regulation 118 126	elevated
+E4	Positive_regulation:T53 Theme:E5
+T54	Gene_expression 132 142	expression
+E5	Gene_expression:T54 Theme:T3
+T55	Negative_regulation 205 224	negative-regulatory
+E6	Negative_regulation:T55 Cause:T5 Theme:E9
+E7	Negative_regulation:T55 Cause:T6 Theme:E8
+T56	Regulation 292 302	regulatory
+E8	Regulation:T56 Theme:E11
+E9	Regulation:T56 Theme:E10
+T57	Regulation 328 336	controls
+E10	Regulation:T57 Theme:E12
+E11	Regulation:T57 Theme:E13
+T58	Pathway 337 347	cell cycle
+E12	Pathway:T58 
+T59	Pathway 378 387	apoptosis
+E13	Pathway:T59 
+T60	Gene_expression 389 399	Expression
+E14	Gene_expression:T60 Theme:T7
+E15	Gene_expression:T60 Theme:T8
+T61	Positive_regulation 455 462	induced
+E16	Positive_regulation:T61 Cause:T9 Theme:E14
+E17	Positive_regulation:T61 Cause:T9 Theme:E15
+T62	Gene_expression 513 523	expression
+E18	Gene_expression:T62 Theme:T10
+T63	Regulation 536 545	regulated
+E19	Regulation:T63 Cause:E21 Theme:E18
+T64	Regulation 554 565	independent
+E20	Regulation:T64 Theme:E21 Cause:T11
+M2	Negation E20
+T65	Pathway 566 574	pathways
+E21	Pathway:T65 
+T66	Regulation 592 603	independent
+E22	Regulation:T66 Theme:E23 Cause:T12
+M3	Negation E22
+T67	Regulation 620 627	control
+E23	Regulation:T67 Theme:E24
+T68	Transcription 628 641	transcription
+E24	Transcription:T68 Theme:T13
+T69	Gene_expression 733 743	expression
+E25	Gene_expression:T69 Theme:T14
+T70	Gene_expression 840 850	expression
+E26	Gene_expression:T70 Theme:T15
+T71	Regulation 851 861	correlates
+E27	Regulation:T71 Theme:E26 Cause:T17
+T72	Gene_expression 966 980	overexpression
+E28	Gene_expression:T72 Theme:T18
+T73	Positive_regulation 1043 1051	elevated
+E29	Positive_regulation:T73 Theme:T19
+T74	Positive_regulation 1141 1151	because of
+E30	Positive_regulation:T74 Cause:E31 Theme:E29
+T75	Transcription 1152 1165	transcription
+E31	Transcription:T75 Theme:T22
+T76	Positive_regulation 1179 1188	inducible
+E32	Positive_regulation:T76 Cause:T21 Theme:E31
+T77	Regulation 1323 1334	independent
+E33	Regulation:T77 Cause:T25 Theme:T24
+E34	Regulation:T77 Cause:T26 Theme:T24
+E35	Regulation:T77 Theme:T24 Cause:T27
+E36	Regulation:T77 Theme:T24 Cause:E37
+M4	Negation E33
+M5	Negation E34
+M6	Negation E35
+M7	Negation E36
+T78	Pathway 1545 1554	signaling
+E37	Pathway:T78 Participant:T33 Participant2:T31 Participant3:T29 Participant4:T28
+T79	Positive_regulation 1603 1612	dependent
+E38	Positive_regulation:T79 Theme:T34 Cause:E41
+E39	Positive_regulation:T79 Theme:T34 Cause:E42
+E40	Positive_regulation:T79 Theme:T34 Cause:E43
+T80	Binding 1676 1683	binding
+E41	Binding:T80 Theme:T35 Theme2:T34
+E42	Binding:T80 Theme:T37 Theme2:T34
+E43	Binding:T80 Theme:T38 Theme2:T34
+T81	Negative_regulation 1802 1806	Lack
+E44	Negative_regulation:T81 Theme:T39
+T82	Regulation 1866 1877	consequence
+E45	Regulation:T82 Theme:E44 Cause:E47
+E46	Regulation:T82 Theme:E44 Cause:E48
+T83	Negative_regulation 1881 1888	reduced
+E47	Negative_regulation:T83 Theme:E49 Cause:T41
+E48	Negative_regulation:T83 Theme:E49 Cause:T42
+T84	Positive_regulation 1889 1915	transcriptional activation
+E49	Positive_regulation:T84 Theme:T39
+T85	Gene_expression 1945 1959	Overexpression
+E50	Gene_expression:T85 Theme:T43
+T86	Regulation 1983 1996	reconstitutes
+E51	Regulation:T86 Theme:T46 Cause:E50
+T87	Positive_regulation 2013 2022	dependent
+E52	Positive_regulation:T87 Theme:T46 Cause:T44
+E53	Positive_regulation:T87 Theme:T46 Cause:T45
+T88	Positive_regulation 2050 2059	resulting
+E54	Positive_regulation:T88 Theme:E55 Cause:E50
+T89	Positive_regulation 2063 2072	increased
+E55	Positive_regulation:T89 Theme:T47
+T90	Positive_regulation 2155 2163	elevated
+E56	Positive_regulation:T90 Theme:E57
+T91	Gene_expression 2179 2189	expression
+E57	Gene_expression:T91 Theme:T48

@@ -1,0 +1,41 @@
+T1	Cellular_component 31 38	nuclear
+T2	Gene_or_gene_product 49 59	MAP kinase
+T3	Gene_or_gene_product 164 196	mitogen-activated protein kinase
+T4	Gene_or_gene_product 198 202	MAPK
+T5	Gene_or_gene_product 218 221	ERK
+T6	Cellular_component 245 254	cytoplasm
+T7	Cellular_component 262 269	nucleus
+T8	Gene_or_gene_product 271 288	MAP kinase kinase
+T9	Gene_or_gene_product 290 295	MAPKK
+T10	Gene_or_gene_product 310 313	MEK
+T11	Cellular_component 334 341	nuclear
+T12	Cellular_component 373 384	cytoplasmic
+T13	Gene_or_gene_product 395 399	MAPK
+T14	Simple_chemical 428 436	tyrosine
+T15	Simple_chemical 438 444	Tyr190
+T16	Gene_or_gene_product 456 460	MPK1
+T17	Gene_or_gene_product 461 465	ERK2
+T18	Gene_or_gene_product 486 490	MAPK
+T19	Gene_or_gene_product 494 499	MAPKK
+T20	Complex 556 566	MAPKK-MAPK
+T21	Cellular_component 637 644	nuclear
+T22	Gene_or_gene_product 662 666	MAPK
+T23	Cellular_component 686 693	nuclear
+T24	Gene_or_gene_product 703 707	MAPK
+T25	Cellular_component 718 730	nuclear pore
+T26	Cellular_component 767 774	Nuclear
+T27	Gene_or_gene_product 795 799	MAPK
+T28	Gene_or_gene_product 850 854	MAPK
+T29	Gene_or_gene_product 898 908	agglutinin
+T30	Gene_or_gene_product 930 933	Ran
+T31	Cellular_component 943 950	nuclear
+T32	Gene_or_gene_product 961 979	beta-galactosidase
+T33	Gene_or_gene_product 981 989	beta-gal
+T34	Gene_or_gene_product 997 1001	MAPK
+T35	Gene_or_gene_product 1155 1159	MAPK
+T36	Cellular_component 1191 1198	nucleus
+T37	Gene_or_gene_product 1229 1233	MAPK
+T38	Gene_or_gene_product 1249 1257	beta-gal
+T39	Cellular_component 1286 1293	nucleus
+T40	Gene_or_gene_product 1353 1357	MAPK
+T41	Cellular_component 1368 1375	nucleus

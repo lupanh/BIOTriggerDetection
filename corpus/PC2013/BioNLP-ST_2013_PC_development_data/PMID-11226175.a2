@@ -1,0 +1,12 @@
+*	Equiv T6 T7
+*	Equiv T25 T26
+T31	Conversion 6 15	transfers
+T32	Positive_regulation 6 15	transfers
+E1	Conversion:T31 Theme:T2 Product:T3
+E2	Positive_regulation:T32 Theme:E1 Cause:T1
+T33	Conversion 517 529	biosynthesis
+E3	Conversion:T33 Product:T13
+T34	Conversion 666 678	biosynthesis
+E4	Conversion:T34 Product:T16
+T35	Conversion 1054 1062	transfer
+E5	Conversion:T35 Theme:T27 Product:T28

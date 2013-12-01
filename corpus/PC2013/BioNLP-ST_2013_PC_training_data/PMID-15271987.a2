@@ -1,0 +1,46 @@
+T27	Regulation 9 19	regulation
+E1	Regulation:T27 Theme:T1 Cause:T2
+E2	Regulation:T27 Theme:T1 Cause:T3
+T28	Gene_expression 118 127	expressed
+E3	Gene_expression:T28 Theme:T4
+T29	Pathway 610 617	pathway
+E4	Pathway:T29 Participant:T5
+T30	Pathway 633 640	pathway
+E5	Pathway:T30 Participant:T6 Participant2:T7
+T31	Pathway 656 664	pathways
+E6	Pathway:T31 Participant:T5
+E7	Pathway:T31 Participant:T6 Participant2:T7
+T32	Regulation 868 872	link
+E8	Regulation:T32 Theme:E11
+E9	Regulation:T32 Theme:E12
+E10	Regulation:T32 Theme:E13
+T33	Regulation 885 895	regulation
+E11	Regulation:T33 Theme:E14
+E12	Regulation:T33 Theme:T9
+E13	Regulation:T33 Theme:T10
+T34	Transcription 908 921	transcription
+E14	Transcription:T34 Theme:T8
+T35	Binding 999 1007	interact
+E15	Binding:T35 Theme:T13 Theme2:T12
+E16	Binding:T35 Theme:T13 Theme2:T11
+T36	Negative_regulation 1043 1050	repress
+E17	Negative_regulation:T36 Theme:E19 Cause:T11
+E18	Negative_regulation:T36 Theme:E19 Cause:T12
+T37	Transcription 1060 1073	transcription
+E19	Transcription:T37 Theme:T14
+T38	Binding 1139 1143	bind
+E20	Binding:T38 Theme:T19 Theme2:T18
+E21	Binding:T38 Theme:T19 Theme2:T16
+E22	Binding:T38 Theme:T19 Theme2:T17
+T39	Positive_regulation 1173 1179	induce
+E23	Positive_regulation:T39 Theme:E26 Cause:T16
+E24	Positive_regulation:T39 Theme:E26 Cause:T17
+E25	Positive_regulation:T39 Theme:E26 Cause:T18
+T40	Transcription 1189 1202	transcription
+E26	Transcription:T40 Theme:T20
+T41	Pathway 1389 1396	pathway
+E27	Pathway:T41 Participant:T23 Participant2:T24
+T42	Regulation 1440 1450	regulation
+E28	Regulation:T42 Theme:T25
+T43	Regulation 1566 1571	alter
+E29	Regulation:T43 Theme:T26

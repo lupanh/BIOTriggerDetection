@@ -1,0 +1,33 @@
+*	Equiv T5 T6
+T26	Regulation 141 150	sensitive
+E1	Regulation:T26 Cause:T7 Theme:T6
+T27	Conversion 170 180	hydrolyzes
+T28	Positive_regulation 170 180	hydrolyzes
+E2	Conversion:T27 Theme:T10 Product:T11
+E3	Positive_regulation:T28 Cause:T6 Theme:E2
+E4	Conversion:T27 Theme:T10 Product:T12
+E5	Positive_regulation:T28 Cause:T6 Theme:E4
+T29	Binding 198 208	containing
+E6	Binding:T29 Theme:T8 Theme2:T10
+T30	Positive_regulation 235 243	initiate
+E7	Positive_regulation:T30 Theme:E11 Cause:E2
+E8	Positive_regulation:T30 Theme:E12 Cause:E2
+E9	Positive_regulation:T30 Theme:E12 Cause:E4
+E10	Positive_regulation:T30 Theme:E11 Cause:E4
+T31	Conversion 248 260	biosynthesis
+E11	Conversion:T31 Theme:T10 Product:T11
+E12	Conversion:T31 Theme:T10 Product:T12
+T32	Positive_regulation 351 360	dependent
+E13	Positive_regulation:T32 Cause:T13 Theme:E14
+T33	Activation 361 371	activation
+E14	Activation:T33 Theme:T6
+T34	Positive_regulation 389 397	mediated
+E15	Positive_regulation:T34 Theme:E14
+T35	Positive_regulation 435 446	responsible
+E16	Positive_regulation:T35 Theme:E18 Cause:E15
+T36	Positive_regulation 459 468	dependent
+E17	Positive_regulation:T36 Cause:T14 Theme:E18
+T37	Transport 469 482	translocation
+E18	Transport:T37 Theme:T6 ToLoc:T15
+T38	Localization 1139 1146	binding
+E19	Localization:T38 Theme:T22 AtLoc:T21

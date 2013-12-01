@@ -1,0 +1,21 @@
+T1	Gene_or_gene_product 0 10	IKKepsilon
+T2	Gene_or_gene_product 15 19	TBK1
+T3	Gene_or_gene_product 52 56	IRF3
+T4	Gene_or_gene_product 103 133	interferon regulatory factor 3
+T5	Gene_or_gene_product 135 139	IRF3
+T6	Complex 145 154	NF-kappaB
+T7	Gene_or_gene_product 299 319	Toll-like receptor 3
+T8	Gene_or_gene_product 361 365	IRF3
+T9	Complex 370 379	NF-kappaB
+T10	Gene_or_gene_product 395 399	IRF3
+T11	Gene_or_gene_product 549 563	IkappaB kinase
+T12	Gene_or_gene_product 574 596	IkappaB kinase-epsilon
+T13	Gene_or_gene_product 598 608	IKKepsilon
+T14	Gene_or_gene_product 614 635	TANK-binding kinase-1
+T15	Gene_or_gene_product 637 641	TBK1
+T16	Complex 680 689	NF-kappaB
+T17	Gene_or_gene_product 739 743	IRF3
+T18	Gene_or_gene_product 769 779	IKKepsilon
+T19	Gene_or_gene_product 784 788	TBK1
+T20	Gene_or_gene_product 843 847	IRF3
+T21	Complex 852 861	NF-kappaB

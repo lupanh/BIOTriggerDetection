@@ -1,0 +1,23 @@
+T1	Cellular_component 46 59	extracellular
+T2	Gene_or_gene_product 60 65	HSP70
+T3	Gene_or_gene_product 75 101	toll-like receptor (TLR) 2
+T4	Gene_or_gene_product 106 110	TLR4
+T5	Gene_or_gene_product 200 219	heat shock proteins
+T6	Gene_or_gene_product 221 224	HSP
+T7	Gene_or_gene_product 248 251	HSP
+T8	Gene_or_gene_product 411 416	HSP70
+T9	Cellular_component 504 519	plasma membrane
+T10	Cellular_component 536 549	intracellular
+T11	Simple_chemical 550 556	Ca(2+)
+T12	Complex 572 581	NF-kappaB
+T13	Gene_or_gene_product 704 709	HSP70
+T14	Gene_or_gene_product 774 779	MyD88
+T15	Gene_or_gene_product 780 784	IRAK
+T16	Complex 785 794	NF-kappaB
+T17	Gene_or_gene_product 832 837	HSP70
+T18	Gene_or_gene_product 852 856	TLR2
+T19	Gene_or_gene_product 899 903	TLR4
+T20	Gene_or_gene_product 987 991	CD14
+T21	Gene_or_gene_product 1158 1163	HSP70
+T22	Gene_or_gene_product 1202 1207	HSP70
+T23	Gene_or_gene_product 1258 1263	HSP70

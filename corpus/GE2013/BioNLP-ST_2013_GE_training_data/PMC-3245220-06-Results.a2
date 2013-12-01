@@ -1,0 +1,31 @@
+T10	Regulation 43 51	Regulate
+T11	Positive_regulation 80 90	Activation
+T12	Phosphorylation 144 159	phosphorylation
+T13	Protein_catabolism 164 175	degradation
+T14	Protein_catabolism 458 469	degradation
+T15	Regulation 474 483	regulated
+T16	Negative_regulation 539 546	inhibit
+T17	Gene_expression 555 564	synthesis
+T18	Regulation 678 683	alter
+T19	Positive_regulation 690 697	induced
+T20	Protein_catabolism 711 722	degradation
+T21	Regulation 767 776	augmented
+T9	Anaphora 815 837	an alternative pathway
+T22	Protein_modification 844 875	post-translational modification
+R1	Coreference Subject:T9 Object:T22
+E1	Regulation:T10 Theme:E2
+E2	Positive_regulation:T11 Theme:T1
+E3	Phosphorylation:T12 Theme:T2
+E4	Protein_catabolism:T13 Theme:T2
+E5	Protein_catabolism:T14 Theme:T5
+E6	Regulation:T15 Theme:E5
+E7	Negative_regulation:T16 Theme:E8
+E8	Gene_expression:T17 Theme:T6
+E9	Regulation:T18 Theme:E10
+E10	Positive_regulation:T19 Theme:E11
+E11	Protein_catabolism:T20 Theme:T7
+E12	Regulation:T21 Theme:E13
+E13	Protein_modification:T22 Theme:T8
+M1	Negation E1
+M2	Speculation E6
+M3	Negation E9

@@ -1,0 +1,35 @@
+T1	Cellular_component 0 7	Nuclear
+T2	Gene_or_gene_product 45 50	Cdc24
+T3	Gene_or_gene_product 54 58	Far1
+T4	Cellular_component 105 117	Cytoskeletal
+T5	Gene_or_gene_product 205 208	Rho
+T6	Gene_or_gene_product 327 332	Cdc24
+T7	Simple_chemical 338 345	guanine
+T8	Gene_or_gene_product 394 399	Cdc42
+T9	Cellular_component 423 435	cell nucleus
+T10	Gene_or_gene_product 439 443	Far1
+T11	Gene_or_gene_product 455 460	Cdc24
+T12	Gene_or_gene_product 562 585	cyclin-dependent kinase
+T13	Complex 586 595	Cdc28-Cln
+T14	Gene_or_gene_product 620 624	Far1
+T15	Gene_or_gene_product 657 662	Cdc24
+T16	Cellular_component 670 679	cytoplasm
+T17	Gene_or_gene_product 719 723	Far1
+T18	Gene_or_gene_product 754 759	actin
+T19	Cellular_component 760 772	cytoskeleton
+T20	Gene_or_gene_product 805 810	Cdc24
+T21	Cellular_component 828 836	bud site
+T22	Complex 889 899	Far1-Cdc24
+T23	Cellular_component 929 936	nucleus
+T24	Gene_or_gene_product 940 944	Msn5
+T25	Gene_or_gene_product 974 979	Cdc24
+T26	Cellular_component 1070 1085	plasma membrane
+T27	Gene_or_gene_product 1124 1129	actin
+T28	Cellular_component 1130 1142	cytoskeleton
+T29	Gene_or_gene_product 1212 1216	Far1
+T30	Cellular_component 1224 1231	nuclear
+T31	Gene_or_gene_product 1242 1246	Msn5
+T32	Gene_or_gene_product 1390 1394	Far1
+T33	Cellular_component 1410 1417	nuclear
+T34	Gene_or_gene_product 1429 1434	Cdc24
+T35	Gene_or_gene_product 1534 1539	Cdc42

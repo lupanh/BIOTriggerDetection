@@ -1,0 +1,36 @@
+T30	Regulation 55 61	target
+E1	Regulation:T30 Theme:T1 Cause:T2
+E2	Regulation:T30 Theme:T1 Cause:T3
+T31	Pathway 258 267	signaling
+E3	Pathway:T31 Participant:T5
+T32	Positive_regulation 319 326	induces
+E4	Positive_regulation:T32 Cause:T6 Theme:E5
+T33	Pathway 327 336	apoptosis
+E5	Pathway:T33 
+T34	Positive_regulation 417 426	induction
+E6	Positive_regulation:T34 Theme:T7
+T35	Binding 520 529	interacts
+E7	Binding:T35 Theme:T8 Theme2:T9
+E8	Binding:T35 Theme:T8 Theme2:T10
+T36	Positive_regulation 645 652	induced
+E9	Positive_regulation:T36 Theme:T11
+T37	Positive_regulation 771 784	up-regulation
+E10	Positive_regulation:T37 Theme:T14
+T38	Positive_regulation 802 810	initiate
+E11	Positive_regulation:T38 Cause:E10 Theme:E12
+T39	Pathway 815 824	apoptotic
+E12	Pathway:T39 
+T40	Positive_regulation 1006 1014	involved
+E13	Positive_regulation:T40 Cause:T19 Theme:E14
+T41	Regulation 1022 1032	regulation
+E14	Regulation:T41 Theme:E15
+T42	Pathway 1036 1045	apoptosis
+E15	Pathway:T42 
+T43	Positive_regulation 1500 1508	activate
+E16	Positive_regulation:T43 Theme:E18 Cause:T24
+E17	Positive_regulation:T43 Theme:E18 Cause:T25
+T44	Transcription 1509 1522	transcription
+E18	Transcription:T44 Theme:T26
+T45	Regulation 1676 1682	target
+E19	Regulation:T45 Cause:T27 Theme:T28
+E20	Regulation:T45 Cause:T27 Theme:T29

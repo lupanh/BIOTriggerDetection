@@ -1,0 +1,64 @@
+*	Equiv T5 T7
+*	Equiv T6 T8
+*	Equiv T10 T11
+T58	Acetylation 0 11	Acetylation
+E1	Acetylation:T58 Theme:T2 Site:T1
+T59	Positive_regulation 39 48	catalyzed
+E2	Positive_regulation:T59 Cause:T3 Theme:E1
+T60	Regulation 63 72	regulated
+E3	Regulation:T60 Cause:T4 Theme:E1
+T61	Acetylation 137 148	acetylation
+E4	Acetylation:T61 Theme:T5 Site:T6
+T62	Positive_regulation 185 194	catalyzed
+E5	Positive_regulation:T62 Theme:E4 Cause:T9
+E6	Positive_regulation:T62 Theme:E4 Cause:T12
+E7	Positive_regulation:T62 Theme:E4 Cause:T14
+T63	Inactivation 365 372	lacking
+E8	Inactivation:T63 Theme:T15
+T64	Regulation 451 460	regulates
+E9	Regulation:T64 Theme:E10 Cause:T16
+T65	Acetylation 461 472	acetylation
+E10	Acetylation:T65 Theme:T17 Site:T18
+T66	Negative_regulation 491 495	loss
+E11	Negative_regulation:T66 Theme:E12
+T67	Acetylation 506 517	acetylation
+E12	Acetylation:T67 Theme:T19 Site:T20
+T68	Acetylation 619 629	acetylates
+E13	Acetylation:T68 Theme:T23 Site:T24 Cause:T22
+E14	Acetylation:T68 Theme:T23 Site:T24 Cause:T21
+T69	Binding 660 669	complexed
+E15	Binding:T69 Theme:T25 Theme2:T27
+E16	Binding:T69 Theme:T26 Theme2:T27
+E17	Binding:T69 Theme:T28 Theme2:T25
+E18	Binding:T69 Theme:T28 Theme2:T26
+M1	Negation E17
+M2	Negation E18
+T70	Acetylation 764 775	acetylation
+E19	Acetylation:T70 Theme:T30 Site:T31 Cause:T29
+T71	Binding 839 848	interacts
+E20	Binding:T71 Theme:T32 Theme2:T35
+E21	Binding:T71 Theme:T33 Theme2:T32
+E22	Binding:T71 Theme:T34 Theme2:T32
+M3	Negation E20
+T72	Binding 904 915	interaction
+E23	Binding:T72 Theme:T36
+T73	Positive_regulation 924 933	dependent
+E24	Positive_regulation:T73 Theme:E23 Cause:E25
+T74	Binding 960 964	bind
+E25	Binding:T74 Theme:T38 Theme2:T37
+T75	Positive_regulation 1067 1076	dependent
+E26	Positive_regulation:T75 Cause:T41 Theme:T42
+T76	Regulation 1140 1149	regulates
+E27	Regulation:T76 Cause:T45 Theme:E28
+T77	Acetylation 1157 1168	acetylation
+E28	Acetylation:T77 Theme:T46 Site:T47
+T78	Acetylation 1223 1234	acetylation
+E29	Acetylation:T78 Theme:T46
+T79	Gene_expression 1334 1344	expressing
+E30	Gene_expression:T79 Theme:T52
+T80	Regulation 1665 1669	role
+E31	Regulation:T80 Theme:T55
+T81	Regulation 1685 1695	regulation
+E32	Regulation:T81 Theme:E33 Cause:E31
+T82	Acetylation 1706 1717	acetylation
+E33	Acetylation:T82 Theme:T56

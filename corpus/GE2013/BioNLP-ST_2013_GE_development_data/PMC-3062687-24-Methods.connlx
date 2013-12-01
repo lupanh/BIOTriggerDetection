@@ -1,0 +1,20 @@
+1	Cell	_	NN	_	_	2	NMOD	_	_
+2	Infections	_	NNS	_	_	0	ROOT	_	_
+		
+1	HeLa	_	NN	_	_	2	NMOD	_	_
+2	cells	_	NNS	_	_	3	VMOD	_	_
+3	were	_	VBD	_	_	0	ROOT	_	_
+4	infected	_	VBN	_	_	3	VC	_	_
+5	with	_	IN	_	_	4	VMOD	_	_
+6	E.	_	FW	_	_	7	AMOD	_	_
+7	coli	_	FW	_	_	8	NMOD	_	_
+8	O157:H7	_	NN	_	_	5	PMOD	_	_
+9	or	_	CC	_	_	8	COORD	_	_
+10	C.	_	NN	_	_	12	NMOD	_	_
+11	rodentium	_	NN	_	_	12	NMOD	_	_
+12	strains	_	NNS	_	_	9	CONJ	_	_
+13	as	_	IN	_	_	4	VMOD	_	_
+14	described	_	VBN	_	_	13	SUB	_	_
+15	previously9	_	RB	_	_	14	VMOD	_	_
+16	.	_	.	_	_	3	P	_	_
+		

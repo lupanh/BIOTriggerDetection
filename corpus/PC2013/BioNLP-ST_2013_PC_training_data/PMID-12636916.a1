@@ -1,0 +1,23 @@
+T1	Gene_or_gene_product 40 46	septin
+T2	Gene_or_gene_product 80 87	Septins
+T3	Gene_or_gene_product 199 206	septins
+T4	Cellular_component 237 240	bud
+T5	Gene_or_gene_product 332 339	septins
+T6	Gene_or_gene_product 361 365	Cla4
+T7	Gene_or_gene_product 369 384	PAK-like kinase
+T8	Gene_or_gene_product 390 394	Gin4
+T9	Gene_or_gene_product 398 404	septin
+T10	Gene_or_gene_product 449 455	septin
+T11	Gene_or_gene_product 456 460	Shs1
+T12	Gene_or_gene_product 461 465	Sep7
+T13	Gene_or_gene_product 480 486	septin
+T14	Gene_or_gene_product 551 555	Rts1
+T15	Cellular_component 559 570	kinetochore
+T16	Complex 604 608	PP2A
+T17	Cellular_component 629 637	bud neck
+T18	Gene_or_gene_product 658 662	Rts1
+T19	Gene_or_gene_product 694 698	Shs1
+T20	Gene_or_gene_product 703 707	rts1
+T21	Complex 725 735	actomyosin
+T22	Gene_or_gene_product 814 821	septins
+T23	Gene_or_gene_product 891 897	septin

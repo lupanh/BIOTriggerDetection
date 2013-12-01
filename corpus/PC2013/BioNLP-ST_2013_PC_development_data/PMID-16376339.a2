@@ -1,0 +1,24 @@
+*	Equiv T2 T3
+T10	Regulation 18 28	regulation
+E1	Regulation:T10 Theme:T1
+T11	Pathway 77 87	Cell cycle
+E2	Pathway:T11 
+T12	Positive_regulation 139 148	dependent
+E3	Positive_regulation:T12 Cause:E4 Theme:E2
+T13	Gene_expression 156 166	expression
+E4	Gene_expression:T13 Theme:T2
+T14	Positive_regulation 345 351	induce
+E5	Positive_regulation:T14 Theme:E6
+T15	Gene_expression 356 366	expression
+E6	Gene_expression:T15 Theme:T5
+T16	Transcription 580 595	mRNA expression
+E7	Transcription:T16 Theme:T6
+T17	Positive_regulation 603 610	induced
+E8	Positive_regulation:T17 Theme:E7
+M1	Negation E8
+T18	Positive_regulation 669 677	elevated
+E9	Positive_regulation:T18 Theme:T7
+T19	Positive_regulation 753 764	consequence
+E10	Positive_regulation:T19 Cause:E9 Theme:T9
+T20	Positive_regulation 798 807	dependent
+E11	Positive_regulation:T20 Cause:T8 Theme:T9

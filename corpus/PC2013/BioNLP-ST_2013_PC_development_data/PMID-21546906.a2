@@ -1,0 +1,78 @@
+*	Equiv T7 T6
+*	Equiv T16 T17
+T31	Acetylation 18 29	acetylation
+E1	Acetylation:T31 Theme:T2
+T32	Regulation 30 39	regulated
+E2	Regulation:T32 Cause:E1 Theme:T1
+T33	Negative_regulation 50 60	suppressor
+E3	Negative_regulation:T33 Cause:T1 Theme:T3
+T34	Positive_regulation 66 74	mediates
+E4	Positive_regulation:T34 Theme:E6 Cause:T1
+T35	Positive_regulation 105 112	induced
+E5	Positive_regulation:T35 Cause:T4 Theme:E6
+T36	Pathway 113 122	apoptosis
+E6	Pathway:T36 
+T37	Positive_regulation 226 232	induce
+E7	Positive_regulation:T37 Theme:E8 Cause:T5
+T38	Pathway 233 242	apoptosis
+E8	Pathway:T38 
+T39	Positive_regulation 357 366	increased
+E9	Positive_regulation:T39 Theme:E10
+T40	Gene_expression 367 377	expression
+E10	Gene_expression:T40 Theme:T6
+T41	Positive_regulation 456 466	implicated
+E11	Positive_regulation:T41 Cause:E9 Theme:E13
+T42	Positive_regulation 485 492	induced
+E12	Positive_regulation:T42 Cause:T8 Theme:E13
+T43	Pathway 493 502	apoptosis
+E13	Pathway:T43 
+T44	Positive_regulation 588 597	increased
+E14	Positive_regulation:T44 Theme:E15
+T45	Gene_expression 603 613	expression
+E15	Gene_expression:T45 Theme:T10
+T46	Positive_regulation 617 625	mediated
+E16	Positive_regulation:T46 Cause:E14 Theme:E17
+T47	Acetylation 637 648	acetylation
+E17	Acetylation:T47 Theme:T12
+T48	Inactivation 678 687	Knockdown
+E18	Inactivation:T48 Theme:T13
+T49	Negative_regulation 696 705	inhibited
+E19	Negative_regulation:T49 Theme:E21 Cause:E18
+T50	Positive_regulation 721 728	induced
+E20	Positive_regulation:T50 Theme:E21 Cause:T14
+T51	Pathway 734 743	apoptosis
+E21	Pathway:T51 
+T52	Negative_regulation 771 780	repressed
+E22	Negative_regulation:T52 Cause:T15 Theme:T16
+T53	Negative_regulation 844 853	abrogated
+E23	Negative_regulation:T53 Cause:E24 Theme:E22
+T54	Inactivation 862 871	knockdown
+E24	Inactivation:T54 Theme:T18
+T55	Gene_expression 892 906	overexpression
+E25	Gene_expression:T55 Theme:T19
+T56	Negative_regulation 907 917	suppressed
+E26	Negative_regulation:T56 Cause:E25 Theme:T20
+T57	Negative_regulation 986 994	inhibits
+E27	Negative_regulation:T57 Theme:T22 Cause:E28
+T58	Binding 1017 1028	interacting
+E28	Binding:T58 Theme:T23 Theme2:T21
+T59	Negative_regulation 1075 1085	suppresses
+E29	Negative_regulation:T59 Cause:E28 Theme:E31
+E30	Negative_regulation:T59 Cause:E28 Theme:E32
+T60	Phosphorylation 1090 1105	phosphorylation
+E31	Phosphorylation:T60 Theme:T24 Site:T25
+E32	Phosphorylation:T60 Theme:T24 Site:T26
+T61	Acetylation 1190 1201	acetylation
+E33	Acetylation:T61 Theme:T28
+T62	Regulation 1202 1211	regulated
+E34	Regulation:T62 Cause:E33 Theme:T27
+T63	Negative_regulation 1212 1222	suppressor
+E35	Negative_regulation:T63 Theme:T29 Cause:T27
+T64	Positive_regulation 1246 1253	induced
+E36	Positive_regulation:T64 Cause:E39 Theme:T27
+T65	Positive_regulation 1258 1268	implicated
+E37	Positive_regulation:T65 Theme:E39 Cause:E35
+T66	Positive_regulation 1287 1295	mediated
+E38	Positive_regulation:T66 Theme:E39 Cause:T30
+T67	Pathway 1304 1313	apoptosis
+E39	Pathway:T67 

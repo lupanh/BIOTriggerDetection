@@ -1,0 +1,15 @@
+*	Equiv T4 T5
+T26	Negative_regulation 76 83	reduced
+E1	Negative_regulation:T26 Theme:E2 Cause:T1
+T27	Regulation 84 95	sensitivity
+E2	Regulation:T27 Theme:T2
+T28	Conversion 130 140	generation
+E3	Conversion:T28 Product:T3
+T29	Phosphorylation 1105 1119	phosphorylates
+E4	Phosphorylation:T29 Theme:T14
+E5	Phosphorylation:T29 Theme:T15
+T30	Phosphorylation 1267 1282	phosphorylation
+E6	Phosphorylation:T30 Theme:T19
+T31	Negative_regulation 1425 1432	inhibit
+E7	Negative_regulation:T31 Theme:T23 Cause:T21
+E8	Negative_regulation:T31 Theme:T23 Cause:T22

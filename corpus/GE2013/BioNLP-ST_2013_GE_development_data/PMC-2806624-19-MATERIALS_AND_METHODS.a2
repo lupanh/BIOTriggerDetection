@@ -1,0 +1,3 @@
+T6	Gene_expression 60 73	protein level
+E1	Gene_expression:T6 Theme:T1
+E2	Gene_expression:T6 Theme:T2

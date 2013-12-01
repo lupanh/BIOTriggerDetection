@@ -1,0 +1,53 @@
+T1	Protein 3 14	erleukin-10
+T2	Protein 16 21	IL-10
+T3	Protein 157 162	IL-10
+T4	Protein 434 439	IL-10
+T5	Protein 991 994	CD4
+T6	Protein 1000 1003	CD8
+T7	Protein 1029 1032	CD4
+T8	Protein 1060 1076	interferon-gamma
+T9	Protein 1078 1087	IFN-gamma
+T10	Protein 1093 1098	IL-10
+T11	Protein 1178 1183	IL-12
+T12	Protein 1336 1345	IFN-gamma
+T13	Protein 1350 1355	IL-10
+T14	Protein 1479 1484	IL-10
+T15	Protein 1817 1822	IL-10
+T16	Protein 1827 1836	IFN-gamma
+T17	Protein 2254 2311	signal transducer and activator of transcription (STAT)1 
+T18	Protein 2334 2344	type I IFN
+T19	Protein 2348 2357	IFN-gamma
+T20	Protein 2384 2392	T-box 21
+T21	Protein 2394 2399	T-bet
+T22	Protein 2406 2411	IL-12
+T23	Protein 2420 2425	STAT4
+T24	Protein 2459 2464	IL-18
+T25	Protein 2473 2477	IRAK
+T26	Protein 2543 2552	IFN-gamma
+T27	Protein 2669 2673	IL-4
+T28	Protein 2675 2679	IL-5
+T29	Protein 2685 2690	IL-13
+T30	Protein 2701 2705	IL-4
+T31	Protein 2707 2712	STAT6
+T32	Protein 2743 2772	GATA binding protein (GATA)-3
+T33	Protein 2841 2845	IL-6
+T34	Protein 2847 2855	TGF-beta
+T35	Protein 2865 2870	STAT3
+T36	Protein 2920 2929	RORgammat
+T37	Protein 3318 3327	IFN-gamma
+T38	Protein 3335 3340	IL-12
+T39	Protein 3401 3405	ERK1
+T40	Protein 3410 3414	ERK2
+T41	Protein 3451 3455	IL-4
+T42	Protein 3790 3795	IL-10
+T43	Protein 3974 3979	IL-10
+T44	Protein 4138 4143	IL-10
+T45	Protein 4175 4178	CD4
+T46	Protein 4197 4202	IL-12
+T47	Protein 4211 4216	STAT4
+T48	Protein 4285 4289	ERK1
+T49	Protein 4294 4298	ERK2
+T50	Protein 4358 4362	ERK1
+T51	Protein 4367 4371	ERK2
+T52	Protein 4407 4412	IL-10
+T53	Protein 4494 4499	IL-10

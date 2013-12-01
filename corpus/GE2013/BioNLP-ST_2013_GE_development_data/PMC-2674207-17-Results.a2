@@ -1,0 +1,29 @@
+T10	Binding 41 44	for
+T11	Positive_regulation 125 134	activated
+T12	Positive_regulation 156 160	uses
+T13	Entity 184 191	nuclear
+T14	Localization 192 198	import
+T15	Entity 364 371	nuclear
+T16	Localization 372 385	translocation
+T17	Negative_regulation 523 532	decreased
+T18	Binding 537 548	association
+T19	Positive_regulation 583 590	induced
+T20	Regulation 639 648	dependent
+T21	Entity 760 767	nuclear
+T22	Localization 768 774	import
+T23	Positive_regulation 775 784	following
+T24	Negative_regulation 826 836	attenuated
+E1	Binding:T10 Theme:T2
+E2	Positive_regulation:T11 Theme:T3
+E3	Positive_regulation:T12 Theme:E4
+E4	Localization:T14 Theme:T3 ToLoc:T13
+E5	Positive_regulation:T12 Theme:E6
+E6	Localization:T14 Theme:T4 ToLoc:T13
+E7	Localization:T16 Theme:T6 ToLoc:T15
+E8	Negative_regulation:T17 Theme:E9
+E9	Binding:T18 Theme:T7
+E10	Positive_regulation:T19 Theme:E9
+E11	Regulation:T20 Theme:E8
+E12	Localization:T22 Theme:T9 ToLoc:T21
+E13	Positive_regulation:T23 Theme:E12
+E14	Negative_regulation:T24 Theme:E12

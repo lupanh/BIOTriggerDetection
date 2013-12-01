@@ -1,0 +1,63 @@
+T32	Pathway 88 95	pathway
+E1	Pathway:T32 Participant:T3
+T33	Pathway 102 111	signaling
+E2	Pathway:T33 Participant:T4
+T34	Positive_regulation 173 183	Activation
+E3	Positive_regulation:T34 Theme:E4
+T35	Pathway 195 202	pathway
+E4	Pathway:T35 Participant:T5
+T36	Regulation 214 227	stabilization
+E5	Regulation:T36 Theme:T6 Cause:E3
+T37	Regulation 327 338	coordinates
+E6	Regulation:T37 Theme:E7 Cause:T7
+T38	Degradation 352 363	degradation
+E7	Degradation:T38 Theme:T8
+T39	Degradation 375 383	degraded
+E8	Degradation:T39 Theme:T7
+T40	Positive_regulation 412 420	required
+E9	Positive_regulation:T40 Theme:E10
+T41	Positive_regulation 425 436	transducing
+E10	Positive_regulation:T41 Theme:E11
+T42	Pathway 443 449	signal
+E11	Pathway:T42 Participant:T9
+T43	Pathway 509 516	pathway
+E12	Pathway:T43 Participant:T9
+T44	Pathway 596 603	pathway
+E13	Pathway:T44 Participant:T10
+T45	Binding 623 635	interactions
+E14	Binding:T45 Theme:T12
+E15	Binding:T45 Theme:T14
+E16	Binding:T45 Theme:T15
+E17	Binding:T45 Theme:T16
+E18	Binding:T45 Theme:T17
+E19	Binding:T45 Theme:T18
+E20	Binding:T45 Theme:T11
+E21	Binding:T45 Theme:T13
+T46	Positive_regulation 1214 1225	stimulation
+E22	Positive_regulation:T46 Theme:E25 Cause:T19
+E23	Positive_regulation:T46 Theme:E24 Cause:T19
+T47	Degradation 1251 1259	turnover
+E24	Degradation:T47 Theme:T20
+E25	Degradation:T47 Theme:T21
+T48	Pathway 1308 1315	pathway
+E26	Pathway:T48 Participant:T22
+T49	Degradation 1580 1591	degradation
+E27	Degradation:T49 Theme:T25
+T50	Positive_regulation 1595 1605	amplifying
+E28	Positive_regulation:T50 Cause:E27 Theme:E30
+T51	Positive_regulation 1610 1620	sharpening
+E29	Positive_regulation:T51 Theme:E30 Cause:E27
+T52	Pathway 1629 1635	signal
+E30	Pathway:T52 Participant:T26
+T53	Positive_regulation 1658 1668	dependence
+E31	Positive_regulation:T53 Theme:E32 Cause:T28
+T54	Degradation 1677 1688	degradation
+E32	Degradation:T54 Theme:T27
+T55	Negative_regulation 1758 1766	prevents
+E33	Negative_regulation:T55 Theme:E34
+T56	Positive_regulation 1771 1783	accumulation
+E34	Positive_regulation:T56 Theme:T29
+T57	Negative_regulation 1803 1812	decreased
+E35	Negative_regulation:T57 Theme:T30
+T58	Pathway 1963 1970	pathway
+E36	Pathway:T58 Participant:T31

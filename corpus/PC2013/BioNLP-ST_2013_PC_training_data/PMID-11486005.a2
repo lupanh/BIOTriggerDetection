@@ -1,0 +1,51 @@
+T33	Regulation 0 10	Regulation
+E1	Regulation:T33 Theme:T1
+T34	Activation 27 37	Activation
+E2	Activation:T34 Theme:T1
+T35	Positive_regulation 38 46	requires
+E3	Positive_regulation:T35 Theme:E2 Cause:E4
+T36	Phosphorylation 47 62	phosphorylation
+E4	Phosphorylation:T36 Site:T2 Theme:T1 Cause:T3
+T37	Activation 251 260	activated
+E5	Activation:T37 Theme:T4
+T38	Positive_regulation 264 272	response
+E6	Positive_regulation:T38 Theme:E5
+T39	Activation 297 307	Activation
+E7	Activation:T39 Theme:T4
+T40	Positive_regulation 308 316	requires
+E8	Positive_regulation:T40 Theme:E7 Cause:E9
+T41	Phosphorylation 321 336	phosphorylation
+E9	Phosphorylation:T41 Site:T6 Theme:T4
+T42	Phosphorylation 509 523	phosphorylated
+E10	Phosphorylation:T42 Theme:T7 Site:T8
+T43	Phosphorylation 598 613	phosphorylation
+E11	Phosphorylation:T43 Site:T9 Theme:T10
+T44	Regulation 631 641	correlates
+E12	Regulation:T44 Cause:E11 Theme:T10
+T45	Negative_regulation 713 723	limitation
+E13	Negative_regulation:T45 Theme:T11
+T46	Phosphorylation 821 835	phosphorylated
+E14	Phosphorylation:T46 Theme:T13 Site:T14
+T47	Phosphorylation 965 984	autophosphorylation
+E15	Phosphorylation:T47 Site:T16 Theme:T13 Cause:T13
+T48	Phosphorylation 1091 1106	phosphorylation
+E16	Phosphorylation:T48 Theme:T19 Site:T20
+T49	Positive_regulation 1195 1202	induced
+E17	Positive_regulation:T49 Theme:E18
+T50	Phosphorylation 1203 1218	phosphorylation
+E18	Phosphorylation:T50 Theme:T22
+T51	Regulation 1262 1268	target
+E19	Regulation:T51 Theme:T23 Cause:T24
+T52	Phosphorylation 1288 1302	phosphorylated
+E20	Phosphorylation:T52 Theme:T23
+T53	Regulation 1464 1474	regulation
+E21	Regulation:T53 Theme:E22
+T54	Phosphorylation 1492 1507	phosphorylation
+E22	Phosphorylation:T54 Site:T29 Theme:T27
+T55	Negative_regulation 1531 1541	limitation
+E23	Negative_regulation:T55 Theme:T30
+T56	Phosphorylation 1560 1573	phosphorylate
+E24	Phosphorylation:T56 Theme:T31
+M1	Negation E24
+T57	Activation 1615 1625	activation
+E25	Activation:T57 Theme:T32

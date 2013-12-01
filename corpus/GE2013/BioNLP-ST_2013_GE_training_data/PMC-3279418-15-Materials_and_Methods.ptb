@@ -1,0 +1,5 @@
+(S1 (S (NP (NP (ADJP (FW In) (FW vitro)) (NN cytokine) (NN secretion)) (PP (IN by) (NP (NN BMDC))))))
+(S1 (S (S (NP (DT The) (NNS BMDC)) (VP (VBD were) (VP (VBN cultured) (PP (IN in) (NP (NP (JJ triplicate) (NNS wells)) (PP (IN of) (NP (NP (NN 24-well)) (CC or) (NP (JJ 96-well) (NNS plates)))))) (PP (IN at) (NP (QP (CD 106) (CC or) (CD 105)) (NNS cells/mL))) (, ,) (ADVP (RB respectively)) (, ,) (PP (IN in) (NP (NN RPMI-1640) (JJ complete) (NN medium)))))) (. .)))
+(S1 (S (S (NP (DT The) (NNS cells)) (VP (VBD were) (VP (VP (VBN washed)) (CC and) (VP (VBN stimulated) (PP (IN with) (NP (NP (ADJP (CD 100) (NN ng/mL)) (NN LPS)) (CC or) (NP (ADJP (CD 25) (NN microg/mL)) (NN poly) (NN I:C)))))))) (. .)))
+(S1 (S (S (PP (IN After) (NP (CD 24) (NNS hours))) (, ,) (NP (NNS supernatants)) (VP (VBD were) (VP (VBN harvested) (PP (IN for) (NP (NN ELISA) (NN analysis)))))) (. .)))
+(S1 (S (S (NP (NP (DT The) (NN presence)) (PP (IN of) (NP (NN nitrite))) (PP (IN in) (NP (DT the) (NNS supernatants)))) (VP (VBD was) (VP (VBN determined) (S (VP (VBG using) (NP (DT the) (NN Griess) (NN reagent))))))) (. .)))

@@ -1,0 +1,41 @@
+*	Equiv T14 T15
+T32	Regulation 3 10	targets
+E1	Regulation:T32 Cause:T1 Theme:E3
+E2	Regulation:T32 Cause:T1 Theme:T3
+T33	Methylation 22 33	methylation
+E3	Methylation:T33 Theme:T2
+T34	Methylation 89 98	methylase
+E4	Methylation:T34 Theme:T5 Cause:T4
+T35	Binding 129 136	binding
+E5	Binding:T35 Theme:T7 Theme2:T6
+T36	Binding 162 170	interact
+E6	Binding:T36 Theme:T7
+T37	Methylation 248 258	methylated
+E7	Methylation:T37 Theme:T9 Cause:T10 Site:T8
+T38	Binding 291 298	binding
+E8	Binding:T38 Theme:T11
+T39	Positive_regulation 389 397	involved
+E9	Positive_regulation:T39 Theme:E11 Cause:T13
+E10	Positive_regulation:T39 Theme:E11 Cause:T12
+T40	Negative_regulation 405 415	repressive
+E11	Negative_regulation:T40 Theme:T14
+T41	Binding 465 475	associates
+E12	Binding:T41 Theme:T16 Theme2:T18
+E13	Binding:T41 Theme:T17 Theme2:T16
+T42	Binding 544 554	cooperates
+E14	Binding:T42 Theme:T19 Theme2:T20
+T43	Negative_regulation 566 573	repress
+E15	Negative_regulation:T43 Theme:T21 Cause:E14
+T44	Negative_regulation 625 634	disrupted
+E16	Negative_regulation:T44 Theme:T22 Cause:T21
+T45	Positive_regulation 712 720	elevated
+E17	Positive_regulation:T45 Theme:T23
+E18	Positive_regulation:T45 Theme:T24
+T46	Positive_regulation 769 778	necessary
+E19	Positive_regulation:T46 Cause:T26 Theme:E20
+T47	Methylation 789 800	methylation
+E20	Methylation:T47 Theme:T27
+T48	Positive_regulation 823 832	necessary
+E21	Positive_regulation:T48 Theme:E22 Cause:T26
+T49	Binding 837 844	binding
+E22	Binding:T49 Theme:T28 Theme2:T29

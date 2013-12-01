@@ -1,0 +1,26 @@
+*	Equiv T3 T4
+*	Equiv T5 T6
+T19	Positive_regulation 18 26	mediated
+E1	Positive_regulation:T19 Cause:T1 Theme:E2
+T20	Positive_regulation 37 47	activation
+E2	Positive_regulation:T20 Theme:E3
+T21	Pathway 56 65	signaling
+E3	Pathway:T21 Participant:T2
+T22	Regulation 309 318	component
+E4	Regulation:T22 Theme:E5 Cause:T5
+T23	Pathway 327 336	signaling
+E5	Pathway:T23 Participant:T7
+T24	Positive_regulation 418 427	dependent
+E6	Positive_regulation:T24 Cause:T8 Theme:E7
+T25	Positive_regulation 428 440	accumulation
+E7	Positive_regulation:T25 Theme:T9
+T26	Binding 533 543	interacted
+E8	Binding:T26 Theme:T11 Theme:T12
+T27	Regulation 576 584	targeted
+E9	Regulation:T27 Cause:T13 Theme:T12
+T28	Binding 608 619	interaction
+E10	Binding:T28 Theme:T12 Theme:T11
+T29	Regulation 704 715	involvement
+E11	Regulation:T29 Cause:T15 Theme:E12
+T30	Pathway 730 739	signaling
+E12	Pathway:T30 Participant:T16

@@ -1,0 +1,39 @@
+T14	Pathway 21 31	cell-cycle
+E1	Pathway:T14 
+T15	Regulation 142 153	controlling
+E2	Regulation:T15 Theme:E3 Cause:T2
+T16	Pathway 169 179	cell cycle
+E3	Pathway:T16 
+T17	Pathway 409 419	cell-cycle
+E4	Pathway:T17 
+T18	Transport 588 597	recruited
+E5	Transport:T18 Theme:T5
+T19	Pathway 618 628	cell-cycle
+E6	Pathway:T19 
+T20	Regulation 629 638	regulated
+E7	Regulation:T20 Cause:E6 Theme:T6
+T21	Regulation 667 674	targets
+E8	Regulation:T21 Theme:T7 Cause:T5
+T22	Phosphorylation 742 757	phosphorylation
+E9	Phosphorylation:T22 Theme:T8 Cause:T5
+T23	Activation 765 776	coactivator
+E10	Activation:T23 Theme:T8
+T24	Phosphorylation 797 812	phosphorylation
+E11	Phosphorylation:T24 Theme:T8
+T25	Positive_regulation 822 830	required
+E12	Positive_regulation:T25 Cause:E11 Theme:E14
+E13	Positive_regulation:T25 Cause:E11 Theme:E15
+T26	Gene_expression 855 865	expression
+E14	Gene_expression:T26 Theme:T9
+E15	Gene_expression:T26 Theme:T10
+T27	Pathway 869 879	cell-cycle
+E16	Pathway:T27 
+T28	Regulation 880 889	regulated
+E17	Regulation:T28 Cause:E16 Theme:T9
+E18	Regulation:T28 Cause:E16 Theme:T10
+T29	Negative_regulation 992 999	absence
+E19	Negative_regulation:T29 Theme:E21
+T30	Positive_regulation 1009 1017	mediated
+E20	Positive_regulation:T30 Theme:E21 Cause:T11
+T31	Phosphorylation 1018 1033	phosphorylation
+E21	Phosphorylation:T31 Theme:T12

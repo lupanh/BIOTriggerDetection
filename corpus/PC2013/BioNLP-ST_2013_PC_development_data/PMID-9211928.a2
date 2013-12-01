@@ -1,0 +1,26 @@
+*	Equiv T4 T5
+T23	Positive_regulation 51 59	catalyze
+E1	Positive_regulation:T23 Cause:T1 Theme:E2
+T24	Conversion 64 73	synthesis
+E2	Conversion:T24 Product:T3
+T25	Conversion 195 202	utilize
+T26	Positive_regulation 195 202	utilize
+E3	Conversion:T25 Product:T8 Theme:T6
+E4	Positive_regulation:T26 Theme:E3 Cause:T4
+T27	Phosphorylation 348 361	phosphorylate
+E5	Phosphorylation:T27 Cause:T9 Theme:T10
+T28	Conversion 540 547	convert
+T29	Positive_regulation 540 547	convert
+E6	Conversion:T28 Theme:T13 Product:T14
+E7	Positive_regulation:T29 Theme:E6 Cause:T9
+T30	Positive_regulation 821 831	synthesize
+T31	Conversion 821 831	synthesize
+E8	Positive_regulation:T30 Cause:T17 Theme:E11
+E9	Positive_regulation:T30 Cause:T17 Theme:E10
+E10	Conversion:T31 Product:T18
+E11	Conversion:T31 Product:T20
+T32	Positive_regulation 985 997	participants
+E12	Positive_regulation:T32 Cause:T21 Theme:E13
+M1	Speculation E12
+T33	Conversion 1005 1015	generation
+E13	Conversion:T33 Product:T22

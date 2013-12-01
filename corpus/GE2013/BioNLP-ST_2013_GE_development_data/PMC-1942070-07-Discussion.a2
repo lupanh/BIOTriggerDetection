@@ -1,0 +1,15 @@
+T7	Entity 18 24	serine
+T8	Regulation 55 63	regulate
+T6	Anaphora 64 90	diverse cellular functions
+T9	Phosphorylation 172 187	phosphorylation
+T10	Regulation 996 1006	regulating
+T11	Phosphorylation 1011 1026	phosphorylation
+T12	Entity 1039 1048	serine 82
+T13	Regulation 1084 1090	target
+R1	Coreference Subject:T6 Object:T9
+E1	Regulation:T8 Theme:E2
+E2	Phosphorylation:T9 Theme:T1 Site:T7
+E3	Regulation:T10 Theme:E4
+E4	Phosphorylation:T11 Theme:T2 Site:T12
+E5	Regulation:T13 Theme:T2 Site:T12
+M1	Speculation E1

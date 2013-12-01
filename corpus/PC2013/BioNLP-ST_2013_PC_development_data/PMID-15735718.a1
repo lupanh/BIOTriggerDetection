@@ -1,0 +1,43 @@
+T1	Gene_or_gene_product 13 16	p21
+T2	Gene_or_gene_product 20 23	p53
+T3	Gene_or_gene_product 59 63	Cdk4
+T4	Gene_or_gene_product 68 72	Cdk2
+T5	Gene_or_gene_product 117 120	p53
+T6	Gene_or_gene_product 121 124	p21
+T7	Gene_or_gene_product 220 223	p21
+T8	Gene_or_gene_product 237 240	p53
+T9	Gene_or_gene_product 250 254	Cdk2
+T10	Gene_or_gene_product 325 329	Cdk4
+T11	Simple_chemical 342 400	Diaminocyclohexane(trans-diacetato)(dichloro) platinum(IV)
+T12	Simple_chemical 402 405	DAP
+T13	Simple_chemical 410 418	platinum
+T14	Simple_chemical 553 562	cisplatin
+T15	Simple_chemical 671 674	DAP
+T16	Gene_or_gene_product 751 755	Cdk4
+T17	Gene_or_gene_product 760 764	Cdk2
+T18	Simple_chemical 802 805	DAP
+T19	Gene_or_gene_product 852 855	p53
+T20	Gene_or_gene_product 856 859	p21
+T21	Gene_or_gene_product 923 927	Cdk4
+T22	Gene_or_gene_product 932 936	Cdk2
+T23	Gene_or_gene_product 961 964	p21
+T24	Complex 983 996	Cdk4/cyclin D
+T25	Complex 1001 1014	Cdk2/cyclin E
+T26	Gene_or_gene_product 1097 1100	p21
+T27	Simple_chemical 1114 1127	cycloheximide
+T28	Gene_or_gene_product 1134 1137	p21
+T29	Simple_chemical 1161 1164	DAP
+T30	Gene_or_gene_product 1187 1191	Cdk4
+T31	Gene_or_gene_product 1196 1200	Cdk2
+T32	Gene_or_gene_product 1224 1227	p53
+T33	Gene_or_gene_product 1243 1246	p21
+T34	Simple_chemical 1273 1276	DAP
+T35	Gene_or_gene_product 1321 1325	Cdk4
+T36	Gene_or_gene_product 1330 1334	Cdk2
+T37	Gene_or_gene_product 1405 1408	p53
+T38	Gene_or_gene_product 1409 1412	p21
+T39	Simple_chemical 1444 1447	DAP
+T40	Gene_or_gene_product 1529 1532	p21
+T41	Gene_or_gene_product 1546 1549	p53
+T42	Gene_or_gene_product 1623 1627	Cdk4
+T43	Gene_or_gene_product 1632 1636	Cdk2

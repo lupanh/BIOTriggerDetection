@@ -1,0 +1,37 @@
+*	Equiv T3 T4
+T13	Phosphorylation 8 23	phosphorylation
+T14	Regulation 24 33	regulates
+T15	Entity 39 46	nuclear
+T16	Localization 47 60	translocation
+T17	Entity 310 317	nuclear
+T18	Localization 318 331	translocation
+T19	Regulation 335 344	regulated
+T20	Phosphorylation 374 389	phosphorylation
+T21	Entity 393 403	serine 209
+T22	Positive_regulation 415 422	crucial
+T23	Entity 432 439	nuclear
+T24	Localization 440 452	localization
+T25	Positive_regulation 453 467	in response to
+T26	Positive_regulation 468 478	activating
+T27	Negative_regulation 583 592	inhibited
+T28	Entity 598 602	S209
+T29	Phosphorylation 603 618	phosphorylation
+T30	Negative_regulation 623 630	blocked
+T31	Regulation 784 793	dependent
+T32	Protein_modification 794 806	modification
+E1	Phosphorylation:T13 Theme:T1
+E2	Regulation:T14 Theme:E3 Cause:E1
+E3	Localization:T16 Theme:T2 ToLoc:T15
+E4	Localization:T18 Theme:T5 ToLoc:T17
+E5	Regulation:T19 Theme:E4
+E6	Phosphorylation:T20 Theme:T6 Site:T21
+E7	Positive_regulation:T22 Theme:E8 Cause:E6
+E8	Positive_regulation:T25 Theme:E9 Cause:E10
+E9	Localization:T24 Theme:T7 ToLoc:T23
+E10	Positive_regulation:T26 Theme:T7
+E11	Negative_regulation:T27 Theme:E12 Cause:T8
+E12	Phosphorylation:T29 Theme:T9 Site:T28
+E13	Negative_regulation:T30 Theme:T10 Cause:E11
+E14	Regulation:T31 Theme:E15 Cause:T11
+E15	Protein_modification:T32 Theme:T12
+M1	Speculation E5

@@ -1,0 +1,30 @@
+*	Equiv T35 T36
+*	Equiv T37 T38
+T41	Positive_regulation 17 26	essential
+E1	Positive_regulation:T41 Theme:E3 Cause:T1
+E2	Positive_regulation:T41 Theme:E3 Cause:T2
+T42	Binding 42 52	attachment
+E3	Binding:T42 Theme:T3
+T43	Binding 66 80	form a complex
+E4	Binding:T43 Theme2:T1 Theme:T5
+E5	Binding:T43 Theme:T2 Theme2:T5
+E6	Binding:T43 Theme:T1 Theme2:T4
+E7	Binding:T43 Theme:T2 Theme2:T4
+T44	Positive_regulation 237 245	mediates
+E8	Positive_regulation:T44 Theme:E9 Cause:T10
+T45	Binding 250 259	anchoring
+E9	Binding:T45 Theme:T11
+T46	Binding 930 952	form a protein complex
+E10	Binding:T46 Theme:T30 Theme2:T28
+E11	Binding:T46 Theme:T29 Theme2:T31
+E12	Binding:T46 Theme:T28 Theme2:T31
+E13	Binding:T46 Theme:T29 Theme2:T30
+T47	Binding 1002 1009	complex
+E14	Binding:T47 Theme:T32 Theme2:T33
+E15	Binding:T47 Theme:T32 Theme2:T34
+T48	Regulation 1013 1024	stabilizing
+E16	Regulation:T48 Cause:T32 Theme:E18
+E17	Regulation:T48 Cause:T32 Theme:E19
+T49	Gene_expression 1029 1039	expression
+E18	Gene_expression:T49 Theme:T33
+E19	Gene_expression:T49 Theme:T34

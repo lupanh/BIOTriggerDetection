@@ -1,0 +1,25 @@
+T1	Gene_or_gene_product 19 24	Raf-1
+T2	Gene_or_gene_product 28 50	p21-activated kinase 1
+T3	Gene_or_gene_product 55 58	Src
+T4	Gene_or_gene_product 69 74	Raf-1
+T5	Gene_or_gene_product 151 156	Raf-1
+T6	Gene_or_gene_product 226 229	Ras
+T7	Gene_or_gene_product 352 357	Raf-1
+T8	Gene_or_gene_product 493 498	Raf-1
+T9	Gene_or_gene_product 528 567	extracellular signal-regulated kinase 2
+T10	Gene_or_gene_product 586 591	Raf-1
+T11	Gene_or_gene_product 666 671	Raf-1
+T12	Simple_chemical 675 685	serine 338
+T13	Gene_or_gene_product 689 693	PAK1
+T14	Simple_chemical 698 711	tyrosines 340
+T15	Simple_chemical 716 719	341
+T16	Gene_or_gene_product 723 726	Src
+T17	Gene_or_gene_product 822 827	Raf-1
+T18	Simple_chemical 923 936	threonine 491
+T19	Simple_chemical 941 951	serine 494
+T20	Gene_or_gene_product 1025 1030	Raf-1
+T21	Gene_or_gene_product 1143 1148	Raf-1
+T22	Gene_or_gene_product 1216 1221	Raf-1
+T23	Simple_chemical 1274 1284	serine 338
+T24	Simple_chemical 1289 1302	tyrosines 340
+T25	Simple_chemical 1307 1310	341

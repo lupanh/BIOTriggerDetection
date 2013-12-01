@@ -1,0 +1,4 @@
+T10	Negative_regulation 260 266	siRNAs
+T11	Negative_regulation 330 336	siRNAs
+E1	Negative_regulation:T10 Theme:T3
+E2	Negative_regulation:T11 Theme:T4

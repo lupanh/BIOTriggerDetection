@@ -1,0 +1,14 @@
+*	Equiv T4 T5
+T22	Phosphorylation 74 89	phosphorylation
+E1	Phosphorylation:T22 Site:T2 Theme:T1
+E2	Phosphorylation:T22 Site:T3 Theme:T1
+T23	Binding 194 201	binding
+E3	Binding:T23 Theme:T4
+T24	Gene_expression 396 410	overexpression
+E4	Gene_expression:T24 Theme:T10
+T25	Phosphorylation 498 512	phosphorylated
+E5	Phosphorylation:T25 Theme:T11 Site:T12
+E6	Phosphorylation:T25 Theme:T11 Site:T13
+T26	Phosphorylation 888 903	phosphorylation
+E7	Phosphorylation:T26 Theme:T21 Site:T19
+E8	Phosphorylation:T26 Theme:T21 Site:T20

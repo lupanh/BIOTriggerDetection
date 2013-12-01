@@ -1,0 +1,23 @@
+*	Equiv T11 T12
+T22	Transport 161 169	absorbed
+E1	Transport:T22 Theme:T4
+T23	Transport 237 245	absorbed
+E2	Transport:T23 Theme:T7
+T24	Transport 468 478	absorption
+E3	Transport:T24 Theme:T9
+T25	Positive_regulation 610 618	mediates
+E4	Positive_regulation:T25 Cause:T11 Theme:E5
+T26	Transport 624 630	uptake
+E5	Transport:T26 Theme:T15
+T27	Transcription 711 720	expressed
+E6	Transcription:T27 Theme:T16
+T28	Regulation 737 746	regulated
+E7	Regulation:T28 Theme:T16
+T29	Regulation 782 791	regulated
+E8	Regulation:T29 Cause:T18 Theme:T17
+T30	Localization 796 805	localized
+T31	Positive_regulation 796 805	localized
+E9	Localization:T30 Theme:T17
+E10	Positive_regulation:T31 Theme:E9 Cause:E11
+T32	Inactivation 867 877	deficiency
+E11	Inactivation:T32 Theme:T19

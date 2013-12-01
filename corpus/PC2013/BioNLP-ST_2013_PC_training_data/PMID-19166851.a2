@@ -1,0 +1,18 @@
+T16	Regulation 19 28	modulator
+E1	Regulation:T16 Cause:T1 Theme:E2
+T17	Pathway 50 59	signaling
+E2	Pathway:T17 Participant:T2 Participant2:T3
+T18	Transport 80 88	secreted
+E3	Transport:T18 Theme:T4
+T19	Binding 211 218	binding
+E4	Binding:T19 Theme:T5
+T20	Regulation 251 260	regulator
+E5	Regulation:T20 Theme:E6 Cause:T5
+T21	Pathway 278 287	signaling
+E6	Pathway:T21 Participant:T6
+T22	Regulation 535 543	regulate
+E7	Regulation:T22 Theme:T11 Cause:E8
+T23	Regulation 584 594	modulating
+E8	Regulation:T23 Cause:T10 Theme:E9
+T24	Binding 618 635	complex formation
+E9	Binding:T24 Theme:T12 Theme2:T13

@@ -1,0 +1,19 @@
+T1	Gene_or_gene_product 0 4	Rec8
+T2	Complex 69 77	cohesins
+T3	Complex 107 115	cohesins
+T4	Cellular_component 152 162	chromatids
+T5	Cellular_component 187 198	chromosomes
+T6	Complex 230 238	cohesins
+T7	Cellular_component 244 259	chromosome arms
+T8	Cellular_component 288 299	chromosomes
+T9	Complex 344 352	cohesins
+T10	Cellular_component 440 450	chromatids
+T11	Complex 493 500	cohesin
+T12	Gene_or_gene_product 509 513	Rec8
+T13	Complex 539 546	cohesin
+T14	Cellular_component 619 629	chromosome
+T15	Complex 647 654	cohesin
+T16	Gene_or_gene_product 665 669	Sgo1
+T17	Complex 736 744	cohesins
+T18	Cellular_component 787 797	chromosome
+T19	Cellular_component 929 939	chromosome

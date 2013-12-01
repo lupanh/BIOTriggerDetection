@@ -1,0 +1,48 @@
+*	Equiv T2 T3
+*	Equiv T9 T10
+T36	Positive_regulation 20 27	induces
+E1	Positive_regulation:T36 Theme:E2
+T37	Activation 45 55	activation
+E2	Activation:T37 Theme:T1
+T38	Negative_regulation 236 246	inhibition
+E3	Negative_regulation:T38 Theme:T4
+T39	Positive_regulation 247 252	leads
+E4	Positive_regulation:T39 Theme:E5
+T40	Negative_regulation 288 298	inhibition
+E5	Negative_regulation:T40 Theme:E6
+T41	Pathway 330 339	apoptosis
+E6	Pathway:T41 
+T42	Activation 547 556	activated
+E7	Activation:T42 Theme:T6 Cause:E8
+T43	Negative_regulation 571 581	inhibition
+E8	Negative_regulation:T43 Theme:T7
+T44	Negative_regulation 601 611	inhibition
+E9	Negative_regulation:T44 Theme:T8 Cause:T10
+T45	Positive_regulation 659 667	resulted
+E10	Positive_regulation:T45 Theme:E11 Cause:E9
+T46	Negative_regulation 691 699	decrease
+E11	Negative_regulation:T46 Theme:T12
+T47	Activation 761 770	activated
+T48	Positive_regulation 761 770	activated
+E12	Activation:T47 Theme:T13 Cause:T14
+E13	Positive_regulation:T48 Cause:E14 Theme:E12
+T49	Degradation 791 802	degradation
+E14	Degradation:T49 Theme:T15
+T50	Negative_regulation 810 820	inhibitory
+E15	Negative_regulation:T50 Cause:T15 Theme:T13
+T51	Transport 850 860	sequesters
+T52	Positive_regulation 850 860	sequesters
+E16	Transport:T51 FromLoc:T17 Theme:T16
+E17	Positive_regulation:T52 Cause:T15 Theme:E16
+T53	Positive_regulation 899 906	induced
+E18	Positive_regulation:T53 Cause:T18 Theme:T19
+T54	Positive_regulation 992 999	induced
+E19	Positive_regulation:T54 Cause:T23 Theme:E20
+T55	Activation 1011 1021	activation
+E20	Activation:T55 Theme:T24
+T56	Localization 1045 1058	translocation
+E21	Localization:T56 Theme:T25 FromLoc:T26 ToLoc:T27
+T57	Negative_regulation 1365 1375	inhibition
+E22	Negative_regulation:T57 Theme:T34
+T58	Activation 1376 1385	activates
+E23	Activation:T58 Cause:E22 Theme:T35

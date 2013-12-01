@@ -1,0 +1,37 @@
+*	Equiv T5 T6
+T28	Conversion 171 180	generated
+E1	Conversion:T28 Product:T3
+T29	Pathway 328 333	cycle
+E2	Pathway:T29 Participant:T8 Participant2:T9
+T30	Conversion 427 437	hydrolyzes
+E3	Conversion:T30 Theme:T11 Product:T12
+T31	Ubiquitination 485 497	ubiquitously
+E4	Ubiquitination:T31 Theme:T13
+T32	Gene_expression 498 507	expressed
+E5	Gene_expression:T32 Theme:T13
+T33	Positive_regulation 616 624	requires
+E6	Positive_regulation:T33 Theme:T13 Cause:T16
+T34	Conversion 659 669	hydrolyzes
+T35	Positive_regulation 659 669	hydrolyzes
+E7	Conversion:T34 Theme:T17
+E8	Conversion:T34 Theme:T20
+E9	Positive_regulation:T35 Cause:T13 Theme:E8
+E10	Conversion:T34 Theme:T22
+E11	Conversion:T34 Theme:T23
+E12	Conversion:T34 Theme:T21
+E13	Conversion:T34 Theme:T18
+E14	Conversion:T34 Theme:T19
+E15	Positive_regulation:T35 Cause:T13 Theme:E7
+E16	Positive_regulation:T35 Cause:T13 Theme:E10
+E17	Positive_regulation:T35 Cause:T13 Theme:E11
+E18	Positive_regulation:T35 Cause:T13 Theme:E12
+E19	Positive_regulation:T35 Cause:T13 Theme:E13
+E20	Positive_regulation:T35 Cause:T13 Theme:E14
+M1	Negation E8
+M2	Negation E10
+M3	Negation E11
+M4	Negation E12
+T36	Negative_regulation 776 787	eliminating
+E21	Negative_regulation:T36 Theme:T24 Cause:T13
+T37	Negative_regulation 805 815	inhibitory
+E22	Negative_regulation:T37 Cause:T24 Theme:T26

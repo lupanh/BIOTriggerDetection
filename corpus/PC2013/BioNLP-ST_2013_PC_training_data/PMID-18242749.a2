@@ -1,0 +1,21 @@
+*	Equiv T3 T4
+T16	Positive_regulation 9 18	induction
+E1	Positive_regulation:T16 Theme:T1
+T17	Positive_regulation 167 174	induced
+E2	Positive_regulation:T17 Theme:T3
+T18	Localization 342 354	distribution
+E3	Localization:T18 Theme:T6
+T19	Gene_expression 444 454	expression
+E4	Gene_expression:T19 Theme:T8
+T20	Positive_regulation 468 475	induced
+E5	Positive_regulation:T20 Theme:E4
+T21	Gene_expression 697 706	expressed
+E6	Gene_expression:T21 Theme:T8
+T22	Positive_regulation 845 852	induced
+E7	Positive_regulation:T22 Cause:T10 Theme:E8
+T23	Gene_expression 860 870	expression
+E8	Gene_expression:T23 Theme:T11
+T24	Positive_regulation 1021 1030	induction
+E9	Positive_regulation:T24 Theme:T12
+T25	Gene_expression 1286 1296	expression
+E10	Gene_expression:T25 Theme:T14

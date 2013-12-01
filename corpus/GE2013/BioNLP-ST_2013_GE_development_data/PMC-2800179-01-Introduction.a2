@@ -1,0 +1,15 @@
+T5	Gene_expression 1292 1302	production
+T6	Positive_regulation 1357 1360	via
+T7	Positive_regulation 2659 2668	increased
+T8	Gene_expression 2676 2686	expression
+T9	Positive_regulation 2742 2752	stimulated
+T10	Gene_expression 2763 2773	expression
+T11	Localization 2778 2787	secretion
+E1	Gene_expression:T5 Theme:T1
+E2	Positive_regulation:T6 Theme:E1
+E3	Positive_regulation:T7 Theme:E4
+E4	Gene_expression:T8 Theme:T2
+E5	Positive_regulation:T9 Theme:E6
+E6	Gene_expression:T10 Theme:T4
+E7	Positive_regulation:T9 Theme:E8
+E8	Localization:T11 Theme:T4

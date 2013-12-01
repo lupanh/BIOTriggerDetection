@@ -1,0 +1,17 @@
+T5	Positive_regulation 37 45	increase
+T6	Gene_expression 55 65	production
+T7	Regulation 252 258	alters
+T8	Gene_expression 268 278	production
+T9	Regulation 469 474	alter
+T10	Gene_expression 492 502	production
+T11	Gene_expression 571 581	production
+E1	Positive_regulation:T5 Theme:E2
+E2	Gene_expression:T6 Theme:T1
+E3	Regulation:T7 Theme:E4
+E4	Gene_expression:T8 Theme:T2
+E5	Regulation:T9 Theme:E6
+E6	Gene_expression:T10 Theme:T3
+E7	Gene_expression:T11 Theme:T4
+M1	Negation E1
+M2	Speculation E3
+M3	Negation E5

@@ -1,0 +1,35 @@
+T1	Gene_or_gene_product 17 20	Akt
+T2	Gene_or_gene_product 21 24	PKB
+T3	Cellular_component 32 39	nucleus
+T4	Gene_or_gene_product 126 155	phosphatidylinositol 3-kinase
+T5	Gene_or_gene_product 157 161	PI3K
+T6	Cellular_component 181 187	nuclei
+T7	Simple_chemical 247 257	inositides
+T8	Simple_chemical 299 307	inositol
+T9	Cellular_component 355 362	Nuclear
+T10	Gene_or_gene_product 363 367	PI3K
+T11	Simple_chemical 453 470	PtdIns(3,4,5)P(3)
+T12	Gene_or_gene_product 481 484	PKC
+T13	Gene_or_gene_product 623 651	insulin-like growth factor-I
+T14	Gene_or_gene_product 654 659	IGF-I
+T15	Gene_or_gene_product 665 696	platelet-derived growth factor-
+T16	Gene_or_gene_product 698 702	PDGF
+T17	Cellular_component 714 721	nuclear
+T18	Gene_or_gene_product 749 752	Akt
+T19	Gene_or_gene_product 753 756	PKB
+T20	Cellular_component 797 804	nuclear
+T21	Gene_or_gene_product 835 840	IGF-I
+T22	Gene_or_gene_product 872 876	PDGF
+T23	Cellular_component 984 991	nuclear
+T24	Gene_or_gene_product 992 995	Akt
+T25	Gene_or_gene_product 996 999	PKB
+T26	Gene_or_gene_product 1145 1149	PI3K
+T27	Simple_chemical 1161 1169	LY294002
+T28	Cellular_component 1289 1305	nuclear interior
+T29	Cellular_component 1358 1369	subcellular
+T30	Gene_or_gene_product 1386 1389	Akt
+T31	Gene_or_gene_product 1390 1393	PKB
+T32	Simple_chemical 1401 1409	LY294002
+T33	Cellular_component 1496 1508	intranuclear
+T34	Gene_or_gene_product 1526 1529	Akt
+T35	Gene_or_gene_product 1530 1533	PKB

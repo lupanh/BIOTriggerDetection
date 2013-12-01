@@ -1,0 +1,41 @@
+T1	Gene_or_gene_product 14 27	interleukin-1
+T2	Simple_chemical 33 51	lipopolysaccharide
+T3	Complex 60 69	NF-kappaB
+T4	Gene_or_gene_product 108 113	MyD88
+T5	Gene_or_gene_product 116 121	MyD88
+T6	Gene_or_gene_product 164 186	interleukin-1 receptor
+T7	Gene_or_gene_product 188 193	IL-1R
+T8	Gene_or_gene_product 200 218	Toll-like receptor
+T9	Gene_or_gene_product 220 223	TLR
+T10	Complex 247 256	NF-kappaB
+T11	Gene_or_gene_product 289 293	Toll
+T12	Gene_or_gene_product 294 299	IL-1R
+T13	Gene_or_gene_product 392 397	MyD88
+T14	Gene_or_gene_product 407 412	IL-1R
+T15	Gene_or_gene_product 413 416	TLR
+T16	Gene_or_gene_product 425 448	IL-1R-associated kinase
+T17	Gene_or_gene_product 450 454	IRAK
+T18	Gene_or_gene_product 490 495	MyD88
+T19	Gene_or_gene_product 501 505	IRAK
+T20	Gene_or_gene_product 515 519	IRAK
+T21	Gene_or_gene_product 625 630	MyD88
+T22	Gene_or_gene_product 760 765	MyD88
+T23	Gene_or_gene_product 774 782	MyD88(S)
+T24	Gene_or_gene_product 828 836	MyD88(S)
+T25	Simple_chemical 908 911	LPS
+T26	Gene_or_gene_product 932 940	MyD88(S)
+T27	Gene_or_gene_product 957 962	IL-1R
+T28	Gene_or_gene_product 967 971	IRAK
+T29	Gene_or_gene_product 1014 1018	IRAK
+T30	Complex 1039 1048	NF-kappaB
+T31	Gene_or_gene_product 1074 1082	MyD88(S)
+T32	Gene_or_gene_product 1127 1131	IL-1
+T33	Simple_chemical 1137 1140	LPS
+T34	Gene_or_gene_product 1151 1154	TNF
+T35	Complex 1164 1173	NF-kappaB
+T36	Gene_or_gene_product 1220 1225	MyD88
+T37	Gene_or_gene_product 1252 1256	IRAK
+T38	Gene_or_gene_product 1322 1330	MyD88(S)
+T39	Gene_or_gene_product 1385 1390	MyD88
+T40	Gene_or_gene_product 1437 1441	IL-1
+T41	Simple_chemical 1446 1449	LPS

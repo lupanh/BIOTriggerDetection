@@ -1,0 +1,44 @@
+T1	Simple_chemical 817 823	serine
+T2	Simple_chemical 824 833	threonine
+T3	Gene_or_gene_product 855 879	cyclin dependent kinases
+T4	Gene_or_gene_product 881 884	CDK
+T5	Gene_or_gene_product 1056 1062	cyclin
+T6	Gene_or_gene_product 1123 1129	cyclin
+T7	Gene_or_gene_product 1176 1186	G1 cyclins
+T8	Gene_or_gene_product 1196 1205	cyclins C
+T9	Gene_or_gene_product 1207 1209	D1
+T10	Gene_or_gene_product 1210 1211	3
+T11	Gene_or_gene_product 1217 1218	E
+T12	Gene_or_gene_product 1305 1312	mitotic
+T13	Gene_or_gene_product 1316 1326	G2 cyclins
+T14	Gene_or_gene_product 1343 1351	cyclin A
+T15	Gene_or_gene_product 1356 1364	cyclin B
+T16	Gene_or_gene_product 1430 1437	cyclins
+T17	Gene_or_gene_product 1463 1466	CDK
+T18	Gene_or_gene_product 1554 1557	pRb
+T19	Gene_or_gene_product 1559 1562	pRb
+T20	Gene_or_gene_product 1670 1673	E2F
+T21	Gene_or_gene_product 1742 1756	D-type cyclins
+T22	Gene_or_gene_product 1783 1787	CDK4
+T23	Gene_or_gene_product 1788 1789	6
+T24	Gene_or_gene_product 1930 1933	CDK
+T25	Gene_or_gene_product 1967 1971	INK4
+T26	Gene_or_gene_product 1980 1988	p16INK4A
+T27	Gene_or_gene_product 1990 1998	p15INK4B
+T28	Gene_or_gene_product 2000 2008	p18INK4C
+T29	Gene_or_gene_product 2010 2018	p19INK4D
+T30	Gene_or_gene_product 2047 2051	CDK4
+T31	Gene_or_gene_product 2056 2060	CDK6
+T32	Gene_or_gene_product 2066 2073	CIP/KIP
+T33	Gene_or_gene_product 2085 2092	p21CIP1
+T34	Gene_or_gene_product 2093 2097	WAF1
+T35	Gene_or_gene_product 2099 2106	p27KIP1
+T36	Gene_or_gene_product 2111 2118	p57KIP2
+T37	Gene_or_gene_product 2149 2152	CDK
+T38	Gene_or_gene_product 2176 2184	p16INK4A
+T39	Gene_or_gene_product 2186 2194	cyclin D
+T40	Gene_or_gene_product 2195 2198	CDK
+T41	Gene_or_gene_product 2204 2207	pRb
+T42	Gene_or_gene_product 2208 2211	E2F
+T43	Gene_or_gene_product 2277 2280	pRb
+T44	Gene_or_gene_product 2413 2416	pRb

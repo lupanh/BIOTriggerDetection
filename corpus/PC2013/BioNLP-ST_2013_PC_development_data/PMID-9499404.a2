@@ -1,0 +1,39 @@
+*	Equiv T4 T5
+T34	Regulation 80 88	regulate
+E1	Regulation:T34 Theme:E2 Cause:T1
+T35	Conversion 118 130	biosynthesis
+E2	Conversion:T35 Product:T3
+T36	Ubiquitination 160 174	ubiquitination
+E3	Ubiquitination:T36 Theme:T6
+T37	Negative_regulation 212 221	inhibitor
+E4	Negative_regulation:T37 Theme:T4 Cause:T6
+T38	Positive_regulation 230 239	catalyzed
+E5	Positive_regulation:T38 Theme:E3 Cause:T8
+T39	Binding 416 421	binds
+E6	Binding:T39 Theme:T14
+T40	Binding 550 559	interacts
+E7	Binding:T40 Theme:T15 Theme2:T16
+T41	Binding 693 700	binding
+E8	Binding:T41 Theme:T23 Theme2:T22
+E9	Binding:T41 Theme:T24 Theme2:T22
+T42	Positive_regulation 873 881	specific
+E10	Positive_regulation:T42 Cause:T25 Theme:E11
+T43	Degradation 886 897	degradation
+E11	Degradation:T43 Theme:T26
+T44	Positive_regulation 915 923	specific
+E12	Positive_regulation:T44 Cause:T27 Theme:E14
+E13	Positive_regulation:T44 Cause:T27 Theme:E15
+T45	Degradation 928 939	degradation
+E14	Degradation:T45 Theme:T28
+E15	Degradation:T45 Theme:T29
+T46	Positive_regulation 976 984	specific
+E16	Positive_regulation:T46 Cause:T30 Theme:E17
+T47	Negative_regulation 989 999	repression
+E17	Negative_regulation:T47 Theme:E18
+T48	Conversion 1014 1026	biosynthesis
+E18	Conversion:T48 Product:T31
+T49	Positive_regulation 1090 1098	required
+E19	Positive_regulation:T49 Cause:T32 Theme:E10
+E20	Positive_regulation:T49 Cause:T32 Theme:E13
+E21	Positive_regulation:T49 Cause:T32 Theme:E12
+E22	Positive_regulation:T49 Cause:T32 Theme:E16

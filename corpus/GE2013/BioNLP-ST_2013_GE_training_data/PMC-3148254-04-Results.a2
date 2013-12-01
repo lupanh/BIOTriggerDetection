@@ -1,0 +1,30 @@
+*	Equiv T7 T8
+T21	Gene_expression 335 344	expressed
+T22	Binding 505 515	associated
+T23	Regulation 872 883	responsible
+T24	Negative_regulation 888 900	sequestering
+T25	Positive_regulation 1109 1117	mediated
+T26	Phosphorylation 1118 1133	phosphorylation
+T27	Protein_catabolism 1138 1149	degradation
+T28	Negative_regulation 1174 1183	deficient
+T29	Negative_regulation 1207 1215	impaired
+T30	Binding 1367 1377	engagement
+T31	Negative_regulation 1425 1434	deficient
+T32	Positive_regulation 1567 1580	reconstituted
+T33	Gene_expression 1695 1705	expression
+E1	Gene_expression:T21 Theme:T7
+E2	Binding:T22 Theme:T10
+E3	Regulation:T23 Theme:E4
+E4	Negative_regulation:T24 Theme:T11
+E5	Positive_regulation:T25 Theme:E6 Cause:T12
+E6	Phosphorylation:T26 Theme:T13
+E7	Positive_regulation:T25 Theme:E8 Cause:T12
+E8	Protein_catabolism:T27 Theme:T13
+E9	Negative_regulation:T28 Theme:T14
+E10	Negative_regulation:T29 Theme:E5
+E11	Negative_regulation:T29 Theme:E7
+E12	Binding:T30 Theme:T15
+E13	Negative_regulation:T31 Theme:T17
+E14	Positive_regulation:T32 Theme:T19
+E15	Gene_expression:T33 Theme:T20
+M1	Negation E15

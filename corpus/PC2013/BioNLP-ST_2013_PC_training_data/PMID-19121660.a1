@@ -1,0 +1,26 @@
+T1	Gene_or_gene_product 20 25	MyD88
+T2	Gene_or_gene_product 225 243	Toll-like receptor
+T3	Gene_or_gene_product 255 260	MyD88
+T4	Gene_or_gene_product 262 310	myeloid differentiation primary-response gene 88
+T5	Gene_or_gene_product 316 320	TRIF
+T6	Gene_or_gene_product 322 398	Toll/IL-1 receptor (TIR)-domain-containing adaptor protein-inducing IFN-beta
+T7	Gene_or_gene_product 439 444	MyD88
+T8	Gene_or_gene_product 446 450	TRIF
+T9	Simple_chemical 580 592	progesterone
+T10	Cellular_component 598 605	nuclear
+T11	Gene_or_gene_product 627 670	transcription factor nuclear factor kappa B
+T12	Gene_or_gene_product 672 680	NFkappaB
+T13	Gene_or_gene_product 774 778	TRIF
+T14	Gene_or_gene_product 867 872	MyD88
+T15	Simple_chemical 989 1001	progesterone
+T16	Cellular_component 1014 1021	nuclear
+T17	Gene_or_gene_product 1039 1047	NFkappaB
+T18	Gene_or_gene_product 1073 1078	MyD88
+T19	Gene_or_gene_product 1087 1091	TRIF
+T20	Gene_or_gene_product 1119 1149	uterine interleukin (IL)-1beta
+T21	Gene_or_gene_product 1154 1181	tumor necrosis factor alpha
+T22	Gene_or_gene_product 1183 1192	TNF-alpha
+T23	Gene_or_gene_product 1223 1228	MyD88
+T24	Gene_or_gene_product 1233 1237	TRIF
+T25	Gene_or_gene_product 1325 1330	MyD88
+T26	Gene_or_gene_product 1339 1343	TRIF

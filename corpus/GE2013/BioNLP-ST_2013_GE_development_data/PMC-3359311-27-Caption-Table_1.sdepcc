@@ -1,0 +1,4 @@
+nn(Activators-2, Inflammasome-1)
+root(ROOT-0, Activators-2)
+punct(Activators-2, .-3)
+

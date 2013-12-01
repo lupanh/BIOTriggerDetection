@@ -1,0 +1,45 @@
+*	Equiv T1 T2
+T34	Positive_regulation 668 675	induced
+T35	Positive_regulation 851 860	induction
+T36	Regulation 1014 1023	modulates
+T37	Negative_regulation 1402 1444	Overexpression of a dominant negative form
+T38	Negative_regulation 1501 1509	blockade
+T39	Gene_expression 1907 1914	express
+T40	Gene_expression 1974 1981	express
+T41	Gene_expression 2249 2256	express
+T42	Positive_regulation 2378 2384	induce
+T43	Gene_expression 2391 2401	expression
+T44	Negative_regulation 2634 2641	lacking
+T45	Negative_regulation 3143 3151	inhibits
+T46	Positive_regulation 3158 3167	induction
+T47	Negative_regulation 3182 3188	limits
+T48	Gene_expression 3195 3205	expression
+T49	Positive_regulation 3217 3229	mediated way
+T50	Binding 3291 3296	binds
+T51	Entity 3310 3318	promoter
+T52	Negative_regulation 3331 3339	prevents
+T53	Positive_regulation 3344 3353	induction
+T33	Anaphora 3357 3366	this gene
+R1	Coreference Subject:T33 Object:T32
+E1	Positive_regulation:T34 Theme:T3 Cause:T1
+E2	Positive_regulation:T34 Theme:T4 Cause:T1
+E3	Positive_regulation:T35 Theme:T6 Cause:T5
+E4	Positive_regulation:T35 Theme:T7 Cause:T5
+E5	Positive_regulation:T35 Theme:T8 Cause:T5
+E6	Regulation:T36 Theme:T10 Cause:T9
+E7	Negative_regulation:T37 Theme:T13
+E8	Negative_regulation:T38 Theme:T14
+E9	Gene_expression:T39 Theme:T15
+E10	Gene_expression:T40 Theme:T16
+E11	Gene_expression:T41 Theme:T17
+E12	Positive_regulation:T42 Theme:E13
+E13	Gene_expression:T43 Theme:T18
+E14	Negative_regulation:T44 Theme:T20
+E15	Negative_regulation:T45 Theme:E16 Cause:T26
+E16	Positive_regulation:T46 Theme:T27
+E17	Negative_regulation:T47 Theme:E18 Cause:T28
+E18	Gene_expression:T48 Theme:T29
+E19	Positive_regulation:T49 Theme:E17 Cause:T30
+E20	Binding:T50 Theme:T31 Theme2:T32 Site2:T51
+E21	Negative_regulation:T52 Theme:E22 Cause:E20
+E22	Positive_regulation:T53 Theme:T32

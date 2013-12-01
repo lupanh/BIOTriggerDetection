@@ -1,0 +1,19 @@
+T1	Complex 39 52	Cdk2/cyclin A
+T2	Gene_or_gene_product 92 95	Cdk
+T3	Gene_or_gene_product 171 195	cyclin-dependent kinases
+T4	Gene_or_gene_product 251 257	cyclin
+T5	Gene_or_gene_product 265 268	Cdk
+T6	Simple_chemical 312 321	threonine
+T7	Gene_or_gene_product 343 346	Cdk
+T8	Gene_or_gene_product 350 371	Cdk-activating kinase
+T9	Gene_or_gene_product 373 376	CAK
+T10	Complex 449 459	Cdk/cyclin
+T11	Complex 594 607	Cdk2/cyclin A
+T12	Gene_or_gene_product 821 825	Cdk2
+T13	Gene_or_gene_product 853 859	cyclin
+T14	Simple_chemical 906 915	threonine
+T15	Gene_or_gene_product 1015 1018	Cdk
+T16	Gene_or_gene_product 1051 1057	cyclin
+T17	Gene_or_gene_product 1095 1098	Cdk
+T18	Gene_or_gene_product 1187 1190	CAK
+T19	Gene_or_gene_product 1288 1294	cyclin

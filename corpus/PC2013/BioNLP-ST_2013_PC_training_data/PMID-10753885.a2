@@ -1,0 +1,68 @@
+T22	Regulation 38 47	regulated
+E1	Regulation:T22 Theme:T1
+T23	Positive_regulation 135 150	play a key role
+E2	Positive_regulation:T23 Theme:E3 Cause:T2
+T24	Regulation 158 165	control
+E3	Regulation:T24 Theme:E4
+T25	Pathway 169 179	cell cycle
+E4	Pathway:T25 
+T26	Regulation 467 476	associate
+E5	Regulation:T26 Cause:T7 Theme:T13
+E6	Regulation:T26 Cause:T10 Theme:T13
+E7	Regulation:T26 Cause:T11 Theme:T13
+E8	Regulation:T26 Cause:T12 Theme:T13
+E9	Regulation:T26 Cause:T10 Theme:T14
+E10	Regulation:T26 Cause:T11 Theme:T14
+E11	Regulation:T26 Cause:T12 Theme:T14
+E12	Regulation:T26 Cause:T8 Theme:T13
+E13	Regulation:T26 Cause:T9 Theme:T13
+E14	Regulation:T26 Cause:T7 Theme:T14
+E15	Regulation:T26 Cause:T8 Theme:T14
+E16	Regulation:T26 Cause:T9 Theme:T14
+M1	Negation E6
+M2	Negation E7
+M3	Negation E8
+M4	Negation E9
+M5	Negation E10
+M6	Negation E11
+T27	Acetylation 490 500	acetylated
+E17	Acetylation:T27 Cause:T13 Theme:T9
+E18	Acetylation:T27 Cause:T13 Theme:T10
+E19	Acetylation:T27 Cause:T14 Theme:T10
+E20	Acetylation:T27 Cause:T13 Theme:T11
+E21	Acetylation:T27 Cause:T14 Theme:T11
+E22	Acetylation:T27 Cause:T13 Theme:T12
+E23	Acetylation:T27 Cause:T14 Theme:T12
+E24	Acetylation:T27 Cause:T14 Theme:T9
+E25	Acetylation:T27 Cause:T13 Theme:T8
+E26	Acetylation:T27 Cause:T14 Theme:T8
+E27	Acetylation:T27 Cause:T13 Theme:T7
+E28	Acetylation:T27 Cause:T14 Theme:T7
+M7	Negation E18
+M8	Negation E19
+M9	Negation E20
+M10	Negation E21
+M11	Negation E22
+M12	Negation E23
+T28	Acetylation 571 582	Acetylation
+E29	Acetylation:T28 Site:T15 Theme:T7
+E30	Acetylation:T28 Site:T15 Theme:T8
+E31	Acetylation:T28 Site:T15 Theme:T9
+T29	Acetylation 690 701	Acetylation
+E32	Acetylation:T29 Theme:T16
+T30	Positive_regulation 741 750	increases
+E33	Positive_regulation:T30 Cause:E32 Theme:E34
+T31	Binding 755 762	binding
+E34	Binding:T31 Theme:T16 Theme2:T17
+T32	Positive_regulation 833 841	enhanced
+E35	Positive_regulation:T32 Cause:E32 Theme:E36
+T33	Activation 842 857	transactivation
+E36	Activation:T33 Theme:T18
+T34	Acetylation 896 897	t
+E37	Acetylation:T34 Theme:T19
+T35	Negative_regulation 917 925	reversed
+E38	Negative_regulation:T35 Theme:E37 Cause:T20
+T36	Negative_regulation 968 978	reversible
+E39	Negative_regulation:T36 Theme:E40
+T37	Acetylation 979 990	acetylation
+E40	Acetylation:T37 Theme:T19

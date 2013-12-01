@@ -1,0 +1,76 @@
+T33	Gene_expression 0 14	Overproduction
+E1	Gene_expression:T33 Theme:T1
+T34	Positive_regulation 36 43	induces
+E2	Positive_regulation:T34 Theme:E4 Cause:E5
+T35	Pathway 49 59	cell cycle
+E3	Pathway:T35 
+T36	Negative_regulation 60 65	delay
+E4	Negative_regulation:T36 Theme:E3
+T37	Negative_regulation 69 80	interfering
+E5	Negative_regulation:T37 Theme:E6 Cause:E1
+T38	Transport 104 115	trafficking
+E6	Transport:T38 Theme:T3 ToLoc:T2
+T39	Negative_regulation 183 202	negatively regulate
+E7	Negative_regulation:T39 Theme:T5 Cause:E9
+E8	Negative_regulation:T39 Theme:T5 Cause:E10
+T40	Phosphorylation 230 245	phosphorylating
+E9	Phosphorylation:T40 Theme:T6 Cause:T4 Site:T7
+E10	Phosphorylation:T40 Theme:T6 Cause:T4 Site:T8
+T41	Localization 318 327	localizes
+E11	Localization:T41 Theme:T9 ToLoc:T10
+E12	Localization:T41 Theme:T9 ToLoc:T11
+T42	Transport 409 416	shuttle
+E13	Transport:T42 Theme:T12 ToLoc:T13
+E14	Transport:T42 Theme:T12 ToLoc:T14
+T43	Gene_expression 476 490	overproduction
+E15	Gene_expression:T43 Theme:T15
+T44	Activation 501 514	kinase-active
+E16	Activation:T44 Theme:T15
+T45	Inactivation 518 533	kinase-inactive
+E17	Inactivation:T45 Theme:T15
+T46	Negative_regulation 548 555	blocked
+E18	Negative_regulation:T46 Cause:E15 Theme:E20
+E19	Negative_regulation:T46 Cause:E15 Theme:E21
+T47	Transport 580 589	shuttling
+E20	Transport:T47 Theme:T18 ToLoc:T16
+E21	Transport:T47 Theme:T18 ToLoc:T17
+T48	Positive_regulation 607 613	caused
+E22	Positive_regulation:T48 Theme:E23 Cause:E15
+T49	Negative_regulation 623 628	delay
+E23	Negative_regulation:T49 Theme:E24
+T50	Pathway 652 662	cell cycle
+E24	Pathway:T50 
+T51	Binding 741 752	interaction
+E25	Binding:T51 Theme:T20
+T52	Binding 804 809	bound
+E26	Binding:T52 Theme:T22
+T53	Phosphorylation 844 857	phosphorylate
+E27	Phosphorylation:T53 Theme:T23
+M1	Negation E27
+T54	Gene_expression 912 925	overproducing
+E28	Gene_expression:T54 Theme:T24
+T55	Transport 995 1006	trafficking
+E29	Transport:T55 Theme:T25
+T56	Negative_regulation 1024 1035	unperturbed
+E30	Negative_regulation:T56 Theme:E31
+M2	Negation E30
+T57	Pathway 1036 1046	cell cycle
+E31	Pathway:T57 
+T58	Binding 1091 1098	docking
+E32	Binding:T58 Theme:T26 Theme2:T27
+T59	Positive_regulation 1156 1167	facilitates
+E33	Positive_regulation:T59 Cause:E32 Theme:E35
+E34	Positive_regulation:T59 Cause:E32 Theme:E36
+T60	Phosphorylation 1172 1187	phosphorylation
+E35	Phosphorylation:T60 Theme:T28
+E36	Phosphorylation:T60 Theme:T29
+T61	Gene_expression 1213 1227	overproduction
+E37	Gene_expression:T61 Theme:T30
+T62	Negative_regulation 1236 1244	perturbs
+E38	Negative_regulation:T62 Cause:E40 Theme:E39
+T63	Pathway 1245 1255	cell cycle
+E39	Pathway:T63 
+T64	Transport 1271 1283	sequestering
+T65	Positive_regulation 1271 1283	sequestering
+E40	Transport:T64 Theme:T31 FromLoc:T32
+E41	Positive_regulation:T65 Theme:E40 Cause:E37

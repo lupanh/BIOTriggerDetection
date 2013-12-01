@@ -1,0 +1,47 @@
+BioNLP Shared Task 2013 GE Task data set for training
+
+
+- Contains the followings
+  - 10 full paper acticles from PubMed Central, and
+  - event annotation produced by DBCLS.
+
+- For license information, please refer to the file, LICENSE.
+
+- For the task details, please refer to the task homepage.
+  http://bionlp-st.dbcls.jp/GE/
+
+
+FILE DESCRIPTIONS
+
+*.txt	files contain the target text.
+
+*.a1	files contain standoff annotations for proteins.
+
+*.a2	files contain standoff annotations for other entities and events.
+        For training, the participants will be provided with these files.
+        For test, the participants have to create this annotation.
+
+*.json	files contain both text and annotations in JSON.
+        The content of one JSON file is equivalent to that of
+        corresponding txt, a1, and a2 files.
+
+
+HISTORY
+
+- revision 2 (February 13, 2013)
+	: text encoding is changed to ascii from unicode.
+
+- revision 1 (January 28, 2013)
+	: redundant partOf relations removed in *.json.
+	: some erroneous annotations fixed.
+
+- initial release (January 20, 2013)
+
+
+REFERENCES
+
+- PubMed Central: http://www.ncbi.nlm.nih.gov/pmc/
+- BioNLP Shared Task 2013: https://2013.bionlp-st.org/
+- BioNLP Shared Task GE Task: https://bionlp-st.dbcls.jp/GE/
+- Database Center for Life Science: http://dbcls.rois.ac.jp/
+- JSON: http://www.json.org/

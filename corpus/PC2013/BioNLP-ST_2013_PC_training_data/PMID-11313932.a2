@@ -1,0 +1,65 @@
+*	Equiv T16 T17
+T41	Localization 0 12	Localization
+E1	Localization:T41 Theme:T1
+T42	Regulation 32 41	regulated
+E2	Regulation:T42 Theme:E1 Cause:E5
+E3	Regulation:T42 Theme:E1 Cause:E4
+T43	Transport 58 64	export
+E4	Transport:T43 FromLoc:T2 Theme:T1
+T44	Binding 84 91	binding
+E5	Binding:T44 Theme:T3
+T45	Activation 122 132	activation
+E6	Activation:T45 Theme:T4 Cause:T5
+T46	Binding 199 211	interactions
+E7	Binding:T46 Theme:T6 Theme2:T7
+T47	Negative_regulation 240 260	negatively regulated
+E8	Negative_regulation:T47 Theme:E7
+T48	Binding 424 429	binds
+E9	Binding:T48 Theme:T9 Theme2:T8
+T49	Binding 474 481	binding
+E10	Binding:T49 Theme:T10
+T50	Regulation 482 491	regulates
+E11	Regulation:T50 Cause:E10 Theme:E12
+T51	Transport 510 521	trafficking
+E12	Transport:T51 Theme:T12 ToLoc:T11
+T52	Positive_regulation 572 583	accumulated
+E13	Positive_regulation:T52 Cause:T14 Theme:T15
+T53	Transport 670 678	exported
+E14	Transport:T53 Theme:T18 FromLoc:T19
+T54	Binding 736 740	bind
+E15	Binding:T54 Theme:T21
+M1	Negation E15
+T55	Regulation 979 985	effect
+E16	Regulation:T55 Theme:E17
+M2	Negation E16
+T56	Binding 993 1000	binding
+E17	Binding:T56 Theme:T28
+T57	Positive_regulation 1009 1014	cause
+E18	Positive_regulation:T57 Theme:E19
+T58	Positive_regulation 1023 1035	accumulation
+E19	Positive_regulation:T58 Theme:T30
+T59	Binding 1085 1092	binding
+E20	Binding:T59 Theme:T31
+T60	Positive_regulation 1096 1107	dispensable
+E21	Positive_regulation:T60 Cause:E20 Theme:E22
+M3	Negation E21
+T61	Transport 1124 1130	export
+E22	Transport:T61 Theme:T33 FromLoc:T32
+T62	Positive_regulation 1168 1180	accumulation
+E23	Positive_regulation:T62 Theme:T35
+T63	Positive_regulation 1191 1199	required
+E24	Positive_regulation:T63 Theme:E25 Cause:E23
+T64	Negative_regulation 1200 1204	loss
+E25	Negative_regulation:T64 Theme:E26
+T65	Binding 1237 1244	binding
+E26	Binding:T65 Theme:T36
+T66	Transport 1351 1357	export
+E27	Transport:T66 Theme:T38 FromLoc:T37
+T67	Positive_regulation 1371 1379	mediated
+E28	Positive_regulation:T67 Theme:E27
+T68	Binding 1416 1423	binding
+E29	Binding:T68 Theme:T39
+T69	Negative_regulation 1424 1444	negatively regulates
+E30	Negative_regulation:T69 Theme:E31 Cause:E29
+T70	Transport 1453 1459	import
+E31	Transport:T70 ToLoc:T40 Theme:T38

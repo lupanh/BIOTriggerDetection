@@ -1,0 +1,37 @@
+*	Equiv T2 T3
+*	Equiv T8 T7
+T24	Negative_regulation 0 19	Negative regulation
+E1	Negative_regulation:T24 Theme:T1
+T25	Positive_regulation 160 169	mediating
+E2	Positive_regulation:T25 Theme:E3 Cause:T4
+T26	Phosphorylation 194 209	phosphorylation
+E3	Phosphorylation:T26 Theme:T6
+T27	Negative_regulation 346 361	down-regulating
+E4	Negative_regulation:T27 Theme:E5 Cause:T8
+T28	Pathway 371 378	pathway
+E5	Pathway:T28 Participant:T9
+T29	Phosphorylation 498 516	autophosphorylates
+E6	Phosphorylation:T29 Site:T12 Theme:T11
+E7	Phosphorylation:T29 Site:T12 Theme:T13
+T30	Phosphorylation 562 575	phosphorylate
+E8	Phosphorylation:T30 Theme:T14 Cause:T11
+T31	Positive_regulation 643 652	catalyzed
+E9	Positive_regulation:T31 Cause:T15 Theme:E10
+T32	Phosphorylation 653 668	phosphorylation
+E10	Phosphorylation:T32 Theme:T16
+T33	Positive_regulation 725 733	leads to
+E11	Positive_regulation:T33 Theme:E12
+T34	Negative_regulation 748 752	drop
+E12	Negative_regulation:T34 Theme:T16
+T35	Positive_regulation 815 824	dependent
+E13	Positive_regulation:T35 Cause:T19 Theme:E14
+T36	Negative_regulation 825 835	inhibition
+E14	Negative_regulation:T36 Theme:T20
+T37	Negative_regulation 870 878	reversed
+E15	Negative_regulation:T37 Theme:E14
+T38	Negative_regulation 1027 1046	negative regulation
+E16	Negative_regulation:T38 Theme:T21 Cause:E17
+T39	Phosphorylation 1050 1065	phosphorylation
+E17	Phosphorylation:T39 Theme:T21
+T40	Negative_regulation 1112 1122	inhibitory
+E18	Negative_regulation:T40 Cause:T22 Theme:T23

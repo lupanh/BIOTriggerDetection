@@ -1,0 +1,67 @@
+T1	Gene_or_gene_product 19 22	p50
+T2	Complex 23 32	NF-kappaB
+T3	Simple_chemical 45 51	serine
+T4	Complex 63 91	DNA-dependent protein kinase
+T5	Gene_or_gene_product 108 114	VCAM-1
+T6	Gene_or_gene_product 131 134	TNF
+T7	Complex 175 184	NF-kappaB
+T8	Gene_or_gene_product 201 207	VCAM-1
+T9	Complex 240 268	DNA-dependent protein kinase
+T10	Complex 270 276	DNA-PK
+T11	Complex 307 316	NF-kappaB
+T12	Complex 347 353	DNA-PK
+T13	Gene_or_gene_product 370 376	VCAM-1
+T14	Gene_or_gene_product 403 406	TNF
+T15	Gene_or_gene_product 458 471	I-kappaBalpha
+T16	Simple_chemical 487 497	serine 536
+T17	Cellular_component 518 525	nuclear
+T18	Gene_or_gene_product 543 546	p65
+T19	Complex 547 556	NF-kappaB
+T20	Gene_or_gene_product 579 585	VCAM-1
+T21	Gene_or_gene_product 612 615	TNF
+T22	Gene_or_gene_product 637 640	p50
+T23	Complex 641 650	NF-kappaB
+T24	Gene_or_gene_product 654 657	TNF
+T25	Gene_or_gene_product 666 672	VCAM-1
+T26	Complex 751 757	DNA-PK
+T27	Gene_or_gene_product 813 816	p65
+T28	Complex 817 826	NF-kappaB
+T29	Gene_or_gene_product 839 842	p50
+T30	Complex 843 852	NF-kappaB
+T31	Complex 938 944	DNA-PK
+T32	Complex 960 966	DNA-PK
+T33	Gene_or_gene_product 1021 1024	p50
+T34	Gene_or_gene_product 1025 1028	p50
+T35	Gene_or_gene_product 1033 1036	p50
+T36	Gene_or_gene_product 1037 1040	p65
+T37	Complex 1041 1050	NF-kappaB
+T38	Gene_or_gene_product 1099 1102	p50
+T39	Complex 1103 1112	NF-kappaB
+T40	Gene_or_gene_product 1120 1126	VCAM-1
+T41	Gene_or_gene_product 1153 1156	p50
+T42	Complex 1157 1166	NF-kappaB
+T43	Simple_chemical 1203 1212	serine 20
+T44	Simple_chemical 1217 1227	serine 227
+T45	Complex 1307 1313	DNA-PK
+T46	Simple_chemical 1327 1336	serine 20
+T47	Gene_or_gene_product 1378 1381	p50
+T48	Complex 1382 1391	NF-kappaB
+T49	Complex 1395 1401	DNA-PK
+T50	Simple_chemical 1419 1428	serine 20
+T51	Gene_or_gene_product 1449 1452	p50
+T52	Complex 1453 1462	NF-kappaB
+T53	Complex 1486 1492	DNA-PK
+T54	Gene_or_gene_product 1520 1523	p50
+T55	Complex 1524 1533	NF-kappaB
+T56	Simple_chemical 1547 1556	serine 20
+T57	Simple_chemical 1557 1564	alanine
+T58	Gene_or_gene_product 1576 1579	p50
+T59	Complex 1580 1589	NF-kappaB
+T60	Gene_or_gene_product 1616 1622	VCAM-1
+T61	Gene_or_gene_product 1640 1643	TNF
+T62	Simple_chemical 1691 1700	serine 20
+T63	Gene_or_gene_product 1742 1748	VCAM-1
+T64	Complex 1836 1842	DNA-PK
+T65	Gene_or_gene_product 1873 1876	p50
+T66	Complex 1877 1886	NF-kappaB
+T67	Gene_or_gene_product 1896 1902	VCAM-1

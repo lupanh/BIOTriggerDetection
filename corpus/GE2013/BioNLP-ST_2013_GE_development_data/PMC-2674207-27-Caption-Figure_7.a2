@@ -1,0 +1,30 @@
+T10	Negative_regulation 31 38	impairs
+T11	Entity 46 53	nuclear
+T12	Localization 54 66	localization
+T13	Entity 182 189	nuclear
+T14	Localization 190 202	localisation
+T15	Regulation 572 581	dependent
+T16	Negative_regulation 582 590	decrease
+T17	Entity 594 601	nuclear
+T18	Localization 602 612	expression
+T19	Positive_regulation 628 637	increased
+T20	Entity 638 649	cytoplasmic
+T21	Localization 657 667	expression
+T22	Negative_regulation 759 767	decrease
+T23	Entity 771 778	nuclear
+T24	Localization 779 789	expression
+T25	Entity 815 826	cytoplasmic
+T26	Localization 834 844	expression
+E1	Negative_regulation:T10 Theme:E2
+E2	Localization:T12 Theme:T1 ToLoc:T11
+E3	Localization:T14 Theme:T2 ToLoc:T13
+E4	Localization:T14 Theme:T3 ToLoc:T13
+E5	Regulation:T15 Theme:E6
+E6	Negative_regulation:T16 Theme:E9
+E7	Regulation:T15 Theme:E8
+E8	Positive_regulation:T19 Theme:E10
+E9	Localization:T18 Theme:T5 ToLoc:T17
+E10	Localization:T21 Theme:T6 ToLoc:T20
+E11	Negative_regulation:T22 Theme:E12
+E12	Localization:T24 Theme:T7 ToLoc:T23
+E13	Localization:T26 Theme:T8 ToLoc:T25

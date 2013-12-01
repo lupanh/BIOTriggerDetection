@@ -1,0 +1,26 @@
+*	Equiv T6 T5
+*	Equiv T7 T8
+*	Equiv T10 T11
+T42	Positive_regulation 675 684	dependent
+E1	Positive_regulation:T42 Cause:T13 Theme:T12
+M1	Speculation E1
+T43	Negative_regulation 717 726	inhibitor
+E2	Negative_regulation:T43 Cause:T15 Theme:T14
+T44	Positive_regulation 945 954	dependent
+E3	Positive_regulation:T44 Theme:T19 Cause:T20
+E4	Positive_regulation:T44 Theme:T19 Cause:T21
+M2	Speculation E3
+M3	Speculation E4
+T45	Negative_regulation 1391 1398	blocked
+E5	Negative_regulation:T45 Theme:T30 Cause:T28
+T46	Regulation 1759 1770	independent
+E6	Regulation:T46 Theme:T35 Cause:T36
+E7	Regulation:T46 Theme:T35 Cause:T37
+E8	Regulation:T46 Theme:T35 Cause:T38
+M4	Negation E6
+M5	Negation E7
+M6	Negation E8
+T47	Conversion 1849 1856	convert
+T48	Positive_regulation 1849 1856	convert
+E9	Conversion:T47 Theme:T41
+E10	Positive_regulation:T48 Theme:E9 Cause:T39

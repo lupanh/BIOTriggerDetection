@@ -1,0 +1,44 @@
+T1	Gene_or_gene_product 59 64	TRAF2
+T2	Gene_or_gene_product 69 74	TRAF6
+T3	Gene_or_gene_product 93 96	JNK
+T4	Complex 101 104	IKK
+T5	Gene_or_gene_product 182 195	Interleukin-1
+T6	Gene_or_gene_product 197 201	IL-1
+T7	Gene_or_gene_product 207 228	tumor necrosis factor
+T8	Gene_or_gene_product 230 239	TNF-alpha
+T9	Gene_or_gene_product 273 277	AP-1
+T10	Complex 282 291	NF-kappaB
+T11	Gene_or_gene_product 318 329	MAP kinases
+T12	Gene_or_gene_product 330 333	JNK
+T13	Gene_or_gene_product 338 341	p38
+T14	Complex 350 364	IkappaB kinase
+T15	Complex 366 369	IKK
+T16	Gene_or_gene_product 390 399	TNF-alpha
+T17	Gene_or_gene_product 404 408	IL-1
+T18	Gene_or_gene_product 440 445	TRAF2
+T19	Gene_or_gene_product 450 455	TRAF6
+T20	Gene_or_gene_product 485 490	TRAF2
+T21	Gene_or_gene_product 494 499	TRAF6
+T22	Gene_or_gene_product 509 512	JNK
+T23	Gene_or_gene_product 514 517	p38
+T24	Complex 522 525	IKK
+T25	Cellular_component 544 557	extracellular
+T26	Gene_or_gene_product 605 609	TRAF
+T27	Gene_or_gene_product 620 625	TRAF2
+T28	Gene_or_gene_product 630 635	TRAF6
+T29	Gene_or_gene_product 669 675	FKBP12
+T30	Simple_chemical 757 759	Zn
+T31	Gene_or_gene_product 801 806	TRAF2
+T32	Gene_or_gene_product 854 859	MEKK1
+T33	Gene_or_gene_product 889 892	JNK
+T34	Gene_or_gene_product 894 897	p38
+T35	Complex 903 906	IKK
+T36	Gene_or_gene_product 936 945	TNF-alpha
+T37	Gene_or_gene_product 950 954	IL-1
+T38	Gene_or_gene_product 973 982	TNF-alpha
+T39	Gene_or_gene_product 1019 1024	TRAF2
+T40	Gene_or_gene_product 1028 1033	MEKK1
+T41	Gene_or_gene_product 1090 1099	TNF-alpha
+T42	Gene_or_gene_product 1104 1108	IL-1
+T43	Gene_or_gene_product 1150 1155	TRAF2
+T44	Gene_or_gene_product 1160 1165	TRAF6

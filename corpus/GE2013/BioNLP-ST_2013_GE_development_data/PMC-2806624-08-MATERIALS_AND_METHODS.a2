@@ -1,0 +1,4 @@
+T19	Negative_regulation 388 397	deficient
+T20	Gene_expression 595 605	expression
+E1	Negative_regulation:T19 Theme:T15
+E2	Gene_expression:T20 Theme:T18

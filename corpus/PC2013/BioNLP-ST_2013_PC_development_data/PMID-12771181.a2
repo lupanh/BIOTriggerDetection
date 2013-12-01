@@ -1,0 +1,69 @@
+*	Equiv T8 T9
+*	Equiv T16 T17
+*	Equiv T18 T19
+T33	Negative_regulation 6 26	negatively regulates
+E1	Negative_regulation:T33 Theme:E2 Cause:E3
+T34	Pathway 51 60	signaling
+E2	Pathway:T34 Participant:T2
+T35	Ubiquitination 87 101	ubiquitination
+E3	Ubiquitination:T35 Theme:T4 Cause:T1
+T36	Negative_regulation 340 358	negative regulator
+E4	Negative_regulation:T36 Cause:T7 Theme:E5
+T37	Pathway 392 401	signaling
+E5	Pathway:T37 Participant:T8
+T38	Positive_regulation 502 510	resulted
+E6	Positive_regulation:T38 Cause:T11 Theme:E9
+E7	Positive_regulation:T38 Cause:T11 Theme:E10
+E8	Positive_regulation:T38 Cause:T11 Theme:E11
+T39	Positive_regulation 514 523	sustained
+E9	Positive_regulation:T39 Theme:E12
+E10	Positive_regulation:T39 Theme:E14
+E11	Positive_regulation:T39 Theme:E13
+T40	Phosphorylation 524 539	phosphorylation
+E12	Phosphorylation:T40 Theme:T12
+E13	Phosphorylation:T40 Theme:T13
+E14	Phosphorylation:T40 Theme:T14
+T41	Positive_regulation 591 598	leading
+E15	Positive_regulation:T41 Theme:E27 Cause:E12
+E16	Positive_regulation:T41 Theme:E30 Cause:E12
+E17	Positive_regulation:T41 Theme:E28 Cause:E12
+E18	Positive_regulation:T41 Theme:E29 Cause:E12
+E19	Positive_regulation:T41 Theme:E27 Cause:E13
+E20	Positive_regulation:T41 Theme:E30 Cause:E13
+E21	Positive_regulation:T41 Theme:E28 Cause:E13
+E22	Positive_regulation:T41 Theme:E29 Cause:E13
+E23	Positive_regulation:T41 Theme:E27 Cause:E14
+E24	Positive_regulation:T41 Theme:E30 Cause:E14
+E25	Positive_regulation:T41 Theme:E28 Cause:E14
+E26	Positive_regulation:T41 Theme:E29 Cause:E14
+T42	Transport 617 629	mobilization
+E27	Transport:T42 Theme:T15
+T43	Positive_regulation 635 644	increases
+E28	Positive_regulation:T43 Theme:E31
+E29	Positive_regulation:T43 Theme:E33
+E30	Positive_regulation:T43 Theme:E32
+T44	Phosphorylation 736 751	phosphorylation
+E31	Phosphorylation:T44 Theme:T16
+E32	Phosphorylation:T44 Theme:T18
+T45	Gene_expression 764 774	expression
+E33	Gene_expression:T45 Theme:T21
+T46	Phosphorylation 941 955	phosphorylated
+E34	Phosphorylation:T46 Theme:T24
+T47	Positive_regulation 1128 1137	prolonged
+E35	Positive_regulation:T47 Theme:E36
+T48	Phosphorylation 1138 1153	phosphorylation
+E36	Phosphorylation:T48 Theme:T28
+T49	Regulation 1161 1171	correlated
+E37	Regulation:T49 Cause:E35 Theme:E38
+T50	Negative_regulation 1177 1184	reduced
+E38	Negative_regulation:T50 Theme:E39
+T51	Ubiquitination 1185 1199	ubiquitination
+E39	Ubiquitination:T51 Theme:T29
+T52	Negative_regulation 1229 1249	negatively regulates
+E40	Negative_regulation:T52 Theme:E41 Cause:E42
+T53	Pathway 1254 1263	signaling
+E41	Pathway:T53 Participant:T31
+T54	Regulation 1267 1276	targeting
+E42	Regulation:T54 Theme:E43 Cause:T30
+T55	Ubiquitination 1285 1299	ubiquitination
+E43	Ubiquitination:T55 Theme:T32

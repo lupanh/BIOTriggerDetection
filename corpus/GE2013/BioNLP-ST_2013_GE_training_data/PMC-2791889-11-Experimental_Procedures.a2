@@ -1,0 +1,6 @@
+T21	Negative_regulation 1375 1385	inhibitors
+T22	Negative_regulation 1402 1411	inhibitor
+T23	Negative_regulation 1432 1441	inhibitor
+E1	Negative_regulation:T21 Theme:T18
+E2	Negative_regulation:T22 Theme:T19
+E3	Negative_regulation:T23 Theme:T20

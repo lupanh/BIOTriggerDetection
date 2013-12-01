@@ -1,0 +1,74 @@
+*	Equiv T12 T13
+T45	Binding 4 11	binding
+E1	Binding:T45 Theme:T1
+E2	Binding:T45 Theme:T2
+T46	Positive_regulation 55 62	depends
+E3	Positive_regulation:T46 Theme:E2 Cause:E7
+E4	Positive_regulation:T46 Theme:E1 Cause:E7
+E5	Positive_regulation:T46 Theme:E2 Cause:E8
+E6	Positive_regulation:T46 Theme:E1 Cause:E8
+T47	Phosphorylation 66 81	phosphorylation
+E7	Phosphorylation:T47 Cause:T4 Site:T3 Theme:T1
+E8	Phosphorylation:T47 Cause:T4 Site:T3 Theme:T2
+T48	Binding 158 167	homodimer
+E9	Binding:T48 Theme:T6 Theme2:T5
+T49	Phosphorylation 255 270	phosphorylation
+E10	Phosphorylation:T49 Site:T9 Theme:T7
+E11	Phosphorylation:T49 Site:T9 Theme:T8
+T50	Positive_regulation 300 308	critical
+E12	Positive_regulation:T50 Theme:E16 Cause:E10
+E13	Positive_regulation:T50 Theme:E17 Cause:E10
+E14	Positive_regulation:T50 Theme:E16 Cause:E11
+E15	Positive_regulation:T50 Theme:E17 Cause:E11
+T51	Binding 317 324	binding
+E16	Binding:T51 Theme:T7
+E17	Binding:T51 Theme:T8
+T52	Phosphorylation 378 392	phosphorylated
+E18	Phosphorylation:T52 Theme:T10 Site:T11 Cause:T13
+T53	Binding 508 515	binding
+E19	Binding:T53 Theme:T14
+T54	Negative_regulation 639 649	inhibitors
+E20	Negative_regulation:T54 Theme:T15
+T55	Negative_regulation 650 657	blocked
+E21	Negative_regulation:T55 Theme:E22
+T56	Binding 670 677	binding
+E22	Binding:T56 Theme:T16
+T57	Phosphorylation 687 702	phosphorylation
+E23	Phosphorylation:T57 Theme:T17 Cause:T18
+T58	Negative_regulation 722 731	prevented
+E24	Negative_regulation:T58 Theme:E23 Cause:E25
+T59	Conversion 735 747	substitution
+E25	Conversion:T59 Theme:T19 Product:T20
+T60	Phosphorylation 838 852	phosphorylates
+E26	Phosphorylation:T60 Theme:T23
+T61	Binding 1040 1051	association
+E27	Binding:T61 Theme:T24 Theme2:T25
+T62	Negative_regulation 1056 1063	blocked
+E28	Negative_regulation:T62 Theme:E27
+T63	Phosphorylation 1128 1143	phosphorylation
+E29	Phosphorylation:T63 Theme:T27 Site:T28
+T64	Positive_regulation 1160 1168	involves
+E30	Positive_regulation:T64 Theme:E31 Cause:E29
+T65	Binding 1176 1183	contact
+E31	Binding:T65 Theme:T27 Theme2:T29
+T66	Positive_regulation 1244 1253	elevation
+E32	Positive_regulation:T66 Theme:E33
+T67	Binding 1273 1285	heterodimers
+E33	Binding:T67 Theme:T31
+T68	Positive_regulation 1286 1293	induced
+E34	Positive_regulation:T68 Theme:E32 Cause:T32
+T69	Binding 1330 1337	binding
+E35	Binding:T69 Theme:T33
+T70	Binding 1349 1359	homodimers
+E36	Binding:T70 Theme:T33
+T71	Regulation 1376 1383	altered
+E37	Regulation:T71 Theme:E35
+M1	Negation E37
+T72	Binding 1465 1476	interaction
+E38	Binding:T72 Theme:T34 Theme2:T35
+T73	Phosphorylation 1529 1544	phosphorylation
+E39	Phosphorylation:T73 Theme:T36 Site:T37 Cause:T34
+T74	Binding 1586 1591	bound
+E40	Binding:T74 Theme:T38
+T75	Phosphorylation 1688 1703	phosphorylation
+E41	Phosphorylation:T75 Theme:T40 Site:T41 Cause:T42

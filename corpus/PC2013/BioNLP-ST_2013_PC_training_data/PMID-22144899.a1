@@ -1,0 +1,28 @@
+T1	Gene_or_gene_product 36 39	Tir
+T2	Complex 58 67	NF-kappaB
+T3	Gene_or_gene_product 90 126	TNFalpha receptor-associated factors
+T4	Complex 616 625	NF-kappaB
+T5	Gene_or_gene_product 738 742	NleC
+T6	Gene_or_gene_product 747 751	NleH
+T7	Gene_or_gene_product 789 794	NleB1
+T8	Gene_or_gene_product 799 804	NleE1
+T9	Gene_or_gene_product 848 877	Translocated-intimin receptor
+T10	Gene_or_gene_product 879 882	Tir
+T11	Complex 938 947	NF-kappaB
+T12	Gene_or_gene_product 1065 1068	Tir
+T13	Gene_or_gene_product 1104 1139	TNFalpha receptor-associated factor
+T14	Gene_or_gene_product 1141 1145	TRAF
+T15	Cellular_component 1178 1189	proteasomal
+T16	Gene_or_gene_product 1246 1249	Tir
+T17	Gene_or_gene_product 1250 1254	TRAF
+T18	Gene_or_gene_product 1284 1287	Tir
+T19	Gene_or_gene_product 1294 1298	NleC
+T20	Gene_or_gene_product 1303 1307	NleH
+T21	Complex 1352 1361	NF-kappaB
+T22	Gene_or_gene_product 1392 1395	Tir
+T23	Complex 1513 1522	NF-kappaB
+T24	Gene_or_gene_product 1548 1553	NleB1
+T25	Gene_or_gene_product 1554 1559	NleE1
+T26	Gene_or_gene_product 1694 1697	Tir
+T27	Complex 1733 1742	NF-kappaB
+T28	Complex 1849 1858	NF-kappaB

@@ -1,0 +1,26 @@
+T1	Complex 14 23	NF-kappaB
+T2	Gene_or_gene_product 24 28	RelA
+T3	Gene_or_gene_product 77 80	p21
+T4	Gene_or_gene_product 81 84	ras
+T5	Gene_or_gene_product 90 110	protein kinase Czeta
+T6	Complex 183 192	NF-kappaB
+T7	Cellular_component 235 246	cytoplasmic
+T8	Gene_or_gene_product 260 267	IkappaB
+T9	Complex 350 359	NF-kappaB
+T10	Gene_or_gene_product 379 386	IkappaB
+T11	Gene_or_gene_product 456 460	RelA
+T12	Complex 472 481	NF-kappaB
+T13	Gene_or_gene_product 524 544	protein kinase Czeta
+T14	Gene_or_gene_product 546 553	PKCzeta
+T15	Gene_or_gene_product 559 562	p21
+T16	Gene_or_gene_product 563 566	ras
+T17	Gene_or_gene_product 610 614	RelA
+T18	Gene_or_gene_product 665 668	Rel
+T19	Gene_or_gene_product 794 801	PKCzeta
+T20	Gene_or_gene_product 805 808	p21
+T21	Gene_or_gene_product 809 812	ras
+T22	Gene_or_gene_product 833 837	RelA
+T23	Gene_or_gene_product 901 904	Raf
+T24	Gene_or_gene_product 905 908	MEK
+T25	Gene_or_gene_product 925 954	phosphatidylinositol 3-kinase
+T26	Gene_or_gene_product 960 991	stress-activated protein kinase

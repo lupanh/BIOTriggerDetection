@@ -1,0 +1,33 @@
+T1	Gene_or_gene_product 0 14	Interleukin-10
+T2	Complex 32 58	inhibitor of kappaB kinase
+T3	Complex 72 93	nuclear factor kappaB
+T4	Complex 133 154	nuclear factor kappaB
+T5	Complex 156 165	NF-kappaB
+T6	Complex 380 389	NF-kappaB
+T7	Cellular_component 423 432	cytoplasm
+T8	Complex 438 445	p50-p65
+T9	Gene_or_gene_product 490 497	IkappaB
+T10	Gene_or_gene_product 534 555	tumor necrosis factor
+T11	Gene_or_gene_product 557 560	TNF
+T12	Complex 572 581	NF-kappaB
+T13	Complex 617 632	IkappaB kinases
+T14	Complex 634 638	IKKs
+T15	Gene_or_gene_product 660 672	IkappaBalpha
+T16	Simple_chemical 676 694	serine residues 32
+T17	Simple_chemical 699 701	36
+T18	Cellular_component 745 760	26 S proteasome
+T19	Cellular_component 791 798	nuclear
+T20	Complex 820 829	NF-kappaB
+T21	Gene_or_gene_product 876 890	Interleukin-10
+T22	Gene_or_gene_product 892 897	IL-10
+T23	Complex 1075 1084	NF-kappaB
+T24	Gene_or_gene_product 1128 1133	IL-10
+T25	Gene_or_gene_product 1137 1140	TNF
+T26	Simple_chemical 1146 1149	LPS
+T27	Complex 1158 1167	NF-kappaB
+T28	Gene_or_gene_product 1288 1293	IL-10
+T29	Complex 1313 1322	NF-kappaB
+T30	Complex 1377 1380	IKK
+T31	Complex 1423 1432	NF-kappaB
+T32	Complex 1525 1528	IKK
+T33	Complex 1560 1563	IKK

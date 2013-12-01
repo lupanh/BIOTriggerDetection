@@ -1,0 +1,4 @@
+T2	Positive_regulation 1256 1265	increased
+T3	Positive_regulation 1285 1293	activity
+E1	Positive_regulation:T2 Theme:E2
+E2	Positive_regulation:T3 Theme:T1

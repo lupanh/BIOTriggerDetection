@@ -1,0 +1,46 @@
+T1	Gene_or_gene_product 18 43	c-Jun NH2-terminal kinase
+T2	Gene_or_gene_product 45 48	JNK
+T3	Gene_or_gene_product 111 144	activating transcription factor 2
+T4	Gene_or_gene_product 146 150	ATF2
+T5	Gene_or_gene_product 188 221	activating transcription factor 2
+T6	Gene_or_gene_product 223 227	ATF2
+T7	Gene_or_gene_product 248 289	ATF/cAMP-response element-binding protein
+T8	Simple_chemical 306 313	leucine
+T9	Gene_or_gene_product 399 403	ATF2
+T10	Gene_or_gene_product 460 485	c-Jun NH2-terminal kinase
+T11	Gene_or_gene_product 487 490	JNK
+T12	Simple_chemical 601 610	cisplatin
+T13	Simple_chemical 612 625	actinomycin D
+T14	Simple_chemical 627 630	MMS
+T15	Simple_chemical 636 645	etoposide
+T16	Simple_chemical 660 669	cisplatin
+T17	Simple_chemical 678 689	transplatin
+T18	Gene_or_gene_product 744 747	JNK
+T19	Gene_or_gene_product 749 752	p38
+T20	Gene_or_gene_product 758 795	extracellular signal-regulated kinase
+T21	Gene_or_gene_product 797 800	ERK
+T22	Gene_or_gene_product 845 849	ATF2
+T23	Simple_chemical 920 927	PD98059
+T24	Simple_chemical 929 937	SB202190
+T25	Simple_chemical 939 947	SP600125
+T26	Gene_or_gene_product 975 978	JNK
+T27	Gene_or_gene_product 1007 1010	JNK
+T28	Gene_or_gene_product 1019 1022	p38
+T29	Gene_or_gene_product 1033 1036	ERK
+T30	Gene_or_gene_product 1114 1118	ATF2
+T31	Gene_or_gene_product 1141 1145	ATF2
+T32	Simple_chemical 1286 1297	transplatin
+T33	Gene_or_gene_product 1352 1356	ATF2
+T34	Gene_or_gene_product 1358 1364	dnATF2
+T35	Gene_or_gene_product 1418 1422	ATF2
+T36	Gene_or_gene_product 1494 1498	ATF2
+T37	Simple_chemical 1620 1628	SB202190
+T38	Simple_chemical 1646 1654	SP600125
+T39	Gene_or_gene_product 1665 1668	JNK
+T40	Gene_or_gene_product 1790 1794	ATF2
+T41	Simple_chemical 1898 1909	transplatin
+T42	Gene_or_gene_product 1937 1943	dnATF2
+T43	Gene_or_gene_product 2006 2009	JNK
+T44	Gene_or_gene_product 2039 2043	ATF2
+T45	Gene_or_gene_product 2146 2149	p53
+T46	Gene_or_gene_product 2173 2176	JNK

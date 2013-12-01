@@ -1,0 +1,34 @@
+T1	Gene_or_gene_product 0 4	PAC1
+T2	Gene_or_gene_product 41 46	E2F-1
+T3	Gene_or_gene_product 72 77	E2F-1
+T4	Gene_or_gene_product 201 206	E2F-1
+T5	Gene_or_gene_product 296 301	E2F-1
+T6	Gene_or_gene_product 381 413	phosphatase of activated cells 1
+T7	Gene_or_gene_product 415 419	PAC1
+T8	Gene_or_gene_product 469 474	E2F-1
+T9	Gene_or_gene_product 520 525	E2F-1
+T10	Gene_or_gene_product 550 554	PAC1
+T11	Gene_or_gene_product 628 633	E2F-1
+T12	Gene_or_gene_product 676 680	PAC1
+T13	Gene_or_gene_product 753 757	PAC1
+T14	Gene_or_gene_product 768 773	E2F-1
+T15	Gene_or_gene_product 785 822	extracellular signal-regulated kinase
+T16	Gene_or_gene_product 824 827	ERK
+T17	Gene_or_gene_product 853 857	PAC1
+T18	Simple_chemical 950 977	N-4-hydroxyphenylretinamide
+T19	Simple_chemical 979 984	4-HPR
+T20	Gene_or_gene_product 1008 1012	PAC1
+T21	Gene_or_gene_product 1022 1025	ERK
+T22	Gene_or_gene_product 1090 1095	E2F-1
+T23	Gene_or_gene_product 1108 1112	PAC1
+T24	Gene_or_gene_product 1128 1131	ERK
+T25	Simple_chemical 1179 1184	4-HPR
+T26	Gene_or_gene_product 1225 1229	PAC1
+T27	Gene_or_gene_product 1233 1238	E2F-1
+T28	Gene_or_gene_product 1287 1292	E2F-1
+T29	Gene_or_gene_product 1350 1354	PAC1
+T30	Gene_or_gene_product 1389 1392	ERK
+T31	Gene_or_gene_product 1453 1458	E2F-1
+T32	Gene_or_gene_product 1463 1496	mitogen-activated protein kinases
+T33	Gene_or_gene_product 1502 1507	E2F-1
+T34	Gene_or_gene_product 1508 1512	PAC1

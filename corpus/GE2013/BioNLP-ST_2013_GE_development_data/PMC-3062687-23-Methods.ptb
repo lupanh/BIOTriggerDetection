@@ -1,0 +1,2 @@
+(S1 (S (NP (NN ELISA))))
+(S1 (S (S (NP (NP (DT The) (NN amount)) (PP (IN of) (NP (NP (NN IL-8)) (ADJP (JJ present) (PP (IN in) (NP (NP (NNS supernatants)) (VP (VBN collected) (PP (IN from) (NP (NN Jurkat) (NN cell) (NN culture)))))))))) (VP (VBD was) (VP (VBN measured) (S (VP (VBG using) (NP (NP (DT a) (JJ Human) (NN Interleukin-8) (NN ELISA) (NN Ready-SET-Go) (NN kit)) (PRN (-LRB- -LRB-) (NP (NN eBioscience)) (-RRB- -RRB-))) (PP (VBG according) (PP (TO to) (NP (NP (DT the) (NN manufacturer) (POS 's)) (NNS instructions))))))))) (. .)))

@@ -1,0 +1,64 @@
+T28	Binding 0 11	Association
+E1	Binding:T28 Theme:T1 Product:T2
+T29	Positive_regulation 85 93	critical
+E2	Positive_regulation:T29 Theme:E4 Cause:E1
+T30	Positive_regulation 102 110	enhances
+E3	Positive_regulation:T30 Theme:E4 Cause:E1
+T31	Phosphorylation 111 126	phosphorylation
+E4	Phosphorylation:T31 Theme:T1 Cause:T3
+T32	Phosphorylation 149 164	Phosphorylation
+E5	Phosphorylation:T32 Theme:T5 Cause:T4
+E6	Phosphorylation:T32 Theme:T6 Cause:T4
+M1	Speculation E5
+M2	Speculation E6
+T33	Phosphorylation 340 355	phosphorylation
+E7	Phosphorylation:T33 Theme:T8
+T34	Phosphorylation 545 557	incorporated
+E8	Phosphorylation:T34 Theme:T10
+T35	Phosphorylation 606 620	phosphorylated
+E9	Phosphorylation:T35 Theme:T13
+T36	Phosphorylation 689 697	modified
+E10	Phosphorylation:T36 Theme:T14
+T37	Dephosphorylation 885 902	Dephosphorylation
+E11	Dephosphorylation:T37 Theme:T17
+T38	Phosphorylation 929 943	phosphorylated
+E12	Phosphorylation:T38 Theme:T17 Cause:T18
+T39	Dephosphorylation 1043 1060	dephosphorylation
+E13	Dephosphorylation:T39 Theme:T19
+T40	Phosphorylation 1104 1118	phosphorylated
+E14	Phosphorylation:T40 Theme:T19
+T41	Phosphorylation 1127 1142	Phosphorylation
+E15	Phosphorylation:T41 Theme:T22
+E16	Phosphorylation:T41 Theme:T21
+E17	Phosphorylation:T41 Theme:T20
+T42	Regulation 1191 1197	affect
+E18	Regulation:T42 Theme:T20 Cause:E17
+E19	Regulation:T42 Theme:T20 Cause:E15
+E20	Regulation:T42 Theme:T20 Cause:E16
+M3	Negation E18
+M4	Negation E19
+M5	Negation E20
+T43	Phosphorylation 1299 1317	non-phosphorylated
+E21	Phosphorylation:T43 Theme:T24
+M6	Negation E21
+T44	Phosphorylation 1332 1346	phosphorylated
+E22	Phosphorylation:T44 Theme:T20
+T45	Positive_regulation 1355 1362	results
+E23	Positive_regulation:T45 Theme:E24
+T46	Dissociation 1370 1382	dissociation
+E24	Dissociation:T46 Theme:T20
+T47	Binding 1426 1437	interaction
+E25	Binding:T47 Theme:T25
+T48	Regulation 1488 1495	affects
+E26	Regulation:T48 Cause:E25 Theme:E29
+E27	Regulation:T48 Cause:E25 Theme:E28
+T49	Phosphorylation 1496 1511	phosphorylation
+E28	Phosphorylation:T49 Theme:T26
+T50	Dephosphorylation 1512 1529	dephosphorylation
+E29	Dephosphorylation:T50 Theme:T26
+T51	Phosphorylation 1556 1571	phosphorylation
+E30	Phosphorylation:T51 Theme:T26
+T52	Dephosphorylation 1572 1589	dephosphorylation
+E31	Dephosphorylation:T52 Theme:T26
+T53	Phosphorylation 1672 1687	phosphorylation
+E32	Phosphorylation:T53 Theme:T26

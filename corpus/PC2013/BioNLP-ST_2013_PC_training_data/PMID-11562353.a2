@@ -1,0 +1,37 @@
+T34	Regulation 120 130	regulating
+E1	Regulation:T34 Theme:E2
+T35	Pathway 135 145	cell cycle
+E2	Pathway:T35 
+T36	Binding 195 207	interactions
+E3	Binding:T36 Theme:T4
+T37	Pathway 275 285	cell cycle
+E4	Pathway:T37 
+T38	Regulation 286 296	regulatory
+E5	Regulation:T38 Theme:E4 Cause:T5
+E6	Regulation:T38 Theme:E4 Cause:T6
+T39	Binding 414 421	binding
+E7	Binding:T39 Theme:T8
+E8	Binding:T39 Theme:T7
+T40	Binding 980 987	binding
+E9	Binding:T40 Theme:T12 Theme2:T13
+E10	Binding:T40 Theme:T11 Theme2:T13
+M1	Negation E9
+T41	Binding 1042 1049	binding
+E11	Binding:T41 Theme:T14 Theme2:T15
+T42	Positive_regulation 1054 1062	enhanced
+E12	Positive_regulation:T42 Theme:E11 Cause:T16
+T43	Binding 1276 1283	binding
+E13	Binding:T43 Theme:T19 Theme2:T18
+T44	Regulation 1373 1380	control
+E14	Regulation:T44 Theme:T21
+T45	Binding 1410 1417	binding
+E15	Binding:T45 Theme:T22 Theme2:T23
+T46	Binding 1636 1643	binding
+E16	Binding:T46 Theme:T24
+E17	Binding:T46 Theme:T25
+T47	Binding 1691 1698	binding
+E18	Binding:T47 Theme:T26
+E19	Binding:T47 Theme:T27
+M2	Negation E19
+T48	Binding 1939 1946	binding
+E20	Binding:T48 Theme:T29

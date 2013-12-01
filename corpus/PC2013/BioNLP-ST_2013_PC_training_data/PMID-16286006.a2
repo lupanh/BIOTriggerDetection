@@ -1,0 +1,51 @@
+T21	Positive_regulation 14 21	mediate
+E1	Positive_regulation:T21 Theme:E3 Cause:T1
+E2	Positive_regulation:T21 Theme:E3 Cause:T2
+T22	Binding 22 30	assembly
+E3	Binding:T22 Product:T3
+T23	Activation 332 341	activated
+E4	Activation:T23 Theme:T5
+T24	Binding 457 468	maneuver on
+T25	Dissociation 457 476	maneuver on and off
+E5	Binding:T24 Theme:T6 Theme2:T8
+E6	Binding:T24 Theme:T7 Theme2:T8
+E7	Dissociation:T25 Product:T6 Theme:T8
+E8	Dissociation:T25 Product:T7 Theme:T8
+T26	Inactivation 601 609	inactive
+E9	Inactivation:T26 Theme:T9
+T27	Binding 616 626	associates
+E10	Binding:T27 Theme:T9 Theme:T10
+E11	Binding:T27 Theme:T10 Theme:T13
+E12	Binding:T27 Theme:T10 Theme:T12
+M1	Negation E11
+M2	Negation E12
+T28	Activation 665 674	activator
+E13	Activation:T28 Theme:T11 Cause:T12
+E14	Activation:T28 Theme:T11 Cause:T13
+T29	Positive_regulation 714 722	promotes
+E15	Positive_regulation:T29 Theme:E19
+E16	Positive_regulation:T29 Theme:E18
+E17	Positive_regulation:T29 Theme:E20
+T30	Binding 735 742	binding
+E18	Binding:T30 Theme:T14 Theme:T16
+E19	Binding:T30 Theme:T15 Theme:T16
+T31	Phosphorylation 767 782	phosphorylation
+E20	Phosphorylation:T31 Theme:T17
+T32	Phosphorylation 817 832	Phosphorylation
+E21	Phosphorylation:T32 Theme:T17
+T33	Positive_regulation 833 840	results
+E22	Positive_regulation:T33 Cause:E21 Theme:E25
+E23	Positive_regulation:T33 Cause:E21 Theme:E26
+E24	Positive_regulation:T33 Cause:E21 Theme:E27
+T34	Dissociation 849 861	dissociation
+E25	Dissociation:T34 Product:T18 Theme:T16
+T35	Activation 863 873	activation
+E26	Activation:T35 Theme:T18
+T36	Phosphorylation 890 905	phosphorylation
+E27	Phosphorylation:T36 Theme:T19
+T37	Binding 967 976	recruited
+E28	Binding:T37 Theme:T19 Theme2:T16
+T38	Phosphorylation 999 1014	phosphorylation
+E29	Phosphorylation:T38 Theme:T19
+T39	Positive_regulation 1015 1024	dependent
+E30	Positive_regulation:T39 Cause:E29 Theme:E28

@@ -1,0 +1,9 @@
+T5	Positive_regulation 45 55	contribute
+T6	Gene_expression 68 78	production
+T7	Positive_regulation 79 93	in response to
+T8	Gene_expression 498 508	production
+E1	Positive_regulation:T5 Theme:E2
+E2	Positive_regulation:T7 Theme:E3
+E3	Gene_expression:T6 Theme:T1
+E4	Gene_expression:T8 Theme:T3
+M1	Negation E1

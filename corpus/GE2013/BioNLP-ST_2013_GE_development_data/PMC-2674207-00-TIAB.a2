@@ -1,0 +1,55 @@
+*	Equiv T11 T12
+T17	Negative_regulation 0 11	Suppression
+T18	Entity 22 29	Nuclear
+T19	Localization 30 36	Import
+T20	Phosphorylation 41 56	Phosphorylation
+T21	Regulation 164 174	regulating
+T22	Gene_expression 179 189	expression
+T16	Anaphora 193 206	the cytokines
+T23	Regulation 461 467	effect
+T24	Regulation 523 533	regulation
+T25	Negative_regulation 755 763	inhibits
+T26	Entity 764 771	nuclear
+T27	Localization 772 785	translocation
+T28	Negative_regulation 905 916	competition
+T29	Positive_regulation 947 956	activated
+T30	Entity 985 992	nuclear
+T31	Localization 993 1002	transport
+T32	Positive_regulation 1073 1080	induces
+T33	Gene_expression 1085 1095	expression
+T34	Positive_regulation 1209 1218	necessary
+T35	Entity 1230 1237	nuclear
+T36	Localization 1238 1251	translocation
+T37	Negative_regulation 1373 1381	inhibits
+T38	Entity 1389 1396	nuclear
+T39	Localization 1397 1410	translocation
+T40	Negative_regulation 1518 1535	inhibitory effect
+R1	Coreference Subject:T16 Object:T3
+R2	Coreference Subject:T16 Object:T4
+R3	Coreference Subject:T16 Object:T5
+E1	Negative_regulation:T17 Theme:E2
+E2	Localization:T19 Theme:T1 ToLoc:T18
+E3	Negative_regulation:T17 Theme:E4
+E4	Phosphorylation:T20 Theme:T1
+E5	Regulation:T21 Theme:E6 Cause:T2
+E6	Gene_expression:T22 Theme:T3
+E7	Regulation:T21 Theme:E8 Cause:T2
+E8	Gene_expression:T22 Theme:T4
+E9	Regulation:T21 Theme:E10 Cause:T2
+E10	Gene_expression:T22 Theme:T5
+E11	Regulation:T23 Theme:E12
+E12	Regulation:T24 Theme:T7
+E13	Negative_regulation:T25 Theme:E14
+E14	Localization:T27 Theme:T8 ToLoc:T26
+E15	Negative_regulation:T28 Theme:E16
+E16	Localization:T31 Theme:T9 ToLoc:T30
+E17	Negative_regulation:T28 Theme:E18
+E18	Localization:T31 Theme:T10 ToLoc:T30
+E19	Positive_regulation:T29 Theme:T10
+E20	Positive_regulation:T32 Theme:E21
+E21	Gene_expression:T33 Theme:T11
+E22	Positive_regulation:T34 Theme:E23
+E23	Localization:T36 Theme:T13 ToLoc:T35
+E24	Negative_regulation:T37 Theme:E25
+E25	Localization:T39 Theme:T14 ToLoc:T38
+E26	Negative_regulation:T40 Theme:T15

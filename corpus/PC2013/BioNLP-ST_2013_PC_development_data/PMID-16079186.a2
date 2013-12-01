@@ -1,0 +1,50 @@
+*	Equiv T3 T4
+*	Equiv T5 T6
+*	Equiv T8 T9
+T25	Pathway 74 84	cell cycle
+E1	Pathway:T25 
+T26	Regulation 85 95	regulators
+E2	Regulation:T26 Theme:E1
+T27	Pathway 228 237	signaling
+E3	Pathway:T27 Participant:T3
+T28	Positive_regulation 603 611	increase
+E4	Positive_regulation:T28 Theme:E5
+T29	Phosphorylation 660 675	phosphorylation
+E5	Phosphorylation:T29 Theme:T6
+T30	Positive_regulation 696 704	increase
+E6	Positive_regulation:T30 Theme:T8
+T31	Positive_regulation 821 828	induced
+E7	Positive_regulation:T31 Theme:E8
+T32	Positive_regulation 832 840	increase
+E8	Positive_regulation:T32 Theme:E9
+T33	Gene_expression 862 872	expression
+E9	Gene_expression:T33 Theme:T10
+T34	Positive_regulation 923 931	increase
+E10	Positive_regulation:T34 Theme:E12
+T35	Positive_regulation 945 954	dependent
+E11	Positive_regulation:T35 Cause:T11 Theme:E12
+T36	Regulation 987 995	activity
+E12	Regulation:T36 Cause:T12 Theme:T13
+T37	Negative_regulation 1108 1117	prevented
+E13	Negative_regulation:T37 Cause:T14 Theme:E17
+E14	Negative_regulation:T37 Theme:T16 Cause:T14
+E15	Negative_regulation:T37 Cause:T14 Theme:E19
+E16	Negative_regulation:T37 Cause:T14 Theme:E20
+T38	Positive_regulation 1122 1130	increase
+E17	Positive_regulation:T38 Theme:E18
+T39	Gene_expression 1152 1162	expression
+E18	Gene_expression:T39 Theme:T15
+T40	Phosphorylation 1183 1198	phosphorylation
+E19	Phosphorylation:T40 Theme:T17
+T41	Positive_regulation 1208 1216	increase
+E20	Positive_regulation:T41 Theme:T18
+T42	Activation 1268 1278	activation
+E21	Activation:T42 Theme:T19
+T43	Regulation 1372 1380	modulate
+E22	Regulation:T43 Cause:T20 Theme:E24
+T44	Positive_regulation 1391 1400	dependent
+E23	Positive_regulation:T44 Cause:T21 Theme:T22
+T45	Regulation 1423 1433	regulation
+E24	Regulation:T45 Cause:T22 Theme:T23
+T46	Pathway 1634 1644	cell cycle
+E25	Pathway:T46 

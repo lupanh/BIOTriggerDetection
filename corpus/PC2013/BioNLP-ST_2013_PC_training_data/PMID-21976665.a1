@@ -1,0 +1,26 @@
+T1	Gene_or_gene_product 14 34	Pyrin-only protein 2
+T2	Gene_or_gene_product 36 40	POP2
+T3	Complex 70 79	NF-kappaB
+T4	Complex 138 147	NF-kappaB
+T5	Gene_or_gene_product 174 183	caspase-1
+T6	Gene_or_gene_product 196 204	IL-1beta
+T7	Gene_or_gene_product 289 308	Pyrin-only proteins
+T8	Gene_or_gene_product 310 314	POPs
+T9	Complex 440 449	NF-kappaB
+T10	Gene_or_gene_product 450 453	p65
+T11	Gene_or_gene_product 544 548	POP2
+T12	Gene_or_gene_product 660 664	POP2
+T13	Gene_or_gene_product 675 683	TNFalpha
+T14	Gene_or_gene_product 688 696	IL-1beta
+T15	Gene_or_gene_product 817 821	POP2
+T16	Complex 928 937	NF-kappaB
+T17	Simple_chemical 989 995	Glu(6)
+T18	Simple_chemical 997 1003	Asp(8)
+T19	Simple_chemical 1009 1016	Glu(16)
+T20	Gene_or_gene_product 1040 1045	Pyrin
+T21	Gene_or_gene_product 1046 1051	Pyrin
+T22	Gene_or_gene_product 1170 1174	POP2
+T23	Complex 1180 1189	NF-kappaB
+T24	Complex 1228 1237	NF-kappaB
+T25	Gene_or_gene_product 1263 1267	POP2
+T26	Gene_or_gene_product 1344 1348	POP2

@@ -1,0 +1,39 @@
+T1	Gene_or_gene_product 94 127	myeloid differentiation factor 88
+T2	Gene_or_gene_product 132 163	IL-1 receptor-associated kinase
+T3	Gene_or_gene_product 334 349	outer protein P
+T4	Gene_or_gene_product 351 355	YopP
+T5	Complex 401 411	NF-kappa B
+T6	Complex 445 455	NF-kappa B
+T7	Simple_chemical 572 575	LPS
+T8	Gene_or_gene_product 642 646	YopP
+T9	Gene_or_gene_product 803 807	YopP
+T10	Complex 868 878	NF-kappa B
+T11	Complex 907 919	LPS receptor
+T12	Gene_or_gene_product 947 980	myeloid differentiation factor 88
+T13	Gene_or_gene_product 982 987	MyD88
+T14	Gene_or_gene_product 992 1024	IL-1R-associated kinase (IRAK) 2
+T15	Simple_chemical 1036 1039	LPS
+T16	Gene_or_gene_product 1061 1065	YopP
+T17	Gene_or_gene_product 1117 1122	MyD88
+T18	Gene_or_gene_product 1127 1132	IRAK2
+T19	Gene_or_gene_product 1189 1194	IRAK1
+T20	Gene_or_gene_product 1199 1223	TNFR-associated factor 6
+T21	Gene_or_gene_product 1225 1230	TRAF6
+T22	Simple_chemical 1274 1277	LPS
+T23	Gene_or_gene_product 1315 1319	YopP
+T24	Gene_or_gene_product 1346 1351	IRAK1
+T25	Gene_or_gene_product 1356 1361	TRAF6
+T26	Complex 1403 1413	NF-kappa B
+T27	Gene_or_gene_product 1449 1453	IRAK
+T28	Gene_or_gene_product 1541 1546	IRAK1
+T29	Gene_or_gene_product 1551 1556	IRAK2
+T30	Simple_chemical 1613 1616	LPS
+T31	Gene_or_gene_product 1682 1691	caspase-8
+T32	Gene_or_gene_product 1735 1770	Fas-associated death domain protein
+T33	Gene_or_gene_product 1772 1776	FADD
+T34	Gene_or_gene_product 1871 1876	MyD88
+T35	Gene_or_gene_product 1881 1886	IRAK2
+T36	Gene_or_gene_product 1918 1953	Fas-associated death domain protein
+T37	Gene_or_gene_product 1954 1963	caspase-8
+T38	Gene_or_gene_product 1991 1996	IRAK1
+T39	Gene_or_gene_product 2001 2006	TRAF6

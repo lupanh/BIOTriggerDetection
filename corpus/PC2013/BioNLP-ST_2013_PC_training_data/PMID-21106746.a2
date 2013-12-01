@@ -1,0 +1,22 @@
+*	Equiv T5 T6
+*	Equiv T7 T8
+*	Equiv T16 T17
+T29	Binding 143 154	cooperative
+E1	Binding:T29 Theme:T2 Theme2:T1
+T30	Positive_regulation 253 259	causes
+E2	Positive_regulation:T30 Theme:E4
+E3	Positive_regulation:T30 Theme:E5
+T31	Positive_regulation 268 277	induction
+E4	Positive_regulation:T31 Theme:T3
+E5	Positive_regulation:T31 Theme:T4
+T32	Binding 812 817	binds
+E6	Binding:T32 Theme:T11 Theme2:T12
+T33	Positive_regulation 1000 1008	critical
+E7	Positive_regulation:T33 Theme:T18
+T34	Positive_regulation 1056 1064	enhanced
+E8	Positive_regulation:T34 Cause:T17 Theme:T18
+T35	Regulation 1301 1310	influence
+E9	Regulation:T35 Theme:E10
+M1	Negation E9
+T36	Gene_expression 1318 1328	expression
+E10	Gene_expression:T36 Theme:T21

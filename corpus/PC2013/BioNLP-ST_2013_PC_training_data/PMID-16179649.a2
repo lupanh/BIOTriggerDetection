@@ -1,0 +1,37 @@
+*	Equiv T5 T6
+T31	Pathway 43 53	cell-cycle
+E1	Pathway:T31 
+T32	Regulation 54 63	regulated
+E2	Regulation:T32 Theme:E3 Cause:T1
+T33	Negative_regulation 64 73	repressor
+E3	Negative_regulation:T33 Theme:T3
+T34	Regulation 162 171	effectors
+E4	Regulation:T34 Cause:T4 Theme:E5
+T35	Pathway 208 215	pathway
+E5	Pathway:T35 Participant:T6
+T36	Positive_regulation 224 233	essential
+E6	Positive_regulation:T36 Cause:T4 Theme:E7
+T37	Regulation 249 259	regulation
+E7	Regulation:T37 Theme:E8
+T38	Pathway 283 293	cell-cycle
+E8	Pathway:T38 
+T39	Binding 633 637	bind
+E9	Binding:T39 Theme:T14 Theme2:T15
+T40	Gene_expression 673 683	expression
+E10	Gene_expression:T40 Theme:T16
+T41	Positive_regulation 701 708	induced
+E11	Positive_regulation:T41 Theme:E10
+T42	Binding 759 764	binds
+E12	Binding:T42 Theme:T17
+T43	Binding 847 852	binds
+E13	Binding:T43 Theme:T19
+T44	Negative_regulation 913 921	inhibits
+E14	Negative_regulation:T44 Theme:T23 Cause:T22
+T45	Gene_expression 1012 1022	expression
+E15	Gene_expression:T45 Theme:T26
+T46	Regulation 1142 1146	role
+E16	Regulation:T46 Theme:E17
+T47	Negative_regulation 1151 1161	repressing
+E17	Negative_regulation:T47 Theme:T28
+T48	Pathway 1330 1340	cell cycle
+E18	Pathway:T48 

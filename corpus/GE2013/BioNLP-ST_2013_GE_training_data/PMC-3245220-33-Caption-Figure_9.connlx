@@ -1,0 +1,18 @@
+1	Proposed	_	VBN	_	_	0	ROOT	_	_
+2	model	_	NN	_	_	1	VMOD	_	_
+3	for	_	IN	_	_	2	NMOD	_	_
+4	M-CSF-induced	_	JJ	_	_	6	NMOD	_	_
+5	monocyte	_	NN	_	_	6	NMOD	_	_
+6	survival	_	NN	_	_	3	PMOD	_	_
+7	via	_	IN	_	_	1	VMOD	_	_
+8	PKC	_	NN	_	_	9	NMOD	_	_
+9	regulation	_	NN	_	_	7	PMOD	_	_
+10	by	_	IN	_	_	1	VMOD	_	_
+11	activating	_	VBG	_	_	10	PMOD	_	_
+12	NF-kappaB	_	NN	_	_	14	NMOD	_	_
+13	p65	_	NN	_	_	14	NMOD	_	_
+14	phosphorylation	_	NN	_	_	11	VMOD	_	_
+15	at	_	IN	_	_	11	VMOD	_	_
+16	Ser276	_	NN	_	_	15	PMOD	_	_
+17	.	_	.	_	_	1	P	_	_
+		

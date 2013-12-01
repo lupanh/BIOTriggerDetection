@@ -1,0 +1,35 @@
+T1	Gene_or_gene_product 8 12	mTOR
+T2	Gene_or_gene_product 47 73	elongation factor 2 kinase
+T3	Gene_or_gene_product 130 140	calmodulin
+T4	Gene_or_gene_product 143 187	Eukaryotic elongation factor 2 (eEF2) kinase
+T5	Simple_chemical 202 209	calcium
+T6	Gene_or_gene_product 215 225	calmodulin
+T7	Gene_or_gene_product 272 279	insulin
+T8	Simple_chemical 292 301	rapamycin
+T9	Gene_or_gene_product 312 316	mTOR
+T10	Gene_or_gene_product 344 351	insulin
+T11	Gene_or_gene_product 377 388	eEF2 kinase
+T12	Gene_or_gene_product 397 407	calmodulin
+T13	Simple_chemical 413 422	rapamycin
+T14	Gene_or_gene_product 485 496	eEF2 kinase
+T15	Simple_chemical 498 503	Ser78
+T16	Gene_or_gene_product 545 555	calmodulin
+T17	Gene_or_gene_product 616 623	insulin
+T18	Simple_chemical 629 638	rapamycin
+T19	Simple_chemical 695 700	Ser78
+T20	Gene_or_gene_product 750 785	phosphoinositide-dependent kinase 1
+T21	Simple_chemical 812 819	alanine
+T22	Gene_or_gene_product 855 862	insulin
+T23	Simple_chemical 867 876	rapamycin
+T24	Gene_or_gene_product 900 910	calmodulin
+T25	Gene_or_gene_product 914 925	eEF2 kinase
+T26	Gene_or_gene_product 933 944	eEF2 kinase
+T27	Simple_chemical 974 979	Ser78
+T28	Gene_or_gene_product 1003 1010	insulin
+T29	Gene_or_gene_product 1015 1019	mTOR
+T30	Gene_or_gene_product 1048 1052	eEF2
+T31	Gene_or_gene_product 1142 1146	mTOR
+T32	Gene_or_gene_product 1166 1176	S6 kinases
+T33	Gene_or_gene_product 1224 1228	mTOR
+T34	Gene_or_gene_product 1340 1351	eEF2 kinase
+T35	Gene_or_gene_product 1373 1377	mTOR

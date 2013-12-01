@@ -1,0 +1,30 @@
+*	Equiv T1 T2
+*	Equiv T5 T6
+T26	Negative_regulation 38 48	attenuator
+E1	Negative_regulation:T26 Theme:E2 Cause:T1
+T27	Pathway 62 71	signaling
+E2	Pathway:T27 Participant:T4
+T28	Negative_regulation 648 656	inhibits
+E3	Negative_regulation:T28 Theme:E4 Cause:E5
+T29	Pathway 667 676	signaling
+E4	Pathway:T29 Participant:T12
+T30	Binding 685 696	interaction
+E5	Binding:T30 Theme:T13 Theme2:T11
+T31	Negative_regulation 812 819	inhibit
+E6	Negative_regulation:T31 Theme:E7
+T32	Pathway 830 839	signaling
+E7	Pathway:T32 Participant:T16
+T33	Positive_regulation 904 913	activated
+E8	Positive_regulation:T33 Theme:E9
+T34	Pathway 924 933	signaling
+E9	Pathway:T34 Participant:T18
+T35	Negative_regulation 948 958	inhibition
+E10	Negative_regulation:T35 Theme:E11
+T36	Pathway 972 981	signaling
+E11	Pathway:T36 Participant:T19
+T37	Negative_regulation 1140 1150	attenuator
+E12	Negative_regulation:T37 Theme:E13 Cause:T21
+T38	Pathway 1164 1173	signaling
+E13	Pathway:T38 Participant:T23
+T39	Pathway 1202 1211	signaling
+E14	Pathway:T39 Participant:T24

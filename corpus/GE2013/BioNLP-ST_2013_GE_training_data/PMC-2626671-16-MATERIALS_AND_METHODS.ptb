@@ -1,0 +1,6 @@
+(S1 (S (NP (NP (NN Online) (JJ supplemental) (NN material)) (. .))))
+(S1 (S (S (NP (NNP Fig.) (NN S1)) (VP (VBZ shows) (NP (NP (DT the) (NN characterization)) (PP (IN of) (NP (NP (JJ peripheral) (JJ CD8+) (NN T) (NNS cells)) (PP (IN from) (NP (JJ Runx3-/-) (NNS mice)))))))) (. .)))
+(S1 (S (NP (NP (NN Fig)) (. .))))
+(S1 (S (S (NP (NN S2)) (VP (VBZ shows) (NP (NP (NN effector) (NN protein) (NN expression)) (PP (IN by) (NP (NP (NN Runx3) (ADJP (ADJP (JJ WT)) (CC and) (ADJP (JJ KO))) (NNS cells)) (PP (IN at) (NP (NP (NN day) (CD 4)) (PP (IN of) (NP (ADJP (FW in) (FW vitro)) (NN culture)))))))))) (. .)))
+(S1 (S (S (NP (NP (NN Primer) (NNS sequences)) (VP (VBN used) (PP (IN for) (NP (NN ChIP) (NNS experiments))))) (VP (VBP are) (VP (VBN shown) (PP (IN in) (NP (NN Table) (NN S1)))))) (. .)))
+(S1 (S (S (NP (JJ Online) (JJ supplemental) (NN material)) (VP (VBZ is) (ADJP (JJ available) (PP (IN at) (NP (NN http://www.jem.org/cgi/content/full/jem.20081242/DC1)))))) (. .)))

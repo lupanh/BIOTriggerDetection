@@ -1,0 +1,40 @@
+T26	Regulation 18 28	regulation
+E1	Regulation:T26 Theme:T1 Cause:T2
+T27	Gene_expression 445 455	expression
+E2	Gene_expression:T27 Theme:T8
+T28	Inactivation 459 468	knockdown
+E3	Inactivation:T28 Theme:T8
+T29	Localization 605 614	localizes
+E4	Localization:T29 Theme:T10 AtLoc:T11
+T30	Binding 638 647	interacts
+E5	Binding:T30 Theme:T10 Theme2:T12
+T31	Activation 670 681	coactivator
+E6	Activation:T31 Theme:T12
+T32	Negative_regulation 693 701	prevents
+E7	Negative_regulation:T32 Cause:E5 Theme:E8
+T33	Binding 711 718	binding
+E8	Binding:T33 Theme:T14 Theme2:T13
+T34	Negative_regulation 728 735	impairs
+E9	Negative_regulation:T34 Cause:E5 Theme:E10
+T35	Acetylation 740 751	acetylation
+E10	Acetylation:T35 Theme:T15
+T36	Negative_regulation 757 767	attenuates
+E11	Negative_regulation:T36 Theme:E12 Cause:E5
+T37	Binding 772 779	binding
+E12	Binding:T37 Theme:T16
+T38	Positive_regulation 823 830	induces
+E13	Positive_regulation:T38 Cause:T17 Theme:E15
+T39	Gene_expression 838 848	expression
+T40	Positive_regulation 838 848	expression
+E14	Gene_expression:T39 Theme:T18
+E15	Positive_regulation:T40 Cause:T19 Theme:E14
+T41	Regulation 886 896	sensitizes
+E16	Regulation:T41 Cause:T20 Theme:E18
+T42	Positive_regulation 916 923	induced
+E17	Positive_regulation:T42 Theme:E18 Cause:T21
+T43	Pathway 924 933	apoptosis
+E18	Pathway:T43 
+T44	Regulation 989 998	regulator
+E19	Regulation:T44 Theme:T23 Cause:T22
+T45	Pathway 1086 1095	signaling
+E20	Pathway:T45 Participant:T25

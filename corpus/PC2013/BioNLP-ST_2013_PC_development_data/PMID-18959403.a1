@@ -1,0 +1,17 @@
+T1	Simple_chemical 64 77	isoindolinone
+T2	Gene_or_gene_product 96 100	MDM2
+T3	Gene_or_gene_product 101 104	p53
+T4	Simple_chemical 217 230	isoindolinone
+T5	Gene_or_gene_product 249 253	MDM2
+T6	Gene_or_gene_product 254 257	p53
+T7	Simple_chemical 325 338	isoindolinone
+T8	Gene_or_gene_product 478 482	MDM2
+T9	Gene_or_gene_product 483 486	p53
+T10	Complex 504 512	MDM2-p53
+T11	Gene_or_gene_product 619 622	p53
+T12	Gene_or_gene_product 666 669	p53
+T13	Gene_or_gene_product 686 690	MDM2
+T14	Gene_or_gene_product 691 694	p53
+T15	Simple_chemical 763 777	Isoindolinones
+T16	Gene_or_gene_product 799 803	MDM2
+T17	Simple_chemical 1274 1288	isoindolinones

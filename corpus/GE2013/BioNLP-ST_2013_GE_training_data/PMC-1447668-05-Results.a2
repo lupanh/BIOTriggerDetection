@@ -1,0 +1,62 @@
+*	Equiv T13 T14
+*	Equiv T16 T17
+*	Equiv T28 T26
+*	Equiv T41 T42
+*	Equiv T47 T48
+*	Equiv T52 T53
+T59	Positive_regulation 714 728	overexpression
+T60	Positive_regulation 979 992	overexpressed
+T61	Gene_expression 1251 1265	overexpression
+T62	Positive_regulation 1708 1722	overexpression
+T63	Gene_expression 1749 1761	transfection
+T64	Binding 1965 1973	interact
+T65	Positive_regulation 2000 2014	overexpression
+T66	Negative_regulation 2217 2232	down-regulating
+T67	Gene_expression 2237 2247	expression
+T68	Binding 2368 2377	interacts
+T69	Localization 2503 2515	localization
+T70	Entity 2523 2530	nucleus
+T71	Binding 2714 2725	associating
+T57	Anaphora 2731 2749	this viral protein
+T72	Positive_regulation 3184 3198	overexpression
+T73	Negative_regulation 3316 3327	interfacing
+T58	Anaphora 3785 3798	viral antigen
+T74	Transcription 3799 3809	expression
+T75	Transcription 3936 3947	synthesized
+T76	Negative_regulation 3961 3975	down-regulated
+T77	Transcription 4023 4031	produced
+T78	Regulation 4107 4113	affect
+T79	Gene_expression 4121 4131	expression
+T80	Negative_regulation 4178 4188	repressing
+T81	Gene_expression 4193 4203	expression
+R1	Coreference Subject:T57 Object:T34
+R2	Coreference Subject:T58 Object:T50
+E1	Positive_regulation:T59 Theme:T8
+E2	Positive_regulation:T60 Theme:T12
+E3	Positive_regulation:T60 Theme:T13
+E4	Positive_regulation:T60 Theme:T14
+E5	Gene_expression:T61 Theme:T16
+E6	Gene_expression:T61 Theme:T17
+E7	Positive_regulation:T62 Theme:T21
+E8	Gene_expression:T63 Theme:T22
+E9	Binding:T64 Theme:T25
+E10	Positive_regulation:T65 Theme:T26
+E11	Negative_regulation:T66 Theme:E12 Cause:T29
+E12	Gene_expression:T67 Theme:T30
+E13	Binding:T68 Theme:T31
+E14	Localization:T69 Theme:T31 ToLoc:T70
+E15	Binding:T71 Theme:T33 Theme2:T34
+E16	Positive_regulation:T72 Theme:T41
+E17	Positive_regulation:T72 Theme:T42
+E18	Negative_regulation:T73 Theme:T45 Cause:T43
+E19	Transcription:T74 Theme:T50
+E20	Transcription:T75 Theme:T51
+E21	Negative_regulation:T76 Theme:E20 Cause:T52
+E22	Transcription:T77 Theme:T51
+E23	Regulation:T78 Theme:E24 Cause:T53
+E24	Gene_expression:T79 Theme:T54
+E25	Negative_regulation:T80 Theme:E26 Cause:T55
+E26	Gene_expression:T81 Theme:T56
+M1	Speculation E13
+M2	Speculation E15
+M3	Negation E23

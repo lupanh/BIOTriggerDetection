@@ -1,0 +1,18 @@
+T1	Simple_chemical 0 17	Phosphatidic acid
+T2	Gene_or_gene_product 51 55	mTOR
+T3	Gene_or_gene_product 72 101	mammalian target of rapamycin
+T4	Gene_or_gene_product 103 107	mTOR
+T5	Simple_chemical 272 289	phosphatidic acid
+T6	Simple_chemical 291 293	PA
+T7	Gene_or_gene_product 322 326	mTOR
+T8	Gene_or_gene_product 402 417	phospholipase D
+T9	Simple_chemical 453 455	PA
+T10	Gene_or_gene_product 494 498	mTOR
+T11	Simple_chemical 521 523	PA
+T12	Gene_or_gene_product 563 567	mTOR
+T13	Simple_chemical 588 597	rapamycin
+T14	Gene_or_gene_product 651 655	mTOR
+T15	Simple_chemical 719 721	PA
+T16	Gene_or_gene_product 725 729	mTOR
+T17	Gene_or_gene_product 863 867	mTOR
+T18	Simple_chemical 988 997	rapamycin

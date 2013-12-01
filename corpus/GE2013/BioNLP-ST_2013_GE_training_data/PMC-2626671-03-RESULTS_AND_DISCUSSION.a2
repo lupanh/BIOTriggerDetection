@@ -1,0 +1,51 @@
+*	Equiv T8 T9
+*	Equiv T10 T11
+T21	Gene_expression 9 19	expression
+T22	Gene_expression 187 197	expression
+T23	Gene_expression 270 280	expression
+T19	Anaphora 353 356	its
+T24	Gene_expression 357 367	expression
+T25	Transcription 402 417	mRNA expression
+T26	Positive_regulation 426 434	increase
+T27	Negative_regulation 482 490	decrease
+T28	Positive_regulation 520 532	reexpression
+T29	Transcription 609 628	low or undetectable
+T30	Positive_regulation 663 675	up-regulated
+T31	Positive_regulation 707 716	increased
+T32	Positive_regulation 819 832	remained high
+T33	Gene_expression 904 913	expressed
+T20	Anaphora 978 991	this capacity
+T34	Positive_regulation 992 1001	increased
+T35	Gene_expression 1481 1488	express
+T36	Gene_expression 2026 2036	expression
+T37	Gene_expression 2122 2132	expression
+T38	Positive_regulation 2160 2167	induced
+R1	Coreference Subject:T19 Object:T8
+R2	Coreference Subject:T20 Object:T33
+E1	Gene_expression:T21 Theme:T1
+E2	Gene_expression:T21 Theme:T2
+E3	Gene_expression:T22 Theme:T3
+E4	Gene_expression:T22 Theme:T4
+E5	Gene_expression:T23 Theme:T6
+E6	Gene_expression:T23 Theme:T7
+E7	Gene_expression:T24 Theme:T8
+E8	Transcription:T25 Theme:T8
+E9	Positive_regulation:T26 Theme:E8
+E10	Negative_regulation:T27 Theme:E8
+E11	Positive_regulation:T28 Theme:E8
+E12	Transcription:T29 Theme:T10
+E13	Positive_regulation:T30 Theme:T10
+E14	Positive_regulation:T31 Theme:T10
+E15	Positive_regulation:T32 Theme:T12
+E16	Gene_expression:T33 Theme:T13
+E17	Gene_expression:T33 Theme:T14
+E18	Positive_regulation:T34 Theme:E16
+E19	Positive_regulation:T34 Theme:E17
+E20	Gene_expression:T35 Theme:T15
+E21	Gene_expression:T36 Theme:T16
+E22	Gene_expression:T37 Theme:T17
+E23	Positive_regulation:T38 Theme:E22
+M1	Speculation E1
+M2	Speculation E2
+M3	Negation E9
+M4	Negation E12

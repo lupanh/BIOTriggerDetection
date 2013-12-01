@@ -1,0 +1,55 @@
+*	Equiv T6 T7
+T33	Pathway 13 23	cell cycle
+E1	Pathway:T33 
+T34	Transport 72 83	recruitment
+T35	Positive_regulation 72 83	recruitment
+E2	Transport:T34 Theme:T2
+E3	Positive_regulation:T35 Theme:E2 Cause:T1
+T36	Transport 620 629	recruited
+E4	Transport:T36 Theme:T6
+E5	Transport:T36 Theme:T8
+T37	Transport 807 818	recruitment
+E6	Transport:T37 Theme:T10
+T38	Positive_regulation 851 859	depended
+E7	Positive_regulation:T38 Theme:E6 Cause:T11
+E8	Positive_regulation:T38 Theme:E6 Cause:T12
+T39	Positive_regulation 893 901	required
+E9	Positive_regulation:T39 Cause:T13 Theme:E6
+T40	Transport 950 961	recruitment
+E10	Transport:T40 Theme:T14
+T41	Positive_regulation 991 998	require
+E11	Positive_regulation:T41 Theme:E10 Cause:T15
+E12	Positive_regulation:T41 Theme:E10 Cause:T16
+M1	Negation E11
+M2	Negation E12
+T42	Transport 1029 1040	recruitment
+E13	Transport:T42 Theme:T10
+E14	Transport:T42 Theme:T14
+T43	Positive_regulation 1079 1088	dependent
+E15	Positive_regulation:T43 Cause:T17 Theme:E9
+T44	Regulation 1094 1105	independent
+E16	Regulation:T44 Cause:T17 Theme:E9
+M3	Negation E16
+T45	Inactivation 1130 1134	loss
+E17	Inactivation:T45 Theme:T18
+T46	Regulation 1149 1155	effect
+E18	Regulation:T46 Cause:E17 Theme:E20
+E19	Regulation:T46 Cause:E17 Theme:E21
+M4	Negation E18
+M5	Negation E19
+T47	Transport 1175 1186	recruitment
+E20	Transport:T47 Theme:T19
+E21	Transport:T47 Theme:T20
+T48	Positive_regulation 1209 1218	triggered
+E22	Positive_regulation:T48 Theme:E24 Cause:T21
+E23	Positive_regulation:T48 Theme:E24 Cause:T22
+T49	Negative_regulation 1230 1234	loss
+E24	Negative_regulation:T49 Theme:E25
+T50	Localization 1251 1263	localization
+E25	Localization:T50 AtLoc:T24 Theme:T23
+T51	Transport 1493 1500	escorts
+T52	Positive_regulation 1493 1500	escorts
+E26	Transport:T51 Theme:T29 ToLoc:T30
+E27	Positive_regulation:T52 Theme:E26 Cause:T28
+T53	Pathway 1676 1686	cell cycle
+E28	Pathway:T53 

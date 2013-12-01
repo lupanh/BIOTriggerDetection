@@ -1,0 +1,23 @@
+T21	Activation 21 30	activates
+E1	Activation:T21 Theme:T1
+T22	Regulation 411 421	regulating
+E2	Regulation:T22 Theme:T7
+T23	Positive_regulation 488 498	transduced
+E3	Positive_regulation:T23 Theme:T8
+T24	Activation 558 567	activates
+E4	Activation:T24 Theme:T9
+T25	Activation 668 677	Activated
+E5	Activation:T25 Theme:T10
+T26	Phosphorylation 683 697	phosphorylates
+E6	Phosphorylation:T26 Cause:T10 Theme:T11
+E7	Phosphorylation:T26 Cause:T10 Theme:T12
+E8	Phosphorylation:T26 Cause:T10 Theme:T13
+E9	Phosphorylation:T26 Cause:T10 Theme:T14
+E10	Phosphorylation:T26 Cause:T10 Theme:T15
+T27	Phosphorylation 811 826	Phosphorylation
+E11	Phosphorylation:T27 Theme:T17
+E12	Phosphorylation:T27 Theme:T18
+T28	Positive_regulation 1017 1025	mediates
+E13	Positive_regulation:T28 Cause:T19 Theme:E14
+T29	Binding 1041 1053	interactions
+E14	Binding:T29 Theme:T20 Theme2:T19

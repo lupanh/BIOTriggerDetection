@@ -1,0 +1,24 @@
+T20	Positive_regulation 5 17	up-regulates
+E1	Positive_regulation:T20 Cause:T1 Theme:E2
+T21	Gene_expression 22 32	expression
+E2	Gene_expression:T21 Theme:T2
+T22	Negative_regulation 139 157	negative regulator
+E3	Negative_regulation:T22 Cause:T3 Theme:E4
+T23	Pathway 178 188	signalling
+E4	Pathway:T23 Participant:T4 Participant2:T5
+T24	Positive_regulation 254 261	induced
+E5	Positive_regulation:T24 Theme:T6 Cause:T7
+T25	Pathway 355 363	pathways
+E6	Pathway:T25 Participant:T8 Participant2:T9
+E7	Pathway:T25 Participant:T10 Participant2:T11
+T26	Negative_regulation 392 403	deregulated
+E8	Negative_regulation:T26 Theme:E6
+E9	Negative_regulation:T26 Theme:E7
+T27	Positive_regulation 464 476	up-regulates
+E10	Positive_regulation:T27 Cause:T12 Theme:T13
+T28	Positive_regulation 766 773	induces
+E11	Positive_regulation:T28 Cause:T17 Theme:E12
+T29	Regulation 774 787	stabilisation
+E12	Regulation:T29 Theme:T18
+T30	Regulation 820 830	regulation
+E13	Regulation:T30 Theme:E11

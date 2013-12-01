@@ -1,0 +1,34 @@
+*	Equiv T4 T5
+T23	Transport 50 61	cotransport
+E1	Transport:T23 Theme:T1
+E2	Transport:T23 Theme:T2
+T24	Positive_regulation 95 104	dependent
+E3	Positive_regulation:T24 Cause:T3 Theme:E4
+T25	Transport 105 114	transport
+E4	Transport:T25 Theme:T4
+T26	Transport 201 213	reabsorption
+E5	Transport:T26 Theme:T6
+T27	Transport 273 284	cotransport
+E6	Transport:T27 Theme:T7
+E7	Transport:T27 Theme:T8
+T28	Transport 446 455	transport
+T29	Positive_regulation 446 455	transport
+E8	Transport:T28 Theme:T12
+E9	Positive_regulation:T29 Cause:T13 Theme:E8
+T30	Regulation 497 507	Regulation
+E10	Regulation:T30 Theme:E11 Cause:T16
+T31	Transport 523 535	reabsorption
+E11	Transport:T31 Theme:T14
+T32	Positive_regulation 594 600	due to
+E12	Positive_regulation:T32 Cause:E13 Theme:E10
+T33	Regulation 604 614	alteration
+E13	Regulation:T33 Theme:T17
+T34	Transport 689 700	cotransport
+E14	Transport:T34 Theme:T18
+E15	Transport:T34 Theme:T19
+T35	Regulation 782 789	control
+E16	Regulation:T35 Theme:T20
+T36	Regulation 834 841	Altered
+E17	Regulation:T36 Theme:E18
+T37	Transport 845 857	reabsorption
+E18	Transport:T37 Theme:T21

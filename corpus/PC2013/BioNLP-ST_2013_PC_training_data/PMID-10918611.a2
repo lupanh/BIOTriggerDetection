@@ -1,0 +1,56 @@
+*	Equiv T12 T13
+T39	Phosphorylation 19 34	phosphorylation
+E1	Phosphorylation:T39 Theme:T2
+T40	Positive_regulation 35 44	dependent
+E2	Positive_regulation:T40 Theme:E4 Cause:T1
+E3	Positive_regulation:T40 Theme:E4 Cause:E1
+T41	Ubiquitination 45 59	ubiquitination
+E4	Ubiquitination:T41 Theme:T2
+T42	Positive_regulation 78 87	catalyzed
+E5	Positive_regulation:T42 Cause:T3 Theme:E4
+E6	Positive_regulation:T42 Cause:T4 Theme:E4
+T43	Localization 234 242	anchored
+E7	Localization:T43 AtLoc:T7 Theme:T6
+T44	Pathway 414 422	cascades
+E8	Pathway:T44 Participant:T9 Participant2:T10 Participant3:T11 Participant4:T12
+T45	Positive_regulation 427 436	initiated
+E9	Positive_regulation:T45 Theme:E8
+T46	Phosphorylation 483 497	phosphorylates
+E10	Phosphorylation:T46 Cause:T14 Theme:T15 Site:T16
+E11	Phosphorylation:T46 Cause:T14 Theme:T15 Site:T17
+T47	Positive_regulation 582 590	mediated
+E12	Positive_regulation:T47 Cause:T18 Theme:E13
+T48	Degradation 591 602	degradation
+E13	Degradation:T48 Theme:T15
+T49	Positive_regulation 670 679	mediating
+E14	Positive_regulation:T49 Theme:E15 Cause:T19
+T50	Phosphorylation 680 695	phosphorylation
+E15	Phosphorylation:T50 Theme:T21
+T51	Positive_regulation 696 705	dependent
+E16	Positive_regulation:T51 Theme:E17 Cause:E15
+T52	Ubiquitination 706 720	ubiquitination
+E17	Ubiquitination:T52 Theme:T21
+T53	Phosphorylation 762 777	phosphorylation
+E18	Phosphorylation:T53 Theme:T22
+T54	Positive_regulation 778 787	dependent
+E19	Positive_regulation:T54 Theme:E20 Cause:E18
+T55	Ubiquitination 788 802	ubiquitination
+E20	Ubiquitination:T55 Theme:T22
+T56	Ubiquitination 991 1005	ubiquitination
+E21	Ubiquitination:T56 Theme:T26 Cause:T27
+E22	Ubiquitination:T56 Theme:T26 Cause:T28
+T57	Phosphorylation 1047 1062	phosphorylation
+E23	Phosphorylation:T57 Theme:T26
+T58	Positive_regulation 1081 1090	dependent
+E24	Positive_regulation:T58 Theme:E22 Cause:E23
+E25	Positive_regulation:T58 Theme:E21 Cause:E23
+E26	Positive_regulation:T58 Theme:E22 Cause:T29
+E27	Positive_regulation:T58 Theme:E21 Cause:T29
+T59	Transport 1170 1178	isolated
+E28	Transport:T59 Theme:T30
+T60	Transport 1437 1448	transferred
+E29	Transport:T60 Theme:T35
+T61	Phosphorylation 1474 1481	phospho
+E30	Phosphorylation:T61 Theme:T37
+T62	Positive_regulation 1517 1526	dependent
+E31	Positive_regulation:T62 Cause:T38 Theme:E29

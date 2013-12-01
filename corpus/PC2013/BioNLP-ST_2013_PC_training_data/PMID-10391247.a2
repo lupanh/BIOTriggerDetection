@@ -1,0 +1,45 @@
+*	Equiv T8 T10
+*	Equiv T9 T11
+T46	Pathway 26 33	pathway
+E1	Pathway:T46 Participant:T1 Participant2:T2 Participant3:T3
+T47	Negative_regulation 34 45	antagonizes
+E2	Negative_regulation:T47 Cause:E1 Theme:E3
+T48	Pathway 46 56	signalling
+E3	Pathway:T48 Participant:T4 Participant2:T5
+T49	Pathway 117 135	signalling pathway
+E4	Pathway:T49 Participant:T6
+T50	Regulation 323 333	stabilizes
+E5	Regulation:T50 Cause:T12 Theme:T14
+T51	Binding 369 374	binds
+E6	Binding:T51 Theme:T14 Theme2:T15
+T52	Regulation 552 560	regulate
+E7	Regulation:T52 Theme:E9 Cause:T17
+E8	Regulation:T52 Theme:E9 Cause:T16
+T53	Pathway 565 575	signalling
+E9	Pathway:T53 Participant:T18
+T54	Activation 676 685	activated
+E10	Activation:T54 Cause:T22 Theme:T21
+T55	Regulation 928 936	involved
+E11	Regulation:T55 Theme:E13 Cause:T29
+E12	Regulation:T55 Theme:E13 Cause:T30
+M1	Speculation E11
+M2	Speculation E12
+T56	Pathway 944 954	signalling
+E13	Pathway:T56 Participant:T31
+T57	Activation 998 1008	activation
+E14	Activation:T57 Theme:T32
+T58	Positive_regulation 1009 1019	stimulates
+E15	Positive_regulation:T58 Cause:E14 Theme:T33
+T59	Phosphorylation 1228 1242	phosphorylates
+E16	Phosphorylation:T59 Cause:T38 Theme:T39
+E17	Phosphorylation:T59 Cause:T38 Theme:T40
+T60	Negative_regulation 1263 1271	inhibits
+E18	Negative_regulation:T60 Theme:E19 Cause:T38
+T61	Binding 1276 1287	interaction
+E19	Binding:T61 Theme:T41
+T62	Pathway 1359 1366	pathway
+E20	Pathway:T62 Participant:T42 Participant2:T43 Participant3:T44
+T63	Negative_regulation 1367 1387	negatively regulates
+E21	Negative_regulation:T63 Cause:E20 Theme:E22
+T64	Pathway 1396 1414	signalling pathway
+E22	Pathway:T64 Participant:T45

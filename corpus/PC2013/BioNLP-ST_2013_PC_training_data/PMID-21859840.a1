@@ -1,0 +1,18 @@
+T1	Gene_or_gene_product 28 32	FADD
+T2	Complex 91 100	NF-kappaB
+T3	Gene_or_gene_product 103 143	Fas-associated protein with death domain
+T4	Gene_or_gene_product 145 149	FADD
+T5	Cellular_component 156 165	cytosolic
+T6	Gene_or_gene_product 460 464	FADD
+T7	Gene_or_gene_product 468 472	FADD
+T8	Complex 567 576	NF-kappaB
+T9	Gene_or_gene_product 688 692	FADD
+T10	Gene_or_gene_product 813 817	FADD
+T11	Simple_chemical 845 854	NSC 47147
+T12	Gene_or_gene_product 888 892	FADD
+T13	Gene_or_gene_product 1004 1008	FADD
+T14	Gene_or_gene_product 1051 1071	casein kinase 1alpha
+T15	Simple_chemical 1073 1082	NSC 47147
+T16	Gene_or_gene_product 1117 1121	FADD
+T17	Complex 1126 1135	NF-kappaB
+T18	Gene_or_gene_product 1559 1563	FADD

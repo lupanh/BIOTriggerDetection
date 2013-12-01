@@ -1,0 +1,8 @@
+T4	Gene_expression 56 65	expressed
+T5	Positive_regulation 66 71	under
+E1	Gene_expression:T4 Theme:T1
+E2	Gene_expression:T4 Theme:T2
+E3	Gene_expression:T4 Theme:T3
+E4	Positive_regulation:T5 Theme:E1
+E5	Positive_regulation:T5 Theme:E2
+E6	Positive_regulation:T5 Theme:E3

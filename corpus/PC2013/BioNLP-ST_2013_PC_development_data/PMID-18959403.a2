@@ -1,0 +1,28 @@
+T18	Binding 47 54	binding
+E1	Binding:T18 Theme:T1
+T19	Binding 105 116	interaction
+E2	Binding:T19 Theme:T2 Theme2:T3
+T20	Binding 170 177	binding
+E3	Binding:T20 Theme:T4
+T21	Binding 258 269	interaction
+E4	Binding:T21 Theme:T5 Theme2:T6
+T22	Localization 297 305	location
+E5	Localization:T22 Theme:T7
+T23	Binding 339 346	binding
+E6	Binding:T23 Theme:T7
+T24	Binding 487 498	interaction
+E7	Binding:T24 Theme:T8 Theme2:T9
+T25	Dissociation 656 665	releasing
+T26	Positive_regulation 656 665	releasing
+E8	Dissociation:T25 Product:T12 Theme:T10
+E9	Positive_regulation:T26 Theme:E8 Cause:E10
+T27	Negative_regulation 673 681	blocking
+E10	Negative_regulation:T27 Theme:E11 Cause:E6
+T28	Binding 695 702	binding
+E11	Binding:T28 Theme:T14 Theme2:T13
+T29	Positive_regulation 744 751	promote
+E12	Positive_regulation:T29 Theme:E13 Cause:E10
+T30	Pathway 752 761	apoptosis
+E13	Pathway:T30 
+T31	Binding 828 836	affinity
+E14	Binding:T31 Theme:T16 Theme2:T15

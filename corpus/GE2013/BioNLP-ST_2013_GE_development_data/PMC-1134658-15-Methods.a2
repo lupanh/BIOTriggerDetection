@@ -1,0 +1,33 @@
+T13	Transcription 39 49	expression
+T14	Gene_expression 61 71	expression
+T15	Transcription 575 590	mRNA expression
+T16	Gene_expression 925 935	expression
+T17	Gene_expression 1130 1140	expression
+T12	Anaphora 1181 1183	it
+T18	Gene_expression 1202 1221	have low expression
+R1	Coreference Subject:T12 Object:T11
+E1	Transcription:T13 Theme:T3
+E2	Transcription:T13 Theme:T4
+E3	Transcription:T13 Theme:T5
+E4	Transcription:T13 Theme:T6
+E5	Gene_expression:T14 Theme:T2
+E6	Transcription:T15 Theme:T3
+E7	Transcription:T15 Theme:T4
+E8	Transcription:T15 Theme:T5
+E9	Transcription:T15 Theme:T6
+E10	Gene_expression:T16 Theme:T8
+E11	Gene_expression:T16 Theme:T9
+E12	Gene_expression:T17 Theme:T10
+E13	Gene_expression:T18 Theme:T11
+M1	Speculation E1
+M2	Speculation E2
+M3	Speculation E3
+M4	Speculation E4
+M5	Speculation E5
+M6	Speculation E6
+M7	Speculation E7
+M8	Speculation E8
+M9	Speculation E9
+M10	Speculation E10
+M11	Speculation E11
+M12	Speculation E12

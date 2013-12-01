@@ -1,0 +1,15 @@
+*	Equiv T5 T6
+T22	Binding 366 370	bind
+E1	Binding:T22 Theme:T7 Theme2:T5
+T23	Regulation 416 422	target
+E2	Regulation:T23 Cause:T8 Theme:E5
+E3	Regulation:T23 Cause:T8 Theme:E6
+E4	Regulation:T23 Cause:T8 Theme:E7
+T24	Degradation 450 461	degradation
+E5	Degradation:T24 Theme:T9
+E6	Degradation:T24 Theme:T10
+E7	Degradation:T24 Theme:T11
+T25	Degradation 498 509	proteolysis
+E8	Degradation:T25 Theme:T12
+T26	Localization 773 779	reside
+E9	Localization:T26 Theme:T16 AtLoc:T17

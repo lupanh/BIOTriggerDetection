@@ -1,0 +1,33 @@
+T1	Gene_or_gene_product 18 22	TSC1
+T2	Gene_or_gene_product 23 24	2
+T3	Gene_or_gene_product 25 29	mTOR
+T4	Gene_or_gene_product 70 75	REDD1
+T5	Gene_or_gene_product 85 91	14-3-3
+T6	Complex 201 243	target of rapamycin (TOR) kinase complex 1
+T7	Complex 245 250	TORC1
+T8	Gene_or_gene_product 330 334	TSC1
+T9	Gene_or_gene_product 335 336	2
+T10	Gene_or_gene_product 345 350	REDD1
+T11	Gene_or_gene_product 401 406	TORC1
+T12	Gene_or_gene_product 587 592	REDD1
+T13	Complex 602 617	mammalian TORC1
+T14	Complex 619 625	mTORC1
+T15	Gene_or_gene_product 649 653	TSC2
+T16	Gene_or_gene_product 713 719	14-3-3
+T17	Gene_or_gene_product 741 746	REDD1
+T18	Complex 795 806	TSC2/14-3-3
+T19	Complex 825 831	mTORC1
+T20	Gene_or_gene_product 856 861	REDD1
+T21	Gene_or_gene_product 888 894	14-3-3
+T22	Complex 922 933	TSC2/14-3-3
+T23	Complex 951 957	mTORC1
+T24	Gene_or_gene_product 976 980	TSC2
+T25	Gene_or_gene_product 1006 1012	14-3-3
+T26	Complex 1050 1056	mTORC1
+T27	Gene_or_gene_product 1076 1081	REDD1
+T28	Complex 1170 1176	mTORC1
+T29	Gene_or_gene_product 1201 1206	REDD1
+T30	Gene_or_gene_product 1275 1280	REDD1
+T31	Gene_or_gene_product 1402 1406	TSC1
+T32	Gene_or_gene_product 1407 1408	2
+T33	Gene_or_gene_product 1451 1456	REDD1

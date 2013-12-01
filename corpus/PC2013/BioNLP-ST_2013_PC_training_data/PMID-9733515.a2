@@ -1,0 +1,25 @@
+*	Equiv T5 T6
+T18	Activation 0 10	Activation
+E1	Activation:T18 Theme:T1
+T19	Phosphorylation 55 70	phosphorylation
+E2	Phosphorylation:T19 Theme:T2 Cause:T1
+T20	Activation 116 125	activated
+E3	Activation:T20 Theme:T3
+T21	Phosphorylation 130 144	phosphorylated
+E4	Phosphorylation:T21 Theme:T3 Site:T4
+T22	Phosphorylation 410 424	phosphorylated
+E5	Phosphorylation:T22 Cause:T8 Theme:T9 Site:T10
+T23	Positive_regulation 457 466	dependent
+E6	Positive_regulation:T23 Cause:T11 Theme:E5
+T24	Positive_regulation 534 542	enhanced
+E7	Positive_regulation:T24 Theme:T13
+T25	Positive_regulation 552 560	directed
+E8	Positive_regulation:T25 Cause:T12 Theme:T13
+T26	Phosphorylation 641 656	phosphorylation
+E9	Phosphorylation:T26 Theme:T14 Site:T15
+T27	Positive_regulation 680 688	response
+E10	Positive_regulation:T27 Theme:E9
+T28	Negative_regulation 714 721	reduced
+E11	Negative_regulation:T28 Theme:E9
+T29	Phosphorylation 796 810	phosphorylates
+E12	Phosphorylation:T29 Cause:T16 Theme:T17

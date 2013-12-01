@@ -1,0 +1,37 @@
+*	Equiv T1 T2
+*	Equiv T4 T5
+*	Equiv T6 T7
+*	Equiv T12 T13 T14 T15
+T30	Phosphorylation 61 67	kinase
+E1	Phosphorylation:T30 Theme:T3 Cause:T1
+T31	Binding 136 146	associated
+E2	Binding:T31 Theme:T4
+T32	Regulation 167 176	important
+E3	Regulation:T32 Theme:T8 Cause:T4
+T33	Phosphorylation 245 260	phosphorylation
+E4	Phosphorylation:T33 Theme:T9
+T34	Regulation 275 283	regulate
+E5	Regulation:T34 Cause:E4 Theme:E6
+M1	Speculation E5
+T35	Binding 288 295	binding
+E6	Binding:T35 Theme:T10
+T36	Binding 465 474	interacts
+E7	Binding:T36 Theme:T16 Theme2:T12
+T37	Phosphorylation 502 516	phosphorylated
+E8	Phosphorylation:T37 Theme:T17
+T38	Phosphorylation 605 619	phosphorylated
+E9	Phosphorylation:T38 Theme:T17 Cause:T19
+T39	Negative_regulation 694 703	inhibited
+E10	Negative_regulation:T39 Cause:T21 Theme:E11
+T40	Binding 731 735	bind
+E11	Binding:T40 Theme:T22
+T41	Positive_regulation 816 824	positive
+E12	Positive_regulation:T41 Theme:T25
+T42	Negative_regulation 829 845	negative control
+E13	Negative_regulation:T42 Theme:T25
+T43	Phosphorylation 882 888	kinase
+E14	Phosphorylation:T43 Theme:T27 Cause:T26
+T44	Positive_regulation 889 910	positively regulating
+E15	Positive_regulation:T44 Cause:T26 Theme:E16
+T45	Binding 918 925	binding
+E16	Binding:T45 Theme:T29

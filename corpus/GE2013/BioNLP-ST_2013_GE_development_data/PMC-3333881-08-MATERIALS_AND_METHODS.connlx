@@ -1,0 +1,39 @@
+1	Immunoprecipitation	_	NN	_	_	2	NMOD	_	_
+2	assay	_	NN	_	_	0	ROOT	_	_
+3	and	_	CC	_	_	2	COORD	_	_
+4	GST-pull	_	NN	_	_	5	NMOD	_	_
+5	down	_	NN	_	_	3	CONJ	_	_
+		
+1	Immunoprecipitation	_	NN	_	_	16	VMOD	_	_
+2	,	_	,	_	_	1	P	_	_
+3	GST-pull	_	NN	_	_	4	NMOD	_	_
+4	down	_	NN	_	_	1	COORD	_	_
+5	,	_	,	_	_	4	P	_	_
+6	and	_	CC	_	_	4	COORD	_	_
+7	production	_	NN	_	_	6	CONJ	_	_
+8	of	_	IN	_	_	1	NMOD	_	_
+9	GST	_	NN	_	_	10	NMOD	_	_
+10	proteins	_	NNS	_	_	8	PMOD	_	_
+11	in	_	IN	_	_	1	NMOD	_	_
+12	Escherichia	_	FW	_	_	13	AMOD	_	_
+13	coli	_	FW	_	_	15	NMOD	_	_
+14	strain	_	NN	_	_	15	NMOD	_	_
+15	BL21	_	NN	_	_	11	PMOD	_	_
+16	were	_	VBD	_	_	0	ROOT	_	_
+17	performed	_	VBN	_	_	16	VC	_	_
+18	as	_	IN	_	_	17	VMOD	_	_
+19	previously	_	RB	_	_	20	VMOD	_	_
+20	reported	_	VBN	_	_	18	SUB	_	_
+21	(	_	(	_	_	22	P	_	_
+22	50	_	CD	_	_	20	PRN	_	_
+23	)	_	)	_	_	22	P	_	_
+24	.	_	.	_	_	16	P	_	_
+		
+1	Details	_	NNS	_	_	2	VMOD	_	_
+2	are	_	VBP	_	_	0	ROOT	_	_
+3	described	_	VBN	_	_	2	VC	_	_
+4	in	_	IN	_	_	3	VMOD	_	_
+5	Supplementary	_	JJ	_	_	6	NMOD	_	_
+6	Data	_	NNS	_	_	4	PMOD	_	_
+7	.	_	.	_	_	2	P	_	_
+		

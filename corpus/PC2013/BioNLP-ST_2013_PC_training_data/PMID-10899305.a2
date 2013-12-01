@@ -1,0 +1,33 @@
+*	Equiv T1 T2
+*	Equiv T4 T5
+*	Equiv T13 T14
+*	Equiv T15 T16
+*	Equiv T18 T19
+*	Equiv T24 T25
+*	Equiv T30 T31
+*	Equiv T34 T35
+T36	Transport 0 13	Translocation
+E1	Transport:T36 Theme:T1 ToLoc:T3
+T37	Activation 119 125	active
+E2	Activation:T37 Theme:T4
+T38	Phosphorylation 258 272	phosphorylated
+E3	Phosphorylation:T38 Theme:T7
+T39	Transport 368 381	translocation
+E4	Transport:T39 Theme:T10 ToLoc:T9
+T40	Transport 434 447	translocation
+E5	Transport:T40 Theme:T12
+T41	Activation 471 480	activated
+E6	Activation:T41 Cause:T11 Theme:T12
+T42	Positive_regulation 704 713	dependent
+E7	Positive_regulation:T42 Theme:E9 Cause:T13
+E8	Positive_regulation:T42 Theme:E9 Cause:T15
+T43	Transport 722 735	translocation
+E9	Transport:T43 ToLoc:T17 Theme:T18
+T44	Activation 742 748	active
+E10	Activation:T44 Theme:T18
+T45	Positive_regulation 908 917	increased
+E11	Positive_regulation:T45 Theme:T24
+T46	Negative_regulation 1150 1159	inhibitor
+E12	Negative_regulation:T46 Theme:T26 Cause:T27
+T47	Transport 1509 1522	translocation
+E13	Transport:T47 ToLoc:T33 Theme:T34

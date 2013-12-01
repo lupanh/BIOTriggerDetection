@@ -1,0 +1,28 @@
+T1	Gene_or_gene_product 0 5	Nud1p
+T2	Cellular_component 12 30	astral microtubule
+T3	Cellular_component 101 118	spindle pole body
+T4	Cellular_component 120 123	SPB
+T5	Cellular_component 148 154	astral
+T6	Cellular_component 159 179	nuclear microtubules
+T7	Cellular_component 301 304	SPB
+T8	Gene_or_gene_product 315 320	Nud1p
+T9	Cellular_component 376 394	astral microtubule
+T10	Gene_or_gene_product 418 423	Nud1p
+T11	Complex 464 477	gamma-tubulin
+T12	Gene_or_gene_product 502 508	Spc72p
+T13	Gene_or_gene_product 527 532	Nud1p
+T14	Gene_or_gene_product 582 587	Nud1p
+T15	Cellular_component 598 605	spindle
+T16	Gene_or_gene_product 634 639	Bfa1p
+T17	Gene_or_gene_product 644 649	Bub2p
+T18	Cellular_component 657 660	SPB
+T19	Gene_or_gene_product 742 747	CDC15
+T20	Gene_or_gene_product 766 770	LTE1
+T21	Gene_or_gene_product 794 800	nud1-2
+T22	Gene_or_gene_product 826 831	Tem1p
+T23	Gene_or_gene_product 879 885	Cdc15p
+T24	Cellular_component 915 918	SPB
+T25	Gene_or_gene_product 929 935	nud1-2
+T26	Gene_or_gene_product 957 962	Tem1p
+T27	Gene_or_gene_product 980 986	Cdc15p
+T28	Cellular_component 994 997	SPB

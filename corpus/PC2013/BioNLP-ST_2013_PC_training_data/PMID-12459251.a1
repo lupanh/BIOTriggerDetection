@@ -1,0 +1,33 @@
+T1	Gene_or_gene_product 8 15	cyclins
+T2	Gene_or_gene_product 85 99	D-type cyclins
+T3	Gene_or_gene_product 198 212	D-type cyclins
+T4	Gene_or_gene_product 238 262	cyclin-dependent kinases
+T5	Gene_or_gene_product 263 267	Cdk4
+T6	Gene_or_gene_product 272 276	Cdk6
+T7	Gene_or_gene_product 335 357	retinoblastoma protein
+T8	Gene_or_gene_product 358 360	Rb
+T9	Gene_or_gene_product 367 369	Rb
+T10	Gene_or_gene_product 391 394	E2F
+T11	Gene_or_gene_product 514 522	cyclin D
+T12	Gene_or_gene_product 565 572	Kip/Cip
+T13	Complex 592 604	cyclinE/Cdk2
+T14	Gene_or_gene_product 672 680	cyclin D
+T15	Gene_or_gene_product 765 767	Rb
+T16	Gene_or_gene_product 768 771	E2F
+T17	Gene_or_gene_product 795 804	cyclin D1
+T18	Gene_or_gene_product 1048 1057	cyclin D1
+T19	Gene_or_gene_product 1122 1125	cdk
+T20	Gene_or_gene_product 1165 1167	Rb
+T21	Gene_or_gene_product 1182 1190	cyclin D
+T22	Gene_or_gene_product 1389 1393	Cdk4
+T23	Gene_or_gene_product 1523 1531	cyclin D
+T24	Gene_or_gene_product 1547 1565	histone acetylases
+T25	Gene_or_gene_product 1574 1579	P/CAF
+T26	Gene_or_gene_product 1583 1587	NcoA
+T27	Gene_or_gene_product 1588 1593	SRC1a
+T28	Gene_or_gene_product 1660 1670	TAF(II)250
+T29	Gene_or_gene_product 1727 1735	cyclin D
+T30	Gene_or_gene_product 1794 1797	cdk
+T31	Gene_or_gene_product 1818 1827	cyclin D1
+T32	Gene_or_gene_product 1876 1885	cyclin D1
+T33	Gene_or_gene_product 1929 1932	cdk

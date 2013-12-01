@@ -1,0 +1,13 @@
+*	Equiv T4 T5
+T19	Conversion 23 31	modified
+E1	Conversion:T19 Theme:T2 Theme2:T1
+T20	Binding 49 66	complex formation
+E2	Binding:T20 Theme:T3 Theme2:T1
+T21	Conversion 946 957	sumoylation
+E3	Conversion:T21 Theme:T7
+T22	Conversion 1278 1286	modified
+E4	Conversion:T22 Theme:T12 Theme2:T13
+T23	Conversion 1317 1325	modified
+E5	Conversion:T23 Theme:T14 Theme2:T15
+T24	Conversion 1434 1442	modified
+E6	Conversion:T24 Theme:T16 Theme2:T17

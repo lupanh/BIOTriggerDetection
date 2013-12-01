@@ -1,0 +1,25 @@
+*	Equiv T11 T12
+T28	Binding 462 469	complex
+E1	Binding:T28 Theme:T10 Theme2:T11
+T29	Negative_regulation 684 693	deficient
+E2	Negative_regulation:T29 Theme:T14
+T30	Gene_expression 712 719	express
+E3	Gene_expression:T30 Theme:T15
+E4	Gene_expression:T30 Theme:T16
+T31	Gene_expression 763 772	expressed
+E5	Gene_expression:T31 Theme:T15
+E6	Gene_expression:T31 Theme:T16
+T32	Gene_expression 912 921	expressed
+E7	Gene_expression:T32 Theme:T19
+E8	Gene_expression:T32 Theme:T20
+T33	Positive_regulation 1099 1107	involves
+E9	Positive_regulation:T33 Theme:E10
+T34	Methylation 1112 1128	hypermethylation
+E10	Methylation:T34 Theme:T26
+T35	Positive_regulation 1288 1299	dispensable
+E11	Positive_regulation:T35 Theme:E13 Cause:T27
+M1	Negation E11
+T36	Pathway 1304 1314	cell-cycle
+E12	Pathway:T36 
+T37	Regulation 1315 1325	regulation
+E13	Regulation:T37 Theme:E12

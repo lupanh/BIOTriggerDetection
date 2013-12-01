@@ -1,0 +1,33 @@
+T14	Regulation 25 35	regulation
+E1	Regulation:T14 Theme:E2
+T15	Transport 44 53	transport
+E2	Transport:T15 Theme:T1
+T16	Regulation 105 115	regulation
+E3	Regulation:T16 Theme:E4
+T17	Transport 123 132	transport
+E4	Transport:T17 Theme:T2
+T18	Transport 197 206	transport
+E5	Transport:T18 Theme:T3
+T19	Transport 272 278	uptake
+E6	Transport:T19 Theme:T4
+T20	Pathway 280 288	pathways
+E7	Pathway:T20 Participant:T5
+T21	Transport 298 304	efflux
+E8	Transport:T21 Theme:T5
+T22	Transport 374 383	transport
+E9	Transport:T22 Theme:T7 ToLoc:T8 FromLoc:T8
+E10	Transport:T22 Theme:T7 FromLoc:T6 ToLoc:T6
+T23	Regulation 474 481	control
+E11	Regulation:T23 Theme:E12
+T24	Transport 487 499	assimilation
+E12	Transport:T24 Theme:T9
+T25	Transport 505 514	transport
+E13	Transport:T25 Theme:T12
+T26	Binding 535 540	bound
+E14	Binding:T26 Theme:T10 Theme2:T12
+T27	Binding 560 565	bound
+E15	Binding:T27 Theme:T11 Theme2:T12
+T28	Regulation 620 630	regulation
+E16	Regulation:T28 Theme:E17
+T29	Transport 639 648	transport
+E17	Transport:T29 Theme:T13

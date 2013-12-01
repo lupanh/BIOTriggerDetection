@@ -1,0 +1,50 @@
+*	Equiv T7 T8
+*	Equiv T14 T13
+T38	Regulation 267 276	regulates
+E1	Regulation:T38 Cause:T6 Theme:T9
+E2	Regulation:T38 Cause:T6 Theme:T10
+E3	Regulation:T38 Cause:T6 Theme:T11
+T39	Regulation 346 353	control
+E4	Regulation:T39 Theme:T12 Cause:T9
+E5	Regulation:T39 Theme:T12 Cause:T10
+E6	Regulation:T39 Theme:T12 Cause:T11
+T40	Activation 487 496	activator
+E7	Activation:T40 Theme:T17 Cause:T13
+T41	Regulation 517 525	controls
+E8	Regulation:T41 Theme:T18 Cause:E7
+E9	Regulation:T41 Theme:T19 Cause:E7
+T42	Positive_regulation 660 670	stimulates
+E10	Positive_regulation:T42 Cause:T20 Theme:E12
+E11	Positive_regulation:T42 Cause:T20 Theme:E13
+T43	Phosphorylation 671 690	autophosphorylation
+E12	Phosphorylation:T43 Theme:T21
+E13	Phosphorylation:T43 Theme:T22
+T44	Activation 695 705	activation
+E14	Activation:T44 Theme:T21 Cause:E12
+E15	Activation:T44 Theme:T22 Cause:E12
+E16	Activation:T44 Theme:T22 Cause:E13
+E17	Activation:T44 Theme:T21 Cause:E13
+T45	Positive_regulation 726 737	stimulation
+E18	Positive_regulation:T45 Theme:E20
+E19	Positive_regulation:T45 Theme:E21
+T46	Phosphorylation 748 763	phosphorylation
+E20	Phosphorylation:T46 Theme:T24
+E21	Phosphorylation:T46 Theme:T23
+T47	Phosphorylation 905 919	phosphorylates
+E22	Phosphorylation:T47 Cause:T27 Theme:T28
+T48	Phosphorylation 967 982	phosphorylation
+E23	Phosphorylation:T48 Theme:T28
+T49	Positive_regulation 986 996	stimulated
+E24	Positive_regulation:T49 Cause:T29 Theme:E23
+T50	Activation 1057 1067	activators
+E25	Activation:T50 Theme:T30
+T51	Activation 1359 1368	activator
+E26	Activation:T51 Theme:T33 Cause:T32
+T52	Activation 1383 1392	activates
+E27	Activation:T52 Cause:T32 Theme:T35
+E28	Activation:T52 Cause:T32 Theme:T36
+E29	Activation:T52 Cause:T32 Theme:T37
+T53	Regulation 1421 1428	targets
+E30	Regulation:T53 Cause:T34 Theme:T35
+E31	Regulation:T53 Cause:T34 Theme:T36
+E32	Regulation:T53 Cause:T34 Theme:T37

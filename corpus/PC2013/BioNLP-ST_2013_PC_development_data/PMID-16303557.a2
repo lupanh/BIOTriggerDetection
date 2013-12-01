@@ -1,0 +1,109 @@
+*	Equiv T10 T11
+T52	Positive_regulation 11 18	induced
+E1	Positive_regulation:T52 Theme:E2 Cause:T1
+T53	Regulation 19 26	changes
+E2	Regulation:T53 Theme:E3
+T54	Binding 39 51	associations
+E3	Binding:T54 Theme:T2
+T55	Regulation 57 65	regulate
+E4	Regulation:T55 Cause:E3 Theme:E5
+T56	Regulation 79 92	stabilization
+E5	Regulation:T56 Theme:T3
+T57	Positive_regulation 97 105	mediated
+E6	Positive_regulation:T57 Cause:T4 Theme:E3
+T58	Regulation 219 231	destabilized
+E7	Regulation:T58 Theme:T6 Cause:E8
+T59	Phosphorylation 236 251	phosphorylation
+E8	Phosphorylation:T59 Theme:T6 Cause:T7
+T60	Pathway 339 356	signaling pathway
+E9	Pathway:T60 Participant:T9
+T61	Positive_regulation 378 386	required
+E10	Positive_regulation:T61 Theme:E11 Cause:T11
+T62	Negative_regulation 403 410	inhibit
+E11	Negative_regulation:T62 Theme:T12
+T63	Regulation 465 474	stabilize
+E12	Regulation:T63 Theme:T13 Cause:E11
+T64	Regulation 527 537	regulation
+E13	Regulation:T64 Cause:T14 Theme:T15
+T65	Regulation 550 563	stabilization
+E14	Regulation:T65 Theme:T16
+T66	Dissociation 799 808	disrupted
+E15	Dissociation:T66 Theme:T18
+T67	Positive_regulation 809 813	upon
+E16	Positive_regulation:T67 Cause:T19 Theme:E15
+T68	Regulation 839 846	changes
+E17	Regulation:T68 Theme:E18
+T69	Binding 864 875	association
+E18	Binding:T69 Product:T20
+T70	Regulation 916 929	stabilization
+E19	Regulation:T70 Theme:T21
+T71	Degradation 939 950	degradation
+E20	Degradation:T71 Theme:T22
+T72	Negative_regulation 980 989	depletion
+E21	Negative_regulation:T72 Theme:T23
+E22	Negative_regulation:T72 Theme:T24
+T73	Negative_regulation 1021 1028	inhibit
+E23	Negative_regulation:T73 Theme:E29 Cause:E21
+E24	Negative_regulation:T73 Theme:E30 Cause:E21
+E25	Negative_regulation:T73 Theme:E30 Cause:E22
+E26	Negative_regulation:T73 Theme:E29 Cause:E22
+T74	Positive_regulation 1052 1059	induced
+E27	Positive_regulation:T74 Cause:T25 Theme:E29
+E28	Positive_regulation:T74 Cause:T25 Theme:E30
+T75	Dissociation 1060 1070	disruption
+E29	Dissociation:T75 Theme:T26
+E30	Dissociation:T75 Theme:T27
+T76	Negative_regulation 1121 1129	diminish
+E31	Negative_regulation:T76 Cause:E21 Theme:E33
+E32	Negative_regulation:T76 Cause:E22 Theme:E33
+T77	Regulation 1134 1147	stabilization
+E33	Regulation:T77 Cause:T28 Theme:T29
+T78	Activation 1190 1200	activation
+E34	Activation:T78 Theme:T30 Cause:T31
+T79	Negative_regulation 1245 1252	absence
+E35	Negative_regulation:T79 Theme:T32
+T80	Dissociation 1275 1282	disrupt
+T81	Positive_regulation 1275 1282	disrupt
+E36	Dissociation:T80 Theme:T33
+E37	Positive_regulation:T81 Cause:E34 Theme:E36
+T82	Regulation 1312 1321	stabilize
+E38	Regulation:T82 Theme:T34 Cause:E34
+T83	Binding 1363 1374	association
+E39	Binding:T83 Theme:T35 Theme:T36
+T84	Negative_regulation 1437 1446	perturbed
+E40	Negative_regulation:T84 Cause:T37 Theme:E39
+T85	Positive_regulation 1488 1497	dependent
+E41	Positive_regulation:T85 Cause:T38 Theme:E43
+E42	Positive_regulation:T85 Cause:T38 Theme:E44
+T86	Regulation 1498 1505	effects
+E43	Regulation:T86 Theme:T40
+E44	Regulation:T86 Theme:T39
+T87	Regulation 1614 1618	role
+E45	Regulation:T87 Cause:T41 Theme:E46
+M1	Speculation E45
+T88	Regulation 1641 1651	regulation
+E46	Regulation:T88 Theme:E47
+T89	Pathway 1701 1710	signaling
+E47	Pathway:T89 Participant:T43
+T90	Negative_regulation 1764 1774	disruption
+E48	Negative_regulation:T90 Theme:E49
+T91	Binding 1792 1804	interactions
+E49	Binding:T91 Product:T44
+T92	Positive_regulation 1808 1816	response
+E50	Positive_regulation:T92 Cause:T45 Theme:E48
+T93	Regulation 1845 1858	stabilization
+E51	Regulation:T93 Theme:T46 Cause:E48
+T94	Pathway 1908 1917	signaling
+E52	Pathway:T94 Participant:T47
+E53	Pathway:T94 Participant:T48
+T95	Positive_regulation 1918 1929	contributes
+E54	Positive_regulation:T95 Cause:E52 Theme:E59
+E55	Positive_regulation:T95 Cause:E53 Theme:E59
+E56	Positive_regulation:T95 Cause:E52 Theme:E60
+E57	Positive_regulation:T95 Cause:E53 Theme:E60
+T96	Positive_regulation 1937 1945	mediated
+E58	Positive_regulation:T96 Cause:T49 Theme:E59
+T97	Dissociation 1960 1970	disruption
+E59	Dissociation:T97 Theme:T50
+T98	Regulation 1988 2001	stabilization
+E60	Regulation:T98 Theme:T51

@@ -1,0 +1,47 @@
+*	Equiv T1 T2
+*	Equiv T7 T8
+*	Equiv T21 T22
+T28	Gene_expression 758 768	expression
+T29	Negative_regulation 1055 1066	attenuating
+T30	Entity 1072 1079	nuclear
+T31	Localization 1080 1093	translocation
+T32	Regulation 1103 1112	affecting
+T33	Localization 1117 1129	localization
+T34	Positive_regulation 1187 1193	induce
+T35	Entity 1199 1206	nuclear
+T36	Localization 1207 1220	translocation
+T37	Binding 1310 1317	binding
+T38	Phosphorylation 1450 1464	phosphorylated
+T39	Phosphorylation 1588 1602	phosphorylated
+T40	Phosphorylation 1875 1889	phosphorylated
+T41	Entity 1898 1908	serine 209
+T42	Entity 1922 1926	S209
+T43	Phosphorylation 1927 1942	phosphorylation
+T44	Positive_regulation 1943 1951	enhanced
+T45	Binding 1956 1967	association
+T46	Positive_regulation 1989 1998	mediating
+T47	Entity 2043 2050	nuclear
+T48	Localization 2051 2064	translocation
+T49	Negative_regulation 2117 2126	inhibited
+T50	Entity 2132 2136	S209
+E1	Gene_expression:T28 Theme:T12
+E2	Negative_regulation:T29 Theme:E3 Cause:T13
+E3	Localization:T31 Theme:T14 ToLoc:T30
+E4	Regulation:T32 Theme:E5 Cause:T13
+E5	Localization:T33 Theme:T15
+E6	Positive_regulation:T34 Theme:E7
+E7	Localization:T36 Theme:T16 ToLoc:T35
+E8	Binding:T37 Theme:T17
+E9	Phosphorylation:T38 Theme:T18
+E10	Phosphorylation:T39 Theme:T19
+E11	Phosphorylation:T40 Theme:T23 Site:T41 Cause:T21
+E12	Phosphorylation:T43 Theme:T24 Site:T42
+E13	Positive_regulation:T44 Theme:E14 Cause:E12
+E14	Binding:T45 Theme:T24
+E15	Positive_regulation:T46 Theme:E16 Cause:E13
+E16	Localization:T48 Theme:T25 ToLoc:T47
+E17	Negative_regulation:T49 Theme:T27 Site:T50 Cause:T26
+M1	Negation E4
+M2	Speculation E6
+M3	Speculation E9
+M4	Speculation E10

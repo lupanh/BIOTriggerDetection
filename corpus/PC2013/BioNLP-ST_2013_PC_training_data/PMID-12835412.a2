@@ -1,0 +1,80 @@
+*	Equiv T10 T11 T9
+*	Equiv T16 T17
+T46	Negative_regulation 99 108	inhibited
+E1	Negative_regulation:T46 Theme:T1
+T47	Dissociation 282 289	release
+E2	Dissociation:T47 Product:T5
+T48	Binding 456 467	interaction
+E3	Binding:T48 Theme:T8 Theme2:T9
+T49	Positive_regulation 704 713	catalyzed
+E4	Positive_regulation:T49 Cause:T14 Theme:E9
+E5	Positive_regulation:T49 Cause:T14 Theme:E8
+T50	Positive_regulation 732 741	dependent
+E6	Positive_regulation:T50 Cause:T15 Theme:E8
+E7	Positive_regulation:T50 Cause:T15 Theme:E9
+T51	Transport 742 748	uptake
+E8	Transport:T51 Theme:T16
+E9	Transport:T51 Theme:T18
+T52	Transport 834 843	transport
+T53	Positive_regulation 834 843	transport
+E10	Transport:T52 Theme:T23
+E11	Positive_regulation:T53 Cause:T19 Theme:E10
+E12	Positive_regulation:T53 Cause:T20 Theme:E10
+E13	Positive_regulation:T53 Cause:T21 Theme:E10
+E14	Positive_regulation:T53 Cause:T22 Theme:E10
+E15	Transport:T52 Theme:T24
+E16	Positive_regulation:T53 Cause:T19 Theme:E15
+E17	Positive_regulation:T53 Cause:T20 Theme:E15
+E18	Positive_regulation:T53 Cause:T22 Theme:E15
+E19	Positive_regulation:T53 Cause:T21 Theme:E15
+M1	Negation E10
+M2	Negation E15
+T54	Positive_regulation 867 875	mediated
+E20	Positive_regulation:T54 Cause:T25 Theme:E22
+E21	Positive_regulation:T54 Cause:T25 Theme:E23
+T55	Transport 876 885	transport
+E22	Transport:T55 Theme:T26
+E23	Transport:T55 Theme:T27
+T56	Negative_regulation 1080 1090	inhibitors
+E24	Negative_regulation:T56 Theme:T32 Cause:T28
+E25	Negative_regulation:T56 Theme:T32 Cause:T29
+E26	Negative_regulation:T56 Theme:T32 Cause:T30
+E27	Negative_regulation:T56 Theme:T32 Cause:T31
+T57	Negative_regulation 1207 1217	inhibitors
+E28	Negative_regulation:T57 Theme:T33
+T58	Negative_regulation 1257 1264	inhibit
+E29	Negative_regulation:T58 Theme:T34
+M3	Negation E29
+T59	Gene_expression 1280 1290	expressing
+E30	Gene_expression:T59 Theme:T36
+T60	Transport 1309 1320	transporter
+T61	Positive_regulation 1309 1320	transporter
+E31	Transport:T60 Theme:T35
+E32	Positive_regulation:T61 Theme:E31 Cause:T36
+T62	Localization 1343 1355	accumulation
+E33	Localization:T62 Theme:T37
+E34	Localization:T62 Theme:T38
+T63	Negative_regulation 1377 1384	reduced
+E35	Negative_regulation:T63 Theme:E37 Cause:E33
+E36	Negative_regulation:T63 Theme:E37 Cause:E34
+T64	Gene_expression 1406 1416	expression
+E37	Gene_expression:T64 Theme:T39
+T65	Negative_regulation 1418 1428	Inhibition
+E38	Negative_regulation:T65 Theme:T40 Cause:T42
+T66	Negative_regulation 1503 1511	reversed
+E39	Negative_regulation:T66 Cause:E38 Theme:E43
+E40	Negative_regulation:T66 Cause:E38 Theme:E44
+T67	Localization 1517 1529	accumulation
+E41	Localization:T67 Theme:T37
+E42	Localization:T67 Theme:T38
+T68	Negative_regulation 1530 1537	deficit
+E43	Negative_regulation:T68 Theme:E41
+E44	Negative_regulation:T68 Theme:E42
+T69	Dissociation 1582 1589	release
+T70	Positive_regulation 1582 1589	release
+E45	Dissociation:T69 Product:T44
+E46	Positive_regulation:T70 Theme:E45 Cause:T43
+T71	Negative_regulation 1642 1652	inhibiting
+E47	Negative_regulation:T71 Theme:E48 Cause:T43
+T72	Conversion 1667 1676	synthesis
+E48	Conversion:T72 Product:T45

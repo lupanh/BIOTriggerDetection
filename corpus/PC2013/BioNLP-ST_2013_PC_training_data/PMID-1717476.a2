@@ -1,0 +1,33 @@
+T32	Localization 42 49	located
+E1	Localization:T32 Theme:T1
+E2	Localization:T32 Theme:T2
+T33	Pathway 74 85	cell cycle-
+E3	Pathway:T33 
+T34	Positive_regulation 85 94	dependent
+E4	Positive_regulation:T34 Cause:E3 Theme:E6
+E5	Positive_regulation:T34 Cause:E3 Theme:E7
+T35	Transport 103 112	transport
+E6	Transport:T35 ToLoc:T3 Theme:T1
+E7	Transport:T35 ToLoc:T3 Theme:T2
+T36	Regulation 391 401	associated
+E8	Regulation:T36 Cause:T9 Theme:T10
+M1	Speculation E8
+T37	Regulation 454 464	associated
+E9	Regulation:T37 Cause:T9 Theme:T11
+M2	Negation E9
+T38	Positive_regulation 529 540	accumulates
+E10	Positive_regulation:T38 Cause:T12 Theme:T13
+T39	Regulation 696 706	associates
+E11	Regulation:T39 Cause:T16 Theme:T17
+E12	Regulation:T39 Cause:T16 Theme:T18
+T40	Negative_regulation 805 813	degraded
+E13	Negative_regulation:T40 Theme:T19
+T41	Degradation 862 871	destroyed
+E14	Degradation:T41 Theme:T20
+T42	Regulation 1176 1186	associated
+E15	Regulation:T42 Cause:T26 Theme:T27
+T43	Localization 1253 1265	localization
+E16	Localization:T43 Theme:T29
+E17	Localization:T43 Theme:T30
+T44	Pathway 1299 1309	cell cycle
+E18	Pathway:T44 

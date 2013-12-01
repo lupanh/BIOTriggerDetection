@@ -1,0 +1,34 @@
+*	Equiv T4 T5
+T31	Binding 15 22	binding
+E1	Binding:T31 Theme:T1 Theme2:T3 Theme3:T2
+T32	Binding 130 135	binds
+E2	Binding:T32 Theme:T4
+T33	Negative_regulation 230 240	interferes
+E3	Negative_regulation:T33 Cause:E4 Theme:E6
+T34	Binding 288 295	binding
+E4	Binding:T34 Theme:T9
+T35	Binding 319 330	interaction
+T36	Positive_regulation 319 330	interaction
+E5	Binding:T35 Theme:T10
+E6	Positive_regulation:T36 Theme:E5 Cause:T8
+T37	Binding 402 409	binding
+E7	Binding:T37 Theme:T11 Theme2:T13
+E8	Binding:T37 Theme:T11 Theme2:T14
+T38	Binding 499 507	interact
+E9	Binding:T38 Theme:T15 Theme2:T16
+T39	Negative_regulation 533 540	inhibit
+E10	Negative_regulation:T39 Theme:E11 Cause:T15
+T40	Transcription 545 558	transcription
+E11	Transcription:T40 Theme:T16
+T41	Binding 690 695	binds
+E12	Binding:T41 Theme:T17 Theme2:T18
+E13	Binding:T41 Theme:T17 Theme2:T19
+M1	Negation E13
+T42	Binding 769 776	binding
+E14	Binding:T42 Theme:T20
+T43	Positive_regulation 821 829	mediated
+E15	Positive_regulation:T43 Theme:E14
+T44	Binding 948 955	binding
+E16	Binding:T44 Theme:T26 Theme2:T25
+T45	Binding 1101 1108	binding
+E17	Binding:T45 Theme:T27 Theme2:T28

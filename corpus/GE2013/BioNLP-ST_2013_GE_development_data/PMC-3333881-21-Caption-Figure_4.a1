@@ -1,0 +1,26 @@
+T1	Protein 0 3	Tat
+T2	Protein 20 23	p65
+T3	Protein 106 114	3xHA-p65
+T4	Protein 160 163	Tat
+T5	Protein 173 188	Tat T,N(23,24)A
+T6	Protein 198 211	Tat K(50,51)A
+T7	Protein 221 234	Tat R(49-57)A
+T8	Protein 247 263	Tat C(22,25,27)A
+T9	Protein 276 284	FLAG-Tat
+T10	Protein 485 488	p65
+T11	Protein 519 526	GST-Tat
+T12	Protein 528 547	GST-Tat T,N(23,24)A
+T13	Protein 549 566	GST-Tat K(50,51)A
+T14	Protein 568 585	GST-Tat R(49-57)A
+T15	Protein 587 607	GST-Tat C(22,25,27)A
+T16	Protein 612 615	GST
+T17	Protein 702 705	GST
+T18	Protein 868 871	p65
+T19	Protein 927 930	Tat
+T20	Protein 980 988	3xHA-p65
+T21	Protein 998 1012	3xHA-p65deltaC
+T22	Protein 1033 1047	3xHA-p65deltaN
+T23	Protein 1091 1097	HA-p65
+T24	Protein 1288 1291	p65
+T25	Protein 1467 1475	FLAG-Tat
+T26	Protein 1479 1500	FLAG-Tat C(22,25,27)A

@@ -1,0 +1,4 @@
+T6	Phosphorylation 1037 1051	phosphorylated
+T7	Phosphorylation 1134 1148	phosphorylated
+E1	Phosphorylation:T6 Theme:T4
+E2	Phosphorylation:T7 Theme:T5

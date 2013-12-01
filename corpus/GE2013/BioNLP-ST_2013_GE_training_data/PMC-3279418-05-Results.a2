@@ -1,0 +1,49 @@
+*	Equiv T3 T4 T5
+T39	Gene_expression 655 665	expression
+T40	Gene_expression 766 775	secretion
+T41	Positive_regulation 948 953	lower
+T42	Gene_expression 954 960	levels
+T43	Positive_regulation 1094 1103	Increased
+T44	Gene_expression 1104 1114	expression
+T45	Transcription 1224 1240	transcript level
+T46	Positive_regulation 1252 1257	lower
+T47	Positive_regulation 1332 1346	overexpression
+T48	Negative_regulation 1723 1732	deficient
+T49	Positive_regulation 1848 1856	allowing
+T50	Phosphorylation 1857 1872	phosphorylation
+T51	Positive_regulation 1888 1896	mediated
+T52	Protein_catabolism 1897 1908	degradation
+T53	Phosphorylation 2028 2042	phosphorylated
+T54	Negative_regulation 2150 2159	decreased
+T55	Phosphorylation 2276 2291	phosphorylation
+T56	Negative_regulation 2355 2362	absence
+E1	Gene_expression:T39 Theme:T6
+E2	Gene_expression:T39 Theme:T7
+E3	Gene_expression:T39 Theme:T8
+E4	Gene_expression:T40 Theme:T9
+E5	Positive_regulation:T41 Theme:E6
+E6	Gene_expression:T42 Theme:T10
+E7	Positive_regulation:T43 Theme:E8
+E8	Gene_expression:T44 Theme:T12
+E9	Transcription:T45 Theme:T13
+E10	Positive_regulation:T46 Theme:E9
+E11	Positive_regulation:T47 Theme:T14
+E12	Negative_regulation:T48 Theme:T21
+E13	Positive_regulation:T49 Theme:E14
+E14	Phosphorylation:T50 Theme:T24
+E15	Positive_regulation:T49 Theme:E16
+E16	Protein_catabolism:T52 Theme:T24
+E17	Positive_regulation:T51 Theme:E16
+E18	Phosphorylation:T53 Theme:T25
+E19	Phosphorylation:T53 Theme:T26
+E20	Phosphorylation:T53 Theme:T29
+E21	Negative_regulation:T54 Theme:E18
+E22	Negative_regulation:T54 Theme:E19
+E23	Negative_regulation:T54 Theme:E20
+E24	Phosphorylation:T55 Theme:T31
+E25	Phosphorylation:T55 Theme:T32
+E26	Phosphorylation:T55 Theme:T33
+E27	Negative_regulation:T56 Theme:T34
+M1	Speculation E4
+M2	Negation E5
+M3	Negation E10

@@ -1,0 +1,21 @@
+T1	Gene_or_gene_product 23 41	toll-like receptor
+T2	Gene_or_gene_product 64 70	Tollip
+T3	Gene_or_gene_product 73 91	Toll-like receptor
+T4	Gene_or_gene_product 93 96	TLR
+T5	Gene_or_gene_product 243 249	Tollip
+T6	Gene_or_gene_product 297 315	interleukin (IL)-1
+T7	Gene_or_gene_product 347 353	Tollip
+T8	Gene_or_gene_product 384 388	TLR2
+T9	Gene_or_gene_product 393 397	TLR4
+T10	Gene_or_gene_product 430 433	TLR
+T11	Gene_or_gene_product 474 480	Tollip
+T12	Gene_or_gene_product 550 581	IL-1 receptor-associated kinase
+T13	Gene_or_gene_product 583 587	IRAK
+T14	Gene_or_gene_product 595 598	TLR
+T15	Gene_or_gene_product 656 662	Tollip
+T16	Gene_or_gene_product 692 696	IRAK
+T17	Gene_or_gene_product 722 726	IRAK
+T18	Simple_chemical 749 767	lipopolysaccharide
+T19	Gene_or_gene_product 771 775	IL-1
+T20	Gene_or_gene_product 800 803	TLR
+T21	Gene_or_gene_product 817 823	Tollip

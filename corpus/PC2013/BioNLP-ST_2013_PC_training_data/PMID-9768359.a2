@@ -1,0 +1,62 @@
+*	Equiv T5 T6 T7
+*	Equiv T18 T19
+T44	Transport 8 14	export
+E1	Transport:T44 FromLoc:T1 Theme:T2
+E2	Transport:T44 FromLoc:T1 Theme:T3
+T45	Positive_regulation 58 66	mediated
+E3	Positive_regulation:T45 Cause:T4 Theme:E1
+E4	Positive_regulation:T45 Cause:T4 Theme:E2
+T46	Pathway 326 333	pathway
+E5	Pathway:T46 Participant:T9 Participant2:T10
+T47	Activation 335 345	activation
+E6	Activation:T47 Theme:T11
+T48	Transport 415 420	moves
+E7	Transport:T48 Theme:T11 ToLoc:T13 FromLoc:T12
+T49	Transport 442 455	translocation
+E8	Transport:T49 ToLoc:T14 Theme:T11
+T50	Positive_regulation 474 483	essential
+E9	Positive_regulation:T50 Theme:E10 Cause:E8
+T51	Pathway 498 508	signalling
+E10	Pathway:T51 Participant:T15
+T52	Localization 937 949	localisation
+E11	Localization:T52 AtLoc:T20 Theme:T19
+T53	Regulation 950 956	signal
+E12	Regulation:T53 Theme:E11
+T54	Positive_regulation 989 997	required
+E13	Positive_regulation:T54 Theme:E14 Cause:E12
+T55	Activation 1002 1012	activation
+E14	Activation:T55 Theme:T19
+T56	Phosphorylation 1048 1063	phosphorylation
+E15	Phosphorylation:T56 Theme:T21
+T57	Transport 1100 1108	exported
+E16	Transport:T57 Theme:T23 ToLoc:T24 FromLoc:T22
+T58	Binding 1131 1138	complex
+E17	Binding:T58 Theme:T23 Theme2:T25
+T59	Transport 1161 1167	Export
+E18	Transport:T59 Theme:T26
+T60	Positive_regulation 1187 1195	required
+E19	Positive_regulation:T60 Theme:E18 Cause:E20
+T61	Phosphorylation 1196 1211	phosphorylation
+E20	Phosphorylation:T61 Theme:T26 Cause:T27
+T62	Positive_regulation 1241 1248	require
+E21	Positive_regulation:T62 Theme:E18
+M1	Negation E21
+T63	Activation 1297 1307	activators
+E22	Activation:T63 Theme:T29 Cause:T30
+E23	Activation:T63 Theme:T29 Cause:T31
+T64	Regulation 1392 1396	role
+E24	Regulation:T64 Theme:E26 Cause:T30
+E25	Regulation:T64 Theme:E26 Cause:T31
+T65	Activation 1400 1410	activating
+E26	Activation:T65 Theme:T34
+T66	Pathway 1466 1473	pathway
+E27	Pathway:T66 Participant:T36
+T67	Regulation 1509 1517	effector
+E28	Regulation:T67 Cause:T37 Theme:T38
+T68	Regulation 1564 1575	determinant
+E29	Regulation:T68 Theme:E30 Cause:T37
+T69	Localization 1588 1600	localisation
+E30	Localization:T69 Theme:T39
+T70	Transport 1617 1623	export
+E31	Transport:T70 FromLoc:T40 Theme:T41
+E32	Transport:T70 FromLoc:T40 Theme:T42

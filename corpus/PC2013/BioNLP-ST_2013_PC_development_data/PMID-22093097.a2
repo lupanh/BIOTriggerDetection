@@ -1,0 +1,93 @@
+T38	Positive_regulation 54 65	stimulating
+E1	Positive_regulation:T38 Cause:E5 Theme:E3
+E2	Positive_regulation:T38 Cause:E5 Theme:E4
+T39	Pathway 93 102	signaling
+E3	Pathway:T39 Participant:T3
+E4	Pathway:T39 Participant:T2
+T40	Activation 111 121	activation
+E5	Activation:T40 Theme:T4 Cause:T1
+T41	Pathway 134 151	signaling pathway
+E6	Pathway:T41 Participant:T5
+T42	Pathway 238 247	signaling
+E7	Pathway:T42 Participant:T6
+T43	Gene_expression 479 488	expressed
+E8	Gene_expression:T43 Theme:T7
+T44	Gene_expression 551 561	expression
+E9	Gene_expression:T44 Theme:T7
+T45	Regulation 566 576	correlated
+E10	Regulation:T45 Theme:E9 Cause:E12
+E11	Regulation:T45 Theme:E9 Cause:E13
+T46	Positive_regulation 582 590	elevated
+E12	Positive_regulation:T46 Theme:E14
+E13	Positive_regulation:T46 Theme:E15
+T47	Phosphorylation 595 610	phosphorylation
+E14	Phosphorylation:T47 Theme:T8
+T48	Gene_expression 621 631	expression
+E15	Gene_expression:T48 Theme:T9
+T49	Positive_regulation 633 642	Increased
+E16	Positive_regulation:T49 Theme:E18
+E17	Positive_regulation:T49 Theme:E19
+T50	Localization 651 663	localization
+E18	Localization:T50 ToLoc:T10 Theme:T11
+E19	Localization:T50 ToLoc:T10 Theme:T12
+T51	Positive_regulation 699 707	enhanced
+E20	Positive_regulation:T51 Theme:E21
+T52	Binding 721 732	interaction
+E21	Binding:T52 Theme:T14 Theme2:T13
+T53	Activation 791 801	activation
+E22	Activation:T53 Theme:T15 Cause:T16
+E23	Activation:T53 Theme:T15 Cause:E25
+T54	Positive_regulation 820 831	stimulation
+E24	Positive_regulation:T54 Theme:T16
+T55	Gene_expression 842 856	overexpression
+E25	Gene_expression:T55 Theme:T17
+T56	Positive_regulation 894 902	resulted
+E26	Positive_regulation:T56 Theme:E28 Cause:E22
+E27	Positive_regulation:T56 Theme:E28 Cause:E23
+T57	Activation 910 920	activation
+E28	Activation:T57 Theme:T19
+T58	Positive_regulation 933 941	promoted
+E29	Positive_regulation:T58 Theme:E34 Cause:E26
+E30	Positive_regulation:T58 Theme:E33 Cause:E26
+E31	Positive_regulation:T58 Theme:E34 Cause:E27
+E32	Positive_regulation:T58 Theme:E33 Cause:E27
+T59	Pathway 978 987	signaling
+E33	Pathway:T59 Participant:T21
+E34	Pathway:T59 Participant:T20
+T60	Negative_regulation 989 999	Inhibition
+E35	Negative_regulation:T60 Theme:T22
+T61	Negative_regulation 1018 1025	blocked
+E36	Negative_regulation:T61 Cause:E35 Theme:E38
+E37	Negative_regulation:T61 Cause:E35 Theme:E39
+T62	Pathway 1057 1066	signaling
+E38	Pathway:T62 Participant:T24
+E39	Pathway:T62 Participant:T23
+T63	Positive_regulation 1067 1077	stimulated
+E40	Positive_regulation:T63 Cause:E42 Theme:E38
+E41	Positive_regulation:T63 Cause:E42 Theme:E39
+T64	Activation 1088 1098	activation
+E42	Activation:T64 Theme:T25
+T65	Inactivation 1258 1267	knockdown
+E43	Inactivation:T65 Theme:T26
+E44	Inactivation:T65 Theme:T27
+T66	Negative_regulation 1420 1429	inhibitor
+E45	Negative_regulation:T66 Theme:T30
+E46	Negative_regulation:T66 Theme:T29
+T67	Activation 1479 1489	activation
+E47	Activation:T67 Theme:T31
+T68	Positive_regulation 1496 1505	stimulate
+E48	Positive_regulation:T68 Cause:E52 Theme:E50
+E49	Positive_regulation:T68 Cause:E52 Theme:E51
+T69	Pathway 1533 1542	signaling
+E50	Pathway:T69 Participant:T33
+E51	Pathway:T69 Participant:T32
+T70	Activation 1555 1565	activation
+E52	Activation:T70 Theme:T34 Cause:E47
+T71	Activation 1595 1605	activation
+E53	Activation:T71 Theme:T35
+T72	Positive_regulation 1606 1616	stimulated
+E54	Positive_regulation:T72 Cause:E53 Theme:E56
+E55	Positive_regulation:T72 Cause:E53 Theme:E57
+T73	Pathway 1644 1653	signaling
+E56	Pathway:T73 Participant:T37
+E57	Pathway:T73 Participant:T36

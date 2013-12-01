@@ -1,0 +1,27 @@
+T1	Gene_or_gene_product 58 64	4E-BP1
+T2	Cellular_component 143 151	ribosome
+T3	Gene_or_gene_product 195 217	eIF4E-binding proteins
+T4	Gene_or_gene_product 219 225	4E-BPs
+T5	Gene_or_gene_product 297 302	eIF4E
+T6	Gene_or_gene_product 373 379	4E-BPs
+T7	Gene_or_gene_product 443 449	4E-BPs
+T8	Gene_or_gene_product 471 476	eIF4E
+T9	Gene_or_gene_product 486 491	4E-BP
+T10	Gene_or_gene_product 620 625	eIF4E
+T11	Gene_or_gene_product 691 697	4E-BP1
+T12	Simple_chemical 701 707	Thr 37
+T13	Simple_chemical 712 718	Thr 46
+T14	Simple_chemical 770 779	rapamycin
+T15	Simple_chemical 995 1004	rapamycin
+T16	Simple_chemical 1024 1030	Ser 65
+T17	Simple_chemical 1035 1041	Thr 70
+T18	Gene_or_gene_product 1207 1213	4E-BP1
+T19	Simple_chemical 1258 1264	Thr 37
+T20	Simple_chemical 1265 1271	Thr 46
+T21	Simple_chemical 1287 1293	Thr 70
+T22	Simple_chemical 1315 1321	Ser 65
+T23	Simple_chemical 1387 1393	Ser 65
+T24	Simple_chemical 1398 1404	Thr 70
+T25	Gene_or_gene_product 1447 1452	eIF4E
+T26	Gene_or_gene_product 1537 1543	4E-BP1
+T27	Gene_or_gene_product 1549 1554	eIF4E

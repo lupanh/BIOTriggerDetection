@@ -1,0 +1,38 @@
+T1	Gene_or_gene_product 6 11	CUL-1
+T2	Complex 32 41	SKP1/SKP2
+T3	Gene_or_gene_product 64 67	p21
+T4	Gene_or_gene_product 68 72	CIP1
+T5	Gene_or_gene_product 73 77	WAF1
+T6	Gene_or_gene_product 83 91	cyclin D
+T7	Complex 194 207	cyclin A/CDK2
+T8	Gene_or_gene_product 230 266	S-phase kinase associated proteins 1
+T9	Gene_or_gene_product 271 272	2
+T10	Gene_or_gene_product 274 278	SKP1
+T11	Gene_or_gene_product 283 287	SKP2
+T12	Gene_or_gene_product 518 523	CUL-1
+T13	Gene_or_gene_product 541 547	cullin
+T14	Gene_or_gene_product 548 553	CDC53
+T15	Gene_or_gene_product 584 589	CUL-1
+T16	Complex 649 674	p19(SKP1)/p45(SKP2)/CUL-1
+T17	Complex 709 725	SKP1-CDC53-F-box
+T18	Complex 727 730	SCF
+T19	Gene_or_gene_product 763 772	ubiquitin
+T20	Gene_or_gene_product 836 844	cyclin D
+T21	Gene_or_gene_product 846 849	p21
+T22	Gene_or_gene_product 850 854	CIP1
+T23	Gene_or_gene_product 855 859	WAF1
+T24	Gene_or_gene_product 866 869	p27
+T25	Gene_or_gene_product 870 874	KIP1
+T26	Gene_or_gene_product 924 933	ubiquitin
+T27	Complex 1007 1032	p19(SKP1)/p45(SKP2)/CUL-1
+T28	Gene_or_gene_product 1115 1119	SKP1
+T29	Gene_or_gene_product 1121 1125	SKP2
+T30	Gene_or_gene_product 1130 1135	CUL-1
+T31	Gene_or_gene_product 1253 1256	p21
+T32	Gene_or_gene_product 1261 1269	cyclin D
+T33	Gene_or_gene_product 1301 1304	p27
+T34	Complex 1357 1382	p19(SKP1)/p45(SKP2)/CUL-1
+T35	Gene_or_gene_product 1451 1459	cyclin D
+T36	Gene_or_gene_product 1464 1467	p21
+T37	Gene_or_gene_product 1476 1485	ubiquitin
+T38	Complex 1546 1571	p19(SKP1)/p45(SKP2)/CUL-1

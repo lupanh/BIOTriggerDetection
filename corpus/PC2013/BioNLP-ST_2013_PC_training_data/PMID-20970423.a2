@@ -1,0 +1,36 @@
+*	Equiv T5 T6
+T19	Regulation 5 15	stabilizes
+E1	Regulation:T19 Cause:E2 Theme:T2
+T20	Binding 37 48	interaction
+E2	Binding:T20 Theme:T2 Theme2:T1
+T21	Positive_regulation 133 144	upregulated
+E3	Positive_regulation:T21 Theme:T4
+T22	Positive_regulation 208 214	caused
+E4	Positive_regulation:T22 Cause:E8 Theme:E6
+E5	Positive_regulation:T22 Cause:E8 Theme:E7
+T23	Phosphorylation 215 230	phosphorylation
+E6	Phosphorylation:T23 Theme:T7
+T24	Regulation 235 248	stabilization
+E7	Regulation:T24 Theme:T7
+T25	Binding 296 307	interaction
+E8	Binding:T25 Theme:T7 Theme2:T6
+T26	Positive_regulation 325 331	caused
+E9	Positive_regulation:T26 Cause:E12 Theme:E10
+T27	Negative_regulation 332 339	reduced
+E10	Negative_regulation:T27 Theme:E11
+T28	Ubiquitination 340 354	ubiquitination
+E11	Ubiquitination:T28 Theme:T9
+T29	Negative_regulation 367 377	inhibiting
+E12	Negative_regulation:T29 Theme:E13
+T30	Ubiquitination 378 392	ubiquitinating
+E13	Ubiquitination:T30 Theme:T10
+T31	Negative_regulation 418 426	blocking
+E14	Negative_regulation:T31 Theme:E15
+T32	Binding 431 442	interaction
+E15	Binding:T32 Theme:T11 Theme2:T12
+T33	Regulation 637 650	stabilization
+E16	Regulation:T33 Theme:T16
+T34	Binding 670 681	interaction
+E17	Binding:T34 Theme:T17 Theme2:T16
+T35	Regulation 744 752	regulate
+E18	Regulation:T35 Theme:T18

@@ -1,0 +1,30 @@
+T1	Gene_or_gene_product 19 23	E2F6
+T2	Gene_or_gene_product 47 69	polycomb group protein
+T3	Gene_or_gene_product 71 75	EPC1
+T4	Gene_or_gene_product 97 101	EZH2
+T5	Gene_or_gene_product 169 173	E2F6
+T6	Gene_or_gene_product 225 247	polycomb group protein
+T7	Gene_or_gene_product 249 252	PcG
+T8	Gene_or_gene_product 432 435	E2F
+T9	Gene_or_gene_product 467 471	E2F6
+T10	Gene_or_gene_product 539 543	E2F6
+T11	Gene_or_gene_product 612 615	PcG
+T12	Gene_or_gene_product 625 629	EPC1
+T13	Gene_or_gene_product 674 678	E2F6
+T14	Gene_or_gene_product 680 683	DP1
+T15	Gene_or_gene_product 689 693	EPC1
+T16	Gene_or_gene_product 801 804	PcG
+T17	Gene_or_gene_product 806 810	EZH2
+T18	Gene_or_gene_product 818 822	EPC1
+T19	Gene_or_gene_product 888 892	E2F6
+T20	Gene_or_gene_product 894 897	DP1
+T21	Gene_or_gene_product 899 903	EPC1
+T22	Gene_or_gene_product 905 909	EZH2
+T23	Gene_or_gene_product 915 920	Sin3B
+T24	Gene_or_gene_product 972 976	E2F6
+T25	Gene_or_gene_product 1054 1058	EZH2
+T26	Gene_or_gene_product 1124 1128	EZH2
+T27	Complex 1145 1154	E2F6-EPC1
+T28	Complex 1224 1232	E2F6-PcG
+T29	Complex 1242 1251	E2F6-EPC1
+T30	Gene_or_gene_product 1273 1277	EZH2

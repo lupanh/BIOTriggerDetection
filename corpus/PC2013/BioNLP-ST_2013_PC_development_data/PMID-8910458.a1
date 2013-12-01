@@ -1,0 +1,22 @@
+T1	Cellular_component 87 96	lysosomal
+T2	Gene_or_gene_product 102 119	alpha-mannosidase
+T3	Cellular_component 180 189	lysosomal
+T4	Gene_or_gene_product 190 207	alpha-mannosidase
+T5	Gene_or_gene_product 209 220	EC 3.2.1.24
+T6	Simple_chemical 310 323	carbohydrates
+T7	Simple_chemical 578 585	mannose
+T8	Simple_chemical 586 602	oligosaccharides
+T9	Simple_chemical 604 620	oligosaccharides
+T10	Simple_chemical 671 708	p-nitrophenyl-alpha-D-mannopyranoside
+T11	Simple_chemical 779 790	swainsonine
+T12	Gene_or_gene_product 1129 1146	alpha-mannosidase
+T13	Gene_or_gene_product 1340 1357	alpha-mannosidase
+T14	Cellular_component 1382 1391	lysosomal
+T15	Gene_or_gene_product 1392 1409	alpha-mannosidase
+T16	Cellular_component 1654 1664	chromosome
+T17	Gene_or_gene_product 1680 1691	mannosidase
+T18	Cellular_component 1758 1771	chromosome 19
+T19	Cellular_component 1869 1878	lysosomal
+T20	Gene_or_gene_product 1879 1896	alpha-mannosidase
+T21	Cellular_component 2045 2054	lysosomal
+T22	Gene_or_gene_product 2055 2072	alpha-mannosidase

@@ -1,0 +1,24 @@
+*	Equiv T4 T5
+*	Equiv T6 T7
+T38	Phosphorylation 12 26	phosphorylates
+E1	Phosphorylation:T38 Cause:T1 Theme:T3
+T39	Phosphorylation 185 200	phosphorylation
+E2	Phosphorylation:T39 Theme:T7 Site:T8
+E3	Phosphorylation:T39 Theme:T7 Site:T9
+T40	Positive_regulation 360 369	essential
+E4	Positive_regulation:T40 Cause:T11 Theme:E5
+T41	Phosphorylation 395 410	phosphorylation
+E5	Phosphorylation:T41 Theme:T12
+T42	Phosphorylation 445 459	phosphorylates
+E6	Phosphorylation:T42 Cause:T13 Theme:T14
+T43	Phosphorylation 641 655	phosphorylated
+E7	Phosphorylation:T43 Cause:T19 Theme:T18 Site:T15
+E8	Phosphorylation:T43 Cause:T19 Theme:T18 Site:T16
+E9	Phosphorylation:T43 Cause:T19 Theme:T18 Site:T17
+T44	Phosphorylation 1344 1359	phosphorylation
+E10	Phosphorylation:T44 Cause:T32 Theme:T34
+T45	Localization 1440 1447	resides
+E11	Localization:T45 Theme:T34 AtLoc:T35
+E12	Localization:T45 Theme:T34 AtLoc:T36
+T46	Binding 1483 1488	binds
+E13	Binding:T46 Theme:T34 Theme2:T37

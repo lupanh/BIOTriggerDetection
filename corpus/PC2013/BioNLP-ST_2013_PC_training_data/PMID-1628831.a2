@@ -1,0 +1,29 @@
+T21	Phosphorylation 80 95	phosphorylation
+E1	Phosphorylation:T21 Theme:T3 Site:T2
+E2	Phosphorylation:T21 Theme:T4 Site:T2
+E3	Phosphorylation:T21 Theme:T3 Site:T1
+E4	Phosphorylation:T21 Theme:T4 Site:T1
+T22	Phosphorylation 263 277	phosphorylated
+E5	Phosphorylation:T22 Theme:T8
+E6	Phosphorylation:T22 Theme:T7
+T23	Phosphorylation 344 356	modification
+E7	Phosphorylation:T23 Theme:T10 Site:T11
+E8	Phosphorylation:T23 Theme:T10 Site:T12
+T24	Phosphorylation 701 713	modification
+E9	Phosphorylation:T24 Theme:T13
+T25	Positive_regulation 725 734	dependent
+E10	Positive_regulation:T25 Theme:E9 Cause:T14
+E11	Positive_regulation:T25 Theme:E9 Cause:T15
+T26	Activation 798 809	hyperactive
+E12	Activation:T26 Theme:T16
+T27	Positive_regulation 826 832	causes
+E13	Positive_regulation:T27 Theme:E14 Cause:E12
+T28	Positive_regulation 833 842	increased
+E14	Positive_regulation:T28 Theme:E15
+T29	Phosphorylation 843 858	phosphorylation
+E15	Phosphorylation:T29 Theme:T17
+T30	Positive_regulation 955 966	responsible
+E16	Positive_regulation:T30 Theme:E18 Cause:T18
+E17	Positive_regulation:T30 Theme:E18 Cause:T19
+T31	Phosphorylation 975 990	phosphorylation
+E18	Phosphorylation:T31 Theme:T20

@@ -1,0 +1,3 @@
+(S1 (S (NP (NP (NN Immunoprecipitation) (NN assay)) (CC and) (NP (NN GST-pull) (NN down)))))
+(S1 (S (S (NP (NP (NP (NN Immunoprecipitation)) (, ,) (NP (NN GST-pull) (NN down)) (, ,) (CC and) (NP (NN production))) (PP (IN of) (NP (NN GST) (NNS proteins))) (PP (IN in) (NP (ADJP (FW Escherichia) (FW coli)) (NN strain) (NN BL21)))) (VP (VBD were) (VP (VBN performed) (SBAR (IN as) (S (ADVP (RB previously)) (VP (VBN reported) (PRN (-LRB- -LRB-) (NP (CD 50)) (-RRB- -RRB-)))))))) (. .)))
+(S1 (S (S (NP (NNS Details)) (VP (VBP are) (VP (VBN described) (PP (IN in) (NP (JJ Supplementary) (NNS Data)))))) (. .)))

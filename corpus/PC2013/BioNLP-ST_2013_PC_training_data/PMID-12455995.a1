@@ -1,0 +1,53 @@
+T1	Gene_or_gene_product 0 26	GTPase-activating proteins
+T2	Gene_or_gene_product 31 36	Cdc42
+T3	Gene_or_gene_product 43 46	Rho
+T4	Gene_or_gene_product 60 65	Cdc42
+T5	Gene_or_gene_product 148 154	septin
+T6	Gene_or_gene_product 261 287	GTPase-activating proteins
+T7	Gene_or_gene_product 289 293	GAPs
+T8	Simple_chemical 322 325	GTP
+T9	Simple_chemical 329 332	GDP
+T10	Gene_or_gene_product 355 360	Cdc42
+T11	Gene_or_gene_product 412 415	GAP
+T12	Gene_or_gene_product 417 421	Bem3
+T13	Gene_or_gene_product 440 443	GAP
+T14	Gene_or_gene_product 445 449	Rga1
+T15	Gene_or_gene_product 455 460	Cdc42
+T16	Gene_or_gene_product 493 496	GAP
+T17	Gene_or_gene_product 501 506	Cdc42
+T18	Gene_or_gene_product 520 524	Rga2
+T19	Gene_or_gene_product 526 557	Rho GTPase-activating protein 2
+T20	Gene_or_gene_product 614 618	Rga1
+T21	Gene_or_gene_product 620 624	Rga2
+T22	Gene_or_gene_product 630 634	Bem3
+T23	Gene_or_gene_product 642 646	GAPs
+T24	Gene_or_gene_product 651 656	Cdc42
+T25	Gene_or_gene_product 689 693	Rga1
+T26	Gene_or_gene_product 695 699	Rga2
+T27	Gene_or_gene_product 705 709	Bem3
+T28	Gene_or_gene_product 760 765	Cdc42
+T29	Gene_or_gene_product 818 822	GAPs
+T30	Gene_or_gene_product 880 884	RGA1
+T31	Gene_or_gene_product 894 898	RGA2
+T32	Gene_or_gene_product 902 906	BEM3
+T33	Gene_or_gene_product 976 980	Rga1
+T34	Gene_or_gene_product 985 989	Rga2
+T35	Gene_or_gene_product 999 1003	Bem3
+T36	Gene_or_gene_product 1044 1049	Cdc42
+T37	Gene_or_gene_product 1055 1060	Ste20
+T38	Gene_or_gene_product 1064 1097	p21-activated kinase (PAK) kinase
+T39	Gene_or_gene_product 1158 1162	Rga1
+T40	Gene_or_gene_product 1177 1181	Rga2
+T41	Gene_or_gene_product 1213 1218	Cdc42
+T42	Gene_or_gene_product 1224 1229	Ste20
+T43	Gene_or_gene_product 1303 1307	BEM3
+T44	Gene_or_gene_product 1376 1380	rga1
+T45	Gene_or_gene_product 1389 1393	rga2
+T46	Gene_or_gene_product 1432 1436	Bem3
+T47	Gene_or_gene_product 1462 1466	Rga1
+T48	Gene_or_gene_product 1471 1475	Rga2
+T49	Gene_or_gene_product 1499 1504	Cdc42
+T50	Gene_or_gene_product 1508 1514	septin
+T51	Gene_or_gene_product 1555 1559	GAPs
+T52	Gene_or_gene_product 1606 1611	Cdc42
+T53	Gene_or_gene_product 1728 1731	GAP

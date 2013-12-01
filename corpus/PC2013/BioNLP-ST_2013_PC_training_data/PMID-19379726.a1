@@ -1,0 +1,48 @@
+T1	Simple_chemical 0 27	Pyrrolidine dithiocarbamate
+T2	Complex 31 40	NF-kappaB
+T3	Gene_or_gene_product 64 69	MMP-1
+T4	Gene_or_gene_product 74 80	MMP-13
+T5	Gene_or_gene_product 84 92	IL-1beta
+T6	Complex 166 175	NF-kappaB
+T7	Gene_or_gene_product 221 253	matrix metalloproteinase (MMP)-1
+T8	Gene_or_gene_product 258 264	MMP-13
+T9	Complex 373 382	NF-kappaB
+T10	Simple_chemical 393 420	pyrrolidine dithiocarbamate
+T11	Simple_chemical 422 426	PDTC
+T12	Gene_or_gene_product 449 453	MMPs
+T13	Gene_or_gene_product 457 465	IL-1beta
+T14	Gene_or_gene_product 570 578	IL-1beta
+T15	Simple_chemical 629 633	PDTC
+T16	Gene_or_gene_product 648 653	MMP-1
+T17	Gene_or_gene_product 658 664	MMP-13
+T18	Simple_chemical 690 694	PDTC
+T19	Gene_or_gene_product 734 742	IL-1beta
+T20	Gene_or_gene_product 779 783	IL-6
+T21	Gene_or_gene_product 788 822	vascular endothelial growth factor
+T22	Gene_or_gene_product 824 828	VEGF
+T23	Simple_chemical 845 849	PDTC
+T24	Simple_chemical 891 895	PDTC
+T25	Gene_or_gene_product 919 923	IL-6
+T26	Gene_or_gene_product 928 932	VEGF
+T27	Gene_or_gene_product 964 973	TNF-alpha
+T28	Complex 1031 1040	NF-kappaB
+T29	Simple_chemical 1061 1072	fenofibrate
+T30	Simple_chemical 1074 1090	N-acetylcysteine
+T31	Simple_chemical 1095 1100	MG132
+T32	Gene_or_gene_product 1112 1115	MMP
+T33	Gene_or_gene_product 1130 1138	IL-1beta
+T34	Simple_chemical 1182 1186	PDTC
+T35	Gene_or_gene_product 1190 1193	MMP
+T36	Gene_or_gene_product 1252 1284	mitogen-activated protein kinase
+T37	Gene_or_gene_product 1286 1290	MAPK
+T38	Simple_chemical 1335 1339	PDTC
+T39	Gene_or_gene_product 1381 1387	ERK1/2
+T40	Gene_or_gene_product 1391 1394	P38
+T41	Gene_or_gene_product 1402 1405	JNK
+T42	Cellular_component 1414 1426	transnuclear
+T43	Complex 1440 1449	NF-kappaB
+T44	Gene_or_gene_product 1473 1486	IkappaB-alpha
+T45	Gene_or_gene_product 1490 1498	IL-1beta
+T46	Gene_or_gene_product 1559 1562	MMP
+T47	Complex 1622 1631	NF-kappaB
+T48	Complex 1678 1687	NF-kappaB

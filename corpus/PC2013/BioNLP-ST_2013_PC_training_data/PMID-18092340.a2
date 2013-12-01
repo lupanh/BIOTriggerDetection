@@ -1,0 +1,73 @@
+*	Equiv T22 T23
+T29	Regulation 13 20	effects
+E1	Regulation:T29 Cause:T2 Theme:E3
+E2	Regulation:T29 Cause:T2 Theme:E4
+T30	Pathway 87 97	cell cycle
+E3	Pathway:T30 
+T31	Positive_regulation 114 123	induction
+E4	Positive_regulation:T31 Theme:E5
+T32	Pathway 127 136	apoptosis
+E5	Pathway:T32 
+T33	Positive_regulation 348 357	activator
+E6	Positive_regulation:T33 Cause:T7 Theme:E7
+T34	Pathway 369 376	pathway
+E7	Pathway:T34 Participant:T6
+T35	Positive_regulation 519 526	induced
+E8	Positive_regulation:T35 Theme:E11 Cause:T9
+E9	Positive_regulation:T35 Theme:E11 Cause:T10
+E10	Positive_regulation:T35 Theme:E11 Cause:T11
+T36	Positive_regulation 531 543	accumulation
+E11	Positive_regulation:T36 Theme:T12
+T37	Regulation 557 565	affected
+E12	Regulation:T37 Theme:E15 Cause:T9
+E13	Regulation:T37 Theme:E15 Cause:T10
+E14	Regulation:T37 Theme:E15 Cause:T11
+T38	Pathway 566 576	cell cycle
+E15	Pathway:T38 
+T39	Positive_regulation 649 656	induced
+E16	Positive_regulation:T39 Cause:T13 Theme:E17
+T40	Pathway 657 667	cell cycle
+E17	Pathway:T40 
+T41	Regulation 714 721	induced
+E18	Regulation:T41 Cause:T14 Theme:E19
+T42	Pathway 728 738	cell cycle
+E19	Pathway:T42 
+T43	Regulation 872 878	affect
+E20	Regulation:T43 Theme:E21 Cause:T16
+M1	Negation E20
+T44	Pathway 879 889	cell cycle
+E21	Pathway:T44 
+T45	Positive_regulation 906 913	induced
+E22	Positive_regulation:T45 Theme:E23 Cause:T16
+T46	Positive_regulation 922 930	increase
+E23	Positive_regulation:T46 Theme:E24
+T47	Pathway 934 943	apoptosis
+E24	Pathway:T47 
+T48	Regulation 1137 1143	effect
+E25	Regulation:T48 Theme:E28 Cause:T18
+E26	Regulation:T48 Theme:E28 Cause:T19
+E27	Regulation:T48 Theme:E28 Cause:T20
+T49	Pathway 1147 1157	cell cycle
+E28	Pathway:T49 
+T50	Positive_regulation 1203 1214	upregulated
+E29	Positive_regulation:T50 Cause:T21 Theme:E30
+T51	Transcription 1237 1247	expression
+E30	Transcription:T51 Theme:T22
+T52	Regulation 1275 1283	involved
+E31	Regulation:T52 Cause:T22 Theme:E32
+T53	Pathway 1292 1302	cell cycle
+E32	Pathway:T53 
+T54	Positive_regulation 1333 1344	upregulated
+E33	Positive_regulation:T54 Cause:T18 Theme:E36
+E34	Positive_regulation:T54 Cause:T19 Theme:E36
+E35	Positive_regulation:T54 Cause:T20 Theme:E36
+T55	Gene_expression 1354 1364	expression
+E36	Gene_expression:T55 Theme:T24
+T56	Positive_regulation 1489 1497	enhanced
+E37	Positive_regulation:T56 Theme:E41 Cause:T25
+E38	Positive_regulation:T56 Theme:E41 Cause:T26
+E39	Positive_regulation:T56 Theme:E41 Cause:T27
+T57	Positive_regulation 1526 1534	mediated
+E40	Positive_regulation:T57 Cause:T28 Theme:E41
+T58	Pathway 1535 1544	apoptosis
+E41	Pathway:T58 

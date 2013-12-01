@@ -1,0 +1,43 @@
+1	Statistical	_	JJ	_	_	2	NMOD	_	_
+2	Analysis	_	NN	_	_	0	ROOT	_	_
+		
+1	The	_	DT	_	_	2	NMOD	_	_
+2	results	_	NNS	_	_	3	VMOD	_	_
+3	were	_	VBD	_	_	0	ROOT	_	_
+4	expressed	_	VBN	_	_	3	VC	_	_
+5	as	_	IN	_	_	4	VMOD	_	_
+6	the	_	DT	_	_	8	NMOD	_	_
+7	mean	_	NN	_	_	8	NMOD	_	_
+8	value	_	NN	_	_	5	PMOD	_	_
+9	+/-	_	CC	_	_	8	COORD	_	_
+10	S.E.M.	_	NN	_	_	9	CONJ	_	_
+11	of	_	IN	_	_	8	NMOD	_	_
+12	individual	_	JJ	_	_	13	NMOD	_	_
+13	experiments	_	NNS	_	_	11	PMOD	_	_
+14	.	_	.	_	_	3	P	_	_
+		
+1	The	_	DT	_	_	3	NMOD	_	_
+2	statistical	_	JJ	_	_	3	NMOD	_	_
+3	significance	_	NN	_	_	10	VMOD	_	_
+4	of	_	IN	_	_	3	NMOD	_	_
+5	the	_	DT	_	_	6	NMOD	_	_
+6	differences	_	NNS	_	_	4	PMOD	_	_
+7	between	_	IN	_	_	6	NMOD	_	_
+8	mean	_	JJ	_	_	9	NMOD	_	_
+9	values	_	NNS	_	_	7	PMOD	_	_
+10	was	_	VBD	_	_	0	ROOT	_	_
+11	assessed	_	VBN	_	_	10	VC	_	_
+12	by	_	IN	_	_	11	VMOD	_	_
+13	the	_	DT	_	_	14	NMOD	_	_
+14	Student	_	NN	_	_	16	NMOD	_	_
+15	's	_	POS	_	_	14	SUFFIX	_	_
+16	t-test	_	NN	_	_	12	PMOD	_	_
+17	and	_	CC	_	_	16	COORD	_	_
+18	analysis	_	NN	_	_	17	CONJ	_	_
+19	of	_	IN	_	_	18	NMOD	_	_
+20	variance	_	NN	_	_	19	PMOD	_	_
+21	(	_	(	_	_	22	P	_	_
+22	ANOVA	_	NN	_	_	20	PRN	_	_
+23	)	_	)	_	_	22	P	_	_
+24	.	_	.	_	_	10	P	_	_
+		

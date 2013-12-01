@@ -1,0 +1,13 @@
+*	Equiv T3 T4
+T16	Activation 30 39	activated
+E1	Activation:T16 Cause:T1 Theme:T2
+T17	Activation 134 144	Activation
+E2	Activation:T17 Theme:T3
+T18	Positive_regulation 588 598	stimulated
+E3	Positive_regulation:T18 Cause:T10 Theme:T7
+T19	Activation 641 650	activated
+E4	Activation:T19 Cause:T12 Theme:T7
+T20	Negative_regulation 709 718	inhibited
+E5	Negative_regulation:T20 Cause:T13 Theme:T7
+T21	Positive_regulation 767 778	responsible
+E6	Positive_regulation:T21 Theme:T15

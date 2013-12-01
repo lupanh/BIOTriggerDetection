@@ -1,0 +1,44 @@
+1	Immunohistochemistry	_	NN	_	_	0	ROOT	_	_
+		
+1	Gnotobiotic	_	JJ	_	_	2	NMOD	_	_
+2	piglets	_	NNS	_	_	3	VMOD	_	_
+3	were	_	VBD	_	_	0	ROOT	_	_
+4	infected	_	VBN	_	_	3	VC	_	_
+5	with	_	IN	_	_	4	VMOD	_	_
+6	E.	_	FW	_	_	7	AMOD	_	_
+7	coli	_	FW	_	_	9	NMOD	_	_
+8	O157:H7	_	NN	_	_	9	NMOD	_	_
+9	strains	_	NNS	_	_	5	PMOD	_	_
+10	as	_	IN	_	_	9	NMOD	_	_
+11	described	_	VBN	_	_	12	NMOD	_	_
+12	previously9	_	NNS	_	_	10	PMOD	_	_
+13	.	_	.	_	_	3	P	_	_
+		
+1	Spiral	_	JJ	_	_	3	NMOD	_	_
+2	colon	_	NN	_	_	3	NMOD	_	_
+3	specimens	_	NNS	_	_	4	VMOD	_	_
+4	were	_	VBD	_	_	0	ROOT	_	_
+5	collected	_	VBN	_	_	4	VC	_	_
+6	at	_	IN	_	_	5	VMOD	_	_
+7	necropsy	_	NN	_	_	6	PMOD	_	_
+8	and	_	CC	_	_	5	COORD	_	_
+9	embedded	_	JJ	_	_	8	CONJ	_	_
+10	in	_	IN	_	_	9	AMOD	_	_
+11	paraffin	_	NN	_	_	10	PMOD	_	_
+12	.	_	.	_	_	4	P	_	_
+		
+1	Paraffin	_	JJ	_	_	2	NMOD	_	_
+2	sectioning	_	NN	_	_	9	VMOD	_	_
+3	and	_	CC	_	_	2	COORD	_	_
+4	immunohistochemical	_	JJ	_	_	5	NMOD	_	_
+5	staining	_	NN	_	_	3	CONJ	_	_
+6	using	_	VBG	_	_	2	APPO	_	_
+7	phospho-RPS3	_	NN	_	_	8	NMOD	_	_
+8	antibody	_	NN	_	_	6	VMOD	_	_
+9	were	_	VBD	_	_	0	ROOT	_	_
+10	performed	_	VBN	_	_	9	VC	_	_
+11	by	_	IN	_	_	10	VMOD	_	_
+12	Histoserv	_	NNP	_	_	13	NAME	_	_
+13	Inc	_	NNP	_	_	11	PMOD	_	_
+14	.	_	.	_	_	9	P	_	_
+		

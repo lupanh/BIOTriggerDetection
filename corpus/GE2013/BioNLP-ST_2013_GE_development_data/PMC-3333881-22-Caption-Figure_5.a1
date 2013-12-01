@@ -1,0 +1,22 @@
+T1	Protein 0 3	Tat
+T2	Protein 18 21	p65
+T3	Protein 128 131	p65
+T4	Protein 149 162	IkappaB-alpha
+T5	Protein 228 231	Tat
+T6	Protein 241 256	Tat C(22,25,27)
+T7	Protein 266 278	Tat R(49-57)
+T8	Protein 312 315	p65
+T9	Protein 380 383	Tat
+T10	Protein 400 409	siRNA p65
+T11	Protein 559 569	MIP-1alpha
+T12	Protein 575 579	CSF3
+T13	Protein 585 588	LTA
+T14	Protein 594 600	NFKBIA
+T15	Protein 606 610	TLR2
+T16	Protein 616 621	GAPDH
+T17	Protein 627 631	ACTB
+T18	Protein 698 701	Tat
+T19	Protein 940 943	Tat
+T20	Protein 982 991	siRNA p65
+T21	Protein 1226 1229	Tat
+T22	Protein 1264 1283	siRNA IkappaB-alpha

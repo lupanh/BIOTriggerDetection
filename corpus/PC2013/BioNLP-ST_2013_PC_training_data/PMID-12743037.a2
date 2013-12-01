@@ -1,0 +1,35 @@
+*	Equiv T4 T5
+T28	Transcription 19 32	transcription
+E1	Transcription:T28 Theme:T1
+T29	Positive_regulation 41 48	depends
+E2	Positive_regulation:T29 Theme:E1 Cause:E4
+T30	Positive_regulation 59 67	mediated
+E3	Positive_regulation:T30 Cause:T2 Theme:E4
+T31	Transport 68 79	recruitment
+E4	Transport:T31 Theme:T3
+T32	Regulation 395 402	targets
+E5	Regulation:T32 Cause:T10 Theme:T11
+T33	Activation 584 590	active
+E6	Activation:T33 Theme:T14
+T34	Transport 616 627	recruitment
+E7	Transport:T34 Theme:T15
+T35	Regulation 692 698	depend
+E8	Regulation:T35 Theme:E7
+M1	Negation E8
+T36	Binding 762 771	interacts
+E9	Binding:T36 Theme:T19 Theme2:T18
+T37	Binding 983 992	anchoring
+E10	Binding:T37 Theme:T22
+T38	Activation 996 1002	active
+E11	Activation:T38 Theme:T22
+T39	Activation 1033 1042	activator
+E12	Activation:T39 Theme:T23
+T40	Positive_regulation 1046 1055	essential
+E13	Positive_regulation:T40 Cause:E10 Theme:E15
+E14	Positive_regulation:T40 Cause:E10 Theme:E16
+T41	Transport 1060 1071	recruitment
+E15	Transport:T41 Theme:T24
+T42	Activation 1076 1086	activation
+E16	Activation:T42 Theme:T24
+T43	Binding 1125 1134	interacts
+E17	Binding:T43 Theme:T26 Theme2:T25

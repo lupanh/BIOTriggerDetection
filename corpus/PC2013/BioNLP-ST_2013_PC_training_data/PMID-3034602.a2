@@ -1,0 +1,10 @@
+T12	Positive_regulation 212 221	catalyses
+E1	Positive_regulation:T12 Theme:E4 Cause:T3
+E2	Positive_regulation:T12 Theme:E4 Cause:T4
+E3	Positive_regulation:T12 Theme:E4 Cause:E5
+T13	Conversion 226 235	formation
+E4	Conversion:T13 Product:T5 Theme:T7
+T14	Hydroxylation 276 289	hydroxylation
+E5	Hydroxylation:T14 Theme:T7
+T15	Binding 1433 1441	tetramer
+E6	Binding:T15 Theme:T11

@@ -1,0 +1,38 @@
+T1	Simple_chemical 17 33	prostaglandin E2
+T2	Gene_or_gene_product 47 64	interleukin-1beta
+T3	Gene_or_gene_product 127 166	prostaglandin-endoperoxide H synthase-2
+T4	Simple_chemical 171 182	glutathione
+T5	Gene_or_gene_product 193 218	prostaglandin E2 synthase
+T6	Simple_chemical 232 250	Prostaglandin E(2)
+T7	Simple_chemical 252 258	PGE(2)
+T8	Gene_or_gene_product 375 391	PGE(2) synthases
+T9	Gene_or_gene_product 393 397	PGES
+T10	Simple_chemical 438 449	glutathione
+T11	Gene_or_gene_product 470 475	cPGES
+T12	Cellular_component 479 490	cytoplasmic
+T13	Gene_or_gene_product 520 525	hsp90
+T14	Gene_or_gene_product 537 540	p23
+T15	Gene_or_gene_product 575 614	prostaglandin-endoperoxide H synthase-1
+T16	Gene_or_gene_product 616 622	PGHS-1
+T17	Gene_or_gene_product 642 656	cyclooxygenase
+T18	Gene_or_gene_product 688 693	mPGES
+T19	Gene_or_gene_product 756 761	mPGES
+T20	Gene_or_gene_product 766 772	PGHS-2
+T21	Gene_or_gene_product 846 868	Interleukin (IL)-1beta
+T22	Gene_or_gene_product 902 908	PGHS-2
+T23	Gene_or_gene_product 913 918	mPGES
+T24	Simple_chemical 1078 1091	dexamethasone
+T25	Simple_chemical 1101 1108	SC58125
+T26	Gene_or_gene_product 1112 1118	PGHS-2
+T27	Gene_or_gene_product 1173 1178	mPGES
+T28	Gene_or_gene_product 1222 1228	PGHS-2
+T29	Gene_or_gene_product 1239 1247	IL-1beta
+T30	Gene_or_gene_product 1268 1271	p38
+T31	Gene_or_gene_product 1276 1279	ERK
+T32	Gene_or_gene_product 1280 1313	mitogen-activated protein kinases
+T33	Gene_or_gene_product 1333 1338	mPGES
+T34	Gene_or_gene_product 1343 1349	PGHS-2
+T35	Gene_or_gene_product 1520 1526	PGHS-2
+T36	Gene_or_gene_product 1531 1536	mPGES
+T37	Gene_or_gene_product 1540 1548	IL-1beta
+T38	Simple_chemical 1566 1572	PGE(2)

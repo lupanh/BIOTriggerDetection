@@ -1,0 +1,30 @@
+T1	Gene_or_gene_product 0 16	nemo-like kinase
+T2	Gene_or_gene_product 49 52	Wnt
+T3	Gene_or_gene_product 100 103	Wnt
+T4	Gene_or_gene_product 104 116	beta-catenin
+T5	Gene_or_gene_product 272 275	Wnt
+T6	Gene_or_gene_product 355 358	Tcf
+T7	Gene_or_gene_product 394 397	Wnt
+T8	Gene_or_gene_product 449 453	nemo
+T9	Gene_or_gene_product 455 471	nemo-like kinase
+T10	Gene_or_gene_product 473 476	Nlk
+T11	Gene_or_gene_product 497 504	Tcf/Lef
+T12	Complex 553 569	beta-catenin/Tcf
+T13	Gene_or_gene_product 612 615	Wnt
+T14	Gene_or_gene_product 682 685	Nlk
+T15	Gene_or_gene_product 710 713	Wnt
+T16	Gene_or_gene_product 759 762	Tcf
+T17	Gene_or_gene_product 801 804	nlk
+T18	Gene_or_gene_product 822 826	wnt8
+T19	Gene_or_gene_product 849 853	tcf3
+T20	Gene_or_gene_product 864 869	tcf3a
+T21	Gene_or_gene_product 874 879	tcf3b
+T22	Gene_or_gene_product 894 897	Wnt
+T23	Gene_or_gene_product 954 957	nlk
+T24	Gene_or_gene_product 1073 1077	wnt8
+T25	Gene_or_gene_product 1140 1145	wnt8b
+T26	Gene_or_gene_product 1166 1169	nlk
+T27	Gene_or_gene_product 1217 1220	Wnt
+T28	Gene_or_gene_product 1246 1249	nlk
+T29	Gene_or_gene_product 1316 1321	wnt11
+T30	Gene_or_gene_product 1322 1333	silberblick

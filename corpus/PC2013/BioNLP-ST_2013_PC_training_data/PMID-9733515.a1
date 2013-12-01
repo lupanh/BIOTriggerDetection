@@ -1,0 +1,17 @@
+T1	Gene_or_gene_product 18 21	ATM
+T2	Gene_or_gene_product 74 77	p53
+T3	Gene_or_gene_product 84 87	p53
+T4	Simple_chemical 148 157	serine-15
+T5	Gene_or_gene_product 219 251	mutated in ataxia telangiectasia
+T6	Gene_or_gene_product 253 256	ATM
+T7	Gene_or_gene_product 275 278	p53
+T8	Gene_or_gene_product 364 367	ATM
+T9	Gene_or_gene_product 425 428	p53
+T10	Simple_chemical 432 441	serine-15
+T11	Simple_chemical 447 456	manganese
+T12	Gene_or_gene_product 548 551	p53
+T13	Gene_or_gene_product 591 594	ATM
+T14	Gene_or_gene_product 660 663	p53
+T15	Simple_chemical 667 676	serine-15
+T16	Gene_or_gene_product 767 770	ATM
+T17	Gene_or_gene_product 811 814	p53

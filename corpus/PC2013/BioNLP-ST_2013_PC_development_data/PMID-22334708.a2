@@ -1,0 +1,70 @@
+*	Equiv T5 T6 T7
+T52	Positive_regulation 65 73	required
+E1	Positive_regulation:T52 Theme:E4 Cause:T1
+E2	Positive_regulation:T52 Theme:E4 Cause:T2
+T53	Positive_regulation 126 135	dependent
+E3	Positive_regulation:T53 Cause:T3 Theme:E4
+T54	Activation 136 146	activation
+E4	Activation:T54 Theme:T4
+T55	Regulation 247 253	linker
+E5	Regulation:T55 Cause:T5 Theme:T8
+E6	Regulation:T55 Cause:T5 Theme:T9
+T56	Positive_regulation 329 350	plays important roles
+E7	Positive_regulation:T56 Theme:E8 Cause:T5
+T57	Activation 364 379	transactivation
+E8	Activation:T57 Theme:T10
+T58	Gene_expression 549 563	overexpression
+E9	Gene_expression:T58 Theme:T13
+E10	Gene_expression:T58 Theme:T14
+E11	Gene_expression:T58 Theme:T15
+E12	Gene_expression:T58 Theme:T16
+E13	Gene_expression:T58 Theme:T17
+T59	Positive_regulation 617 628	potentiates
+E14	Positive_regulation:T59 Theme:E19 Cause:E9
+E15	Positive_regulation:T59 Theme:E19 Cause:E10
+E16	Positive_regulation:T59 Theme:E19 Cause:E11
+E17	Positive_regulation:T59 Theme:E19 Cause:E12
+E18	Positive_regulation:T59 Theme:E19 Cause:E13
+T60	Activation 633 648	transactivating
+E19	Activation:T60 Theme:T18
+T61	Gene_expression 751 758	express
+E20	Gene_expression:T61 Theme:T13
+E21	Gene_expression:T61 Theme:T14
+E22	Gene_expression:T61 Theme:T15
+E23	Gene_expression:T61 Theme:T16
+E24	Gene_expression:T61 Theme:T17
+T62	Gene_expression 840 848	produced
+E25	Gene_expression:T62 Theme:T19
+E26	Gene_expression:T62 Theme:T20
+E27	Gene_expression:T62 Theme:T21
+T63	Positive_regulation 906 914	critical
+E28	Positive_regulation:T63 Cause:T19 Theme:E30
+E29	Positive_regulation:T63 Cause:T20 Theme:E30
+T64	Positive_regulation 954 969	transactivation
+E30	Positive_regulation:T64 Theme:T22
+T65	Positive_regulation 970 977	induced
+E31	Positive_regulation:T65 Cause:E32 Theme:E30
+T66	Positive_regulation 991 1002	stimulation
+E32	Positive_regulation:T66 Theme:T23
+T67	Positive_regulation 1036 1051	transactivation
+E33	Positive_regulation:T67 Theme:T22
+T68	Positive_regulation 1052 1060	requires
+E34	Positive_regulation:T68 Cause:T24 Theme:E33
+T69	Binding 1124 1132	interact
+E35	Binding:T69 Theme:T25 Theme2:T27
+E36	Binding:T69 Theme:T25 Theme2:T28
+E37	Binding:T69 Theme:T25 Theme2:T29
+E38	Binding:T69 Theme:T26 Theme2:T27
+E39	Binding:T69 Theme:T26 Theme2:T28
+E40	Binding:T69 Theme:T26 Theme2:T29
+T70	Transport 1499 1510	recruitment
+E41	Transport:T70 Theme:T38
+T71	Regulation 1675 1684	associate
+E42	Regulation:T71 Theme:T43 Cause:T40
+E43	Regulation:T71 Theme:T43 Cause:T41
+E44	Regulation:T71 Theme:T43 Cause:T42
+T72	Regulation 1803 1810	linking
+E45	Regulation:T72 Cause:T48 Theme:T46
+E46	Regulation:T72 Cause:T49 Theme:T46
+E47	Regulation:T72 Cause:T49 Theme:T47
+E48	Regulation:T72 Cause:T48 Theme:T47

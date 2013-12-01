@@ -1,0 +1,45 @@
+*	Equiv T6 T5
+T35	Negative_regulation 4 14	inhibitory
+E1	Negative_regulation:T35 Theme:T1 Cause:T2
+T36	Regulation 62 71	regulated
+E2	Regulation:T36 Theme:E1
+E3	Regulation:T36 Theme:T2
+T37	Binding 143 150	binding
+E4	Binding:T37 Theme:T4 Theme2:T5
+T38	Regulation 158 168	regulating
+E5	Regulation:T38 Cause:T4 Theme:T5
+T39	Negative_regulation 240 250	inhibition
+E6	Negative_regulation:T39 Theme:T7 Cause:T8
+T40	Regulation 273 282	regulated
+E7	Regulation:T40 Cause:E9 Theme:T8
+E8	Regulation:T40 Cause:E9 Theme:E6
+T41	Phosphorylation 298 313	phosphorylation
+E9	Phosphorylation:T41 Theme:T8
+T42	Binding 381 388	binding
+E10	Binding:T42 Theme:T12 Theme2:T13
+T43	Phosphorylation 410 424	phosphorylated
+E11	Phosphorylation:T43 Site:T11 Theme:T13 Cause:T15
+E12	Phosphorylation:T43 Site:T11 Theme:T13 Cause:T16
+T44	Phosphorylation 492 507	phosphorylation
+E13	Phosphorylation:T44 Site:T17 Theme:T18
+T45	Negative_regulation 517 524	prevent
+E14	Negative_regulation:T45 Cause:E13 Theme:E15
+M1	Negation E14
+T46	Binding 529 536	binding
+E15	Binding:T46 Theme:T18 Theme:T19
+T47	Phosphorylation 574 588	phosphorylated
+E16	Phosphorylation:T47 Site:T20 Theme:T18
+T48	Positive_regulation 684 693	restoring
+E17	Positive_regulation:T48 Theme:T23 Cause:E13
+T49	Phosphorylation 745 759	phosphorylated
+E18	Phosphorylation:T49 Site:T24 Theme:T25
+T50	Phosphorylation 782 796	phosphorylated
+E19	Phosphorylation:T50 Theme:T25 Site:T26 Cause:T27
+T51	Positive_regulation 836 844	promotes
+E20	Positive_regulation:T51 Theme:E22 Cause:E19
+T52	Positive_regulation 858 867	dependent
+E21	Positive_regulation:T52 Cause:T28 Theme:E22
+T53	Degradation 868 879	degradation
+E22	Degradation:T53 Theme:T25
+T54	Degradation 1045 1056	elimination
+E23	Degradation:T54 Theme:T33

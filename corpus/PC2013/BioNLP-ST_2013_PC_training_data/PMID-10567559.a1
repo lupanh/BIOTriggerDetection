@@ -1,0 +1,37 @@
+T1	Gene_or_gene_product 0 4	PDK1
+T2	Gene_or_gene_product 27 31	Pkc1
+T3	Gene_or_gene_product 32 64	mitogen-activated protein kinase
+T4	Gene_or_gene_product 84 88	PDK1
+T5	Gene_or_gene_product 90 125	phosphoinositide-dependent kinase 1
+T6	Simple_chemical 166 172	serine
+T7	Simple_chemical 173 182	threonine
+T8	Gene_or_gene_product 253 270	MAP kinase kinase
+T9	Gene_or_gene_product 271 275	Ste7
+T10	Gene_or_gene_product 297 301	PKH2
+T11	Gene_or_gene_product 371 375	PDK1
+T12	Gene_or_gene_product 402 406	PKH2
+T13	Gene_or_gene_product 411 415	PKH1
+T14	Gene_or_gene_product 434 438	PDK1
+T15	Gene_or_gene_product 480 484	Pkh1
+T16	Gene_or_gene_product 489 493	Pkh2
+T17	Gene_or_gene_product 555 559	pkh1
+T18	Gene_or_gene_product 567 571	pkh2
+T19	Gene_or_gene_product 628 632	Pkc1
+T20	Gene_or_gene_product 633 665	mitogen-activated protein kinase
+T21	Gene_or_gene_product 667 671	MAPK
+T22	Gene_or_gene_product 733 737	Pkc1
+T23	Gene_or_gene_product 741 745	Pkh2
+T24	Gene_or_gene_product 768 772	Pkc1
+T25	Gene_or_gene_product 789 793	pkh1
+T26	Gene_or_gene_product 801 805	pkh2
+T27	Gene_or_gene_product 827 830	Pkh
+T28	Gene_or_gene_product 853 857	Pkc1
+T29	Gene_or_gene_product 863 867	Pkh2
+T30	Gene_or_gene_product 892 896	Pkc1
+T31	Simple_chemical 898 905	Thr-983
+T32	Gene_or_gene_product 930 934	PDK1
+T33	Gene_or_gene_product 966 970	Pkc1
+T34	Gene_or_gene_product 997 1001	PDK1
+T35	Gene_or_gene_product 1020 1024	Pkc1
+T36	Gene_or_gene_product 1033 1037	Pkc1
+T37	Gene_or_gene_product 1047 1051	MAPK

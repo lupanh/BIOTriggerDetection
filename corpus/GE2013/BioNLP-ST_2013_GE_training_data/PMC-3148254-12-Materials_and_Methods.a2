@@ -1,0 +1,11 @@
+T9	Positive_regulation 36 45	simulated
+T10	Positive_regulation 46 56	activation
+T11	Transcription 70 83	transcription
+T12	Gene_expression 571 581	Expression
+T13	Gene_expression 632 642	expression
+E1	Positive_regulation:T9 Theme:E2 Cause:T2
+E2	Positive_regulation:T10 Theme:E3
+E3	Transcription:T11 Theme:T3
+E4	Gene_expression:T12 Theme:T7
+E5	Gene_expression:T13 Theme:T8
+M1	Speculation E1

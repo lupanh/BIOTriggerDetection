@@ -1,0 +1,7 @@
+*	Equiv T5 T4
+T25	Gene_expression 167 177	production
+E1	Gene_expression:T25 Theme:T2
+T26	Conversion 361 368	produce
+E2	Conversion:T26 Product:T6
+T27	Positive_regulation 874 883	elevation
+E3	Positive_regulation:T27 Theme:T12

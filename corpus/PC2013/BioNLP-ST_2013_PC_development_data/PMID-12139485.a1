@@ -1,0 +1,38 @@
+T1	Gene_or_gene_product 3 6	E2F
+T2	Gene_or_gene_product 76 100	6-phosphofructo-2-kinase
+T3	Gene_or_gene_product 101 128	fructose-2,6-bisphosphatase
+T4	Gene_or_gene_product 132 161	phosphatidylinositol 3-kinase
+T5	Gene_or_gene_product 206 209	E2F
+T6	Gene_or_gene_product 267 291	6-phosphofructo-2-kinase
+T7	Gene_or_gene_product 292 319	fructose-2,6-bisphosphatase
+T8	Gene_or_gene_product 321 326	6PF2K
+T9	Gene_or_gene_product 327 340	Fru-2,6-BPase
+T10	Complex 485 503	E2F-pocket protein
+T11	Gene_or_gene_product 531 534	E2F
+T12	Gene_or_gene_product 630 659	phosphatidylinositol 3-kinase
+T13	Gene_or_gene_product 661 672	PI 3-kinase
+T14	Complex 741 752	E2F complex
+T15	Gene_or_gene_product 823 827	E2F4
+T16	Gene_or_gene_product 829 832	DP1
+T17	Gene_or_gene_product 837 841	p130
+T18	Gene_or_gene_product 932 938	E2F1/4
+T19	Gene_or_gene_product 940 943	DP1
+T20	Gene_or_gene_product 948 952	p107
+T21	Gene_or_gene_product 968 976	cyclin A
+T22	Gene_or_gene_product 981 1006	cyclin-dependent kinase 2
+T23	Gene_or_gene_product 1027 1038	PI 3-kinase
+T24	Simple_chemical 1058 1067	LY 294002
+T25	Gene_or_gene_product 1150 1161	PI 3-kinase
+T26	Simple_chemical 1328 1338	wortmannin
+T27	Simple_chemical 1342 1351	LY 294002
+T28	Complex 1413 1426	p130-E2F4-DP1
+T29	Gene_or_gene_product 1452 1459	ER-E2F1
+T30	Gene_or_gene_product 1476 1480	E2F1
+T31	Gene_or_gene_product 1541 1544	E2F
+T32	Gene_or_gene_product 1622 1627	6PF2K
+T33	Gene_or_gene_product 1628 1642	Fru-2, 6-BPase
+T34	Gene_or_gene_product 1698 1703	6PF2K
+T35	Gene_or_gene_product 1704 1718	Fru-2, 6-BPase
+T36	Gene_or_gene_product 1732 1735	E2F
+T37	Gene_or_gene_product 1783 1794	PI 3-kinase
+T38	Gene_or_gene_product 1846 1849	E2F

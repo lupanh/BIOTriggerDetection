@@ -1,0 +1,37 @@
+*	Equiv T11 T12
+*	Equiv T14 T13
+T43	Positive_regulation 0 10	Activation
+E1	Positive_regulation:T43 Theme:T1 Cause:E2
+T44	Binding 60 67	binding
+E2	Binding:T44 Theme:T3 Theme2:T2
+T45	Pathway 198 208	cell cycle
+E3	Pathway:T45 
+T46	Binding 495 500	bound
+E4	Binding:T46 Theme:T8 Theme2:T9
+T47	Binding 558 569	association
+E5	Binding:T47 Theme:T11 Theme2:T10 Theme3:T15
+T48	Binding 704 709	bound
+E6	Binding:T48 Theme:T15 Theme2:T13
+T49	Binding 739 755	formed a complex
+E7	Binding:T49 Theme:T18 Theme2:T16
+T50	Binding 773 778	bound
+E8	Binding:T50 Theme:T18 Theme2:T17
+T51	Negative_regulation 1002 1011	inhibited
+E9	Negative_regulation:T51 Theme:E11 Cause:T24
+E10	Negative_regulation:T51 Theme:E11 Cause:T25
+T52	Binding 1016 1023	binding
+E11	Binding:T52 Theme:T26 Theme2:T27
+T53	Positive_regulation 1153 1163	stimulated
+E12	Positive_regulation:T53 Cause:T30 Theme:T28
+T54	Binding 1207 1219	interactions
+E13	Binding:T54 Theme:T31 Theme2:T32
+E14	Binding:T54 Theme:T33 Theme2:T34
+M1	Negation E14
+T55	Regulation 1406 1412	couple
+E15	Regulation:T55 Theme:T38 Cause:T35
+T56	Positive_regulation 1469 1475	target
+E16	Positive_regulation:T56 Cause:T39 Theme:E19
+E17	Positive_regulation:T56 Cause:T39 Theme:E18
+T57	Binding 1488 1493	bound
+E18	Binding:T57 Theme:T40 Theme2:T41
+E19	Binding:T57 Theme:T40 Theme2:T42

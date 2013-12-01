@@ -1,0 +1,64 @@
+T14	Regulation 4 10	Effect
+T15	Entity 40 47	Nuclear
+T16	Localization 48 61	Translocation
+T17	Regulation 96 105	effective
+T18	Negative_regulation 109 119	inhibiting
+T19	Regulation 127 136	regulated
+T20	Gene_expression 147 157	expression
+T21	Regulation 235 241	affect
+T22	Positive_regulation 256 266	stimulated
+T23	Entity 267 274	nuclear
+T24	Localization 275 281	import
+T25	Positive_regulation 333 341	resulted
+T26	Entity 365 372	nuclear
+T27	Localization 380 393	translocation
+T28	Positive_regulation 612 618	caused
+T29	Negative_regulation 629 633	loss
+T30	Entity 637 644	nuclear
+T31	Localization 652 662	expression
+T32	Entity 667 678	cytoplasmic
+T33	Localization 679 688	retention
+T34	Regulation 787 798	This effect
+T35	Regulation 827 836	dependent
+T36	Regulation 929 939	associated
+T37	Negative_regulation 952 962	reductions
+T38	Positive_regulation 980 990	stimulated
+T39	Transcription 1005 1020	mRNA expression
+T40	Negative_regulation 1039 1043	loss
+T41	Binding 1054 1061	binding
+T42	Entity 1081 1089	promoter
+E1	Regulation:T14 Theme:E2
+E2	Localization:T16 Theme:T1 ToLoc:T15
+E3	Regulation:T14 Theme:T2
+E4	Regulation:T17 Theme:E5
+E5	Negative_regulation:T18 Theme:E6
+E6	Regulation:T19 Theme:E7 Cause:T3
+E7	Gene_expression:T20 Theme:T4
+E8	Regulation:T21 Theme:E9
+E9	Positive_regulation:T22 Theme:E10
+E10	Localization:T24 Theme:T5 ToLoc:T23
+E11	Positive_regulation:T25 Theme:E12
+E12	Localization:T27 Theme:T6 ToLoc:T26
+E13	Positive_regulation:T28 Theme:E14
+E14	Negative_regulation:T29 Theme:E17
+E15	Positive_regulation:T28 Theme:E16
+E16	Localization:T33 Theme:T9 ToLoc:T32
+E17	Localization:T31 Theme:T8 ToLoc:T30
+E18	Regulation:T34 Theme:E19
+E19	Regulation:T36 Theme:E27
+E20	Regulation:T34 Theme:E21
+E21	Regulation:T36 Theme:E28
+E22	Regulation:T34 Theme:E23
+E23	Regulation:T36 Theme:E29
+E24	Regulation:T35 Theme:E18
+E25	Regulation:T35 Theme:E20
+E26	Regulation:T35 Theme:E22
+E27	Negative_regulation:T37 Theme:E30
+E28	Negative_regulation:T37 Theme:E31
+E29	Negative_regulation:T40 Theme:E34
+E30	Positive_regulation:T38 Theme:E32
+E31	Positive_regulation:T38 Theme:E33
+E32	Transcription:T39 Theme:T10
+E33	Transcription:T39 Theme:T11
+E34	Binding:T41 Theme:T12 Theme2:T13 Site2:T42
+M1	Speculation E8

@@ -1,0 +1,122 @@
+*	Equiv T28 T29
+T55	Negative_regulation 0 10	Inhibition
+E1	Negative_regulation:T55 Theme:E2 Cause:T2
+T56	Gene_expression 37 47	expression
+E2	Gene_expression:T56 Theme:T1
+T57	Positive_regulation 64 72	mediated
+E3	Positive_regulation:T57 Theme:E1 Cause:E5
+T58	Positive_regulation 107 116	dependent
+E4	Positive_regulation:T58 Cause:T3 Theme:E5
+T59	Pathway 130 139	signaling
+E5	Pathway:T59 Participant:T4
+T60	Negative_regulation 364 373	inhibited
+E6	Negative_regulation:T60 Cause:T7 Theme:E9
+T61	Positive_regulation 393 400	induced
+E7	Positive_regulation:T61 Theme:E9 Cause:T8
+E8	Positive_regulation:T61 Theme:E9 Cause:T9
+T62	Gene_expression 408 418	expression
+E9	Gene_expression:T62 Theme:T10
+T63	Negative_regulation 515 523	inhibits
+E10	Negative_regulation:T63 Cause:T11 Theme:E11
+T64	Gene_expression 531 541	expression
+E11	Gene_expression:T64 Theme:T12
+T65	Negative_regulation 610 621	suppressing
+E12	Negative_regulation:T65 Theme:E13
+T66	Pathway 632 641	signaling
+E13	Pathway:T66 Participant:T14
+T67	Regulation 653 661	affected
+E14	Regulation:T67 Cause:T15 Theme:E21
+E15	Regulation:T67 Cause:T15 Theme:E22
+E16	Regulation:T67 Cause:T15 Theme:E23
+E17	Regulation:T67 Cause:T15 Theme:E25
+E18	Regulation:T67 Cause:T15 Theme:E24
+E19	Regulation:T67 Cause:T15 Theme:E26
+M1	Negation E14
+M2	Negation E15
+M3	Negation E16
+M4	Negation E17
+M5	Negation E18
+M6	Negation E19
+T68	Positive_regulation 680 687	induced
+E20	Positive_regulation:T68 Cause:T16 Theme:E21
+T69	Phosphorylation 701 716	phosphorylation
+E21	Phosphorylation:T69 Theme:T17
+T70	Degradation 732 743	degradation
+E22	Degradation:T70 Theme:T17
+T71	Phosphorylation 763 778	phosphorylation
+E23	Phosphorylation:T71 Theme:T18
+E24	Phosphorylation:T71 Theme:T19
+T72	Transport 795 808	translocation
+E25	Transport:T72 FromLoc:T20 ToLoc:T20 Theme:T18
+E26	Transport:T72 FromLoc:T20 ToLoc:T20 Theme:T19
+T73	Negative_regulation 835 842	inhibit
+E27	Negative_regulation:T73 Cause:T21 Theme:E29
+E28	Negative_regulation:T73 Cause:T21 Theme:E30
+T74	Binding 855 862	binding
+E29	Binding:T74 Theme:T22 Theme2:T24
+E30	Binding:T74 Theme:T23 Theme2:T24
+T75	Positive_regulation 1013 1020	induced
+E31	Positive_regulation:T75 Cause:T27 Theme:E32
+T76	Phosphorylation 1064 1079	phosphorylation
+E32	Phosphorylation:T76 Theme:T29 Site:T30
+T77	Positive_regulation 1105 1112	leading
+E33	Positive_regulation:T77 Theme:E34 Cause:E32
+T78	Inactivation 1120 1132	inactivation
+E34	Inactivation:T78 Theme:T29
+T79	Inactivation 1134 1143	Knockdown
+E35	Inactivation:T79 Theme:T31
+T80	Negative_regulation 1180 1189	inhibited
+E36	Negative_regulation:T80 Theme:E37 Cause:E35
+T81	Positive_regulation 1197 1206	induction
+E37	Positive_regulation:T81 Theme:T33
+T82	Gene_expression 1216 1230	overexpression
+E38	Gene_expression:T82 Theme:T34
+T83	Negative_regulation 1244 1253	abolished
+E39	Negative_regulation:T83 Cause:E38 Theme:E41
+T84	Negative_regulation 1258 1268	inhibitory
+E40	Negative_regulation:T84 Theme:E41
+T85	Regulation 1269 1275	effect
+E41	Regulation:T85 Cause:T35 Theme:E43
+T86	Positive_regulation 1304 1312	restored
+E42	Positive_regulation:T86 Theme:E43 Cause:E38
+T87	Gene_expression 1320 1330	expression
+E43	Gene_expression:T87 Theme:T36
+T88	Positive_regulation 1355 1362	induced
+E44	Positive_regulation:T88 Cause:T37 Theme:E46
+E45	Positive_regulation:T88 Cause:T37 Theme:E47
+T89	Dephosphorylation 1367 1384	dephosphorylation
+E46	Dephosphorylation:T89 Theme:T38
+T90	Activation 1389 1399	activation
+E47	Activation:T90 Theme:T38
+T91	Regulation 1436 1442	target
+E48	Regulation:T91 Theme:T38 Cause:T39
+T92	Gene_expression 1465 1475	expression
+E49	Gene_expression:T92 Theme:T40
+T93	Activation 1494 1500	active
+E50	Activation:T93 Theme:T40
+T94	Negative_regulation 1559 1569	suppressed
+E51	Negative_regulation:T94 Theme:E52 Cause:E49
+T95	Gene_expression 1577 1587	expression
+E52	Gene_expression:T95 Theme:T42
+T96	Positive_regulation 1588 1595	induced
+E53	Positive_regulation:T96 Theme:E52 Cause:T43
+T97	Positive_regulation 1635 1642	induced
+E54	Positive_regulation:T97 Cause:T44 Theme:E55
+T98	Binding 1654 1665	interaction
+E55	Binding:T98 Theme:T45 Theme2:T46 Theme3:T47
+T99	Negative_regulation 1712 1721	prevented
+E56	Negative_regulation:T99 Theme:E57 Cause:E54
+T100	Binding 1726 1733	binding
+E57	Binding:T100 Theme:T48 Theme2:T49
+T101	Negative_regulation 1871 1881	inhibition
+E58	Negative_regulation:T101 Cause:T51 Theme:E59
+T102	Gene_expression 1908 1918	expression
+E59	Gene_expression:T102 Theme:T52
+T103	Positive_regulation 1922 1930	mediated
+E60	Positive_regulation:T103 Theme:E58 Cause:E62
+T104	Positive_regulation 1947 1956	triggered
+E61	Positive_regulation:T104 Cause:T53 Theme:E62
+T105	Negative_regulation 1957 1965	blockade
+E62	Negative_regulation:T105 Theme:E63
+T106	Pathway 1979 1988	signaling
+E63	Pathway:T106 Participant:T54

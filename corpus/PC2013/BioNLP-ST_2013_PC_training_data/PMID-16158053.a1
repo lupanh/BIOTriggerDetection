@@ -1,0 +1,46 @@
+T1	Complex 0 8	E2F-HDAC
+T2	Gene_or_gene_product 65 69	ARHI
+T3	Gene_or_gene_product 89 93	ARHI
+T4	Gene_or_gene_product 219 223	ARHI
+T5	Gene_or_gene_product 287 297	histone H3
+T6	Simple_chemical 324 332	lysine 9
+T7	Gene_or_gene_product 348 358	histone H3
+T8	Gene_or_gene_product 363 367	ARHI
+T9	Gene_or_gene_product 713 717	ARHI
+T10	Gene_or_gene_product 885 888	E2F
+T11	Gene_or_gene_product 975 979	E2F1
+T12	Gene_or_gene_product 984 985	4
+T13	Gene_or_gene_product 1051 1055	E2F2
+T14	Gene_or_gene_product 1060 1061	6
+T15	Gene_or_gene_product 1155 1158	E2F
+T16	Gene_or_gene_product 1289 1293	E2F1
+T17	Gene_or_gene_product 1295 1296	4
+T18	Gene_or_gene_product 1311 1314	E2F
+T19	Cellular_component 1347 1356	chromatin
+T20	Gene_or_gene_product 1408 1412	E2F1
+T21	Gene_or_gene_product 1417 1418	4
+T22	Gene_or_gene_product 1431 1435	ARHI
+T23	Gene_or_gene_product 1539 1558	histone deacetylase
+T24	Gene_or_gene_product 1560 1564	HDAC
+T25	Simple_chemical 1577 1591	trichostatin A
+T26	Simple_chemical 1593 1596	TSA
+T27	Gene_or_gene_product 1643 1647	ARHI
+T28	Gene_or_gene_product 1648 1658	luciferase
+T29	Gene_or_gene_product 1672 1675	E2F
+T30	Gene_or_gene_product 1696 1700	E2F1
+T31	Gene_or_gene_product 1705 1706	4
+T32	Gene_or_gene_product 1715 1719	ARHI
+T33	Simple_chemical 1788 1791	TSA
+T34	Complex 1830 1838	E2F-HDAC
+T35	Gene_or_gene_product 1899 1903	E2F1
+T36	Gene_or_gene_product 1908 1909	4
+T37	Gene_or_gene_product 1921 1943	retinoblastoma protein
+T38	Gene_or_gene_product 1945 1948	pRB
+T39	Gene_or_gene_product 1973 1977	ARHI
+T40	Gene_or_gene_product 2011 2015	E2F1
+T41	Gene_or_gene_product 2025 2029	E2F4
+T42	Gene_or_gene_product 2067 2070	pRB
+T43	Gene_or_gene_product 2113 2117	E2F1
+T44	Gene_or_gene_product 2119 2120	4
+T45	Gene_or_gene_product 2146 2150	HDAC
+T46	Gene_or_gene_product 2236 2240	ARHI

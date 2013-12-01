@@ -1,0 +1,20 @@
+T1	Gene_or_gene_product 0 6	ICBP90
+T2	Gene_or_gene_product 100 106	ICBP90
+T3	Gene_or_gene_product 108 152	Inverted CCAAT box Binding Protein of 90 kDa
+T4	Cellular_component 179 186	nuclear
+T5	Gene_or_gene_product 248 269	topoisomerase IIalpha
+T6	Gene_or_gene_product 271 282	TopoIIalpha
+T7	Gene_or_gene_product 318 324	ICBP90
+T8	Gene_or_gene_product 391 395	Np95
+T9	Gene_or_gene_product 417 421	NIRF
+T10	Cellular_component 467 474	nuclear
+T11	Gene_or_gene_product 565 571	ICBP90
+T12	Gene_or_gene_product 714 720	ICBP90
+T13	Gene_or_gene_product 725 736	TopoIIalpha
+T14	Gene_or_gene_product 863 869	ICBP90
+T15	Gene_or_gene_product 997 1003	ICBP90
+T16	Gene_or_gene_product 1081 1086	E2F-1
+T17	Gene_or_gene_product 1108 1114	ICBP90
+T18	Gene_or_gene_product 1119 1130	TopoIIalpha
+T19	Gene_or_gene_product 1244 1250	ICBP90
+T20	Gene_or_gene_product 1316 1321	E2F-1

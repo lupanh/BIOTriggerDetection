@@ -1,0 +1,29 @@
+T19	Positive_regulation 29 37	requires
+E1	Positive_regulation:T19 Cause:T2 Theme:T1
+T20	Degradation 217 228	degradation
+E2	Degradation:T20 Theme:T5
+T21	Regulation 274 283	regulated
+E3	Regulation:T21 Cause:E4 Theme:E2
+T22	Ubiquitination 287 301	ubiquitination
+E4	Ubiquitination:T22 Theme:T5
+T23	Binding 460 468	interact
+E5	Binding:T23 Theme:T6
+T24	Positive_regulation 613 622	essential
+E6	Positive_regulation:T24 Cause:T9 Theme:T10
+T25	Negative_regulation 683 691	impaired
+E7	Negative_regulation:T25 Theme:T11
+T26	Positive_regulation 725 735	accumulate
+E8	Positive_regulation:T26 Theme:T12
+M1	Negation E8
+T27	Translation 756 766	translated
+E9	Translation:T27 Theme:T13
+T28	Binding 868 873	bound
+E10	Binding:T28 Theme:T13 Theme:T14
+T29	Regulation 878 887	processed
+E11	Regulation:T29 Cause:T14 Theme:T13
+T30	Binding 938 943	bound
+E12	Binding:T30 Theme:T13
+T31	Dissociation 966 974	released
+E13	Dissociation:T31 Product:T13
+T32	Binding 994 1004	associated
+E14	Binding:T32 Theme:T16 Theme:T13

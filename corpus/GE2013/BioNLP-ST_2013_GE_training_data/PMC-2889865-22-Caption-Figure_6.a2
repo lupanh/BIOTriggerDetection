@@ -1,0 +1,10 @@
+T3	Gene_expression 180 190	expression
+T4	Negative_regulation 195 204	inhibited
+T5	Regulation 215 224	dependent
+T6	Negative_regulation 282 299	inhibitory effect
+T7	Gene_expression 308 318	expression
+E1	Gene_expression:T3 Theme:T1
+E2	Negative_regulation:T4 Theme:E1
+E3	Regulation:T5 Theme:E2
+E4	Negative_regulation:T6 Theme:E5
+E5	Gene_expression:T7 Theme:T2

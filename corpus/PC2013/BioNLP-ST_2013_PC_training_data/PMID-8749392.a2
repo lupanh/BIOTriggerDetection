@@ -1,0 +1,72 @@
+*	Equiv T6 T7
+T32	Regulation 20 29	regulated
+E1	Regulation:T32 Theme:T1 Cause:E2
+T33	Phosphorylation 69 85	phosphorylations
+E2	Phosphorylation:T33 Theme:T1
+T34	Positive_regulation 147 156	transduce
+E3	Positive_regulation:T34 Theme:E4 Cause:T2
+T35	Positive_regulation 181 190	promoting
+E4	Positive_regulation:T35 Theme:E5
+T36	Conversion 197 207	hydrolysis
+E5	Conversion:T36 Theme:T3
+T37	Phosphorylation 287 303	phosphorylations
+E6	Phosphorylation:T37 Theme:T4
+T38	Phosphorylation 754 768	phosphorylated
+E7	Phosphorylation:T38 Theme:T10 Site:T7
+E8	Phosphorylation:T38 Theme:T10 Site:T8
+E9	Phosphorylation:T38 Theme:T10 Site:T9
+T39	Dephosphorylation 808 824	dephosphorylated
+E10	Dephosphorylation:T39 Cause:T13 Theme:T10 Site:T11
+E11	Dephosphorylation:T39 Cause:T13 Theme:T10 Site:T12
+T40	Positive_regulation 863 868	yield
+E12	Positive_regulation:T40 Theme:T10 Cause:E10
+E13	Positive_regulation:T40 Theme:T10 Cause:E11
+T41	Positive_regulation 910 919	dependent
+E14	Positive_regulation:T41 Cause:T14 Theme:E15
+T42	Activation 920 930	activation
+E15	Activation:T42 Theme:T10
+T43	Dephosphorylation 963 979	dephosphorylated
+E16	Dephosphorylation:T43 Cause:T15 Site:T12 Theme:T10
+E17	Dephosphorylation:T43 Cause:T15 Site:T11 Theme:T10
+E18	Dephosphorylation:T43 Cause:T15 Site:T8 Theme:T10
+T44	Positive_regulation 1008 1013	yield
+E19	Positive_regulation:T44 Theme:T10 Cause:E16
+E20	Positive_regulation:T44 Theme:T10 Cause:E17
+E21	Positive_regulation:T44 Cause:E18 Theme:T10
+T45	Inactivation 1017 1025	inactive
+E22	Inactivation:T45 Theme:T10
+T46	Phosphorylation 1085 1103	autophosphorylates
+E23	Phosphorylation:T46 Theme:T16 Site:T17 Cause:T16
+T47	Phosphorylation 1118 1137	autophosphorylation
+E24	Phosphorylation:T47 Site:T18 Theme:T16 Cause:T16
+T48	Positive_regulation 1146 1153	follows
+E25	Positive_regulation:T48 Theme:E26 Cause:E24
+T49	Phosphorylation 1159 1178	autophosphorylation
+E26	Phosphorylation:T49 Site:T19 Theme:T16 Cause:T16
+T50	Phosphorylation 1185 1204	autophosphorylation
+E27	Phosphorylation:T50 Theme:T16 Cause:T16 Site:T20
+T51	Positive_regulation 1216 1227	accompanied
+E28	Positive_regulation:T51 Cause:E27 Theme:E29
+T52	Transport 1235 1242	release
+E29	Transport:T52 Theme:T21 ToLoc:T22
+T53	Phosphorylation 1305 1324	autophosphorylation
+E30	Phosphorylation:T53 Theme:T16 Cause:T16 Site:T23
+M1	Negation E30
+T54	Phosphorylation 1484 1500	phosphorylations
+E31	Phosphorylation:T54 Theme:T25
+T55	Phosphorylation 1517 1532	phosphorylation
+E32	Phosphorylation:T55 Theme:T25 Site:T26
+T56	Positive_regulation 1563 1570	renders
+E33	Positive_regulation:T56 Cause:E32 Theme:E34
+T57	Positive_regulation 1588 1597	competent
+E34	Positive_regulation:T57 Theme:E35
+T58	Phosphorylation 1601 1618	autophosphorylate
+E35	Phosphorylation:T58 Theme:T25 Cause:T25
+T59	Phosphorylation 1643 1662	autophosphorylation
+E36	Phosphorylation:T59 Site:T27 Theme:T25 Cause:T25
+T60	Phosphorylation 1745 1764	autophosphorylation
+E37	Phosphorylation:T60 Site:T28 Theme:T25 Cause:T25
+T61	Regulation 1797 1806	regulates
+E38	Regulation:T61 Theme:E39 Cause:E37
+T62	Localization 1832 1844	localization
+E39	Localization:T62 AtLoc:T29 Theme:T25

@@ -1,0 +1,42 @@
+*	Equiv T2 T3
+*	Equiv T18 T19
+T33	Negative_regulation 19 28	deficient
+T34	Negative_regulation 50 60	disruption
+T35	Binding 146 155	recruited
+T36	Binding 291 302	interaction
+T37	Binding 415 426	recruitment
+T38	Regulation 453 462	dependent
+T39	Negative_regulation 780 787	disrupt
+T40	Negative_regulation 1381 1390	disrupted
+T41	Negative_regulation 1460 1469	disrupted
+T42	Negative_regulation 1713 1722	disrupted
+T43	Gene_expression 1805 1815	expression
+T44	Negative_regulation 2059 2068	deficient
+T45	Negative_regulation 2158 2167	deficient
+T46	Negative_regulation 2186 2196	disruption
+T47	Negative_regulation 2226 2235	deficient
+T48	Positive_regulation 2323 2332	restoring
+T49	Gene_expression 2346 2356	expression
+T50	Positive_regulation 2404 2417	reconstituted
+T51	Negative_regulation 2530 2539	deficient
+E1	Negative_regulation:T33 Theme:T1
+E2	Negative_regulation:T34 Theme:T2
+E3	Binding:T35 Theme:T4
+E4	Binding:T36 Theme:T5 Theme2:T6
+E5	Binding:T37 Theme:T7 Theme2:T8
+E6	Regulation:T38 Theme:E5 Cause:T9
+E7	Negative_regulation:T39 Theme:T16
+E8	Negative_regulation:T40 Theme:T20
+E9	Negative_regulation:T41 Theme:T21
+E10	Negative_regulation:T42 Theme:T23
+E11	Gene_expression:T43 Theme:T24
+E12	Negative_regulation:T44 Theme:T25
+E13	Negative_regulation:T45 Theme:T26
+E14	Negative_regulation:T46 Theme:T27
+E15	Negative_regulation:T47 Theme:T28
+E16	Positive_regulation:T48 Theme:E17
+E17	Gene_expression:T49 Theme:T30
+E18	Positive_regulation:T50 Theme:T31
+E19	Negative_regulation:T51 Theme:T32
+M1	Negation E11
+M2	Speculation E11

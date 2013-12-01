@@ -1,0 +1,39 @@
+*	Equiv T1 T2 T3
+*	Equiv T5 T6 T7
+*	Equiv T9 T10
+T28	Gene_expression 0 10	Expression
+E1	Gene_expression:T28 Theme:T1
+T29	Localization 15 27	localization
+E2	Localization:T29 Theme:T1
+T30	Transport 91 97	export
+T31	Positive_regulation 91 97	export
+E3	Transport:T30 Theme:T4
+E4	Positive_regulation:T31 Theme:E3 Cause:T1
+T32	Transport 233 239	export
+T33	Positive_regulation 233 239	export
+E5	Transport:T32 Theme:T8
+E6	Positive_regulation:T33 Cause:T5 Theme:E5
+E7	Transport:T32 Theme:T10
+E8	Positive_regulation:T33 Cause:T5 Theme:E7
+T34	Gene_expression 479 489	expression
+E9	Gene_expression:T34 Theme:T12
+T35	Localization 494 506	localization
+E10	Localization:T35 Theme:T12
+T36	Gene_expression 730 740	expression
+E11	Gene_expression:T36 Theme:T14
+T37	Localization 1027 1039	localization
+E12	Localization:T37 Theme:T17
+T38	Positive_regulation 1174 1183	dependent
+E13	Positive_regulation:T38 Cause:T19 Theme:E14
+T39	Transport 1184 1193	transport
+E14	Transport:T39 Theme:T20
+T40	Gene_expression 1343 1353	expression
+E15	Gene_expression:T40 Theme:T22
+T41	Localization 1631 1640	localized
+E16	Localization:T41 Theme:T25
+T42	Positive_regulation 1714 1723	increased
+E17	Positive_regulation:T42 Theme:E18
+T43	Gene_expression 1724 1734	expression
+E18	Gene_expression:T43 Theme:T25
+T44	Transport 1862 1869	removal
+E19	Transport:T44 Theme:T27

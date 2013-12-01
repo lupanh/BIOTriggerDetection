@@ -1,0 +1,4 @@
+T2	Negative_regulation 586 593	inhibit
+T3	Protein_catabolism 607 618	degradation
+E1	Negative_regulation:T2 Theme:E2
+E2	Protein_catabolism:T3 Theme:T1

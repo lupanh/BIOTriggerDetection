@@ -1,0 +1,30 @@
+1	Statistical	_	JJ	_	_	2	NMOD	_	_
+2	analysis	_	NN	_	_	0	ROOT	_	_
+		
+1	Data	_	NNS	_	_	2	VMOD	_	_
+2	are	_	VBP	_	_	0	ROOT	_	_
+3	expressed	_	VBN	_	_	2	VC	_	_
+4	as	_	IN	_	_	3	VMOD	_	_
+5	mean	_	NN	_	_	4	PMOD	_	_
+6	+/-	_	CC	_	_	5	COORD	_	_
+7	SD	_	NN	_	_	6	CONJ	_	_
+8	.	_	.	_	_	2	P	_	_
+		
+1	The	_	DT	_	_	3	NMOD	_	_
+2	statistical	_	JJ	_	_	3	NMOD	_	_
+3	significance	_	NN	_	_	11	VMOD	_	_
+4	of	_	IN	_	_	3	NMOD	_	_
+5	differences	_	NNS	_	_	4	PMOD	_	_
+6	of	_	IN	_	_	5	NMOD	_	_
+7	means	_	NNS	_	_	6	PMOD	_	_
+8	between	_	IN	_	_	7	NMOD	_	_
+9	experimental	_	JJ	_	_	10	NMOD	_	_
+10	groups	_	NNS	_	_	8	PMOD	_	_
+11	was	_	VBD	_	_	0	ROOT	_	_
+12	determined	_	VBN	_	_	11	VC	_	_
+13	by	_	IN	_	_	12	VMOD	_	_
+14	Students	_	NN	_	_	16	NMOD	_	_
+15	'	_	POS	_	_	16	SUFFIX	_	_
+16	t-test	_	NN	_	_	13	PMOD	_	_
+17	.	_	.	_	_	11	P	_	_
+		

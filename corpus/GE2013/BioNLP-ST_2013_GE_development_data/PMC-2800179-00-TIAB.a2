@@ -1,0 +1,21 @@
+T7	Positive_regulation 45 52	Induces
+T8	Localization 57 66	Secretion
+T9	Positive_regulation 78 90	Upregulation
+T10	Positive_regulation 104 111	through
+T11	Positive_regulation 936 945	increased
+T12	Gene_expression 953 963	expression
+T13	Positive_regulation 1171 1181	stimulated
+T14	Gene_expression 1192 1202	expression
+T15	Localization 1207 1216	secretion
+E1	Positive_regulation:T7 Theme:E2
+E2	Localization:T8 Theme:T1
+E3	Positive_regulation:T7 Theme:E4
+E4	Positive_regulation:T9 Theme:T2
+E5	Positive_regulation:T10 Theme:E1
+E6	Positive_regulation:T10 Theme:E3
+E7	Positive_regulation:T11 Theme:E8
+E8	Gene_expression:T12 Theme:T5
+E9	Positive_regulation:T13 Theme:E10
+E10	Gene_expression:T14 Theme:T6
+E11	Positive_regulation:T13 Theme:E12
+E12	Localization:T15 Theme:T6

@@ -1,0 +1,3 @@
+(S1 (S (NP (JJ Statistical) (NN analysis))))
+(S1 (S (S (NP (NNS Data)) (VP (VBP are) (VP (VBN expressed) (PP (IN as) (NP (NP (NN mean)) (CC +/-) (NP (NN SD))))))) (. .)))
+(S1 (S (S (NP (NP (DT The) (JJ statistical) (NN significance)) (PP (IN of) (NP (NP (NNS differences)) (PP (IN of) (NP (NP (NNS means)) (PP (IN between) (NP (JJ experimental) (NNS groups)))))))) (VP (VBD was) (VP (VBN determined) (PP (IN by) (NP (NN Students) (POS ') (NN t-test)))))) (. .)))

@@ -1,0 +1,29 @@
+*	Equiv T1 T2
+*	Equiv T3 T4
+T12	Gene_expression 34 44	expression
+E1	Gene_expression:T12 Theme:T1
+T13	Gene_expression 433 443	Expression
+E2	Gene_expression:T13 Theme:T5
+T14	Gene_expression 645 651	absent
+E3	Gene_expression:T14 Theme:T6
+M1	Negation E3
+T15	Gene_expression 678 687	expressed
+E4	Gene_expression:T15 Theme:T6
+T16	Gene_expression 719 728	expressed
+E5	Gene_expression:T16 Theme:T6
+T17	Gene_expression 864 874	expression
+E6	Gene_expression:T17 Theme:T7
+T18	Gene_expression 914 924	expression
+E7	Gene_expression:T18 Theme:T8
+M2	Negation E7
+T19	Gene_expression 998 1008	expression
+E8	Gene_expression:T19 Theme:T8
+T20	Gene_expression 1064 1074	expression
+E9	Gene_expression:T20 Theme:T9
+M3	Negation E9
+T21	Gene_expression 1087 1097	expression
+E10	Gene_expression:T21 Theme:T9
+T22	Gene_expression 1116 1126	expression
+E11	Gene_expression:T22 Theme:T9
+T23	Gene_expression 1210 1220	expression
+E12	Gene_expression:T23 Theme:T10

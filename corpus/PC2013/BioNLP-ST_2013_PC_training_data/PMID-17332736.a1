@@ -1,0 +1,45 @@
+T1	Gene_or_gene_product 0 25	Phosphoinositide 3-kinase
+T2	Simple_chemical 47 54	glucose
+T3	Gene_or_gene_product 79 86	p21WAF1
+T4	Gene_or_gene_product 117 148	Transforming growth factor-beta
+T5	Gene_or_gene_product 150 158	TGF-beta
+T6	Gene_or_gene_product 161 166	Smads
+T7	Gene_or_gene_product 176 199	cyclin-dependent kinase
+T8	Gene_or_gene_product 201 204	cdk
+T9	Gene_or_gene_product 216 219	p21
+T10	Gene_or_gene_product 220 224	WAF1
+T11	Gene_or_gene_product 293 318	Phosphoinositide 3 kinase
+T12	Gene_or_gene_product 320 324	PI3K
+T13	Gene_or_gene_product 326 336	Akt kinase
+T14	Gene_or_gene_product 424 428	PI3K
+T15	Simple_chemical 437 444	glucose
+T16	Gene_or_gene_product 461 464	p21
+T17	Gene_or_gene_product 465 469	WAF1
+T18	Gene_or_gene_product 472 479	Smad2/3
+T19	Simple_chemical 555 562	glucose
+T20	Gene_or_gene_product 599 603	PI3K
+T21	Gene_or_gene_product 604 614	Akt kinase
+T22	Simple_chemical 625 633	LY294002
+T23	Gene_or_gene_product 637 641	PI3K
+T24	Simple_chemical 669 676	glucose
+T25	Simple_chemical 767 774	glucose
+T26	Gene_or_gene_product 783 786	p21
+T27	Gene_or_gene_product 787 791	WAF1
+T28	Simple_chemical 847 855	LY294002
+T29	Simple_chemical 877 884	glucose
+T30	Gene_or_gene_product 904 907	p21
+T31	Gene_or_gene_product 908 912	WAF1
+T32	Complex 921 934	cyclin E/cdk2
+T33	Simple_chemical 969 976	glucose
+T34	Gene_or_gene_product 985 993	TGF-beta
+T35	Gene_or_gene_product 1007 1014	Smad2/3
+T36	Gene_or_gene_product 1036 1043	Smad2/3
+T37	Gene_or_gene_product 1095 1099	PI3K
+T38	Simple_chemical 1121 1128	glucose
+T39	Gene_or_gene_product 1171 1174	p21
+T40	Gene_or_gene_product 1175 1179	WAF1
+T41	Gene_or_gene_product 1211 1214	p21
+T42	Gene_or_gene_product 1215 1219	WAF1
+T43	Complex 1236 1249	cyclin E/cdk2
+T44	Gene_or_gene_product 1259 1267	TGF-beta
+T45	Gene_or_gene_product 1285 1292	Smad2/3

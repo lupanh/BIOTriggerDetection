@@ -1,0 +1,18 @@
+T1	Gene_or_gene_product 16 22	SUMO-1
+T2	Gene_or_gene_product 32 44	IkappaBalpha
+T3	Complex 72 81	NF-kappaB
+T4	Gene_or_gene_product 123 127	SUMO
+T5	Gene_or_gene_product 129 158	Small Ubiquitin-like MOdifier
+T6	Gene_or_gene_product 288 292	SUMO
+T7	Gene_or_gene_product 928 940	IkappaBalpha
+T8	Complex 1079 1108	IkappaBalpha-SUMO-1/NF-kappaB
+T9	Gene_or_gene_product 1124 1127	GST
+T10	Gene_or_gene_product 1156 1159	GST
+T11	Gene_or_gene_product 1226 1236	His-SUMO-1
+T12	Gene_or_gene_product 1271 1277	SUMO-1
+T13	Gene_or_gene_product 1287 1299	IkappaBalpha
+T14	Gene_or_gene_product 1310 1316	SUMO-1
+T15	Complex 1326 1343	IkappaB/NF-kappaB
+T16	Gene_or_gene_product 1427 1433	SUMO-1
+T17	Gene_or_gene_product 1443 1455	IkappaBalpha
+T18	Gene_or_gene_product 1501 1505	SUMO

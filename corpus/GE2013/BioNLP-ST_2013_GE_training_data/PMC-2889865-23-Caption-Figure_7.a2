@@ -1,0 +1,8 @@
+T4	Regulation 46 55	dependent
+T5	Protein_catabolism 62 73	degradation
+T6	Positive_regulation 374 384	activation
+T7	Negative_regulation 389 398	inhibited
+E1	Regulation:T4 Theme:E2
+E2	Protein_catabolism:T5 Theme:T1
+E3	Positive_regulation:T6 Theme:T2
+E4	Negative_regulation:T7 Theme:E3

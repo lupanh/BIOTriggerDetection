@@ -1,0 +1,58 @@
+*	Equiv T4 T5
+*	Equiv T8 T9
+T37	Binding 129 136	binding
+E1	Binding:T37 Theme:T3
+T38	Pathway 148 157	Signaling
+E2	Pathway:T38 Participant:T4
+T39	Pathway 417 426	signaling
+E3	Pathway:T39 Participant:T6
+T40	Positive_regulation 430 450	positively regulated
+E4	Positive_regulation:T40 Theme:E3
+T41	Pathway 503 512	signaling
+E5	Pathway:T41 Participant:T7
+T42	Phosphorylation 698 713	phosphorylation
+E6	Phosphorylation:T42 Theme:T8
+T43	Regulation 763 771	regulate
+E7	Regulation:T43 Theme:E8
+T44	Phosphorylation 787 802	phosphorylation
+E8	Phosphorylation:T44 Theme:T10
+T45	Regulation 857 868	insensitive
+E9	Regulation:T45 Cause:T11 Theme:E7
+M1	Negation E9
+T46	Positive_regulation 984 994	stimulated
+E10	Positive_regulation:T46 Cause:T14 Theme:E12
+E11	Positive_regulation:T46 Cause:T14 Theme:E13
+T47	Phosphorylation 995 1010	phosphorylation
+E12	Phosphorylation:T47 Site:T16 Theme:T10
+E13	Phosphorylation:T47 Site:T15 Theme:T10
+T48	Regulation 1056 1065	sensitive
+T49	Regulation 1056 1065	sensitive
+E14	Regulation:T49 Cause:T17 Theme:E13
+E15	Regulation:T48 Cause:T17 Theme:E12
+E16	Regulation:T48 Cause:T17 Theme:E17
+T50	Phosphorylation 1086 1101	phosphorylation
+E17	Phosphorylation:T50 Theme:T19
+T51	Regulation 1132 1138	target
+E18	Regulation:T51 Cause:E19 Theme:T19
+T52	Pathway 1148 1157	signaling
+E19	Pathway:T52 Participant:T18
+T53	Phosphorylation 1219 1233	phosphorylates
+E20	Phosphorylation:T53 Site:T22 Theme:T23 Cause:T20
+E21	Phosphorylation:T53 Site:T21 Theme:T23 Cause:T20
+M2	Speculation E21
+M3	Negation E21
+M4	Speculation E20
+M5	Negation E20
+T54	Binding 1279 1283	bind
+E22	Binding:T54 Theme:T24 Theme:T27
+E23	Binding:T54 Theme:T25 Theme:T27
+T55	Phosphorylation 1408 1423	phosphorylation
+E24	Phosphorylation:T55 Theme:T31
+T56	Positive_regulation 1434 1442	requires
+E25	Positive_regulation:T56 Cause:E26 Theme:E24
+T57	Binding 1460 1464	bind
+E26	Binding:T57 Theme:T32 Theme:T31
+T58	Phosphorylation 1483 1498	phosphorylation
+E27	Phosphorylation:T58 Theme:T33 Cause:T34
+T59	Pathway 1691 1700	signaling
+E28	Pathway:T59 Participant:T36

@@ -1,0 +1,15 @@
+*	Equiv T5 T6
+T20	Binding 55 66	interaction
+E1	Binding:T20 Theme:T1 Theme2:T2
+T21	Negative_regulation 171 180	inhibitor
+E2	Negative_regulation:T21 Theme:T3 Cause:T4
+T22	Binding 214 221	binding
+E3	Binding:T22 Theme:T5 Theme2:T4
+T23	Transport 644 650	enters
+E4	Transport:T23 ToLoc:T13 Theme:T12
+T24	Gene_expression 763 774	synthesized
+E5	Gene_expression:T24 Theme:T14
+T25	Transport 798 804	enters
+E6	Transport:T25 ToLoc:T15 Theme:T14
+T26	Negative_regulation 821 828	removes
+E7	Negative_regulation:T26 Theme:T16 Cause:T14

@@ -1,0 +1,71 @@
+T40	Binding 33 42	interacts
+E1	Binding:T40 Theme:T1 Theme2:T2
+T41	Binding 251 258	binding
+E2	Binding:T41 Theme:T6
+T42	Transport 368 381	translocating
+E3	Transport:T42 ToLoc:T8 Theme:T7
+T43	Binding 407 412	binds
+E4	Binding:T43 Theme:T7
+T44	Binding 534 543	interacts
+E5	Binding:T44 Theme:T10 Theme2:T12
+T45	Binding 590 601	interaction
+E6	Binding:T45 Theme:T10 Theme2:T12
+T46	Gene_expression 761 775	overexpressing
+E7	Gene_expression:T46 Theme:T19
+T47	Gene_expression 798 808	expressing
+E8	Gene_expression:T47 Theme:T20
+T48	Positive_regulation 835 845	stimulated
+E9	Positive_regulation:T48 Cause:T21 Theme:E10
+T49	Binding 846 857	association
+E10	Binding:T49 Theme:T22 Theme2:T23
+T50	Binding 889 896	binding
+E11	Binding:T50 Theme:T24
+T51	Positive_regulation 949 960	consequence
+E12	Positive_regulation:T51 Theme:E13
+T52	Binding 988 997	formation
+E13	Binding:T52 Theme:T25
+T53	Negative_regulation 1002 1011	reduction
+E14	Negative_regulation:T53 Cause:E12 Theme:E15
+T54	Binding 1029 1036	binding
+E15	Binding:T54 Theme:T26 Theme2:T27
+T55	Gene_expression 1105 1119	Overexpression
+E16	Gene_expression:T55 Theme:T29
+T56	Positive_regulation 1129 1137	resulted
+E17	Positive_regulation:T56 Cause:E16 Theme:E23
+E18	Positive_regulation:T56 Cause:E16 Theme:E26
+E19	Positive_regulation:T56 Cause:E16 Theme:E27
+E20	Positive_regulation:T56 Cause:E16 Theme:E28
+E21	Positive_regulation:T56 Cause:E16 Theme:E24
+E22	Positive_regulation:T56 Cause:E16 Theme:E25
+T57	Negative_regulation 1143 1152	reduction
+E23	Negative_regulation:T57 Theme:E32
+E24	Negative_regulation:T57 Theme:E33
+E25	Negative_regulation:T57 Theme:E34
+T58	Negative_regulation 1157 1162	delay
+E26	Negative_regulation:T58 Theme:E32
+E27	Negative_regulation:T58 Theme:E33
+E28	Negative_regulation:T58 Theme:E34
+T59	Positive_regulation 1181 1191	stimulated
+E29	Positive_regulation:T59 Cause:T30 Theme:E32
+E30	Positive_regulation:T59 Cause:T30 Theme:E33
+E31	Positive_regulation:T59 Cause:T30 Theme:E34
+T60	Gene_expression 1192 1202	expression
+E32	Gene_expression:T60 Theme:T32
+E33	Gene_expression:T60 Theme:T33
+E34	Gene_expression:T60 Theme:T34
+T61	Transport 1314 1324	sequesters
+T62	Positive_regulation 1314 1324	sequesters
+E35	Transport:T61 Theme:T38
+E36	Positive_regulation:T62 Theme:E35 Cause:T36
+T63	Negative_regulation 1347 1354	reduces
+E37	Negative_regulation:T63 Cause:T36 Theme:E43
+E38	Negative_regulation:T63 Cause:T36 Theme:E44
+E39	Negative_regulation:T63 Cause:T36 Theme:E45
+T64	Positive_regulation 1365 1374	triggered
+E40	Positive_regulation:T64 Cause:T39 Theme:E43
+E41	Positive_regulation:T64 Cause:T39 Theme:E44
+E42	Positive_regulation:T64 Cause:T39 Theme:E45
+T65	Gene_expression 1380 1390	expression
+E43	Gene_expression:T65 Theme:T32
+E44	Gene_expression:T65 Theme:T33
+E45	Gene_expression:T65 Theme:T34

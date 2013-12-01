@@ -1,0 +1,58 @@
+*	Equiv T8 T9
+*	Equiv T21 T20
+*	Equiv T22 T23
+*	Equiv T24 T25
+*	Equiv T34 T35 T36
+T45	Pathway 9 18	signaling
+E1	Pathway:T45 Participant:T1 Participant2:T2 Participant3:T3 Participant4:T4 Participant5:T5
+T46	Regulation 44 52	involves
+E2	Regulation:T46 Theme:E1 Cause:T6
+E3	Regulation:T46 Theme:E1 Cause:T7
+T47	Regulation 270 282	participates
+E4	Regulation:T47 Theme:E5 Cause:T9
+T48	Pathway 300 309	signaling
+E5	Pathway:T48 Participant:T11
+T49	Positive_regulation 327 336	activates
+E6	Positive_regulation:T49 Theme:E8 Cause:T13
+E7	Positive_regulation:T49 Theme:E8 Cause:T12
+T50	Pathway 406 424	signaling pathways
+E8	Pathway:T50 Participant:T14 Participant2:T15 Participant3:T16
+T51	Positive_regulation 458 466	activate
+E9	Positive_regulation:T51 Theme:E8 Cause:T17
+E10	Positive_regulation:T51 Theme:E8 Cause:T18
+T52	Positive_regulation 485 491	induce
+E11	Positive_regulation:T52 Theme:E17 Cause:E9
+E12	Positive_regulation:T52 Theme:E18 Cause:E9
+E13	Positive_regulation:T52 Theme:E19 Cause:E9
+E14	Positive_regulation:T52 Theme:E18 Cause:E10
+E15	Positive_regulation:T52 Theme:E17 Cause:E10
+E16	Positive_regulation:T52 Theme:E19 Cause:E10
+T53	Gene_expression 630 640	expression
+E17	Gene_expression:T53 Theme:T21
+E18	Gene_expression:T53 Theme:T19
+E19	Gene_expression:T53 Theme:T22
+T54	Regulation 641 654	independently
+E20	Regulation:T54 Cause:T24 Theme:E16
+E21	Regulation:T54 Cause:T24 Theme:E13
+E22	Regulation:T54 Cause:T24 Theme:E15
+E23	Regulation:T54 Cause:T24 Theme:E11
+E24	Regulation:T54 Cause:T24 Theme:E14
+E25	Regulation:T54 Cause:T24 Theme:E12
+M1	Negation E20
+M2	Negation E21
+M3	Negation E22
+M4	Negation E23
+M5	Negation E24
+M6	Negation E25
+T55	Pathway 855 873	signaling pathways
+E26	Pathway:T55 Participant:T27 Participant2:T28 Participant3:T29
+T56	Pathway 930 937	pathway
+E27	Pathway:T56 Participant:T31
+T57	Binding 944 953	interacts
+E28	Binding:T57 Theme:T33 Theme2:T32
+E29	Binding:T57 Theme:T35 Theme2:T32
+E30	Binding:T57 Theme:T37 Theme2:T32
+E31	Binding:T57 Theme:T32 Theme2:T38
+M7	Negation E31
+T58	Pathway 1100 1109	signaling
+E32	Pathway:T58 Participant:T41 Participant2:T42

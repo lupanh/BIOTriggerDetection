@@ -1,0 +1,16 @@
+*	Equiv T6 T7
+*	Equiv T14 T15
+T25	Positive_regulation 89 97	mediated
+E1	Positive_regulation:T25 Cause:T3 Theme:E3
+E2	Positive_regulation:T25 Cause:T3 Theme:E4
+T26	Degradation 98 109	proteolysis
+E3	Degradation:T26 Theme:T4
+E4	Degradation:T26 Theme:T5
+T27	Ubiquitination 195 209	ubiquitination
+E5	Ubiquitination:T27 Theme:T4
+E6	Ubiquitination:T27 Theme:T5
+T28	Positive_regulation 241 250	catalysed
+E7	Positive_regulation:T28 Cause:T6 Theme:E5
+E8	Positive_regulation:T28 Cause:T8 Theme:E5
+E9	Positive_regulation:T28 Cause:T6 Theme:E6
+E10	Positive_regulation:T28 Cause:T8 Theme:E6

@@ -1,0 +1,19 @@
+T1	Gene_or_gene_product 21 56	globotriaosylceramide/CD77 synthase
+T2	Simple_chemical 125 143	glycosphingolipids
+T3	Gene_or_gene_product 183 224	globotriaosylceramide (Gb3)/CD77 synthase
+T4	Gene_or_gene_product 226 256	alpha1,4-galactosyltransferase
+T5	Simple_chemical 285 288	Gb3
+T6	Gene_or_gene_product 398 403	pVTR1
+T7	Cellular_component 424 432	membrane
+T8	Cellular_component 464 475	cytoplasmic
+T9	Cellular_component 502 515	transmembrane
+T10	Simple_chemical 645 648	Gb3
+T11	Simple_chemical 649 653	CD77
+T12	Gene_or_gene_product 705 736	alpha1, 4-galactosyltransferase
+T13	Simple_chemical 754 770	lactosylceramide
+T14	Simple_chemical 775 793	galactosylceramide
+T15	Gene_or_gene_product 1052 1069	Shiga-like toxins
+T16	Gene_or_gene_product 1071 1081	verotoxins
+T17	Gene_or_gene_product 1090 1107	Gb3/CD77 synthase
+T18	Simple_chemical 1148 1159	glycolipids
+T19	Simple_chemical 1275 1286	glycolipids

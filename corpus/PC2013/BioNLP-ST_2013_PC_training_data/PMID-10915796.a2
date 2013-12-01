@@ -1,0 +1,18 @@
+T39	Positive_regulation 84 92	involved
+E1	Positive_regulation:T39 Theme:E2 Cause:T2
+T40	Conversion 105 117	biosynthesis
+E2	Conversion:T40 Product:T4
+T41	Conversion 444 454	hydrolyzes
+T42	Positive_regulation 444 454	hydrolyzes
+E3	Conversion:T41 Theme:T11 Product:T12
+E4	Positive_regulation:T42 Cause:T8 Theme:E3
+E5	Conversion:T41 Theme:T11 Product:T13
+E6	Positive_regulation:T42 Cause:T8 Theme:E5
+T43	Positive_regulation 1012 1019	cleaved
+T44	Conversion 1012 1019	cleaved
+E7	Positive_regulation:T43 Cause:T24 Theme:E8
+E8	Conversion:T44 Theme:T22 Product:T25
+T45	Conversion 1149 1159	hydrolysis
+E9	Conversion:T45 Theme:T26
+T46	Localization 1367 1376	localized
+E10	Localization:T46 ToLoc:T33 Theme:T32

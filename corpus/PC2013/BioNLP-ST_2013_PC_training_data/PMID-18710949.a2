@@ -1,0 +1,131 @@
+*	Equiv T11 T12 T13 T14
+T66	Phosphorylation 0 15	Phosphorylation
+E1	Phosphorylation:T66 Theme:T1
+T67	Regulation 27 36	regulates
+E2	Regulation:T67 Theme:E4 Cause:E1
+E3	Regulation:T67 Theme:E5 Cause:E1
+T68	Binding 37 45	assembly
+E4	Binding:T68 Product:T2
+T69	Activation 50 60	activation
+E5	Activation:T69 Theme:T2
+T70	Positive_regulation 85 93	mediates
+E6	Positive_regulation:T70 Cause:T3 Theme:E7
+T71	Negative_regulation 99 109	inhibition
+E7	Negative_regulation:T71 Theme:T4
+T72	Binding 122 127	found
+E8	Binding:T72 Theme:T3 Theme:T5
+T73	Regulation 184 188	role
+E9	Regulation:T73 Cause:T6 Theme:E10
+T74	Binding 204 212	assembly
+E10	Binding:T74 Product:T7
+T75	Binding 286 294	assembly
+E11	Binding:T75 Product:T8
+T76	Regulation 321 330	regulated
+E12	Regulation:T76 Theme:E11 Cause:E13
+T77	Phosphorylation 338 353	phosphorylation
+E13	Phosphorylation:T77 Theme:T9
+T78	Phosphorylation 389 403	phosphorylated
+E14	Phosphorylation:T78 Theme:T10 Site:T16 Cause:T11
+E15	Phosphorylation:T78 Theme:T10 Site:T15 Cause:T11
+T79	Activation 478 488	activation
+E16	Activation:T79 Theme:T17
+T80	Binding 560 568	assembly
+E17	Binding:T80 Product:T20
+T81	Negative_regulation 593 603	inhibition
+E18	Negative_regulation:T81 Theme:T21
+E19	Negative_regulation:T81 Theme:T22
+E20	Negative_regulation:T81 Theme:T21
+E21	Negative_regulation:T81 Theme:T22
+T82	Negative_regulation 612 619	reduced
+E22	Negative_regulation:T82 Cause:E18 Theme:T23
+E23	Negative_regulation:T82 Cause:E21 Theme:T23
+E24	Negative_regulation:T82 Theme:T24 Cause:E20
+E25	Negative_regulation:T82 Theme:T24 Cause:E19
+T83	Dissociation 646 657	dissociated
+E26	Dissociation:T83 Theme:T25
+T84	Phosphorylation 722 737	phosphorylation
+E27	Phosphorylation:T84 Theme:T26 Site:T27
+E28	Phosphorylation:T84 Theme:T26 Site:T28
+M1	Negation E27
+M2	Negation E28
+T85	Binding 755 760	bound
+E29	Binding:T85 Theme:T26 Theme:T30
+E30	Binding:T85 Theme:T26 Theme:T29
+T86	Positive_regulation 951 954	led
+E31	Positive_regulation:T86 Theme:E32 Cause:T35
+T87	Binding 977 994	complex formation
+E32	Binding:T87 Product:T38
+T88	Phosphorylation 1009 1024	phosphorylation
+E33	Phosphorylation:T88 Theme:T39 Cause:T40
+T89	Positive_regulation 1032 1041	increased
+E34	Positive_regulation:T89 Cause:E33 Theme:E35
+T90	Binding 1061 1069	assembly
+E35	Binding:T90 Product:T41
+T91	Inactivation 1091 1099	inactive
+E36	Inactivation:T91 Theme:T42 Cause:E33
+T92	Regulation 1151 1157	affect
+E37	Regulation:T92 Theme:E38 Cause:T43
+M3	Negation E37
+T93	Binding 1177 1194	complex formation
+E38	Binding:T93 Product:T45
+T94	Positive_regulation 1219 1222	led
+E39	Positive_regulation:T94 Cause:T46 Theme:E40
+T95	Phosphorylation 1235 1250	phosphorylation
+E40	Phosphorylation:T95 Site:T47 Theme:T48
+T96	Inactivation 1272 1282	activation
+E41	Inactivation:T96 Cause:T46 Theme:T49
+T97	Binding 1286 1295	assembled
+E42	Binding:T97 Product:T49
+T98	Positive_regulation 1342 1351	dependent
+E43	Positive_regulation:T98 Cause:T50 Theme:E44
+T99	Phosphorylation 1356 1371	phosphorylation
+E44	Phosphorylation:T99 Theme:T51
+T100	Positive_regulation 1383 1391	increase
+E45	Positive_regulation:T100 Theme:E46 Cause:E44
+M4	Speculation E45
+T101	Binding 1411 1419	assembly
+E46	Binding:T101 Product:T52
+T102	Regulation 1423 1432	stabilize
+E47	Regulation:T102 Theme:T52 Cause:E44
+M5	Speculation E47
+T103	Activation 1478 1488	activation
+E48	Activation:T103 Theme:T53
+T104	Positive_regulation 1489 1497	requires
+E49	Positive_regulation:T104 Cause:E50 Theme:E48
+T105	Phosphorylation 1511 1526	phosphorylation
+E50	Phosphorylation:T105 Site:T54 Theme:T55
+T106	Activation 1548 1558	activation
+T107	Activation 1548 1558	activation
+E51	Activation:T107 Theme:T57
+E52	Activation:T106 Theme:T58
+E53	Activation:T106 Theme:T56
+T108	Positive_regulation 1613 1618	drive
+E54	Positive_regulation:T108 Cause:E53 Theme:E57
+E55	Positive_regulation:T108 Cause:E51 Theme:E57
+E56	Positive_regulation:T108 Cause:E52 Theme:E57
+T109	Phosphorylation 1623 1638	phosphorylation
+E57	Phosphorylation:T109 Theme:T59
+T110	Positive_regulation 1640 1648	increase
+E58	Positive_regulation:T110 Cause:E53 Theme:E65
+E59	Positive_regulation:T110 Cause:E53 Theme:E64
+E60	Positive_regulation:T110 Cause:E51 Theme:E65
+E61	Positive_regulation:T110 Cause:E51 Theme:E64
+E62	Positive_regulation:T110 Cause:E52 Theme:E65
+E63	Positive_regulation:T110 Cause:E52 Theme:E64
+T111	Binding 1664 1672	assembly
+E64	Binding:T111 Product:T60
+T112	Activation 1677 1687	activation
+E65	Activation:T112 Theme:T60
+T113	Negative_regulation 1693 1699	reduce
+E66	Negative_regulation:T113 Cause:E53 Theme:E69
+E67	Negative_regulation:T113 Cause:E51 Theme:E69
+E68	Negative_regulation:T113 Cause:E52 Theme:E69
+T114	Negative_regulation 1718 1737	inhibitory function
+E69	Negative_regulation:T114 Cause:T62 Theme:T61
+T115	Negative_regulation 1805 1812	reverse
+E70	Negative_regulation:T115 Theme:E52
+E71	Negative_regulation:T115 Theme:E51
+E72	Negative_regulation:T115 Theme:E53
+M6	Speculation E70
+M7	Speculation E71
+M8	Speculation E72

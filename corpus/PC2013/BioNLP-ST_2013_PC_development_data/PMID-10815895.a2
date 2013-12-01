@@ -1,0 +1,37 @@
+T16	Negative_regulation 0 4	Loss
+E1	Negative_regulation:T16 Theme:E2
+T17	Positive_regulation 23 31	elevated
+E2	Positive_regulation:T17 Theme:E3
+T18	Gene_expression 32 42	expression
+E3	Gene_expression:T18 Theme:T1
+T19	Gene_expression 263 273	expression
+E4	Gene_expression:T19 Theme:T5
+T20	Negative_regulation 361 364	low
+E5	Negative_regulation:T20 Theme:E6
+T21	Gene_expression 379 389	expression
+E6	Gene_expression:T21 Theme:T6
+T22	Positive_regulation 483 492	elevation
+E7	Positive_regulation:T22 Theme:T7
+T23	Positive_regulation 582 590	increase
+E8	Positive_regulation:T23 Theme:T8
+T24	Gene_expression 792 799	express
+E9	Gene_expression:T24 Theme:T9
+T25	Positive_regulation 834 860	transcriptional activation
+E10	Positive_regulation:T25 Theme:T9
+T26	Transcription 916 929	transcription
+E11	Transcription:T26 Theme:T9
+T27	Positive_regulation 963 970	induced
+E12	Positive_regulation:T27 Theme:E11
+T28	Activation 1061 1070	activated
+E13	Activation:T28 Theme:T9 Cause:T10
+T29	Positive_regulation 1105 1118	up-regulation
+E14	Positive_regulation:T29 Theme:T9 Cause:T10
+T30	Regulation 1269 1280	association
+E15	Regulation:T30 Theme:E16
+M1	Negation E15
+T31	Gene_expression 1288 1298	expression
+E16	Gene_expression:T31 Theme:T11
+T32	Gene_expression 1336 1346	expression
+E17	Gene_expression:T32 Theme:T13
+T33	Gene_expression 1499 1513	overexpression
+E18	Gene_expression:T33 Theme:T15

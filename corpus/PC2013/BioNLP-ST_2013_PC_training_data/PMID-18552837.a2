@@ -1,0 +1,42 @@
+*	Equiv T4 T5
+*	Equiv T9 T10
+T26	Binding 326 332	ligase
+E1	Binding:T26 Theme:T3 Theme2:T5
+T27	Positive_regulation 372 380	triggers
+E2	Positive_regulation:T27 Theme:E3 Cause:T5
+T28	Degradation 385 396	destruction
+E3	Degradation:T28 Theme:T6
+T29	Positive_regulation 417 425	allowing
+E4	Positive_regulation:T29 Cause:E2 Theme:E5
+T30	Negative_regulation 451 458	disrupt
+E5	Negative_regulation:T30 Theme:T8 Cause:T7
+T31	Positive_regulation 548 557	dependent
+E6	Positive_regulation:T31 Theme:E7 Cause:T9
+T32	Phosphorylation 558 573	phosphorylation
+E7	Phosphorylation:T32 Theme:T11
+T33	Negative_regulation 616 624	inhibits
+E8	Negative_regulation:T33 Cause:E7 Theme:E9
+T34	Ubiquitination 633 647	ubiquitination
+E9	Ubiquitination:T34 Theme:T12 Cause:T13
+T35	Negative_regulation 682 690	reverses
+E10	Negative_regulation:T35 Cause:T14 Theme:E11
+T36	Phosphorylation 699 714	phosphorylation
+E11	Phosphorylation:T36 Theme:T15
+T37	Positive_regulation 724 734	increasing
+E12	Positive_regulation:T37 Theme:E13 Cause:E10
+T38	Ubiquitination 755 769	ubiquitination
+E13	Ubiquitination:T38 Theme:T16
+T39	Activation 800 808	activate
+E14	Activation:T39 Cause:T17 Theme:T18
+T40	Negative_regulation 992 999	disrupt
+E15	Negative_regulation:T40 Theme:E16
+T41	Regulation 1008 1025	phosphoregulation
+E16	Regulation:T41 Theme:T19
+T42	Regulation 1106 1114	coupling
+E17	Regulation:T42 Theme:E19 Cause:E20
+E18	Regulation:T42 Theme:E19 Cause:E21
+T43	Degradation 1123 1134	degradation
+E19	Degradation:T43 Theme:T21
+T44	Positive_regulation 1140 1147	changes
+E20	Positive_regulation:T44 Theme:T22
+E21	Positive_regulation:T44 Theme:T23

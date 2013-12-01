@@ -1,0 +1,33 @@
+*	Equiv T2 T3
+*	Equiv T16 T17
+T32	Localization 274 281	located
+E1	Localization:T32 AtLoc:T9 Theme:T7
+E2	Localization:T32 AtLoc:T9 Theme:T10
+E3	Localization:T32 AtLoc:T9 Theme:T11
+T33	Binding 377 381	bind
+E4	Binding:T33 Theme:T13 Theme2:T14 Theme3:T12
+T34	Regulation 398 409	stabilizing
+E5	Regulation:T34 Theme:T15 Cause:E4
+T35	Binding 486 491	binds
+E6	Binding:T35 Theme:T16 Theme2:T18 Theme3:T19
+T36	Transport 532 547	internalization
+E7	Transport:T36 Theme:T19
+T37	Negative_regulation 562 569	becomes
+E8	Negative_regulation:T37 Cause:E7 Theme:E9
+T38	Binding 580 584	bind
+E9	Binding:T38 Theme:T20 Theme2:T19
+M1	Negation E9
+T39	Positive_regulation 595 600	leads
+E10	Positive_regulation:T39 Cause:E9 Theme:E11
+T40	Degradation 604 615	degradation
+E11	Degradation:T40 Theme:T21
+T41	Inactivation 680 684	loss
+E12	Inactivation:T41 Theme:T22
+T42	Negative_regulation 911 919	prevents
+E13	Negative_regulation:T42 Theme:E14
+T43	Binding 929 936	binding
+E14	Binding:T43 Theme:T23 Theme2:T24
+T44	Positive_regulation 954 964	increasing
+E15	Positive_regulation:T44 Cause:E13 Theme:T25
+T45	Pathway 1384 1391	pathway
+E16	Pathway:T45 Participant:T30 Participant2:T31

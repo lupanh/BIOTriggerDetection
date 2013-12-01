@@ -1,0 +1,41 @@
+T1	Gene_or_gene_product 14 37	Angiotensin II receptor
+T2	Simple_chemical 51 59	cysteine
+T3	Complex 76 85	NF-kappaB
+T4	Gene_or_gene_product 88 102	Angiotensin II
+T5	Gene_or_gene_product 104 110	Ang II
+T6	Gene_or_gene_product 149 154	renin
+T7	Gene_or_gene_product 155 166	angiotensin
+T8	Gene_or_gene_product 175 181	Ang II
+T9	Gene_or_gene_product 473 479	Ang II
+T10	Gene_or_gene_product 501 520	Ang type1 receptors
+T11	Gene_or_gene_product 522 529	AT(1)Rs
+T12	Gene_or_gene_product 557 564	AT(1)Rs
+T13	Gene_or_gene_product 601 607	Ang II
+T14	Simple_chemical 697 720	reactive oxygen species
+T15	Simple_chemical 722 725	ROS
+T16	Simple_chemical 731 756	reactive nitrogen species
+T17	Simple_chemical 758 761	RNS
+T18	Gene_or_gene_product 805 811	AT(1)R
+T19	Gene_or_gene_product 902 908	AT(1)R
+T20	Gene_or_gene_product 931 944	NADPH oxidase
+T21	Simple_chemical 955 958	ROS
+T22	Simple_chemical 984 996	nitric oxide
+T23	Simple_chemical 998 1000	NO
+T24	Gene_or_gene_product 1012 1018	AT(1)R
+T25	Simple_chemical 1035 1043	cysteine
+T26	Complex 1104 1125	nuclear factor kappaB
+T27	Complex 1127 1136	NF-kappaB
+T28	Simple_chemical 1177 1180	ROS
+T29	Simple_chemical 1185 1187	NO
+T30	Gene_or_gene_product 1191 1197	AT(1)R
+T31	Cellular_component 1249 1262	intracellular
+T32	Simple_chemical 1275 1278	ROS
+T33	Simple_chemical 1301 1303	NO
+T34	Complex 1357 1366	NF-kappaB
+T35	Gene_or_gene_product 1404 1415	NO synthase
+T36	Gene_or_gene_product 1417 1420	NOS
+T37	Complex 1426 1435	NF-kappaB
+T38	Simple_chemical 1508 1516	cysteine
+T39	Simple_chemical 1533 1536	ROS
+T40	Simple_chemical 1540 1543	RNS
+T41	Gene_or_gene_product 1582 1588	AT(1)R

@@ -1,0 +1,79 @@
+*	Equiv T20 T21
+T35	Positive_regulation 544 552	enhanced
+E1	Positive_regulation:T35 Theme:E2 Cause:T5
+T36	Pathway 557 566	apoptosis
+E2	Pathway:T36 
+T37	Positive_regulation 567 574	induced
+E3	Positive_regulation:T37 Theme:E2
+T38	Negative_regulation 659 668	abrogated
+E4	Negative_regulation:T38 Cause:T7 Theme:E11
+E5	Negative_regulation:T38 Cause:T7 Theme:E12
+E6	Negative_regulation:T38 Cause:T7 Theme:E13
+E7	Negative_regulation:T38 Cause:T7 Theme:E14
+E8	Negative_regulation:T38 Cause:T7 Theme:E15
+E9	Negative_regulation:T38 Cause:T7 Theme:E16
+E10	Negative_regulation:T38 Cause:T7 Theme:E17
+T39	Gene_expression 673 683	expression
+E11	Gene_expression:T39 Theme:T8
+E12	Gene_expression:T39 Theme:T9
+E13	Gene_expression:T39 Theme:T10
+E14	Gene_expression:T39 Theme:T11
+E15	Gene_expression:T39 Theme:T12
+E16	Gene_expression:T39 Theme:T13
+E17	Gene_expression:T39 Theme:T14
+T40	Regulation 835 844	regulated
+E18	Regulation:T40 Cause:T15 Theme:E11
+E19	Regulation:T40 Cause:T15 Theme:E12
+E20	Regulation:T40 Cause:T15 Theme:E13
+E21	Regulation:T40 Cause:T15 Theme:E14
+E22	Regulation:T40 Cause:T15 Theme:E15
+E23	Regulation:T40 Cause:T15 Theme:E16
+E24	Regulation:T40 Cause:T15 Theme:E17
+T41	Negative_regulation 886 895	inhibited
+E25	Negative_regulation:T41 Theme:E26
+T42	Activation 900 910	activation
+E26	Activation:T42 Theme:T16
+T43	Positive_regulation 924 931	induced
+E27	Positive_regulation:T43 Theme:T16
+T44	Activation 988 994	active
+E28	Activation:T44 Theme:T17
+T45	Negative_regulation 1040 1049	inhibited
+E29	Negative_regulation:T45 Theme:E28
+T46	Negative_regulation 1065 1076	suppression
+E30	Negative_regulation:T46 Theme:E31
+T47	Activation 1090 1100	activation
+E31	Activation:T47 Theme:T18 Cause:T19
+T48	Positive_regulation 1118 1124	caused
+E32	Positive_regulation:T48 Theme:E30 Cause:E33
+T49	Negative_regulation 1128 1138	inhibition
+E33	Negative_regulation:T49 Theme:T20
+T50	Positive_regulation 1170 1173	led
+E34	Positive_regulation:T50 Cause:E33 Theme:E37
+E35	Positive_regulation:T50 Cause:E33 Theme:E38
+E36	Positive_regulation:T50 Cause:E33 Theme:E39
+T51	Negative_regulation 1177 1188	suppression
+E37	Negative_regulation:T51 Theme:E40
+E38	Negative_regulation:T51 Theme:E41
+E39	Negative_regulation:T51 Theme:E42
+T52	Phosphorylation 1205 1220	phosphorylation
+E40	Phosphorylation:T52 Theme:T22
+T53	Degradation 1225 1236	degradation
+E41	Degradation:T53 Theme:T22
+T54	Transport 1246 1259	translocation
+E42	Transport:T54 FromLoc:T23 ToLoc:T23 Theme:T22
+T55	Dissociation 1400 1411	Replacement
+E43	Dissociation:T55 Product:T26
+T56	Negative_regulation 1449 1458	abolished
+E44	Negative_regulation:T56 Theme:E45
+T57	Regulation 1463 1469	effect
+E45	Regulation:T57 Theme:T29
+T58	Positive_regulation 1509 1530	plays a critical role
+E46	Positive_regulation:T58 Theme:E47 Cause:T30
+T59	Negative_regulation 1534 1544	inhibiting
+E47	Negative_regulation:T59 Theme:E48
+T60	Activation 1559 1569	activation
+E48	Activation:T60 Theme:T31
+T61	Binding 1677 1688	interaction
+T62	Positive_regulation 1677 1688	interaction
+E49	Binding:T61 Theme:T33
+E50	Positive_regulation:T62 Theme:E49 Cause:T32

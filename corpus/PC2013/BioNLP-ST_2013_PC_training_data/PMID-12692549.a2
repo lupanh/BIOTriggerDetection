@@ -1,0 +1,48 @@
+*	Equiv T4 T5
+*	Equiv T12 T13
+*	Equiv T14 T15
+T22	Positive_regulation 24 33	essential
+E1	Positive_regulation:T22 Theme:E3 Cause:T2
+E2	Positive_regulation:T22 Theme:E3 Cause:T1
+T23	Pathway 57 74	signaling pathway
+E3	Pathway:T23 Participant:T3
+T24	Binding 265 272	binding
+E4	Binding:T24 Theme:T7
+T25	Positive_regulation 321 328	results
+E5	Positive_regulation:T25 Cause:E4 Theme:E7
+E6	Positive_regulation:T25 Cause:E4 Theme:E8
+T26	Regulation 336 346	coordinate
+E7	Regulation:T26 Theme:E9
+E8	Regulation:T26 Theme:E10
+T27	Activation 347 357	activation
+E9	Activation:T27 Theme:T8
+E10	Activation:T27 Theme:T9
+T28	Activation 381 391	Activation
+E11	Activation:T28 Theme:T10
+T29	Positive_regulation 400 408	requires
+E12	Positive_regulation:T29 Theme:E11 Cause:E14
+T30	Positive_regulation 416 425	dependent
+E13	Positive_regulation:T30 Theme:E14
+T31	Phosphorylation 426 441	phosphorylation
+E14	Phosphorylation:T31 Theme:T10
+T32	Positive_regulation 666 676	implicated
+E15	Positive_regulation:T32 Theme:E17 Cause:T12
+E16	Positive_regulation:T32 Theme:E17 Cause:T14
+T33	Activation 690 700	activation
+E17	Activation:T33 Theme:T16
+T34	Positive_regulation 711 720	essential
+E18	Positive_regulation:T34 Theme:E20 Cause:T12
+E19	Positive_regulation:T34 Theme:E20 Cause:T14
+T35	Pathway 744 761	signaling pathway
+E20	Pathway:T35 Participant:T17
+T36	Positive_regulation 789 808	have a pivotal role
+E21	Positive_regulation:T36 Cause:T19 Theme:E25
+E22	Positive_regulation:T36 Cause:T18 Theme:E25
+E23	Positive_regulation:T36 Cause:T18 Theme:E26
+E24	Positive_regulation:T36 Cause:T19 Theme:E26
+T37	Regulation 812 824	coordinating
+E25	Regulation:T37 Theme:E27
+E26	Regulation:T37 Theme:E28
+T38	Activation 829 839	activation
+E27	Activation:T38 Theme:T20
+E28	Activation:T38 Theme:T21

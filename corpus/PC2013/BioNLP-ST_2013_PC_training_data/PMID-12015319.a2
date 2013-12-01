@@ -1,0 +1,20 @@
+T27	Positive_regulation 83 89	confer
+E1	Positive_regulation:T27 Theme:E3
+T28	Positive_regulation 115 123	mediated
+E2	Positive_regulation:T28 Theme:E3 Cause:T3
+T29	Positive_regulation 140 151	stimulation
+E3	Positive_regulation:T29 Theme:T4
+T30	Gene_expression 464 474	expression
+E4	Gene_expression:T30 Theme:T8
+T31	Regulation 553 563	regulation
+E5	Regulation:T31 Theme:E6
+T32	Gene_expression 572 582	expression
+E6	Gene_expression:T32 Theme:T9
+T33	Gene_expression 953 963	expression
+E7	Gene_expression:T33 Theme:T16
+T34	Binding 1457 1461	bind
+E8	Binding:T34 Theme:T21 Theme2:T20
+T35	Binding 1493 1500	binding
+E9	Binding:T35 Theme:T22
+T36	Regulation 1711 1720	regulates
+E10	Regulation:T36 Cause:T25 Theme:T26

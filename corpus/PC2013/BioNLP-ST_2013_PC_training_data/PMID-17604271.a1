@@ -1,0 +1,42 @@
+T1	Gene_or_gene_product 0 6	PRAS40
+T2	Complex 23 62	mammalian target of rapamycin complex 1
+T3	Complex 144 183	mammalian target of rapamycin complex 1
+T4	Complex 185 191	mTORC1
+T5	Gene_or_gene_product 236 243	insulin
+T6	Gene_or_gene_product 245 251	PRAS40
+T7	Complex 268 274	mTORC1
+T8	Gene_or_gene_product 291 297	raptor
+T9	Complex 307 313	mTORC2
+T10	Gene_or_gene_product 315 321	PRAS40
+T11	Gene_or_gene_product 337 343	raptor
+T12	Gene_or_gene_product 373 376	TOR
+T13	Gene_or_gene_product 402 408	PRAS40
+T14	Gene_or_gene_product 453 476	eIF4E-binding protein 1
+T15	Gene_or_gene_product 478 484	4E-BP1
+T16	Gene_or_gene_product 487 493	PRAS40
+T17	Complex 532 538	mTORC1
+T18	Simple_chemical 615 624	rapamycin
+T19	Gene_or_gene_product 655 661	PRAS40
+T20	Gene_or_gene_product 663 669	PRAS40
+T21	Gene_or_gene_product 676 682	14-3-3
+T22	Gene_or_gene_product 732 739	insulin
+T23	Gene_or_gene_product 752 758	PRAS40
+T24	Gene_or_gene_product 762 768	14-3-3
+T25	Gene_or_gene_product 794 798	TSC1
+T26	Gene_or_gene_product 799 800	2
+T27	Complex 825 831	mTORC1
+T28	Gene_or_gene_product 851 855	Rheb
+T29	Simple_chemical 861 870	rapamycin
+T30	Gene_or_gene_product 908 914	PRAS40
+T31	Complex 945 951	mTORC1
+T32	Gene_or_gene_product 997 1003	PRAS40
+T33	Gene_or_gene_product 1037 1044	insulin
+T34	Gene_or_gene_product 1075 1081	4E-BP1
+T35	Gene_or_gene_product 1109 1111	S6
+T36	Gene_or_gene_product 1167 1170	Akt
+T37	Gene_or_gene_product 1174 1178	TSC2
+T38	Gene_or_gene_product 1183 1186	Akt
+T39	Gene_or_gene_product 1216 1222	PRAS40
+T40	Complex 1237 1243	mTORC1
+T41	Gene_or_gene_product 1283 1287	S6K1
+T42	Gene_or_gene_product 1292 1298	4E-BP1

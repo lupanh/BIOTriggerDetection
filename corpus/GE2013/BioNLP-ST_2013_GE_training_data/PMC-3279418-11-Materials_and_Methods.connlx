@@ -1,0 +1,41 @@
+1	Generation	_	NN	_	_	0	ROOT	_	_
+2	of	_	IN	_	_	1	NMOD	_	_
+3	BMDC	_	NN	_	_	2	PMOD	_	_
+		
+1	BMDC	_	NNS	_	_	2	VMOD	_	_
+2	were	_	VBD	_	_	0	ROOT	_	_
+3	developed	_	VBN	_	_	2	VC	_	_
+4	as	_	IN	_	_	3	VMOD	_	_
+5	previously	_	RB	_	_	6	AMOD	_	_
+6	reported	_	VBN	_	_	4	PMOD	_	_
+7	[	_	(	_	_	8	P	_	_
+8	54	_	CD	_	_	6	PRN	_	_
+9	]	_	)	_	_	8	P	_	_
+10	,	_	,	_	_	6	P	_	_
+11	[	_	(	_	_	12	P	_	_
+12	55	_	CD	_	_	6	NMOD	_	_
+13	]	_	)	_	_	12	P	_	_
+14	.	_	.	_	_	2	P	_	_
+		
+1	Cells	_	NNS	_	_	2	VMOD	_	_
+2	were	_	VBD	_	_	0	ROOT	_	_
+3	collected	_	VBN	_	_	2	VC	_	_
+4	after	_	IN	_	_	3	VMOD	_	_
+5	10-12	_	CD	_	_	6	NMOD	_	_
+6	days	_	NNS	_	_	4	PMOD	_	_
+7	of	_	IN	_	_	6	NMOD	_	_
+8	culture	_	NN	_	_	7	PMOD	_	_
+9	.	_	.	_	_	2	P	_	_
+		
+1	The	_	DT	_	_	3	NMOD	_	_
+2	cell	_	NN	_	_	3	NMOD	_	_
+3	yield	_	NN	_	_	4	VMOD	_	_
+4	was	_	VBD	_	_	0	ROOT	_	_
+5	2-3x107	_	CD	_	_	6	NMOD	_	_
+6	cells/mouse	_	NN	_	_	4	VMOD	_	_
+7	with	_	IN	_	_	4	VMOD	_	_
+8	80-95	_	CD	_	_	9	AMOD	_	_
+9	%	_	NN	_	_	10	NMOD	_	_
+10	BMDC	_	NN	_	_	7	PMOD	_	_
+11	.	_	.	_	_	4	P	_	_
+		

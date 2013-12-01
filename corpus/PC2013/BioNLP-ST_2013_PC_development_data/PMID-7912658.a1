@@ -1,0 +1,35 @@
+T1	Gene_or_gene_product 0 31	Phosphatidylcholine translocase
+T2	Gene_or_gene_product 62 66	mdr2
+T3	Gene_or_gene_product 74 89	P-glycoproteins
+T4	Gene_or_gene_product 91 96	P-gps
+T5	Gene_or_gene_product 119 123	mdr2
+T6	Gene_or_gene_product 128 132	mdr3
+T7	Cellular_component 157 175	secretory vesicles
+T8	Cellular_component 177 180	SVs
+T9	Gene_or_gene_product 248 265	lipid translocase
+T10	Gene_or_gene_product 266 274	flippase
+T11	Simple_chemical 320 339	phosphatidylcholine
+T12	Simple_chemical 341 343	PC
+T13	Simple_chemical 391 396	lipid
+T14	Cellular_component 449 462	lipid bilayer
+T15	Cellular_component 472 480	vesicles
+T16	Gene_or_gene_product 482 486	Mdr2
+T17	Cellular_component 501 504	SVs
+T18	Simple_chemical 561 563	PC
+T19	Cellular_component 585 598	inner leaflet
+T20	Cellular_component 606 614	membrane
+T21	Gene_or_gene_product 620 624	Mdr2
+T22	Gene_or_gene_product 674 678	Mdr3
+T23	Cellular_component 688 696	vesicles
+T24	Cellular_component 723 731	membrane
+T25	Simple_chemical 748 750	PC
+T26	Gene_or_gene_product 762 766	Mdr2
+T27	Simple_chemical 776 778	PC
+T28	Simple_chemical 806 809	ATP
+T29	Simple_chemical 814 818	Mg2+
+T30	Gene_or_gene_product 851 857	ATPase
+T31	Simple_chemical 868 876	vanadate
+T32	Gene_or_gene_product 885 889	P-gp
+T33	Simple_chemical 900 909	verapamil
+T34	Simple_chemical 991 1001	colchicine
+T35	Simple_chemical 1006 1017	vinblastine

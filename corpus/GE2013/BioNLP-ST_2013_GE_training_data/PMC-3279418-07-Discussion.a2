@@ -1,0 +1,69 @@
+T13	Negative_regulation 31 45	null mutations
+T14	Negative_regulation 191 195	loss
+T15	Negative_regulation 728 738	disruption
+T12	Anaphora 742 747	which
+T16	Negative_regulation 1478 1486	deletion
+T17	Negative_regulation 1520 1530	deficiency
+T18	Binding 2018 2028	recognized
+T19	Negative_regulation 2566 2575	deficient
+T59	Positive_regulation 2935 2945	activation
+T60	Negative_regulation 2975 2982	was not
+T61	Negative_regulation 4188 4196	deletion
+T62	Negative_regulation 4336 4343	absence
+T63	Gene_expression 4355 4365	expression
+T64	Negative_regulation 4779 4788	deficient
+T65	Negative_regulation 4978 4986	mutation
+T66	Binding 5127 5133	engage
+T67	Binding 5363 5370	engages
+T68	Positive_regulation 5446 5456	stimulated
+T69	Negative_regulation 5591 5599	mutation
+T70	Binding 5753 5762	interacts
+T71	Positive_regulation 5792 5798	exerts
+T57	Anaphora 5799 5802	its
+T72	Ubiquitination 5803 5841	linear-ubiquitin-chain-ligase activity
+T73	Negative_regulation 5975 5988	null mutation
+T74	Negative_regulation 5989 5997	disrupts
+T58	Anaphora 5998 6024	the ubiquitylation process
+T75	Negative_regulation 6485 6494	deficient
+R1	Coreference Subject:T12 Object:T3
+R2	Coreference Subject:T57 Object:T47
+R3	Coreference Subject:T58 Object:T72
+E1	Negative_regulation:T13 Theme:T1
+E2	Negative_regulation:T14 Theme:T2
+E3	Negative_regulation:T15 Theme:T3
+E4	Negative_regulation:T16 Theme:T5
+E5	Negative_regulation:T17 Theme:T6
+E6	Binding:T18 Theme:T7 Theme2:T8
+E7	Negative_regulation:T19 Theme:T10
+E8	Negative_regulation:T19 Theme:T11
+E9	Positive_regulation:T59 Theme:T21
+E10	Positive_regulation:T59 Theme:T22
+E11	Positive_regulation:T59 Theme:T23
+E12	Positive_regulation:T59 Theme:T24
+E13	Negative_regulation:T60 Theme:E9
+E14	Negative_regulation:T60 Theme:E10
+E15	Negative_regulation:T60 Theme:E11
+E16	Negative_regulation:T60 Theme:E12
+E17	Negative_regulation:T61 Theme:T28
+E18	Negative_regulation:T62 Theme:E19
+E19	Gene_expression:T63 Theme:T30
+E20	Negative_regulation:T64 Theme:T33
+E21	Negative_regulation:T65 Theme:T36
+E22	Binding:T66 Theme:T37
+E23	Binding:T66 Theme:T38
+E24	Binding:T67 Theme:T39
+E25	Positive_regulation:T68 Theme:T42
+E26	Negative_regulation:T69 Theme:T44
+E27	Binding:T70 Theme:T47 Theme2:T48
+E28	Positive_regulation:T71 Theme:E29
+E29	Ubiquitination:T72 Theme:T49 Cause:T47
+E30	Positive_regulation:T71 Theme:E31
+E31	Ubiquitination:T72 Theme:T50 Cause:T47
+E32	Negative_regulation:T73 Theme:T52
+E33	Negative_regulation:T74 Theme:E29 Cause:E32
+E34	Negative_regulation:T74 Theme:E31 Cause:E32
+E35	Negative_regulation:T75 Theme:T56
+M1	Negation E13
+M2	Negation E14
+M3	Negation E15
+M4	Negation E16

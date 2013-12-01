@@ -1,0 +1,58 @@
+T1	Protein 178 182	RelA
+T2	Protein 183 186	p65
+T3	Protein 188 193	c-Rel
+T4	Protein 195 199	RelB
+T5	Protein 201 204	p50
+T6	Protein 209 212	p52
+T7	Protein 506 509	p65
+T8	Protein 511 515	RelB
+T9	Protein 520 525	c-Rel
+T10	Protein 916 929	IkappaB-alpha
+T11	Protein 1175 1178	p65
+T12	Protein 1200 1204	MSK1
+T13	Protein 1222 1229	PKCzeta
+T14	Protein 1248 1256	IKKalpha
+T15	Protein 1281 1284	p65
+T16	Protein 1365 1378	IkappaB-alpha
+T17	Protein 1419 1422	p65
+T18	Protein 1609 1622	IkappaB-alpha
+T19	Protein 1653 1656	A20
+T20	Protein 1683 1686	p65
+T21	Protein 1690 1711	histone deacetylase-3
+T22	Protein 1715 1720	SIRT1
+T23	Protein 1740 1743	p65
+T24	Protein 2555 2560	gp120
+T25	Protein 2579 2582	CD4
+T26	Protein 2644 2656	procaspase 8
+T27	Protein 2716 2719	Tat
+T28	Protein 2813 2816	Tat
+T29	Protein 2965 2991	tumor necrosis factor beta
+T30	Protein 2993 3000	TNFbeta
+T31	Protein 3011 3024	interleukin-6
+T32	Protein 3026 3030	IL-6
+T33	Protein 3077 3080	Tat
+T34	Protein 3199 3202	Sp1
+T35	Protein 3209 3214	TFIID
+T36	Protein 3221 3226	E2F-4
+T37	Protein 3233 3242	C/EBPbeta
+T38	Protein 3249 3258	cyclin T1
+T39	Protein 3259 3263	CDK9
+T40	Protein 3307 3311	p300
+T41	Protein 3312 3315	CBP
+T42	Protein 3320 3325	P/CAF
+T43	Protein 3376 3379	Tat
+T44	Protein 3465 3482	Flk1/KDR receptor
+T45	Protein 3619 3622	Tat
+T46	Protein 3687 3690	Tat
+T47	Protein 3747 3760	IkappaB-alpha
+T48	Protein 3785 3788	p65
+T49	Protein 3832 3838	SIRT-1
+T50	Protein 3865 3868	p65
+T51	Protein 3912 3915	Tat
+T52	Protein 4003 4006	Tat
+T53	Protein 4107 4120	IkappaB-alpha
+T54	Protein 4155 4168	IkappaB-alpha
+T55	Protein 4178 4181	Tat
+T56	Protein 4281 4284	Tat
+T57	Protein 4371 4384	IkappaB-alpha
+T58	Protein 4389 4392	p65

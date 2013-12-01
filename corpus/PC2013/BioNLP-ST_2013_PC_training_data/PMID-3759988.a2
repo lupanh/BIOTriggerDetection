@@ -1,0 +1,11 @@
+T41	Conversion 465 473	produced
+E1	Conversion:T41 Product:T8 Theme:T10
+T42	Conversion 651 660	generated
+T43	Positive_regulation 651 660	generated
+E2	Conversion:T42 Product:T14 Theme:T15
+E3	Positive_regulation:T43 Theme:E2 Cause:T16
+T44	Binding 1537 1546	interacts
+E4	Binding:T44 Theme:T37 Theme2:T35
+T45	Conversion 1590 1599	generated
+E5	Conversion:T45 Product:T37 Theme:T38
+E6	Conversion:T45 Product:T37 Theme:T39

@@ -1,0 +1,35 @@
+*	Equiv T10 T11
+T41	Regulation 0 10	Regulation
+E1	Regulation:T41 Theme:T1 Cause:T2
+T42	Gene_expression 92 102	expression
+E2	Gene_expression:T42 Theme:T3
+T43	Gene_expression 177 187	expression
+E3	Gene_expression:T43 Theme:T4
+T44	Regulation 280 290	regulators
+E4	Regulation:T44 Theme:E6 Cause:T5
+E5	Regulation:T44 Theme:E6 Cause:T6
+T45	Pathway 298 308	cell cycle
+E6	Pathway:T45 
+T46	Positive_regulation 533 542	activated
+E7	Positive_regulation:T46 Cause:T9 Theme:T8
+E8	Positive_regulation:T46 Cause:T9 Theme:T7
+T47	Positive_regulation 619 628	activates
+E9	Positive_regulation:T47 Theme:T12 Cause:T11
+T48	Activation 790 806	trans-activation
+E10	Activation:T48 Theme:T16 Cause:T17
+T49	Positive_regulation 1026 1034	activate
+E11	Positive_regulation:T49 Theme:T23 Cause:T21
+E12	Positive_regulation:T49 Theme:T23 Cause:T20
+E13	Positive_regulation:T49 Theme:T23 Cause:T22
+T50	Regulation 1146 1152	effect
+E14	Regulation:T50 Theme:T23 Cause:T26
+E15	Regulation:T50 Theme:T23 Cause:T24
+E16	Regulation:T50 Theme:T23 Cause:T25
+T51	Binding 1178 1183	binds
+E17	Binding:T51 Theme:T27 Theme2:T28
+T52	Binding 1320 1330	associated
+E18	Binding:T52 Theme:T31 Theme2:T30
+T53	Positive_regulation 1668 1676	activate
+E19	Positive_regulation:T53 Theme:T39 Cause:T38
+E20	Positive_regulation:T53 Theme:T39 Cause:T37
+E21	Positive_regulation:T53 Theme:T39 Cause:T36

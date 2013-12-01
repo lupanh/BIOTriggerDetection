@@ -1,0 +1,12 @@
+T14	Negative_regulation 896 905	deficient
+T15	Negative_regulation 934 942	decrease
+T16	Gene_expression 959 969	expression
+T17	Positive_regulation 990 999	following
+T18	Negative_regulation 1000 1010	disruption
+T19	Gene_expression 1048 1058	expression
+E1	Negative_regulation:T14 Theme:T6
+E2	Negative_regulation:T15 Theme:E3
+E3	Gene_expression:T16 Theme:T8
+E4	Positive_regulation:T17 Theme:E2 Cause:E5
+E5	Negative_regulation:T18 Theme:T9
+E6	Gene_expression:T19 Theme:T11

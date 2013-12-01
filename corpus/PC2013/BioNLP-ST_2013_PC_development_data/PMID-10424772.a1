@@ -1,0 +1,41 @@
+T1	Gene_or_gene_product 0 16	Aldose reductase
+T2	Simple_chemical 63 77	norepinephrine
+T3	Simple_chemical 124 138	norepinephrine
+T4	Simple_chemical 140 142	NE
+T5	Simple_chemical 161 188	3,4-dihydroxymandelaldehyde
+T6	Simple_chemical 190 195	DHMAL
+T7	Simple_chemical 234 260	3,4-dihydroxymandelic acid
+T8	Simple_chemical 262 266	DHMA
+T9	Simple_chemical 271 296	3,4-dihydroxyphenylglycol
+T10	Simple_chemical 298 302	DHPG
+T11	Gene_or_gene_product 363 379	aldose reductase
+T12	Gene_or_gene_product 387 405	aldehyde reductase
+T13	Simple_chemical 426 430	DHPG
+T14	Simple_chemical 436 441	DHMAL
+T15	Simple_chemical 470 472	NE
+T16	Gene_or_gene_product 478 494	aldose reductase
+T17	Gene_or_gene_product 514 531	monoamine oxidase
+T18	Gene_or_gene_product 533 536	MAO
+T19	Simple_chemical 567 571	DHPG
+T20	Gene_or_gene_product 624 642	aldehyde reductase
+T21	Simple_chemical 658 662	DHPG
+T22	Gene_or_gene_product 705 721	aldose reductase
+T23	Gene_or_gene_product 770 786	aldose reductase
+T24	Gene_or_gene_product 791 809	aldehyde reductase
+T25	Gene_or_gene_product 894 910	aldose reductase
+T26	Gene_or_gene_product 966 982	aldose reductase
+T27	Simple_chemical 1035 1039	DHMA
+T28	Simple_chemical 1119 1121	NE
+T29	Simple_chemical 1167 1171	DHPG
+T30	Simple_chemical 1272 1279	AL 1576
+T31	Gene_or_gene_product 1314 1330	aldose reductase
+T32	Simple_chemical 1341 1345	DHPG
+T33	Simple_chemical 1351 1353	NE
+T34	Gene_or_gene_product 1373 1376	MAO
+T35	Gene_or_gene_product 1406 1422	aldose reductase
+T36	Gene_or_gene_product 1457 1475	aldehyde reductase
+T37	Simple_chemical 1497 1501	DHPG
+T38	Gene_or_gene_product 1517 1533	aldose reductase
+T39	Gene_or_gene_product 1564 1582	aldehyde reductase
+T40	Simple_chemical 1620 1625	DHMAL
+T41	Simple_chemical 1629 1633	DHPG

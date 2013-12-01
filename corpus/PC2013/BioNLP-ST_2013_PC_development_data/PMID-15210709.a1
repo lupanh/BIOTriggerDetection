@@ -1,0 +1,29 @@
+T1	Gene_or_gene_product 18 54	apoptosis signal-regulating kinase 1
+T2	Gene_or_gene_product 58 80	retinoblastoma protein
+T3	Gene_or_gene_product 153 175	retinoblastoma protein
+T4	Gene_or_gene_product 176 178	Rb
+T5	Gene_or_gene_product 308 310	Rb
+T6	Gene_or_gene_product 319 322	p38
+T7	Gene_or_gene_product 350 352	Rb
+T8	Gene_or_gene_product 373 407	apoptosis signal-regulating kinase
+T9	Gene_or_gene_product 408 412	ASK1
+T10	Gene_or_gene_product 474 478	ASK1
+T11	Gene_or_gene_product 496 498	Rb
+T12	Gene_or_gene_product 539 543	E2F1
+T13	Gene_or_gene_product 615 618	p73
+T14	Gene_or_gene_product 638 640	Rb
+T15	Gene_or_gene_product 651 655	ASK1
+T16	Gene_or_gene_product 691 695	ASK1
+T17	Gene_or_gene_product 724 726	Rb
+T18	Gene_or_gene_product 771 775	ASK1
+T19	Gene_or_gene_product 824 826	Rb
+T20	Cellular_component 842 851	Chromatin
+T21	Gene_or_gene_product 959 963	E2F3
+T22	Gene_or_gene_product 970 1003	tumor necrosis factor (TNF)-alpha
+T23	Gene_or_gene_product 1017 1021	E2F3
+T24	Gene_or_gene_product 1071 1075	E2F1
+T25	Gene_or_gene_product 1095 1104	TNF-alpha
+T26	Gene_or_gene_product 1124 1126	Rb
+T27	Gene_or_gene_product 1209 1211	Rb
+T28	Gene_or_gene_product 1256 1265	TNF-alpha
+T29	Gene_or_gene_product 1306 1308	Rb

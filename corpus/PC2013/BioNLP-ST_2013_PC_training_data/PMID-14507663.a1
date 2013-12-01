@@ -1,0 +1,27 @@
+T1	Gene_or_gene_product 35 65	multidrug resistance protein 5
+T2	Gene_or_gene_product 67 71	MRP5
+T3	Gene_or_gene_product 72 77	ABCC5
+T4	Simple_chemical 107 125	cyclic nucleotides
+T5	Gene_or_gene_product 148 178	multidrug resistance protein 5
+T6	Gene_or_gene_product 180 184	MRP5
+T7	Gene_or_gene_product 185 190	ABCC5
+T8	Simple_chemical 249 267	cyclic nucleotides
+T9	Simple_chemical 273 289	3',5'-cyclic GMP
+T10	Simple_chemical 291 295	cGMP
+T11	Simple_chemical 360 364	cGMP
+T12	Gene_or_gene_product 510 514	MRP5
+T13	Gene_or_gene_product 710 720	beta-actin
+T14	Gene_or_gene_product 748 752	MRP5
+T15	Gene_or_gene_product 826 830	MRP5
+T16	Cellular_component 917 930	cell membrane
+T17	Gene_or_gene_product 1043 1047	MRP5
+T18	Gene_or_gene_product 1161 1165	MRP5
+T19	Simple_chemical 1170 1173	ATP
+T20	Simple_chemical 1197 1207	[(3)H]cGMP
+T21	Cellular_component 1222 1230	vesicles
+T22	Gene_or_gene_product 1357 1361	MRP5
+T23	Gene_or_gene_product 1406 1410	MRP5
+T24	Gene_or_gene_product 1584 1588	MRP5
+T25	Gene_or_gene_product 1623 1627	MRP5
+T26	Gene_or_gene_product 1774 1778	MRP5
+T27	Simple_chemical 1857 1861	cGMP

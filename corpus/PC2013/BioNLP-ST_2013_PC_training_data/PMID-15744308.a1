@@ -1,0 +1,31 @@
+T1	Gene_or_gene_product 0 6	Cyclin
+T2	Gene_or_gene_product 45 68	cyclin-dependent kinase
+T3	Gene_or_gene_product 118 142	cyclin-dependent kinases
+T4	Gene_or_gene_product 144 148	CDKs
+T5	Gene_or_gene_product 190 197	cyclins
+T6	Gene_or_gene_product 209 216	cyclins
+T7	Gene_or_gene_product 369 376	cyclins
+T8	Gene_or_gene_product 390 401	cyclin Clb5
+T9	Gene_or_gene_product 418 429	cyclin Clb2
+T10	Gene_or_gene_product 461 465	Cdk1
+T11	Gene_or_gene_product 467 472	Cdc28
+T12	Complex 554 563	Clb5-Cdk1
+T13	Complex 569 578	Clb2-Cdk1
+T14	Gene_or_gene_product 584 588	Clb5
+T15	Gene_or_gene_product 632 636	Sld2
+T16	Gene_or_gene_product 638 642	Cdc6
+T17	Gene_or_gene_product 644 648	Orc6
+T18	Gene_or_gene_product 650 654	Mcm3
+T19	Gene_or_gene_product 659 663	Cdh1
+T20	Gene_or_gene_product 699 703	Clb5
+T21	Gene_or_gene_product 774 778	Clb5
+T22	Gene_or_gene_product 859 863	Clb5
+T23	Gene_or_gene_product 921 925	Clb5
+T24	Gene_or_gene_product 931 935	Clb2
+T25	Gene_or_gene_product 1005 1009	Clb5
+T26	Gene_or_gene_product 1071 1075	Clb2
+T27	Complex 1111 1120	Clb2-Cdk1
+T28	Complex 1169 1178	Clb5-Cdk1
+T29	Gene_or_gene_product 1243 1247	Cdk1
+T30	Gene_or_gene_product 1263 1267	Clb5
+T31	Gene_or_gene_product 1272 1276	Clb2

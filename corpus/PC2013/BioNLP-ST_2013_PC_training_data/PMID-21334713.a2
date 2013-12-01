@@ -1,0 +1,14 @@
+T21	Gene_expression 0 14	Overexpression
+E1	Gene_expression:T21 Theme:T1
+T22	Gene_expression 666 679	overexpressed
+E2	Gene_expression:T22 Theme:T8
+T23	Gene_expression 810 824	overexpression
+E3	Gene_expression:T23 Theme:T10
+T24	Gene_expression 1266 1281	Overexpressions
+E4	Gene_expression:T24 Theme:T12
+T25	Binding 1858 1869	interaction
+E5	Binding:T25 Theme:T16 Theme2:T15
+T26	Gene_expression 1924 1939	overexpressions
+E6	Gene_expression:T26 Theme:T17
+T27	Binding 2023 2034	interaction
+E7	Binding:T27 Theme:T18 Theme2:T17

@@ -1,0 +1,14 @@
+T7	Positive_regulation 13 23	stimulated
+T8	Gene_expression 31 41	expression
+T9	Gene_expression 306 316	expression
+T10	Gene_expression 433 443	expression
+T6	Anaphora 447 459	the antigens
+R1	Coreference Subject:T6 Object:T3
+R2	Coreference Subject:T6 Object:T4
+R3	Coreference Subject:T6 Object:T5
+E1	Positive_regulation:T7 Theme:E2
+E2	Gene_expression:T8 Theme:T1
+E3	Gene_expression:T9 Theme:T2
+E4	Gene_expression:T10 Theme:T3
+E5	Gene_expression:T10 Theme:T4
+E6	Gene_expression:T10 Theme:T5

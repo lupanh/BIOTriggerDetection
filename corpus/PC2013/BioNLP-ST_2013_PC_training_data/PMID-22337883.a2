@@ -1,0 +1,35 @@
+T29	Negative_regulation 69 79	repressing
+E1	Negative_regulation:T29 Cause:T1 Theme:T2
+E2	Negative_regulation:T29 Cause:T1 Theme:T3
+T30	Regulation 385 395	controlled
+E3	Regulation:T30 Theme:T4
+T31	Regulation 486 494	controls
+E4	Regulation:T31 Theme:E5
+T32	Activation 499 509	activation
+E5	Activation:T32 Theme:T5
+T33	Gene_expression 576 585	expressed
+E6	Gene_expression:T33 Theme:T7
+T34	Positive_regulation 826 834	required
+E7	Positive_regulation:T34 Theme:E9
+T35	Positive_regulation 843 851	mediated
+E8	Positive_regulation:T35 Cause:T11 Theme:E9
+T36	Negative_regulation 852 862	repression
+E9	Negative_regulation:T36 Theme:T8
+T37	Negative_regulation 987 997	inhibition
+E10	Negative_regulation:T37 Theme:E11
+T38	Gene_expression 1005 1015	expression
+E11	Gene_expression:T38 Theme:T14
+T39	Positive_regulation 1032 1039	results
+E12	Positive_regulation:T39 Theme:E13 Cause:E10
+T40	Positive_regulation 1043 1052	increased
+E13	Positive_regulation:T40 Theme:E15
+T41	Positive_regulation 1063 1072	dependent
+E14	Positive_regulation:T41 Cause:T15 Theme:E15
+T42	Gene_expression 1080 1090	expression
+E15	Gene_expression:T42 Theme:T16
+T43	Negative_regulation 1112 1121	represses
+E16	Negative_regulation:T43 Cause:T17 Theme:T18
+T44	Negative_regulation 1152 1160	prevents
+E17	Negative_regulation:T44 Cause:T19 Theme:E18
+T45	Binding 1180 1187	binding
+E18	Binding:T45 Theme:T22 Theme2:T21 Theme3:T20

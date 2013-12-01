@@ -1,0 +1,21 @@
+T1	Gene_or_gene_product 19 23	cdk2
+T2	Gene_or_gene_product 43 54	histone H2B
+T3	Simple_chemical 437 449	camptothecin
+T4	Gene_or_gene_product 525 528	p53
+T5	Gene_or_gene_product 557 560	p21
+T6	Gene_or_gene_product 711 715	cdk2
+T7	Gene_or_gene_product 720 728	cyclin E
+T8	Complex 749 766	cyclin E-cdk2-p21
+T9	Simple_chemical 867 879	camptothecin
+T10	Gene_or_gene_product 952 963	histone H2B
+T11	Gene_or_gene_product 992 995	cdk
+T12	Simple_chemical 1006 1016	olomoucine
+T13	Complex 1025 1038	cdk2-cyclin E
+T14	Gene_or_gene_product 1078 1081	p53
+T15	Simple_chemical 1083 1092	Olomucine
+T16	Gene_or_gene_product 1114 1125	histone H2B
+T17	Gene_or_gene_product 1143 1152	caspase-3
+T18	Gene_or_gene_product 1273 1276	p53
+T19	Complex 1340 1353	cdk2-cyclin E
+T20	Gene_or_gene_product 1367 1376	caspase-3
+T21	Gene_or_gene_product 1408 1415	histone

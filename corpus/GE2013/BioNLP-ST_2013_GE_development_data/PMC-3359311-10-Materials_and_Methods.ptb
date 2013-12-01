@@ -1,0 +1,5 @@
+(S1 (S (NP (NN Ethics) (NN Statement))))
+(S1 (S (S (NP (NN Blood) (NNS samples)) (VP (VBD were) (VP (VBN obtained) (PP (IN with) (NP (VBN informed) (VBN written) (NN consent))) (PP (IN from) (NP (NP (NN control) (NNS subjects)) (CC and) (NP (NN CF) (NNS patients)))) (PP (IN at) (NP (NP (DT the) (NN BC) (NNS Children) (POS 's)) (NN Hospital)))))) (. .)))
+(S1 (S (S (NP (NN Consent)) (VP (VBD was) (VP (VBN obtained) (PP (IN for) (NP (NNS children))) (PP (IN by) (NP (PRP$ their) (ADJP (ADJP (JJ parent)) (CC or) (ADJP (JJ legal))) (NN guardian)))))) (. .)))
+(S1 (S (S (NP (NP (NNS Subjects)) (NP (NP (CD 7) (NNS years)) (PP (IN of) (NP (NP (NN age)) (CC and) (NP (JJR older)))))) (VP (VBD were) (VP (VBN required) (S (VP (TO to) (VP (VB provide) (NP (VBN informed) (NN assent)) (PP (IN as) (NP (NN well))))))))) (. .)))
+(S1 (S (S (NP (NNS Protocols)) (VP (VBD were) (ADJP (JJ approved) (PP (IN by) (NP (NP (DT the) (JJ Clinical) (NN Research) (NN Ethics) (NN Board)) (PRN (-LRB- -LRB-) (NP (NN H09-01192)) (-RRB- -RRB-))))))) (. .)))

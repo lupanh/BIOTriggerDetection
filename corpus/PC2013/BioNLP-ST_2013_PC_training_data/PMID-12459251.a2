@@ -1,0 +1,50 @@
+*	Equiv T7 T8
+*	Equiv T26 T27
+T34	Pathway 45 55	Cell cycle
+E1	Pathway:T34 
+T35	Positive_regulation 56 66	activation
+E2	Positive_regulation:T35 Theme:E1
+T36	Pathway 186 196	cell cycle
+E3	Pathway:T36 
+T37	Binding 213 217	bind
+E4	Binding:T37 Theme:T3 Theme3:T5
+E5	Binding:T37 Theme:T3 Theme2:T6
+T38	Activation 225 233	activate
+E6	Activation:T38 Cause:T3 Theme:T5
+E7	Activation:T38 Cause:T3 Theme:T6
+T39	Phosphorylation 292 305	phosphorylate
+E8	Phosphorylation:T39 Theme:T7 Cause:T5
+E9	Phosphorylation:T39 Theme:T7 Cause:T6
+T40	Phosphorylation 370 385	phosphorylation
+E10	Phosphorylation:T40 Theme:T9
+T41	Positive_regulation 470 476	induce
+E11	Positive_regulation:T41 Theme:E12 Cause:T10
+T42	Pathway 477 487	cell cycle
+E12	Pathway:T42 
+T43	Positive_regulation 505 510	raise
+E13	Positive_regulation:T43 Theme:T11
+T44	Positive_regulation 624 636	accelerating
+E14	Positive_regulation:T44 Theme:E15
+T45	Pathway 637 647	cell cycle
+E15	Pathway:T45 
+T46	Pathway 772 779	pathway
+E16	Pathway:T46 Participant:T15 Participant2:T16
+T47	Regulation 1437 1448	independent
+E17	Regulation:T47 Cause:E18 Theme:T22
+M1	Negation E17
+T48	Pathway 1452 1462	cell cycle
+E18	Pathway:T48 
+T49	Binding 1532 1541	interacts
+E19	Binding:T49 Theme:T23 Theme2:T24
+E20	Binding:T49 Theme:T23 Theme2:T26
+E21	Binding:T49 Theme:T23 Theme2:T25
+E22	Binding:T49 Theme:T23 Theme2:T28
+T50	Regulation 1798 1809	independent
+E23	Regulation:T50 Cause:T30 Theme:T31
+M2	Negation E23
+T51	Activation 1933 1942	activator
+E24	Activation:T51 Theme:T33
+T52	Positive_regulation 1946 1955	regulates
+E25	Positive_regulation:T52 Theme:E26 Cause:T33
+T53	Pathway 1956 1966	cell cycle
+E26	Pathway:T53 

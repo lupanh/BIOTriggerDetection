@@ -1,0 +1,13 @@
+*	Equiv T4 T5
+T12	Positive_regulation 5 14	dependent
+E1	Positive_regulation:T12 Theme:E2 Cause:T1
+T13	Ubiquitination 15 29	ubiquitination
+E2	Ubiquitination:T13 Theme:T2
+T14	Ubiquitination 65 78	ubiquitinated
+E3	Ubiquitination:T14 Theme:T3
+T15	Ubiquitination 281 294	Ubiquitinated
+E4	Ubiquitination:T15 Theme:T5
+T16	Binding 555 566	conjugating
+E5	Binding:T16 Theme:T8 Theme2:T9
+T17	Ubiquitination 638 651	ubiquitinates
+E6	Ubiquitination:T17 Theme:T11 Cause:T10

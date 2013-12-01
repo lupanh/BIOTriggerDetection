@@ -1,0 +1,53 @@
+T27	Regulation 0 9	Regulated
+E1	Regulation:T27 Theme:E2
+T28	Localization 18 30	localisation
+E2	Localization:T28 AtLoc:T1 Theme:T2
+T29	Regulation 71 79	controls
+E3	Regulation:T29 Theme:E4 Cause:E2
+T30	Gene_expression 80 90	expression
+E4	Gene_expression:T30 Theme:T4
+T31	Regulation 178 187	regulates
+E5	Regulation:T31 Cause:T5 Theme:E7
+E6	Regulation:T31 Cause:T5 Theme:E8
+T32	Gene_expression 188 198	expression
+E7	Gene_expression:T32 Theme:T6
+E8	Gene_expression:T32 Theme:T7
+T33	Pathway 231 241	cell cycle
+E9	Pathway:T33 
+T34	Positive_regulation 242 251	dependent
+E10	Positive_regulation:T34 Cause:E9 Theme:E6
+E11	Positive_regulation:T34 Cause:E9 Theme:E5
+T35	Localization 268 280	localisation
+E12	Localization:T35 Theme:T9 AtLoc:T8
+T36	Pathway 348 358	cell cycle
+E13	Pathway:T36 
+T37	Localization 391 403	localisation
+E14	Localization:T37 AtLoc:T10 Theme:T9
+T38	Regulation 416 426	associated
+E15	Regulation:T38 Cause:E14 Theme:E16
+T39	Regulation 432 442	regulation
+E16	Regulation:T39 Theme:E17
+T40	Gene_expression 451 461	expression
+E17	Gene_expression:T40 Theme:T11
+T41	Pathway 614 624	cell cycle
+E18	Pathway:T41 
+T42	Pathway 847 857	cell cycle
+E19	Pathway:T42 
+T43	Localization 876 888	localisation
+E20	Localization:T43 Theme:T19
+T44	Regulation 908 916	involves
+E21	Regulation:T44 Cause:E20 Theme:E22
+T45	Regulation 917 927	regulation
+E22	Regulation:T45 Theme:E23
+T46	Phosphorylation 935 950	phosphorylation
+E23	Phosphorylation:T46 Theme:T19
+T47	Regulation 1063 1073	associates
+E24	Regulation:T47 Cause:T21 Theme:T22
+T48	Regulation 1371 1381	controlled
+E25	Regulation:T48 Theme:T25
+T49	Pathway 1397 1407	cell cycle
+E26	Pathway:T49 
+T50	Localization 1448 1460	localisation
+E27	Localization:T50 AtLoc:T26 Theme:T25
+T51	Degradation 1466 1477	proteolysis
+E28	Degradation:T51 Theme:T25

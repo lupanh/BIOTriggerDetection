@@ -1,0 +1,33 @@
+T21	Regulation 136 148	participates
+E1	Regulation:T21 Cause:T4 Theme:E3
+E2	Regulation:T21 Cause:T4 Theme:E4
+T22	Regulation 175 184	involving
+E3	Regulation:T22 Theme:E5
+E4	Regulation:T22 Theme:E6
+T23	Transport 198 204	uptake
+E5	Transport:T23 Theme:T5
+T24	Transport 215 224	extrusion
+E6	Transport:T24 Theme:T6
+T25	Binding 280 288	affinity
+E7	Binding:T25 Theme:T4 Theme2:T7 Theme3:T8
+E8	Binding:T25 Theme:T4 Theme2:T9 Theme3:T10
+T26	Regulation 372 381	sensitive
+E9	Regulation:T26 Cause:T11 Theme:E14
+E10	Regulation:T26 Cause:T11 Theme:E15
+E11	Regulation:T26 Cause:T11 Theme:E16
+E12	Regulation:T26 Cause:T11 Theme:E17
+E13	Regulation:T26 Cause:T11 Theme:E18
+T27	Transport 382 390	exchange
+E14	Transport:T27 Theme:T12
+E15	Transport:T27 Theme:T7
+E16	Transport:T27 Theme:T8
+E17	Transport:T27 Theme:T9
+E18	Transport:T27 Theme:T10
+T28	Transport 525 536	cotransport
+E19	Transport:T28 Theme:T13
+E20	Transport:T28 Theme:T14
+T29	Transport 561 569	exchange
+E21	Transport:T29 Theme:T15
+E22	Transport:T29 Theme:T16
+T30	Positive_regulation 663 673	dependence
+E23	Positive_regulation:T30 Theme:T17 Cause:T18

@@ -1,0 +1,39 @@
+*	Equiv T2 T3
+*	Equiv T6 T5
+T21	Gene_expression 51 61	expression
+E1	Gene_expression:T21 Theme:T1
+T22	Regulation 70 81	deregulated
+E2	Regulation:T22 Theme:E1
+M1	Negation E2
+T23	Binding 200 205	binds
+E3	Binding:T23 Theme:T6 Theme2:T2
+T24	Gene_expression 551 561	expression
+E4	Gene_expression:T24 Theme:T11
+T25	Gene_expression 689 696	express
+E5	Gene_expression:T25 Theme:T12
+E6	Gene_expression:T25 Theme:T13
+T26	Positive_regulation 697 703	higher
+E7	Positive_regulation:T26 Theme:T12
+E8	Positive_regulation:T26 Theme:T13
+T27	Pathway 773 783	cell-cycle
+E9	Pathway:T27 
+T28	Gene_expression 870 880	expression
+E10	Gene_expression:T28 Theme:T14
+T29	Gene_expression 1004 1014	expression
+E11	Gene_expression:T29 Theme:T15
+T30	Regulation 1053 1059	effect
+E12	Regulation:T30 Cause:E14 Theme:E16
+E13	Regulation:T30 Cause:E14 Theme:E15
+T31	Gene_expression 1063 1077	overexpression
+E14	Gene_expression:T31 Theme:T16
+T32	Gene_expression 1131 1141	expression
+E15	Gene_expression:T32 Theme:T18
+E16	Gene_expression:T32 Theme:T17
+T33	Gene_expression 1251 1261	expression
+E17	Gene_expression:T33 Theme:T19
+T34	Regulation 1265 1272	altered
+E18	Regulation:T34 Theme:E17
+T35	Positive_regulation 1301 1312	upregulated
+E19	Positive_regulation:T35 Cause:E20 Theme:E17
+T36	Gene_expression 1322 1336	overexpression
+E20	Gene_expression:T36 Theme:T20

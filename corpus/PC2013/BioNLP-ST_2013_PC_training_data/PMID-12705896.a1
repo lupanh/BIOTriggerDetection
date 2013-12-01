@@ -1,0 +1,25 @@
+T1	Cellular_component 0 20	Peroxisomal membrane
+T2	Simple_chemical 21 36	monocarboxylate
+T3	Cellular_component 124 135	peroxisomes
+T4	Simple_chemical 161 183	long-chain fatty acids
+T5	Cellular_component 225 236	peroxisomal
+T6	Cellular_component 297 317	peroxisomal membrane
+T7	Simple_chemical 331 335	NADH
+T8	Simple_chemical 417 424	lactate
+T9	Simple_chemical 429 437	pyruvate
+T10	Cellular_component 478 499	peroxisomal membranes
+T11	Gene_or_gene_product 513 542	monocarboxylate transporter 1
+T12	Gene_or_gene_product 544 549	MCT 1
+T13	Gene_or_gene_product 555 560	MCT 2
+T14	Cellular_component 581 592	peroxisomal
+T15	Gene_or_gene_product 593 614	lactate dehydrogenase
+T16	Gene_or_gene_product 616 620	pLDH
+T17	Cellular_component 629 640	Peroxisomal
+T18	Cellular_component 658 669	Peroxisomal
+T19	Simple_chemical 727 735	pyruvate
+T20	Simple_chemical 813 843	alpha-cyano-4-hydroxycinnamate
+T21	Simple_chemical 845 849	CINN
+T22	Cellular_component 871 882	peroxisomes
+T23	Simple_chemical 893 900	lactate
+T24	Simple_chemical 920 928	pyruvate
+T25	Cellular_component 1066 1077	peroxisomal

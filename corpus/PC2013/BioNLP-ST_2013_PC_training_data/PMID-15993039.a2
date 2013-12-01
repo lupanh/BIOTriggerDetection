@@ -1,0 +1,35 @@
+*	Equiv T8 T9
+T38	Positive_regulation 5 13	mediated
+E1	Positive_regulation:T38 Cause:T1 Theme:E2
+T39	Pathway 31 40	signaling
+E2	Pathway:T39 Participant:T2
+T40	Positive_regulation 416 422	target
+E3	Positive_regulation:T40 Theme:T8 Cause:T7
+T41	Activation 568 577	activated
+E4	Activation:T41 Theme:T11 Cause:T13
+E5	Activation:T41 Theme:T12 Cause:T13
+M1	Negation E5
+T42	Activation 595 605	activation
+E6	Activation:T42 Theme:T11 Cause:T13
+T43	Binding 630 637	binding
+E7	Binding:T43 Theme:T13 Theme2:T11
+T44	Activation 966 975	activates
+E8	Activation:T44 Theme:T22 Cause:E10
+T45	Binding 996 1007	interaction
+T46	Positive_regulation 996 1007	interaction
+E9	Binding:T45 Theme:T21 Theme2:T22
+E10	Positive_regulation:T46 Theme:E9 Cause:T21
+T47	Pathway 1124 1133	signaling
+E11	Pathway:T47 Participant:T25
+T48	Negative_regulation 1247 1251	lack
+E12	Negative_regulation:T48 Theme:E13
+T49	Positive_regulation 1255 1265	importance
+E13	Positive_regulation:T49 Theme:E14
+T50	Pathway 1274 1283	signaling
+E14	Pathway:T50 Participant:T30
+T51	Negative_regulation 1379 1388	depletion
+E15	Negative_regulation:T51 Theme:T33
+T52	Positive_regulation 1430 1437	induced
+E16	Positive_regulation:T52 Cause:T34 Theme:E17
+T53	Gene_expression 1438 1452	overexpression
+E17	Gene_expression:T53 Theme:T35

@@ -1,0 +1,2 @@
+(S1 (S (NP (NN Ethics) (NN Statement))))
+(S1 (S (S (NP (NP (DT All) (NN research)) (VP (VBG involving) (NP (NP (JJ human) (NN blood)) (PRN (-LRB- -LRB-) (NP (JJ Buffy) (NN coat)) (-RRB- -RRB-))))) (VP (VBD were) (VP (VP (VBN ordered) (PP (IN from) (NP (NP (NNP American)) (JJ Red) (NN cross)))) (CC and) (VP (VBP have) (VP (VBN been) (ADJP (JJ approved) (PP (IN by) (NP (NP (DT the) (NNP Ohio) (NN State) (NNP University) (NN review) (NN board)) (PRN (-LRB- -LRB-) (NP (NN ARC) (NN IRB) (NN Protocol) (NN #) (NN 2001-26)) (-RRB- -RRB-)))))))))) (. .)))

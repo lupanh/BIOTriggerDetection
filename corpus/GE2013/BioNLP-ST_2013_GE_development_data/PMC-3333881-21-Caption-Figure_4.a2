@@ -1,0 +1,8 @@
+T28	Binding 4 14	associates
+T29	Positive_regulation 24 34	increasing
+T27	Anaphora 35 38	its
+T30	Binding 52 59	binding
+R1	Coreference Subject:T27 Object:T2
+E1	Binding:T28 Theme:T1 Theme2:T2
+E2	Positive_regulation:T29 Theme:E3 Cause:E1
+E3	Binding:T30 Theme:T2

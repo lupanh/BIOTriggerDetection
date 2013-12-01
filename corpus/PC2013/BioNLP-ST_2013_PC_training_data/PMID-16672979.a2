@@ -1,0 +1,18 @@
+T20	Phosphorylation 5 20	phosphorylation
+E1	Phosphorylation:T20 Theme:T1
+T21	Positive_regulation 39 46	promote
+E2	Positive_regulation:T21 Cause:E1 Theme:E3
+T22	Dissociation 61 65	loss
+E3	Dissociation:T22 Theme:T2
+T23	Dissociation 222 226	Loss
+E4	Dissociation:T23 Theme:T6
+T24	Positive_regulation 331 340	Retention
+E5	Positive_regulation:T24 Theme:T9
+T25	Phosphorylation 470 485	phosphorylation
+E6	Phosphorylation:T25 Theme:T12
+T26	Positive_regulation 514 525	contributes
+E7	Positive_regulation:T26 Theme:E8 Cause:E6
+T27	Dissociation 547 554	removal
+E8	Dissociation:T27 Theme:T13
+T28	Dissociation 728 732	loss
+E9	Dissociation:T28 Theme:T17

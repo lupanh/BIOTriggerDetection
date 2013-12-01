@@ -1,0 +1,35 @@
+T36	Binding 349 353	bind
+E1	Binding:T36 Theme:T6 Theme2:T9
+E2	Binding:T36 Theme:T7 Theme2:T9
+T37	Binding 408 413	binds
+E3	Binding:T37 Theme:T10 Theme2:T9
+T38	Activation 418 427	activates
+E4	Activation:T38 Cause:T10 Theme:T9
+T39	Binding 469 473	bind
+E5	Binding:T39 Theme:T11 Theme2:T14
+E6	Binding:T39 Theme:T12 Theme2:T14
+T40	Binding 529 534	bound
+E7	Binding:T40 Theme:T15 Theme2:T14
+T41	Activation 549 557	activate
+E8	Activation:T41 Cause:T15 Theme:T14
+M1	Negation E8
+T42	Activation 572 582	activation
+E9	Activation:T42 Cause:T16 Theme:T14
+T43	Negative_regulation 594 603	prevented
+E10	Negative_regulation:T43 Theme:E9 Cause:E11
+T44	Binding 611 618	binding
+E11	Binding:T44 Theme:T18 Theme2:T19
+T45	Binding 664 671	recruit
+T46	Positive_regulation 664 671	recruit
+E12	Binding:T45 Theme:T20 Theme2:T22
+E13	Positive_regulation:T46 Theme:E12 Cause:T18
+E14	Positive_regulation:T46 Theme:E12 Cause:T19
+T47	Binding 789 794	bound
+E15	Binding:T47 Theme:T24
+E16	Binding:T47 Theme:T25
+E17	Binding:T47 Theme:T26 Theme2:T27
+T48	Activation 1008 1016	activate
+E18	Activation:T48 Cause:T32 Theme:T33
+E19	Activation:T48 Cause:T32 Theme:T34
+T49	Inactivation 1071 1085	antiactivators
+E20	Inactivation:T49 Theme:T35 Cause:T32

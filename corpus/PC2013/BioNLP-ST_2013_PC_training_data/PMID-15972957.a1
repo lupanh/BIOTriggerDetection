@@ -1,0 +1,38 @@
+T1	Gene_or_gene_product 9 21	beta-catenin
+T2	Gene_or_gene_product 242 246	TSC1
+T3	Gene_or_gene_product 247 251	TSC2
+T4	Gene_or_gene_product 264 268	mTOR
+T5	Gene_or_gene_product 300 312	beta-catenin
+T6	Complex 377 386	TSC1/TSC2
+T7	Gene_or_gene_product 411 415	GSK3
+T8	Gene_or_gene_product 420 424	Axin
+T9	Gene_or_gene_product 438 450	beta-catenin
+T10	Gene_or_gene_product 474 477	Wnt
+T11	Gene_or_gene_product 489 492	TCF
+T12	Gene_or_gene_product 493 496	LEF
+T13	Gene_or_gene_product 541 553	beta-catenin
+T14	Gene_or_gene_product 573 582	cyclin D1
+T15	Gene_or_gene_product 587 598	connexin 43
+T16	Gene_or_gene_product 738 742	TSC2
+T17	Gene_or_gene_product 771 774	Wnt
+T18	Complex 819 828	TSC1/TSC2
+T19	Complex 851 883	beta-catenin degradation complex
+T20	Gene_or_gene_product 901 904	Wnt
+T21	Gene_or_gene_product 938 945	tuberin
+T22	Gene_or_gene_product 949 953	GSK3
+T23	Gene_or_gene_product 958 962	Axin
+T24	Gene_or_gene_product 994 997	Wnt
+T25	Gene_or_gene_product 1010 1017	tuberin
+T26	Gene_or_gene_product 1018 1029	Dishevelled
+T27	Gene_or_gene_product 1057 1061	GSK3
+T28	Gene_or_gene_product 1164 1168	GSK3
+T29	Simple_chemical 1172 1188	lithium chloride
+T30	Gene_or_gene_product 1218 1222	TSC1
+T31	Gene_or_gene_product 1245 1249	GSK3
+T32	Gene_or_gene_product 1275 1279	TSC1
+T33	Gene_or_gene_product 1308 1312	TSC2
+T34	Gene_or_gene_product 1317 1321	TSC1
+T35	Gene_or_gene_product 1376 1388	beta-catenin
+T36	Gene_or_gene_product 1468 1472	GSK3
+T37	Complex 1491 1500	TSC1/TSC2
+T38	Gene_or_gene_product 1517 1521	TSC1

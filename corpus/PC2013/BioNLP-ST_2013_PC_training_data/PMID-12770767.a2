@@ -1,0 +1,20 @@
+*	Equiv T12 T13
+T18	Regulation 4 8	role
+E1	Regulation:T18 Theme:E3 Cause:T1
+E2	Regulation:T18 Theme:E3 Cause:T2
+T19	Dissociation 58 66	trimming
+E3	Dissociation:T19 Product:T3
+T20	Binding 81 87	linked
+E4	Binding:T20 Theme:T4 Theme2:T5
+T21	Dissociation 153 161	trimming
+E5	Dissociation:T21 Product:T6
+T22	Binding 196 202	linked
+E6	Binding:T22 Theme:T7 Theme2:T8
+T23	Dissociation 582 590	trimming
+E7	Dissociation:T23 Product:T11
+T24	Localization 598 608	restricted
+E8	Localization:T24 Theme:T11 AtLoc:T13
+E9	Localization:T24 Theme:T11 AtLoc:T14
+T25	Localization 746 758	distribution
+E10	Localization:T25 AtLoc:T15 Theme:T16
+E11	Localization:T25 AtLoc:T15 Theme:T17

@@ -1,0 +1,71 @@
+*	Equiv T9 T10
+*	Equiv T23 T24
+T33	Gene_expression 170 177	express
+E1	Gene_expression:T33 Theme:T3
+T34	Positive_regulation 178 182	high
+E2	Positive_regulation:T34 Theme:T3
+T35	Negative_regulation 202 206	lack
+E3	Negative_regulation:T35 Theme:T4
+T36	Regulation 297 307	regulation
+E4	Regulation:T36 Theme:T5
+E5	Regulation:T36 Theme:T6
+T37	Regulation 465 474	responses
+E6	Regulation:T37 Cause:T10 Theme:T7
+E7	Regulation:T37 Cause:T10 Theme:T8
+T38	Positive_regulation 646 653	induced
+E8	Positive_regulation:T38 Cause:T11 Theme:E9
+T39	Regulation 674 682	response
+E9	Regulation:T39 Theme:T12
+T40	Regulation 711 721	associated
+E10	Regulation:T40 Theme:E12
+E11	Regulation:T40 Theme:E13
+T41	Positive_regulation 727 753	transcriptional activation
+E12	Positive_regulation:T41 Theme:T13
+T42	Regulation 766 771	signs
+E13	Regulation:T42 Theme:E14
+T43	Pathway 775 784	apoptosis
+E14	Pathway:T43 
+T44	Gene_expression 841 850	expressed
+E15	Gene_expression:T44 Theme:T15
+T45	Positive_regulation 851 855	high
+E16	Positive_regulation:T45 Theme:T15
+T46	Regulation 926 934	response
+E17	Regulation:T46 Theme:T16
+T47	Regulation 980 985	signs
+E18	Regulation:T47 Theme:E19
+T48	Pathway 989 998	apoptosis
+E19	Pathway:T48 
+T49	Negative_regulation 1012 1021	declining
+E20	Negative_regulation:T49 Theme:T17
+T50	Negative_regulation 1143 1146	low
+E21	Negative_regulation:T50 Theme:T19
+T51	Positive_regulation 1150 1154	high
+E22	Positive_regulation:T51 Theme:T19
+T52	Gene_expression 1207 1216	expressed
+E23	Gene_expression:T52 Theme:T21
+T53	Positive_regulation 1217 1221	high
+E24	Positive_regulation:T53 Theme:T21
+T54	Negative_regulation 1394 1397	low
+E25	Negative_regulation:T54 Theme:T25
+T55	Positive_regulation 1509 1516	induced
+E26	Positive_regulation:T55 Cause:T26 Theme:E28
+E27	Positive_regulation:T55 Cause:T26 Theme:E29
+T56	Activation 1517 1528	alterations
+E28	Activation:T56 Theme:T27
+E29	Activation:T56 Theme:T28
+T57	Negative_regulation 1609 1619	attenuated
+E30	Negative_regulation:T57 Theme:E31
+T58	Regulation 1624 1632	response
+E31	Regulation:T58 Theme:T29
+T59	Regulation 1664 1671	related
+E32	Regulation:T59 Theme:E33 Cause:E30
+T60	Positive_regulation 1677 1681	high
+E33	Positive_regulation:T60 Theme:E34
+T61	Gene_expression 1695 1705	expression
+E34	Gene_expression:T61 Theme:T30
+T62	Gene_expression 1807 1816	expressed
+E35	Gene_expression:T62 Theme:T31
+T63	Positive_regulation 1817 1821	high
+E36	Positive_regulation:T63 Theme:T31
+T64	Gene_expression 1858 1868	expression
+E37	Gene_expression:T64 Theme:T32

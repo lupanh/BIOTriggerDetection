@@ -1,0 +1,20 @@
+T1	Simple_chemical 21 27	citral
+T2	Simple_chemical 31 33	NO
+T3	Gene_or_gene_product 63 67	iNOS
+T4	Complex 83 93	NF-kappa B
+T5	Simple_chemical 125 131	Citral
+T6	Simple_chemical 343 349	citral
+T7	Simple_chemical 389 407	lipopolysaccharide
+T8	Simple_chemical 409 412	LPS
+T9	Simple_chemical 442 448	Citral
+T10	Simple_chemical 490 493	LPS
+T11	Simple_chemical 502 514	nitric oxide
+T12	Simple_chemical 516 518	NO
+T13	Simple_chemical 621 627	citral
+T14	Gene_or_gene_product 697 701	iNOS
+T15	Cellular_component 756 763	nuclear
+T16	Complex 781 791	NF-kappa B
+T17	Gene_or_gene_product 803 812	I kappa B
+T18	Simple_chemical 893 899	citral
+T19	Simple_chemical 970 972	NO
+T20	Complex 1011 1021	NF-kappa B

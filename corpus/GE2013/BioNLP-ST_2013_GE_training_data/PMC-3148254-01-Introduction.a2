@@ -1,0 +1,63 @@
+*	Equiv T18 T19
+T44	Gene_expression 304 313	expressed
+T45	Binding 351 361	engagement
+T46	Entity 693 711	cytoplasmic domain
+T47	Binding 819 830	recruitment
+T41	Anaphora 1062 1076	These proteins
+T48	Binding 1116 1123	binding
+T49	Entity 1131 1147	cytoplasmic tail
+T42	Anaphora 1366 1384	the multiple TRAFs
+T43	Anaphora 1385 1389	that
+T50	Binding 1390 1399	associate
+T51	Binding 1706 1715	recruited
+T52	Regulation 1735 1744	dependent
+T53	Positive_regulation 1752 1761	following
+T54	Binding 1762 1772	engagement
+T55	Positive_regulation 1865 1885	functions downstream
+T56	Negative_regulation 2092 2098	ablate
+T57	Gene_expression 2099 2109	expression
+T58	Positive_regulation 2242 2249	induced
+T59	Positive_regulation 2250 2262	upregulation
+T60	Negative_regulation 2314 2323	defective
+T61	Negative_regulation 2332 2341	deficient
+T62	Negative_regulation 2572 2579	absence
+T63	Negative_regulation 2731 2740	deficient
+T64	Binding 2795 2806	association
+T65	Negative_regulation 2878 2887	deficient
+T66	Binding 3039 3049	engagement
+R1	Coreference Subject:T41 Object:T8
+R2	Coreference Subject:T41 Object:T9
+R3	Coreference Subject:T41 Object:T10
+R4	Coreference Subject:T41 Object:T11
+R5	Coreference Subject:T42 Object:T15
+R6	Coreference Subject:T42 Object:T16
+R7	Coreference Subject:T42 Object:T17
+R8	Coreference Subject:T43 Object:T42
+E1	Gene_expression:T44 Theme:T4
+E2	Binding:T45 Theme:T5
+E3	Binding:T47 Theme:T7 Site:T46
+E4	Binding:T48 Theme:T8 Theme2:T13 Site2:T49
+E5	Binding:T48 Theme:T9 Theme2:T13 Site2:T49
+E6	Binding:T48 Theme:T10 Theme2:T13 Site2:T49
+E7	Binding:T48 Theme:T11 Theme2:T13 Site2:T49
+E8	Binding:T50 Theme:T15 Theme2:T14
+E9	Binding:T50 Theme:T16 Theme2:T14
+E10	Binding:T50 Theme:T17 Theme2:T14
+E11	Binding:T51 Theme:T18 Theme2:T20
+E12	Regulation:T52 Theme:E11 Cause:T21
+E13	Positive_regulation:T53 Theme:E12 Cause:E14
+E14	Binding:T54 Theme:T22
+E15	Positive_regulation:T55 Theme:T24 Cause:T23
+E16	Negative_regulation:T56 Theme:E17
+E17	Gene_expression:T57 Theme:T27
+E18	Positive_regulation:T58 Theme:E19 Cause:T29
+E19	Positive_regulation:T59 Theme:T30
+E20	Negative_regulation:T60 Theme:E18
+E21	Negative_regulation:T61 Theme:T31
+E22	Negative_regulation:T62 Theme:T34
+E23	Negative_regulation:T63 Theme:T36
+E24	Binding:T64 Theme:T37
+E25	Negative_regulation:T65 Theme:T38
+E26	Binding:T66 Theme:T40
+M1	Speculation E15
+M2	Negation E24

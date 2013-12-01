@@ -1,0 +1,40 @@
+T1	Cellular_component 20 27	nuclear
+T2	Gene_or_gene_product 28 56	insulin receptor substrate-2
+T3	Complex 61 70	NF-kappaB
+T4	Gene_or_gene_product 74 79	IGF-1
+T5	Gene_or_gene_product 159 164	IRS-1
+T6	Gene_or_gene_product 169 174	IRS-2
+T7	Gene_or_gene_product 357 362	IRS-1
+T8	Gene_or_gene_product 390 395	IRS-2
+T9	Gene_or_gene_product 453 458	IRS-2
+T10	Gene_or_gene_product 543 547	PI3K
+T11	Gene_or_gene_product 548 551	Akt
+T12	Complex 556 565	NF-kappaB
+T13	Gene_or_gene_product 580 585	IGF-1
+T14	Gene_or_gene_product 656 661	IGF-1
+T15	Cellular_component 670 677	nuclear
+T16	Gene_or_gene_product 695 700	IRS-2
+T17	Complex 705 714	NF-kappaB
+T18	Cellular_component 741 748	Nuclear
+T19	Gene_or_gene_product 749 754	IRS-2
+T20	Complex 772 781	NF-kappaB
+T21	Gene_or_gene_product 782 785	p65
+T22	Gene_or_gene_product 790 794	PI3K
+T23	Simple_chemical 803 811	tyrosine
+T24	Gene_or_gene_product 824 829	IRS-2
+T25	Complex 850 859	NF-kappaB
+T26	Cellular_component 882 889	nuclear
+T27	Gene_or_gene_product 890 895	IRS-2
+T28	Gene_or_gene_product 916 925	cyclin D1
+T29	Complex 994 1003	NF-kappaB
+T30	Gene_or_gene_product 1004 1006	65
+T31	Gene_or_gene_product 1034 1039	IRS-2
+T32	Gene_or_gene_product 1047 1056	cyclin D1
+T33	Gene_or_gene_product 1093 1098	IRS-2
+T34	Complex 1157 1166	NF-kappaB
+T35	Gene_or_gene_product 1171 1175	PI3K
+T36	Gene_or_gene_product 1176 1179	Akt
+T37	Gene_or_gene_product 1191 1196	IGF-1
+T38	Cellular_component 1264 1271	nuclear
+T39	Gene_or_gene_product 1272 1277	IRS-2
+T40	Complex 1282 1291	NF-kappaB

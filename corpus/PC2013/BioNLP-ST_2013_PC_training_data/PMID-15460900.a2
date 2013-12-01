@@ -1,0 +1,16 @@
+T10	Pathway 16 23	pathway
+E1	Pathway:T10 Participant:T1 Participant2:T2
+T11	Negative_regulation 146 155	inhibitor
+E2	Negative_regulation:T11 Cause:T3 Theme:T4
+E3	Negative_regulation:T11 Cause:T3 Theme:T5
+T12	Positive_regulation 215 223	initiate
+E4	Positive_regulation:T12 Cause:T6 Theme:E5
+T13	Phosphorylation 228 243	phosphorylation
+E5	Phosphorylation:T13 Theme:T7
+T14	Negative_regulation 331 337	arrest
+E6	Negative_regulation:T14 Theme:E7 Cause:T8
+T15	Pathway 367 377	cell cycle
+E7	Pathway:T15 
+T16	Regulation 781 792	deregulated
+E8	Regulation:T16 Theme:T9
+M1	Negation E8

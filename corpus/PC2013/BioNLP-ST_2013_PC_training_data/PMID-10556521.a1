@@ -1,0 +1,20 @@
+T1	Simple_chemical 53 59	sodium
+T2	Simple_chemical 70 79	vitamin C
+T3	Gene_or_gene_product 93 99	hSVCT1
+T4	Gene_or_gene_product 104 110	hSVCT2
+T5	Simple_chemical 117 123	sodium
+T6	Simple_chemical 134 143	vitamin C
+T7	Gene_or_gene_product 158 164	hSVCT1
+T8	Gene_or_gene_product 169 175	hSVCT2
+T9	Gene_or_gene_product 223 229	hSVCT1
+T10	Gene_or_gene_product 336 342	hSVCT2
+T11	Gene_or_gene_product 530 536	hSVCT1
+T12	Simple_chemical 541 550	ascorbate
+T13	Gene_or_gene_product 575 581	hSVCT2
+T14	Simple_chemical 586 595	ascorbate
+T15	Simple_chemical 636 642	sodium
+T16	Simple_chemical 675 695	dehydroascorbic acid
+T17	Simple_chemical 754 785	phorbol 12-myristate 13-acetate
+T18	Simple_chemical 787 790	PMA
+T19	Simple_chemical 802 811	ascorbate
+T20	Simple_chemical 923 932	vitamin C

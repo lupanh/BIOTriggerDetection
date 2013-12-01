@@ -1,0 +1,35 @@
+T37	Regulation 0 10	Regulation
+E1	Regulation:T37 Theme:T1 Cause:T4
+T38	Phosphorylation 186 200	phosphorylates
+E2	Phosphorylation:T38 Cause:T5 Theme:T8
+T39	Activation 205 214	activates
+E3	Activation:T39 Theme:T8 Cause:E2
+T40	Pathway 368 378	Signalling
+E4	Pathway:T40 Participant:T12
+T41	Phosphorylation 705 720	phosphorylation
+E5	Phosphorylation:T41 Theme:T17
+T42	Activation 882 892	activation
+E6	Activation:T42 Theme:T21
+T43	Positive_regulation 1008 1017	necessary
+E7	Positive_regulation:T43 Theme:E9 Cause:T23
+E8	Positive_regulation:T43 Theme:E9 Cause:T22
+T44	Activation 1047 1057	activation
+E9	Activation:T44 Theme:T24
+T45	Binding 1092 1099	binding
+E10	Binding:T45 Theme:T24
+T46	Positive_regulation 1171 1178	mediate
+E11	Positive_regulation:T46 Theme:E13
+E12	Positive_regulation:T46 Theme:E14
+T47	Activation 1179 1189	activation
+E13	Activation:T47 Theme:T26
+E14	Activation:T47 Theme:T27
+T48	Localization 1413 1420	resides
+E15	Localization:T48 AtLoc:T32 Theme:T31
+T49	Regulation 1553 1562	regulates
+E16	Regulation:T49 Theme:E18 Cause:E19
+E17	Regulation:T49 Theme:E18 Cause:E20
+T50	Activation 1572 1598	transcriptional activation
+E18	Activation:T50 Theme:T34
+T51	Phosphorylation 1611 1626	phosphorylation
+E19	Phosphorylation:T51 Cause:T33 Theme:T34 Site:T35
+E20	Phosphorylation:T51 Cause:T33 Theme:T34 Site:T36

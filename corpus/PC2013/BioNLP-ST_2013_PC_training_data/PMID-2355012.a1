@@ -1,0 +1,27 @@
+T1	Gene_or_gene_product 33 39	eIF-4E
+T2	Complex 74 80	eIF-4F
+T3	Gene_or_gene_product 130 146	protein kinase C
+T4	Gene_or_gene_product 168 184	protein kinase C
+T5	Complex 268 274	eIF-4F
+T6	Gene_or_gene_product 300 306	eIF-4E
+T7	Simple_chemical 372 381	phosphate
+T8	Gene_or_gene_product 389 392	p25
+T9	Complex 446 452	eIF-4F
+T10	Gene_or_gene_product 476 482	eIF-4E
+T11	Simple_chemical 528 537	phosphate
+T12	Complex 649 655	eIF-4F
+T13	Gene_or_gene_product 657 667	eIF-4F p25
+T14	Gene_or_gene_product 710 716	eIF-4E
+T15	Complex 799 805	eIF-4F
+T16	Gene_or_gene_product 810 816	eIF-4E
+T17	Gene_or_gene_product 906 916	eIF-4F p25
+T18	Gene_or_gene_product 949 965	protein kinase C
+T19	Gene_or_gene_product 1119 1125	eIF-4E
+T20	Complex 1146 1152	eIF-4F
+T21	Gene_or_gene_product 1160 1164	p220
+T22	Gene_or_gene_product 1169 1172	p25
+T23	Simple_chemical 1261 1276	Sephacryl S-300
+T24	Gene_or_gene_product 1318 1324	eIF-4E
+T25	Gene_or_gene_product 1441 1444	p25
+T26	Gene_or_gene_product 1533 1536	p25
+T27	Complex 1718 1724	eIF-4F

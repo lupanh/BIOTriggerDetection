@@ -1,0 +1,34 @@
+*	Equiv T12 T13
+T20	Negative_regulation 106 116	inhibiting
+E1	Negative_regulation:T20 Theme:E2 Cause:T1
+T21	Pathway 127 136	signaling
+E2	Pathway:T21 Participant:T2
+T22	Negative_regulation 419 429	inhibitory
+E3	Negative_regulation:T22 Theme:E4
+T23	Regulation 430 437	effects
+E4	Regulation:T23 Theme:T3
+T24	Negative_regulation 609 618	inhibited
+E5	Negative_regulation:T24 Cause:T4 Theme:E9
+E6	Negative_regulation:T24 Cause:T4 Theme:E10
+E7	Negative_regulation:T24 Cause:T4 Theme:E11
+E8	Negative_regulation:T24 Cause:T4 Theme:E12
+T25	Transport 641 654	translocation
+E9	Transport:T25 ToLoc:T7 Theme:T6
+T26	Phosphorylation 659 674	phosphorylation
+E10	Phosphorylation:T26 Theme:T8
+E11	Phosphorylation:T26 Theme:T9
+E12	Phosphorylation:T26 Theme:T10
+T27	Negative_regulation 835 845	suppressed
+E13	Negative_regulation:T27 Cause:T11 Theme:E18
+E14	Negative_regulation:T27 Cause:T11 Theme:E17
+T28	Positive_regulation 871 878	induced
+E15	Positive_regulation:T28 Cause:T12 Theme:E17
+E16	Positive_regulation:T28 Cause:T12 Theme:E18
+T29	Transport 879 888	secretion
+E17	Transport:T29 Theme:T14
+E18	Transport:T29 Theme:T15
+M1	Negation E18
+T30	Positive_regulation 1160 1169	modulated
+E19	Positive_regulation:T30 Theme:E20 Cause:T18
+T31	Pathway 1180 1197	signaling pathway
+E20	Pathway:T31 Participant:T19

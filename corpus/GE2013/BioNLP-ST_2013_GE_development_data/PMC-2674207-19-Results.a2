@@ -1,0 +1,90 @@
+T20	Negative_regulation 4 14	Inhibitory
+T21	Entity 51 58	Nuclear
+T22	Localization 59 71	Localization
+T23	Regulation 172 181	dependent
+T24	Negative_regulation 182 190	decrease
+T25	Binding 205 216	interaction
+T26	Phosphorylation 225 232	phospho
+T27	Negative_regulation 338 347	inhibited
+T28	Negative_regulation 416 426	attenuated
+T29	Negative_regulation 539 549	suppresses
+T30	Gene_expression 567 577	expression
+T31	Negative_regulation 582 592	attenuated
+T32	Binding 597 608	interaction
+T33	Negative_regulation 876 883	reduced
+T34	Binding 906 917	interaction
+T35	Regulation 936 945	dependent
+T36	Regulation 959 967	produced
+T37	Negative_regulation 975 983	decrease
+T38	Binding 1009 1020	association
+T39	Binding 1311 1322	association
+T40	Negative_regulation 1413 1423	attenuated
+T41	Binding 1424 1435	interaction
+T42	Regulation 1669 1675	affect
+T43	Localization 1685 1697	localization
+T44	Positive_regulation 1798 1807	increased
+T45	Entity 1811 1818	nuclear
+T46	Localization 1819 1832	translocation
+T47	Positive_regulation 2258 2265	induced
+T48	Localization 2278 2282	loss
+T49	Entity 2286 2293	nuclear
+T50	Entity 2425 2436	cytoplasmic
+T51	Localization 2444 2450	levels
+T52	Positive_regulation 2456 2464	enhanced
+T53	Regulation 2489 2498	dependent
+T54	Negative_regulation 2819 2826	reduces
+T55	Entity 2827 2834	nuclear
+T56	Localization 2835 2847	localization
+T57	Negative_regulation 2877 2887	inhibiting
+T58	Binding 2912 2923	association
+T59	Positive_regulation 3054 3062	mediated
+T60	Phosphorylation 3070 3085	phosphorylation
+T61	Gene_expression 3096 3105	induction
+T62	Regulation 3157 3164	effects
+T63	Negative_regulation 3188 3199	suppression
+T64	Entity 3210 3217	nuclear
+T65	Localization 3218 3224	import
+E1	Negative_regulation:T20 Theme:E2
+E2	Localization:T22 Theme:T1 ToLoc:T21
+E3	Regulation:T23 Theme:E4
+E4	Negative_regulation:T24 Theme:E5
+E5	Binding:T25 Theme:T2
+E6	Phosphorylation:T26 Theme:T2
+E7	Negative_regulation:T27 Theme:E5
+E8	Negative_regulation:T28 Theme:E5
+E9	Negative_regulation:T29 Theme:E10
+E10	Gene_expression:T30 Theme:T3
+E11	Negative_regulation:T29 Theme:E12
+E12	Gene_expression:T30 Theme:T4
+E13	Negative_regulation:T31 Theme:E14
+E14	Binding:T32 Theme:T5
+E15	Negative_regulation:T33 Theme:E16
+E16	Binding:T34 Theme:T6
+E17	Regulation:T35 Theme:E15
+E18	Regulation:T36 Theme:E19
+E19	Negative_regulation:T37 Theme:E20
+E20	Binding:T38 Theme:T7
+E21	Binding:T39 Theme:T8
+E22	Negative_regulation:T40 Theme:E23
+E23	Binding:T41 Theme:T9
+E24	Regulation:T42 Theme:E25
+E25	Localization:T43 Theme:T10
+E26	Positive_regulation:T44 Theme:E27
+E27	Localization:T46 Theme:T11 ToLoc:T45
+E28	Positive_regulation:T47 Theme:E29
+E29	Localization:T48 Theme:T13 ToLoc:T49
+E30	Localization:T51 Theme:T14 ToLoc:T50
+E31	Positive_regulation:T52 Theme:E30
+E32	Regulation:T53 Theme:E31
+E33	Negative_regulation:T54 Theme:E34 Cause:E35
+E34	Localization:T56 Theme:T15 ToLoc:T55
+E35	Negative_regulation:T57 Theme:E36
+E36	Binding:T58 Theme:T16
+E37	Positive_regulation:T59 Theme:E38
+E38	Phosphorylation:T60 Theme:T17
+E39	Gene_expression:T61 Theme:T18
+E40	Regulation:T62 Theme:E41
+E41	Negative_regulation:T63 Theme:E42
+E42	Localization:T65 Theme:T19 ToLoc:T64
+M1	Speculation E24
+M2	Negation E29

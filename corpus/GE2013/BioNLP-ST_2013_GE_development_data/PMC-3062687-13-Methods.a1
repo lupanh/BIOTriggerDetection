@@ -1,0 +1,11 @@
+T1	Protein 23 42	Flag-IKKbeta (SSEE)
+T2	Protein 44 63	Flag-IKKbeta (SSAA)
+T3	Protein 69 91	HA-IkappaBalpha (SSAA)
+T4	Protein 197 212	HA-IkappaBalpha
+T5	Protein 217 236	IKKbeta (K44A)-Flag
+T6	Protein 285 294	Flag-RPS3
+T7	Protein 296 304	GST-RPS3
+T8	Protein 306 313	HA-RPS3
+T9	Protein 315 320	VN-HA
+T10	Protein 322 330	NleH1-HA
+T11	Protein 392 396	RPS3

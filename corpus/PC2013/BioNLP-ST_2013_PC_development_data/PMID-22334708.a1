@@ -1,0 +1,51 @@
+T1	Gene_or_gene_product 47 52	DPF3a
+T2	Gene_or_gene_product 57 60	-3b
+T3	Complex 110 117	SWI/SNF
+T4	Complex 150 168	NF-kappaB RelA/p50
+T5	Gene_or_gene_product 213 217	DPF2
+T6	Gene_or_gene_product 219 226	requiem
+T7	Gene_or_gene_product 227 230	REQ
+T8	Complex 274 281	SWI/SNF
+T9	Complex 294 312	RelB/p52 NF-kappaB
+T10	Complex 354 363	NF-kappaB
+T11	Complex 475 482	SWI/SNF
+T12	Complex 493 502	NF-kappaB
+T13	Gene_or_gene_product 567 571	DPF1
+T14	Gene_or_gene_product 573 577	DPF2
+T15	Gene_or_gene_product 579 584	DPF3a
+T16	Gene_or_gene_product 586 591	DPF3b
+T17	Gene_or_gene_product 597 602	PHF10
+T18	Complex 669 678	NF-kappaB
+T19	Gene_or_gene_product 813 818	DPF3a
+T20	Gene_or_gene_product 823 828	DPF3b
+T21	Gene_or_gene_product 858 862	DPF3
+T22	Complex 923 941	RelA/p50 NF-kappaB
+T23	Gene_or_gene_product 981 990	TNF-alpha
+T24	Complex 1065 1072	SWI/SNF
+T25	Gene_or_gene_product 1082 1087	DPF3a
+T26	Gene_or_gene_product 1092 1097	DPF3b
+T27	Gene_or_gene_product 1147 1151	RelA
+T28	Gene_or_gene_product 1153 1156	p50
+T29	Complex 1186 1193	SWI/SNF
+T30	Complex 1248 1256	RelA/p50
+T31	Complex 1265 1272	SWI/SNF
+T32	Cellular_component 1290 1307	nuclear fractions
+T33	Gene_or_gene_product 1330 1339	TNF-alpha
+T34	Gene_or_gene_product 1395 1400	DPF3a
+T35	Gene_or_gene_product 1401 1402	b
+T36	Complex 1411 1418	SWI/SNF
+T37	Gene_or_gene_product 1461 1464	LTR
+T38	Complex 1490 1498	RelA/p50
+T39	Gene_or_gene_product 1517 1526	TNF-alpha
+T40	Gene_or_gene_product 1643 1648	DPF3a
+T41	Gene_or_gene_product 1649 1650	b
+T42	Complex 1659 1666	SWI/SNF
+T43	Gene_or_gene_product 1690 1694	RelA
+T44	Gene_or_gene_product 1713 1717	IL-6
+T45	Gene_or_gene_product 1733 1742	TNF-alpha
+T46	Complex 1811 1819	RelA/p50
+T47	Complex 1827 1834	SWI/SNF
+T48	Gene_or_gene_product 1844 1849	DPF3a
+T49	Gene_or_gene_product 1850 1851	b
+T50	Complex 1883 1892	NF-kappaB
+T51	Cellular_component 1938 1947	chromatin

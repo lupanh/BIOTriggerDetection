@@ -1,0 +1,16 @@
+T1	Gene_or_gene_product 57 61	Sho1
+T2	Gene_or_gene_product 256 294	mitogen-activated protein (MAP) kinase
+T3	Gene_or_gene_product 295 299	Hog1
+T4	Gene_or_gene_product 516 520	Hog1
+T5	Gene_or_gene_product 668 672	Hog1
+T6	Cellular_component 724 732	membrane
+T7	Gene_or_gene_product 750 754	Sho1
+T8	Gene_or_gene_product 776 780	Hog1
+T9	Simple_chemical 816 823	Ser-166
+T10	Gene_or_gene_product 835 839	Sho1
+T11	Gene_or_gene_product 900 904	Hog1
+T12	Gene_or_gene_product 1000 1011	Sho1(S166E)
+T13	Gene_or_gene_product 1041 1045	Sho1
+T14	Gene_or_gene_product 1083 1087	Hog1
+T15	Simple_chemical 1123 1127	salt
+T16	Simple_chemical 1131 1139	sorbitol

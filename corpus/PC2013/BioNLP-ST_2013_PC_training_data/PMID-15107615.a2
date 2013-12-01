@@ -1,0 +1,24 @@
+T11	Inactivation 0 12	Inactivating
+E1	Inactivation:T11 Theme:T1
+T12	Activation 67 77	activation
+E2	Activation:T12 Theme:T2
+T13	Inactivation 82 94	inactivation
+E3	Inactivation:T13 Theme:T2
+T14	Activation 183 192	activates
+E4	Activation:T14 Theme:T4 Cause:T3
+T15	Inactivation 298 306	inactive
+E5	Inactivation:T15 Theme:T5
+T16	Activation 330 339	activated
+E6	Activation:T16 Theme:T5
+T17	Regulation 392 401	involving
+E7	Regulation:T17 Theme:T6
+T18	Activation 429 439	activation
+E8	Activation:T18 Theme:T7
+T19	Inactivation 547 559	inactivation
+E9	Inactivation:T19 Theme:T8
+T20	Regulation 589 600	play a role
+E10	Regulation:T20 Theme:E11 Cause:E9
+T21	Inactivation 629 641	inactivation
+E11	Inactivation:T21 Theme:T9
+T22	Regulation 684 694	regulation
+E12	Regulation:T22 Theme:T10

@@ -1,0 +1,4 @@
+(S1 (S (NP (NN Immunohistochemistry))))
+(S1 (S (S (NP (JJ Gnotobiotic) (NNS piglets)) (VP (VBD were) (VP (VBN infected) (PP (IN with) (NP (NP (ADJP (FW E.) (FW coli)) (NN O157:H7) (NNS strains)) (PP (IN as) (NP (VBN described) (NNS previously9)))))))) (. .)))
+(S1 (S (S (NP (JJ Spiral) (NN colon) (NNS specimens)) (VP (VBD were) (VP (VP (VBN collected) (PP (IN at) (NP (NN necropsy)))) (CC and) (ADJP (JJ embedded) (PP (IN in) (NP (NN paraffin))))))) (. .)))
+(S1 (S (S (NP (NP (NP (JJ Paraffin) (NN sectioning)) (CC and) (NP (JJ immunohistochemical) (NN staining))) (VP (VBG using) (NP (NN phospho-RPS3) (NN antibody)))) (VP (VBD were) (VP (VBN performed) (PP (IN by) (NP (NNP Histoserv) (NNP Inc)))))) (. .)))

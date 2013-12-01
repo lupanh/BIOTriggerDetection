@@ -1,0 +1,19 @@
+T18	Negative_regulation 0 9	Silencing
+T19	Gene_expression 278 292	protein levels
+T20	Negative_regulation 360 367	reduced
+T21	Gene_expression 495 508	cotransfected
+T22	Negative_regulation 703 712	reduction
+T17	Anaphora 716 726	luciferase
+T23	Negative_regulation 776 781	siRNA
+R1	Coreference Subject:T17 Object:T11
+E1	Negative_regulation:T18 Theme:T1
+E2	Negative_regulation:T18 Theme:T2
+E3	Gene_expression:T19 Theme:T9
+E4	Gene_expression:T19 Theme:T10
+E5	Negative_regulation:T20 Theme:E3
+E6	Negative_regulation:T20 Theme:E4
+E7	Gene_expression:T21 Theme:T11
+E8	Negative_regulation:T22 Theme:T11 Cause:E9
+E9	Negative_regulation:T23 Theme:T12
+E10	Negative_regulation:T22 Theme:T11 Cause:E11
+E11	Negative_regulation:T23 Theme:T13

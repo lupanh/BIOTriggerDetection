@@ -1,0 +1,65 @@
+1	Online	_	NN	_	_	3	NMOD	_	_
+2	supplemental	_	JJ	_	_	3	NMOD	_	_
+3	material	_	NN	_	_	0	ROOT	_	_
+4	.	_	.	_	_	3	P	_	_
+		
+1	Fig.	_	NNP	_	_	2	NMOD	_	_
+2	S1	_	NN	_	_	3	VMOD	_	_
+3	shows	_	VBZ	_	_	0	ROOT	_	_
+4	the	_	DT	_	_	5	NMOD	_	_
+5	characterization	_	NN	_	_	3	VMOD	_	_
+6	of	_	IN	_	_	5	NMOD	_	_
+7	peripheral	_	JJ	_	_	10	NMOD	_	_
+8	CD8+	_	JJ	_	_	10	NMOD	_	_
+9	T	_	NN	_	_	10	NMOD	_	_
+10	cells	_	NNS	_	_	6	PMOD	_	_
+11	from	_	IN	_	_	10	NMOD	_	_
+12	Runx3-/-	_	JJ	_	_	13	NMOD	_	_
+13	mice	_	NNS	_	_	11	PMOD	_	_
+14	.	_	.	_	_	3	P	_	_
+		
+1	Fig	_	NN	_	_	0	ROOT	_	_
+2	.	_	.	_	_	1	P	_	_
+		
+1	S2	_	NN	_	_	2	VMOD	_	_
+2	shows	_	VBZ	_	_	0	ROOT	_	_
+3	effector	_	NN	_	_	5	NMOD	_	_
+4	protein	_	NN	_	_	5	NMOD	_	_
+5	expression	_	NN	_	_	2	VMOD	_	_
+6	by	_	IN	_	_	5	NMOD	_	_
+7	Runx3	_	NN	_	_	11	NMOD	_	_
+8	WT	_	JJ	_	_	11	NMOD	_	_
+9	and	_	CC	_	_	8	COORD	_	_
+10	KO	_	JJ	_	_	9	CONJ	_	_
+11	cells	_	NNS	_	_	6	PMOD	_	_
+12	at	_	IN	_	_	11	NMOD	_	_
+13	day	_	NN	_	_	12	PMOD	_	_
+14	4	_	CD	_	_	13	NMOD	_	_
+15	of	_	IN	_	_	13	NMOD	_	_
+16	in	_	FW	_	_	17	AMOD	_	_
+17	vitro	_	FW	_	_	18	NMOD	_	_
+18	culture	_	NN	_	_	15	PMOD	_	_
+19	.	_	.	_	_	2	P	_	_
+		
+1	Primer	_	NN	_	_	2	NMOD	_	_
+2	sequences	_	NNS	_	_	7	VMOD	_	_
+3	used	_	VBN	_	_	2	APPO	_	_
+4	for	_	IN	_	_	3	VMOD	_	_
+5	ChIP	_	NN	_	_	6	NMOD	_	_
+6	experiments	_	NNS	_	_	4	PMOD	_	_
+7	are	_	VBP	_	_	0	ROOT	_	_
+8	shown	_	VBN	_	_	7	VC	_	_
+9	in	_	IN	_	_	8	VMOD	_	_
+10	Table	_	NN	_	_	11	NMOD	_	_
+11	S1	_	NN	_	_	9	PMOD	_	_
+12	.	_	.	_	_	7	P	_	_
+		
+1	Online	_	JJ	_	_	3	NMOD	_	_
+2	supplemental	_	JJ	_	_	3	NMOD	_	_
+3	material	_	NN	_	_	4	VMOD	_	_
+4	is	_	VBZ	_	_	0	ROOT	_	_
+5	available	_	JJ	_	_	4	VMOD	_	_
+6	at	_	IN	_	_	5	AMOD	_	_
+7	http://www.jem.org/cgi/content/full/jem.20081242/DC1	_	NN	_	_	6	PMOD	_	_
+8	.	_	.	_	_	4	P	_	_
+		

@@ -1,0 +1,24 @@
+T1	Gene_or_gene_product 0 4	mTOR
+T2	Cellular_component 56 65	ribosomal
+T3	Gene_or_gene_product 191 220	mammalian target of rapamycin
+T4	Gene_or_gene_product 222 226	mTOR
+T5	Gene_or_gene_product 640 654	retinoblastoma
+T6	Gene_or_gene_product 656 658	Rb
+T7	Cellular_component 732 741	ribosomal
+T8	Gene_or_gene_product 767 790	upstream binding factor
+T9	Gene_or_gene_product 792 795	UBF
+T10	Gene_or_gene_product 844 853	cyclin D1
+T11	Gene_or_gene_product 935 944	cyclin D1
+T12	Gene_or_gene_product 955 986	cyclin-dependent kinase (CDK)-4
+T13	Gene_or_gene_product 1003 1005	Rb
+T14	Simple_chemical 1076 1085	rapamycin
+T15	Gene_or_gene_product 1134 1143	cyclin D1
+T16	Gene_or_gene_product 1164 1169	CDK-4
+T17	Gene_or_gene_product 1180 1182	Rb
+T18	Gene_or_gene_product 1220 1223	UBF
+T19	Gene_or_gene_product 1282 1286	mTOR
+T20	Gene_or_gene_product 1353 1357	mTOR
+T21	Gene_or_gene_product 1381 1390	cyclin D1
+T22	Gene_or_gene_product 1401 1406	CDK-4
+T23	Gene_or_gene_product 1437 1439	Rb
+T24	Cellular_component 1444 1453	ribosomal

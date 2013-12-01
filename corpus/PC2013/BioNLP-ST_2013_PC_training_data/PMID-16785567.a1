@@ -1,0 +1,90 @@
+T1	Simple_chemical 0 13	Peptidoglycan
+T2	Gene_or_gene_product 22 26	IL-6
+T3	Gene_or_gene_product 78 94	cyclooxygenase-2
+T4	Gene_or_gene_product 96 100	PGE2
+T5	Gene_or_gene_product 101 115	PGE4 receptors
+T6	Complex 117 133	protein kinase A
+T7	Complex 135 151	I kappa B kinase
+T8	Complex 157 167	NF-kappa B
+T9	Gene_or_gene_product 235 239	IL-6
+T10	Simple_chemical 261 274	peptidoglycan
+T11	Simple_chemical 276 279	PGN
+T12	Cellular_component 284 293	cell wall
+T13	Simple_chemical 385 388	PGN
+T14	Gene_or_gene_product 443 447	IL-6
+T15	Simple_chemical 449 455	PGE(2)
+T16	Simple_chemical 461 465	cAMP
+T17	Simple_chemical 478 481	PGN
+T18	Gene_or_gene_product 491 495	IL-6
+T19	Gene_or_gene_product 539 553	cyclooxygenase
+T20	Gene_or_gene_product 555 558	COX
+T21	Simple_chemical 571 583	indomethacin
+T22	Gene_or_gene_product 598 603	COX-2
+T23	Simple_chemical 615 620	NS398
+T24	Simple_chemical 625 631	PGE(2)
+T25	Simple_chemical 633 636	EP2
+T26	Simple_chemical 650 656	AH6809
+T27	Simple_chemical 661 667	PGE(4)
+T28	Simple_chemical 669 672	EP4
+T29	Simple_chemical 686 693	AH23848
+T30	Complex 702 718	protein kinase A
+T31	Complex 720 723	PKA
+T32	Simple_chemical 736 742	KT5720
+T33	Gene_or_gene_product 771 782	NO synthase
+T34	Simple_chemical 794 828	N(G)-nitro-l-arginine methyl ester
+T35	Simple_chemical 844 850	PGE(2)
+T36	Simple_chemical 855 858	EP2
+T37	Simple_chemical 868 877	butaprost
+T38	Simple_chemical 883 886	EP2
+T39	Simple_chemical 887 893	PGE(3)
+T40	Simple_chemical 895 898	EP3
+T41	Simple_chemical 900 903	EP4
+T42	Simple_chemical 913 924	misoprostol
+T43	Simple_chemical 931 942	misoprostol
+T44	Simple_chemical 962 968	AH6809
+T45	Gene_or_gene_product 981 985	IL-6
+T46	Simple_chemical 1009 1012	EP1
+T47	Simple_chemical 1013 1016	EP3
+T48	Simple_chemical 1026 1037	sulprostone
+T49	Simple_chemical 1048 1051	PGN
+T50	Gene_or_gene_product 1089 1113	IkappaB kinase alphabeta
+T51	Gene_or_gene_product 1115 1123	IKKdbeta
+T52	Gene_or_gene_product 1129 1132	p65
+T53	Simple_chemical 1152 1160	Ser(276)
+T54	Simple_chemical 1198 1203	NS398
+T55	Simple_chemical 1208 1214	KT5720
+T56	Simple_chemical 1221 1227	PGE(2)
+T57	Simple_chemical 1232 1244	8-bromo-cAMP
+T58	Gene_or_gene_product 1257 1282	IKKdbeta kinase alphabeta
+T59	Simple_chemical 1300 1303	PGN
+T60	Complex 1346 1355	NF-kappaB
+T61	Complex 1406 1415	NF-kappaB
+T62	Simple_chemical 1523 1526	PGN
+T63	Complex 1547 1553	kappaB
+T64	Gene_or_gene_product 1554 1564	luciferase
+T65	Simple_chemical 1591 1596	NS398
+T66	Simple_chemical 1598 1604	AH6809
+T67	Simple_chemical 1606 1613	AH23848
+T68	Simple_chemical 1615 1621	KT5720
+T69	Gene_or_gene_product 1625 1641	protein kinase C
+T70	Simple_chemical 1653 1662	Ro31-8220
+T71	Gene_or_gene_product 1671 1679	p38 MAPK
+T72	Simple_chemical 1691 1699	SB203580
+T73	Simple_chemical 1729 1732	PGN
+T74	Gene_or_gene_product 1741 1745	IL-6
+T75	Gene_or_gene_product 1766 1771	COX-2
+T76	Simple_chemical 1782 1788	PGE(2)
+T77	Gene_or_gene_product 1808 1811	EP2
+T78	Gene_or_gene_product 1816 1829	EP4 receptors
+T79	Simple_chemical 1831 1835	cAMP
+T80	Complex 1869 1872	PKA
+T81	Gene_or_gene_product 1874 1890	protein kinase C
+T82	Gene_or_gene_product 1892 1900	p38 MAPK
+T83	Gene_or_gene_product 1902 1910	IKKdbeta
+T84	Gene_or_gene_product 1912 1928	kinase alphabeta
+T85	Gene_or_gene_product 1930 1933	p65
+T86	Complex 1955 1964	NF-kappaB
+T87	Simple_chemical 1975 1978	PGN
+T88	Simple_chemical 1987 1989	NO
+T89	Simple_chemical 2042 2045	PGN
+T90	Gene_or_gene_product 2054 2058	IL-6

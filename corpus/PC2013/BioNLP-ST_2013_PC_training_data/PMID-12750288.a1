@@ -1,0 +1,49 @@
+T1	Gene_or_gene_product 0 3	p53
+T2	Gene_or_gene_product 34 38	hdm2
+T3	Gene_or_gene_product 127 131	hdm2
+T4	Gene_or_gene_product 146 169	estrogen receptor alpha
+T5	Gene_or_gene_product 247 250	p53
+T6	Gene_or_gene_product 255 259	hdm2
+T7	Gene_or_gene_product 403 407	hdm2
+T8	Gene_or_gene_product 434 438	mdm2
+T9	Gene_or_gene_product 466 469	p53
+T10	Gene_or_gene_product 508 512	mdm2
+T11	Gene_or_gene_product 550 553	p53
+T12	Gene_or_gene_product 588 591	p53
+T13	Gene_or_gene_product 655 659	hdm2
+T14	Gene_or_gene_product 711 715	hdm2
+T15	Gene_or_gene_product 835 839	hdm2
+T16	Gene_or_gene_product 876 899	estrogen receptor alpha
+T17	Gene_or_gene_product 901 908	ERalpha
+T18	Gene_or_gene_product 961 965	hdm2
+T19	Gene_or_gene_product 1061 1065	hdm2
+T20	Gene_or_gene_product 1077 1084	ERalpha
+T21	Gene_or_gene_product 1175 1178	p53
+T22	Gene_or_gene_product 1204 1208	hdm2
+T23	Gene_or_gene_product 1241 1248	ERalpha
+T24	Gene_or_gene_product 1280 1284	Hdm2
+T25	Gene_or_gene_product 1338 1341	p53
+T26	Gene_or_gene_product 1387 1391	mdm2
+T27	Gene_or_gene_product 1415 1422	ERalpha
+T28	Gene_or_gene_product 1427 1430	ras
+T29	Gene_or_gene_product 1431 1434	raf
+T30	Gene_or_gene_product 1435 1498	mitogen-activated protein/extracellular signal-regulated kinase
+T31	Gene_or_gene_product 1500 1503	MEK
+T32	Gene_or_gene_product 1505 1537	mitogen-activated protein kinase
+T33	Gene_or_gene_product 1539 1543	MAPK
+T34	Gene_or_gene_product 1569 1573	hdm2
+T35	Gene_or_gene_product 1693 1696	AP1
+T36	Gene_or_gene_product 1701 1704	ETS
+T37	Gene_or_gene_product 1735 1738	AP1
+T38	Gene_or_gene_product 1739 1742	ETS
+T39	Gene_or_gene_product 1810 1814	hdm2
+T40	Gene_or_gene_product 1830 1837	ERalpha
+T41	Gene_or_gene_product 1928 1931	AP1
+T42	Gene_or_gene_product 1932 1935	ETS
+T43	Gene_or_gene_product 1963 1967	ETS2
+T44	Gene_or_gene_product 1997 2000	AP1
+T45	Gene_or_gene_product 2001 2004	ETS
+T46	Gene_or_gene_product 2023 2027	hdm2
+T47	Gene_or_gene_product 2083 2087	hdm2
+T48	Gene_or_gene_product 2174 2178	hdm2
+T49	Gene_or_gene_product 2218 2225	ERalpha

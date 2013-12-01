@@ -1,0 +1,9 @@
+T9	Binding 65 76	associating
+T10	Binding 504 511	binding
+E1	Binding:T9 Theme:T1 Theme2:T2
+E2	Binding:T10 Theme:T4
+E3	Binding:T10 Theme:T5
+E4	Binding:T10 Theme:T6
+M1	Speculation E2
+M2	Speculation E3
+M3	Speculation E4

@@ -1,0 +1,4 @@
+(S1 (S (NP (NN Cell) (NNS lines))))
+(S1 (S (S (NP (DT The) (NN mouse) (NN B) (NN cell) (NN line) (CD A20.2J)) (VP (VBZ has) (VP (VBN been) (ADVP (RB previously)) (VP (VBN described) (PRN (-LRB- -LSB-) (NP (CD 26) (-RRB- -RSB-)) (, ,) (-LRB- -LSB-) (NP (CD 27)) (-RRB- -RSB-)))))) (. .)))
+(S1 (S (S (NP (NNS Cells)) (VP (VBD were) (VP (VBN grown) (PP (IN in) (NP (NP (NN RPMI) (CD 1640)) (, ,) (NP (ADJP (CD 10) (NN %)) (NN FCS)) (, ,) (NP (ADJP (CD 10) (NN microM)) (NN 2-ME)) (, ,) (NP (ADJP (CD 2) (NN mM)) (NN L-glutamine)) (, ,) (CC and) (NP (NNS antibiotics))))))) (. .)))
+(S1 (S (S (NP (NP (NP (NN HI-5) (NN insect) (NNS cells)) (PRN (-LRB- -LRB-) (NP (NNP Invitrogen)) (-RRB- -RRB-))) (VP (VBG expressing) (NP (NN CD154)))) (VP (VBP have) (VP (VBN been) (VP (VBN described) (PRN (-LRB- -LSB-) (NP (CD 28)) (-RRB- -RSB-)))))) (. .)))

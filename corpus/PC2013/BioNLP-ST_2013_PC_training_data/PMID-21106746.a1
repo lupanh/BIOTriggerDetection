@@ -1,0 +1,28 @@
+T1	Complex 4 23	activator protein 1
+T2	Complex 171 182	NF-{kappa}B
+T3	Gene_or_gene_product 281 286	c-Fos
+T4	Gene_or_gene_product 291 296	c-Jun
+T5	Complex 320 339	activator protein 1
+T6	Complex 341 345	AP-1
+T7	Gene_or_gene_product 450 467	major IE promoter
+T8	Gene_or_gene_product 469 473	MIEP
+T9	Complex 619 623	AP-1
+T10	Complex 714 718	AP-1
+T11	Complex 801 805	AP-1
+T12	Complex 818 829	c-Fos/c-Jun
+T13	Complex 844 848	AP-1
+T14	Complex 870 881	c-Fos/c-Jun
+T15	Complex 973 977	AP-1
+T16	Simple_chemical 1013 1049	12-O-tetradecanoylphorbol-13-acetate
+T17	Simple_chemical 1051 1054	TPA
+T18	Gene_or_gene_product 1065 1069	MIEP
+T19	Complex 1202 1206	AP-1
+T20	Gene_or_gene_product 1232 1236	MIEP
+T21	Gene_or_gene_product 1348 1351	IE1
+T22	Gene_or_gene_product 1449 1453	MIEP
+T23	Gene_or_gene_product 1455 1463	hMCMV-ES
+T24	Complex 1478 1482	AP-1
+T25	Complex 1743 1747	AP-1
+T26	Complex 1752 1761	NF-kappaB
+T27	Gene_or_gene_product 1811 1819	hMCMV-ES
+T28	Gene_or_gene_product 1981 1985	MIEP

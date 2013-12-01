@@ -1,0 +1,19 @@
+T18	Conversion 27 36	hydrolyse
+T19	Positive_regulation 27 36	hydrolyse
+E1	Conversion:T18 Theme:T2 Product:T3
+E2	Positive_regulation:T19 Cause:T1 Theme:E1
+T20	Transport 96 101	cross
+E3	Transport:T20 Theme:T3 FromLoc:T4
+T21	Conversion 191 201	conversion
+E4	Conversion:T21 Theme:T5 Product:T6
+T22	Localization 206 216	take place
+E5	Localization:T22 AtLoc:T7 Theme:T5
+E6	Localization:T22 AtLoc:T7 Theme:T6
+T23	Localization 300 309	localised
+E7	Localization:T23 Theme:T8 AtLoc:T9
+T24	Transport 604 609	cross
+T25	Positive_regulation 604 609	cross
+E8	Transport:T24 Theme:T12 FromLoc:T13
+E9	Positive_regulation:T25 Theme:E8 Cause:T14
+T26	Negative_regulation 786 795	inhibited
+E10	Negative_regulation:T26 Theme:E8 Cause:T15

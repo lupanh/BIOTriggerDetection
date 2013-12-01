@@ -1,0 +1,67 @@
+T26	Phosphorylation 0 15	Phosphorylation
+E1	Phosphorylation:T26 Theme:T1 Cause:T2
+E2	Phosphorylation:T26 Theme:T1 Cause:T3
+T27	Regulation 59 68	regulates
+E3	Regulation:T27 Theme:E5 Cause:E1
+E4	Regulation:T27 Theme:E5 Cause:E2
+T28	Negative_regulation 75 89	autoinhibition
+E5	Negative_regulation:T28 Theme:T4 Cause:T4
+T29	Positive_regulation 140 150	stimulates
+E6	Positive_regulation:T29 Theme:T5 Cause:E7
+T30	Positive_regulation 199 207	involves
+E7	Positive_regulation:T30 Theme:E8
+T31	Binding 208 215	binding
+E8	Binding:T31 Theme:T6
+T32	Activation 219 225	active
+E9	Activation:T32 Theme:T6
+T33	Negative_regulation 401 408	inhibit
+E10	Negative_regulation:T33 Theme:T7 Cause:T7
+T34	Gene_expression 475 485	expression
+E11	Gene_expression:T34 Theme:T8
+T35	Negative_regulation 521 527	blocks
+E12	Negative_regulation:T35 Theme:E13 Cause:E11
+T36	Activation 568 578	activation
+E13	Activation:T36 Theme:T9 Cause:T10
+T37	Phosphorylation 647 662	phosphorylation
+E14	Phosphorylation:T37 Theme:T11 Site:T12 Cause:T13
+E15	Phosphorylation:T37 Cause:T16 Theme:T11 Site:T14
+E16	Phosphorylation:T37 Cause:T16 Theme:T11 Site:T15
+T38	Negative_regulation 727 735	relieves
+E17	Negative_regulation:T38 Theme:E20 Cause:E15
+E18	Negative_regulation:T38 Theme:E20 Cause:E14
+E19	Negative_regulation:T38 Theme:E20 Cause:E16
+T39	Negative_regulation 736 750	autoinhibition
+E20	Negative_regulation:T39 Theme:T11
+T40	Negative_regulation 791 799	decrease
+E21	Negative_regulation:T40 Theme:E24 Cause:E17
+E22	Negative_regulation:T40 Theme:E24 Cause:E18
+E23	Negative_regulation:T40 Theme:E24 Cause:E19
+T41	Binding 807 814	binding
+E24	Binding:T41 Theme:T17
+T42	Phosphorylation 904 919	phosphorylation
+E25	Phosphorylation:T42 Theme:T11 Site:T18
+E26	Phosphorylation:T42 Theme:T11 Site:T19
+T43	Positive_regulation 1012 1020	required
+E27	Positive_regulation:T43 Theme:E29 Cause:E25
+E28	Positive_regulation:T43 Theme:E29 Cause:E26
+T44	Activation 1031 1041	activation
+E29	Activation:T44 Theme:T20
+T45	Regulation 1058 1066	regulate
+E30	Regulation:T45 Theme:E32 Cause:E25
+E31	Regulation:T45 Theme:E32 Cause:E26
+M1	Negation E30
+M2	Speculation E30
+M3	Negation E31
+M4	Speculation E31
+T46	Negative_regulation 1067 1081	autoinhibition
+E32	Negative_regulation:T46 Theme:T11 Cause:T11
+T47	Binding 1195 1206	interaction
+E33	Binding:T47 Theme:T22 Theme2:T21
+T48	Regulation 1242 1251	regulated
+E34	Regulation:T48 Cause:E37 Theme:E33
+E35	Regulation:T48 Cause:E38 Theme:E33
+E36	Regulation:T48 Cause:E39 Theme:E33
+T49	Phosphorylation 1255 1270	phosphorylation
+E37	Phosphorylation:T49 Theme:T22 Site:T23
+E38	Phosphorylation:T49 Theme:T22 Site:T24
+E39	Phosphorylation:T49 Theme:T22 Site:T25

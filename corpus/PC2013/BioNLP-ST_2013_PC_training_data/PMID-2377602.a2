@@ -1,0 +1,14 @@
+*	Equiv T5 T4
+T19	Gene_expression 42 52	expression
+E1	Gene_expression:T19 Theme:T1
+T20	Pathway 124 131	pathway
+E2	Pathway:T20 Participant:T2
+T21	Conversion 152 162	metabolism
+E3	Conversion:T21 Theme:T2 Product:T4
+T22	Positive_regulation 182 190	proceeds
+E4	Positive_regulation:T22 Theme:E2 Cause:T3
+T23	Conversion 878 888	synthesize
+E5	Conversion:T23 Product:T9 Theme:T10
+T24	Conversion 945 954	synthesis
+E6	Conversion:T24 Product:T11
+M1	Negation E6

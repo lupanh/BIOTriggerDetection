@@ -1,0 +1,9 @@
+*	Equiv T10 T11
+T30	Regulation 0 10	Regulation
+E1	Regulation:T30 Theme:T1 Cause:T3
+T31	Regulation 146 156	regulation
+E2	Regulation:T31 Theme:T4
+T32	Phosphorylation 777 796	hyperphosphorylated
+E3	Phosphorylation:T32 Theme:T19
+T33	Phosphorylation 1113 1133	hyperphosphorylation
+E4	Phosphorylation:T33 Theme:T21

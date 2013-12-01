@@ -1,0 +1,27 @@
+*	Equiv T1 T2
+*	Equiv T12 T13
+T28	Binding 216 226	engagement
+T29	Binding 487 497	engagement
+T30	Positive_regulation 948 956	mediates
+T31	Binding 957 968	recruitment
+T32	Entity 1014 1032	cytoplasmic domain
+T33	Negative_regulation 1221 1230	deficient
+T34	Positive_regulation 1263 1270	induced
+T35	Positive_regulation 1271 1283	upregulation
+T36	Negative_regulation 1361 1370	defective
+T37	Negative_regulation 1379 1388	deficient
+T38	Negative_regulation 1582 1591	deficient
+T39	Positive_regulation 1658 1669	Restoration
+T40	Gene_expression 1678 1688	expression
+E1	Binding:T28 Theme:T5 Theme2:T7
+E2	Binding:T29 Theme:T9
+E3	Positive_regulation:T30 Theme:E4 Cause:T11
+E4	Binding:T31 Theme:T12 Theme2:T14 Site2:T32
+E5	Negative_regulation:T33 Theme:T19
+E6	Positive_regulation:T34 Theme:E7 Cause:T20
+E7	Positive_regulation:T35 Theme:T21
+E8	Negative_regulation:T36 Theme:E6
+E9	Negative_regulation:T37 Theme:T22
+E10	Negative_regulation:T38 Theme:T24
+E11	Positive_regulation:T39 Theme:E12
+E12	Gene_expression:T40 Theme:T25

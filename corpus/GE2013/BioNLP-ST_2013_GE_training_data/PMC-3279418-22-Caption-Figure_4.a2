@@ -1,0 +1,9 @@
+T5	Transcription 305 315	expression
+E1	Transcription:T5 Theme:T1
+E2	Transcription:T5 Theme:T2
+E3	Transcription:T5 Theme:T3
+E4	Transcription:T5 Theme:T4
+M1	Speculation E1
+M2	Speculation E2
+M3	Speculation E3
+M4	Speculation E4

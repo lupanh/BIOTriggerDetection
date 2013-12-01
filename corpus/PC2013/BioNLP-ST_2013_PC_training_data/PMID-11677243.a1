@@ -1,0 +1,27 @@
+T1	Gene_or_gene_product 32 68	core 1 beta1,3-galactosyltransferase
+T2	Simple_chemical 82 97	core 1 O-glycan
+T3	Simple_chemical 108 129	Galbeta1--> 3GalNAc-R
+T4	Simple_chemical 176 184	O-glycan
+T5	Cellular_component 206 218	cell surface
+T6	Simple_chemical 247 253	Core 1
+T7	Simple_chemical 288 291	Gal
+T8	Simple_chemical 297 304	UDP-Gal
+T9	Simple_chemical 308 322	GalNAcalpha1-R
+T10	Gene_or_gene_product 326 360	core 1 beta3-galactosyltransferase
+T11	Gene_or_gene_product 362 380	core 1 beta3-Gal-T
+T12	Gene_or_gene_product 422 440	core 1 beta3-Gal-T
+T13	Gene_or_gene_product 549 567	core 1 beta3-Gal-T
+T14	Gene_or_gene_product 642 660	core 1 beta3-Gal-T
+T15	Gene_or_gene_product 787 805	core 1 beta3-Gal-T
+T16	Cellular_component 840 853	transmembrane
+T17	Gene_or_gene_product 984 1002	core 1 beta3-Gal-T
+T18	Simple_chemical 1029 1038	galactose
+T19	Simple_chemical 1044 1051	UDP-Gal
+T20	Simple_chemical 1055 1076	GalNAcalpha1-O-phenyl
+T21	Simple_chemical 1112 1115	Thr
+T22	Simple_chemical 1123 1129	GalNAc
+T23	Simple_chemical 1168 1174	core 1
+T24	Gene_or_gene_product 1242 1260	core 1 beta3-Gal-T
+T25	Gene_or_gene_product 1519 1537	core 1 beta3-Gal-T
+T26	Gene_or_gene_product 1623 1651	beta3-galactosyltransferases
+T27	Gene_or_gene_product 1715 1742	beta3-galactosyltransferase

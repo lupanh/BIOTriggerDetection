@@ -1,0 +1,65 @@
+*	Equiv T5 T6
+*	Equiv T8 T7
+*	Equiv T11 T12
+*	Equiv T13 T14
+*	Equiv T16 T17
+*	Equiv T20 T21
+*	Equiv T24 T25
+T28	Negative_regulation 231 238	lacking
+T29	Entity 243 253	FKH domain
+T27	Anaphora 408 413	which
+T30	Localization 414 423	localizes
+T31	Entity 450 457	nucleus
+T32	Binding 466 470	bind
+T33	Localization 557 565	localize
+T34	Entity 573 580	nucleus
+T35	Binding 597 605	interact
+T36	Entity 719 726	nuclear
+T37	Localization 727 739	localization
+T38	Binding 874 885	interaction
+T39	Binding 999 1003	bind
+T40	Negative_regulation 1038 1045	prevent
+T41	Localization 1046 1058	localization
+T42	Entity 1066 1073	nucleus
+T43	Positive_regulation 1074 1083	following
+T44	Positive_regulation 1108 1122	Overexpression
+T45	Positive_regulation 1303 1312	expressed
+T46	Positive_regulation 1333 1342	following
+T47	Gene_expression 1775 1785	expression
+T48	Negative_regulation 1832 1837	block
+T49	Gene_expression 1887 1897	expression
+T50	Entity 2051 2058	nuclear
+T51	Localization 2059 2071	localization
+T52	Localization 2196 2208	localization
+R1	Coreference Subject:T27 Object:T5
+E1	Negative_regulation:T28 Theme:T2 Site:T29
+E2	Localization:T30 Theme:T5 ToLoc:T31
+E3	Binding:T32 Theme:T5
+E4	Localization:T33 Theme:T6 ToLoc:T34
+E5	Binding:T35 Theme:T6
+E6	Localization:T37 Theme:T8 ToLoc:T36
+E7	Binding:T38 Theme:T9
+E8	Binding:T39 Theme:T10
+E9	Negative_regulation:T40 Theme:E10 Cause:E8
+E10	Localization:T41 Theme:T10 ToLoc:T42
+E11	Positive_regulation:T43 Theme:E10
+E12	Positive_regulation:T44 Theme:T11
+E13	Positive_regulation:T44 Theme:T12
+E14	Positive_regulation:T45 Theme:T13
+E15	Positive_regulation:T45 Theme:T14
+E16	Positive_regulation:T46 Theme:E14
+E17	Positive_regulation:T46 Theme:E15
+E18	Gene_expression:T47 Theme:T19
+E19	Negative_regulation:T48 Theme:E20 Cause:T20
+E20	Gene_expression:T49 Theme:T22
+E21	Negative_regulation:T48 Theme:E20 Cause:T21
+E22	Localization:T51 Theme:T24 ToLoc:T50
+E23	Localization:T52 Theme:T25
+M1	Negation E4
+M2	Negation E5
+M3	Speculation E8
+M4	Speculation E9
+M5	Speculation E18
+M6	Negation E19
+M7	Negation E21
+M8	Speculation E23

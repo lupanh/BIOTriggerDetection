@@ -1,0 +1,19 @@
+*	Equiv T6 T7
+T31	Binding 82 91	interacts
+E1	Binding:T31 Theme:T4 Theme2:T1
+T32	Transport 307 318	recruitment
+E2	Transport:T32 Theme:T6
+T33	Positive_regulation 394 402	involved
+E3	Positive_regulation:T33 Theme:E4 Cause:T6
+T34	Negative_regulation 410 420	repression
+E4	Negative_regulation:T34 Theme:T8
+T35	Pathway 483 493	cell cycle
+E5	Pathway:T35 
+T36	Binding 544 551	binding
+E6	Binding:T36 Theme:T10 Theme2:T12
+T37	Binding 694 720	form a stable core complex
+E7	Binding:T37 Theme:T15 Theme2:T14 Theme3:T13
+T38	Binding 823 834	interacting
+E8	Binding:T38 Theme:T18
+T39	Binding 1258 1267	interacts
+E9	Binding:T39 Theme:T30 Theme2:T29

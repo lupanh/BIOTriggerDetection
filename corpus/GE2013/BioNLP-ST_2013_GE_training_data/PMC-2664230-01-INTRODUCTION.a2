@@ -1,0 +1,32 @@
+*	Equiv T1 T2
+T9	Regulation 446 455	regulator
+T10	Gene_expression 499 509	production
+T11	Gene_expression 634 643	synthesis
+T12	Negative_regulation 651 661	attenuated
+T13	Positive_regulation 856 860	lead
+T14	Negative_regulation 868 882	downregulation
+T15	Gene_expression 896 906	production
+T16	Negative_regulation 1942 1949	inhibit
+T17	Regulation 1960 1969	dependent
+T18	Transcription 1992 2005	transcription
+T19	Negative_regulation 2120 2134	down-regulates
+T20	Gene_expression 2145 2155	production
+T21	Regulation 2819 2823	role
+T22	Positive_regulation 2838 2845	induced
+T23	Gene_expression 2856 2866	production
+E1	Regulation:T9 Theme:E2
+E2	Gene_expression:T10 Theme:T1
+E3	Gene_expression:T11 Theme:T4
+E4	Negative_regulation:T12 Theme:E3
+E5	Positive_regulation:T13 Theme:E6
+E6	Negative_regulation:T14 Theme:E7
+E7	Gene_expression:T15 Theme:T5
+E8	Negative_regulation:T16 Theme:E9
+E9	Regulation:T17 Theme:E10
+E10	Transcription:T18 Theme:T6
+E11	Negative_regulation:T19 Theme:E12
+E12	Gene_expression:T20 Theme:T7
+E13	Regulation:T21 Theme:E14
+E14	Positive_regulation:T22 Theme:E15
+E15	Gene_expression:T23 Theme:T8
+M1	Speculation E13

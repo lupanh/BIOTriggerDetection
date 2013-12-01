@@ -1,0 +1,41 @@
+*	Equiv T3 T4
+*	Equiv T7 T8
+*	Equiv T11 T12
+T36	Translation 98 105	encoded
+T37	Positive_regulation 98 105	encoded
+E1	Translation:T36 Theme:T3
+E2	Positive_regulation:T37 Theme:E1 Cause:T5
+E3	Positive_regulation:T37 Theme:E1 Cause:T6
+T38	Gene_expression 144 153	expressed
+E4	Gene_expression:T38 Theme:T3
+T39	Gene_expression 487 497	expression
+E5	Gene_expression:T39 Theme:T16
+T40	Positive_regulation 505 511	caused
+E6	Positive_regulation:T40 Theme:E7 Cause:E5
+T41	Positive_regulation 546 557	enhancement
+E7	Positive_regulation:T41 Theme:E8
+T42	Transport 564 577	translocation
+E8	Transport:T42 Theme:T18 ToLoc:T19
+T43	Gene_expression 660 670	expression
+E9	Gene_expression:T43 Theme:T22
+T44	Positive_regulation 752 761	Increased
+E10	Positive_regulation:T44 Theme:E12
+T45	Positive_regulation 767 775	mediated
+E11	Positive_regulation:T45 Cause:T26 Theme:T27
+T46	Transport 779 792	translocation
+E12	Transport:T46 Theme:T27
+T47	Positive_regulation 819 828	dependent
+E13	Positive_regulation:T47 Theme:E12 Cause:T28
+E14	Positive_regulation:T47 Theme:E12 Cause:T29
+T48	Negative_regulation 834 843	abrogated
+E15	Negative_regulation:T48 Theme:E12 Cause:T31
+E16	Negative_regulation:T48 Theme:E12 Cause:T33
+T49	Negative_regulation 858 867	inhibitor
+E17	Negative_regulation:T49 Theme:T30 Cause:T31
+T50	Regulation 890 899	modulator
+E18	Regulation:T50 Theme:T32 Cause:T33
+T51	Regulation 919 930	insensitive
+E19	Regulation:T51 Theme:E12 Cause:T34
+E20	Regulation:T51 Theme:E12 Cause:T35
+M1	Negation E19
+M2	Negation E20

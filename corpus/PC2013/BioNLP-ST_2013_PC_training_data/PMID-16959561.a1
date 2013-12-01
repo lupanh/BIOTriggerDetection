@@ -1,0 +1,13 @@
+T1	Gene_or_gene_product 14 17	Wnt
+T2	Complex 33 39	mTORC1
+T3	Complex 52 58	TSC1/2
+T4	Gene_or_gene_product 137 141	mTOR
+T5	Gene_or_gene_product 210 214	GSK3
+T6	Gene_or_gene_product 219 223	AMPK
+T7	Gene_or_gene_product 255 259	TSC2
+T8	Gene_or_gene_product 271 275	mTOR
+T9	Gene_or_gene_product 323 327	TSC2
+T10	Gene_or_gene_product 331 335	GSK3
+T11	Gene_or_gene_product 362 365	Wnt
+T12	Gene_or_gene_product 414 418	mTOR
+T13	Gene_or_gene_product 489 492	Wnt

@@ -1,0 +1,4 @@
+(S1 (S (NP (NN TNF) (NN Activity) (NN Bioassay))))
+(S1 (S (S (NP (NP (NNS Monocytes)) (CC or) (NP (NN THP-1) (NNS cells))) (VP (VBD were) (VP (VBN cultured) (PP (PP (IN with)) (CC or) (PP (IN without) (NP (NP (JJ different) (NNS concentrations)) (PP (IN of) (NP (NP (NNS CGNs)) (CC or) (NP (NP (NN LPS)) (PRN (-LRB- -LRB-) (NP (NP (FW Salmonella) (FW typhosa)) (, ,) (NP (NN Sigma))) (-RRB- -RRB-)))))))) (PP (IN for) (NP (NP (CD 24) (NN h)) (CC or) (NP (DT the) (VBN indicated) (NN time))))))) (. .)))
+(S1 (S (S (NP (NP (ADJP (RB Biologically) (JJ active)) (NN TNF-alpha/beta)) (PP (IN in) (NP (NN tissue) (NN culture) (NN supernatant)))) (VP (VBD was) (VP (VBN measured) (S (VP (VBG using) (NP (DT the) (NN WEHI) (NN 164) (NN clone) (NN 13-cell) (NN killing) (NN assay) (-LRB- -LSB-) (CD 29) (-RRB- -RSB-))))))) (. .)))
+(S1 (S (S (NP (NN TNF) (NNS concentrations)) (VP (VBP are) (VP (VBN expressed) (PP (IN as) (NP (NN pg/ml)))))) (. .)))

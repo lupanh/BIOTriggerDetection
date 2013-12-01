@@ -1,0 +1,29 @@
+T1	Gene_or_gene_product 16 19	PP1
+T2	Gene_or_gene_product 35 39	Msn2
+T3	Simple_chemical 78 85	glucose
+T4	Simple_chemical 109 116	glucose
+T5	Gene_or_gene_product 268 272	Msn2
+T6	Cellular_component 280 287	nuclear
+T7	Gene_or_gene_product 350 379	cAMP-dependent protein kinase
+T8	Gene_or_gene_product 381 384	PKA
+T9	Gene_or_gene_product 387 391	Msn2
+T10	Simple_chemical 413 420	glucose
+T11	Cellular_component 520 527	nuclear
+T12	Gene_or_gene_product 573 594	protein phosphatase 1
+T13	Gene_or_gene_product 596 599	PP1
+T14	Gene_or_gene_product 629 632	PKA
+T15	Gene_or_gene_product 666 670	Msn2
+T16	Cellular_component 671 678	nuclear
+T17	Simple_chemical 731 738	glucose
+T18	Gene_or_gene_product 808 811	PKA
+T19	Gene_or_gene_product 832 836	Snf1
+T20	Gene_or_gene_product 873 877	Msn2
+T21	Simple_chemical 901 905	S582
+T22	Gene_or_gene_product 927 931	Msn2
+T23	Gene_or_gene_product 959 963	snf1
+T24	Gene_or_gene_product 1073 1077	Reg1
+T25	Gene_or_gene_product 1096 1099	PP1
+T26	Gene_or_gene_product 1122 1126	Msn2
+T27	Gene_or_gene_product 1155 1159	Snf1
+T28	Gene_or_gene_product 1218 1221	PP1
+T29	Simple_chemical 1333 1340	glucose

@@ -1,0 +1,25 @@
+T1	Gene_or_gene_product 0 4	AML1
+T2	Gene_or_gene_product 5 10	RUNX1
+T3	Cellular_component 26 37	cytoplasmic
+T4	Complex 52 61	NF-kappaB
+T5	Gene_or_gene_product 220 224	AML1
+T6	Gene_or_gene_product 225 230	RUNX1
+T7	Cellular_component 270 281	chromosomal
+T8	Gene_or_gene_product 338 342	AML1
+T9	Gene_or_gene_product 475 479	AML1
+T10	Gene_or_gene_product 563 567	AML1
+T11	Gene_or_gene_product 643 647	AML1
+T12	Complex 657 666	NF-kappaB
+T13	Complex 702 716	IkappaB kinase
+T14	Cellular_component 732 741	cytoplasm
+T15	Gene_or_gene_product 755 759	AML1
+T16	Complex 820 829	NF-kappaB
+T17	Gene_or_gene_product 862 866	AML1
+T18	Complex 914 923	NF-kappaB
+T19	Complex 962 971	NF-kappaB
+T20	Gene_or_gene_product 1013 1017	AML1
+T21	Gene_or_gene_product 1118 1122	AML1
+T22	Cellular_component 1128 1139	cytoplasmic
+T23	Complex 1154 1163	NF-kappaB
+T24	Complex 1192 1201	NF-kappaB
+T25	Gene_or_gene_product 1289 1293	AML1

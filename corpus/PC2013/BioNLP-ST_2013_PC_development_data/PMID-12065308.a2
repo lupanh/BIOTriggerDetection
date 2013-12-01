@@ -1,0 +1,86 @@
+*	Equiv T4 T5
+*	Equiv T19 T20
+*	Equiv T30 T31
+T39	Regulation 0 4	Role
+E1	Regulation:T39 Cause:T1 Theme:E5
+E2	Regulation:T39 Cause:T1 Theme:E6
+T40	Positive_regulation 48 55	induced
+E3	Positive_regulation:T40 Cause:T2 Theme:E5
+E4	Positive_regulation:T40 Cause:T2 Theme:E6
+T41	Activation 66 76	activation
+E5	Activation:T41 Theme:T3
+T42	Pathway 81 90	apoptosis
+E6	Pathway:T42 Participant:T3
+T43	Negative_regulation 142 150	prevents
+E7	Negative_regulation:T43 Theme:E8 Cause:T4
+T44	Pathway 179 188	apoptosis
+E8	Pathway:T44 
+T45	Inactivation 242 253	inactivated
+E9	Inactivation:T45 Theme:T6
+T46	Pathway 311 320	apoptosis
+E10	Pathway:T46 
+T47	Activation 369 379	activation
+E11	Activation:T47 Theme:T7
+T48	Regulation 503 507	role
+E12	Regulation:T48 Cause:T8 Theme:E14
+T49	Positive_regulation 530 537	induced
+E13	Positive_regulation:T49 Cause:T9 Theme:E14
+T50	Activation 548 558	activation
+E14	Activation:T50 Theme:T10
+T51	Negative_regulation 619 628	inhibitor
+E15	Negative_regulation:T51 Theme:T12 Cause:T11
+T52	Regulation 639 649	sensitized
+E16	Regulation:T52 Cause:T11 Theme:E18
+T53	Positive_regulation 691 699	mediated
+E17	Positive_regulation:T53 Cause:T13 Theme:E18
+T54	Pathway 700 709	apoptosis
+E18	Pathway:T54 
+T55	Positive_regulation 774 783	increased
+E19	Positive_regulation:T55 Theme:T14
+E20	Positive_regulation:T55 Theme:T15
+T56	Regulation 885 891	effect
+E21	Regulation:T56 Cause:T17 Theme:E26
+E22	Regulation:T56 Cause:T17 Theme:T19
+E23	Regulation:T56 Cause:T17 Theme:E27
+E24	Regulation:T56 Cause:T17 Theme:E28
+E25	Regulation:T56 Cause:T17 Theme:E29
+M1	Negation E21
+M2	Negation E22
+M3	Negation E23
+M4	Negation E24
+M5	Negation E25
+T57	Degradation 909 920	degradation
+E26	Degradation:T57 Theme:T18
+T58	Binding 963 970	binding
+E27	Binding:T58 Theme:T21
+T59	Transport 997 1003	import
+E28	Transport:T59 Theme:T22 ToLoc:T23
+T60	Transport 1008 1014	export
+E29	Transport:T60 Theme:T22 FromLoc:T23
+T61	Negative_regulation 1020 1029	decreased
+E30	Negative_regulation:T61 Theme:E31 Cause:T17
+T62	Transcription 1030 1043	transcription
+E31	Transcription:T62 Theme:T25
+T63	Positive_regulation 1061 1070	dependent
+E32	Positive_regulation:T63 Cause:T24 Theme:T25
+T64	Phosphorylation 1290 1304	phosphorylated
+E33	Phosphorylation:T64 Cause:T29 Theme:T30
+E34	Phosphorylation:T64 Cause:T29 Theme:T33
+E35	Phosphorylation:T64 Cause:T29 Theme:T34
+E36	Phosphorylation:T64 Cause:T29 Theme:T32
+M6	Negation E34
+M7	Negation E35
+T65	Negative_regulation 1418 1426	protects
+E37	Negative_regulation:T65 Theme:E41 Cause:T35
+E38	Negative_regulation:T65 Theme:E41 Cause:E42
+E39	Negative_regulation:T65 Theme:E41 Cause:E43
+T66	Positive_regulation 1454 1461	induced
+E40	Positive_regulation:T66 Cause:T36 Theme:E41
+T67	Pathway 1462 1471	apoptosis
+E41	Pathway:T67 
+T68	Phosphorylation 1484 1499	phosphorylation
+E42	Phosphorylation:T68 Theme:T37
+T69	Positive_regulation 1504 1516	upregulation
+E43	Positive_regulation:T69 Theme:E44
+T70	Positive_regulation 1530 1545	transactivation
+E44	Positive_regulation:T70 Theme:T38

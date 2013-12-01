@@ -1,0 +1,28 @@
+T18	Regulation 137 147	associated
+E1	Regulation:T18 Theme:T2
+T19	Gene_expression 313 320	express
+E2	Gene_expression:T19 Theme:T3
+T20	Gene_expression 495 505	expression
+E3	Gene_expression:T20 Theme:T4
+T21	Positive_regulation 682 689	induces
+E4	Positive_regulation:T21 Cause:T5 Theme:E6
+E5	Positive_regulation:T21 Cause:T5 Theme:E7
+T22	Gene_expression 694 704	expression
+E6	Gene_expression:T22 Theme:T6
+E7	Gene_expression:T22 Theme:T7
+T23	Gene_expression 930 937	express
+T24	Positive_regulation 930 937	express
+E8	Gene_expression:T23 Theme:T10
+E9	Positive_regulation:T24 Theme:E8 Cause:E10
+T25	Binding 977 984	forming
+E10	Binding:T25 Theme:T11
+T26	Positive_regulation 1021 1028	induces
+E11	Positive_regulation:T26 Cause:T10 Theme:E15
+E12	Positive_regulation:T26 Cause:T10 Theme:E16
+E13	Positive_regulation:T26 Cause:T10 Theme:E17
+E14	Positive_regulation:T26 Cause:T10 Theme:E18
+T27	Gene_expression 1033 1043	expression
+E15	Gene_expression:T27 Theme:T12
+E16	Gene_expression:T27 Theme:T13
+E17	Gene_expression:T27 Theme:T14
+E18	Gene_expression:T27 Theme:T15

@@ -1,0 +1,38 @@
+T25	Phosphorylation 17 31	phosphorylated
+E1	Phosphorylation:T25 Theme:T1
+T26	Gene_expression 321 330	expressed
+E2	Gene_expression:T26 Theme:T3
+T27	Phosphorylation 493 509	unphosphorylated
+E3	Phosphorylation:T27 Theme:T7
+M1	Negation E3
+T28	Activation 511 519	inactive
+E4	Activation:T28 Theme:T7
+M2	Negation E4
+T29	Phosphorylation 548 564	unphosphorylated
+E5	Phosphorylation:T29 Theme:T8
+M3	Negation E5
+T30	Phosphorylation 601 615	phosphorylated
+E6	Phosphorylation:T30 Theme:T10
+T31	Phosphorylation 700 714	phosphorylated
+E7	Phosphorylation:T31 Theme:T11
+T32	Binding 727 734	complex
+E8	Binding:T32 Theme:T11 Theme2:T12
+T33	Activation 826 835	activated
+E9	Activation:T33 Theme:T13
+T34	Binding 879 884	bound
+E10	Binding:T34 Theme:T13 Theme2:T12
+T35	Conversion 952 957	bonds
+E11	Conversion:T35 Theme:T15
+T36	Conversion 997 1009	interactions
+E12	Conversion:T36 Theme:T15
+T37	Activation 1151 1160	activated
+E13	Activation:T37 Theme:T18
+T38	Activation 1246 1255	activated
+E14	Activation:T38 Theme:T20
+T39	Activation 1561 1570	activated
+E15	Activation:T39 Theme:T23
+T40	Activation 1596 1605	activated
+E16	Activation:T40 Theme:T24
+T41	Binding 1618 1629	form dimers
+E17	Binding:T41 Theme:T24
+M4	Negation E17

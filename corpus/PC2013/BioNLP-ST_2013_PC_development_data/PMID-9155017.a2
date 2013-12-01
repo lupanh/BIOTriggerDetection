@@ -1,0 +1,60 @@
+*	Equiv T9 T10
+*	Equiv T26 T27
+*	Equiv T38 T39
+T45	Activation 34 42	activate
+E1	Activation:T45 Cause:T1 Theme:T4
+E2	Activation:T45 Cause:T1 Theme:T5
+T46	Binding 128 132	bind
+E3	Binding:T46 Theme:T6
+T47	Binding 330 334	bind
+E4	Binding:T47 Theme:T10 Theme:T14
+E5	Binding:T47 Theme:T10 Theme:T13
+E6	Binding:T47 Theme:T11 Theme:T14
+E7	Binding:T47 Theme:T11 Theme:T13
+T48	Binding 427 432	binds
+E8	Binding:T48 Theme:T15 Theme:T17
+E9	Binding:T48 Theme:T16 Theme:T17
+M1	Negation E9
+T49	Activation 456 465	activated
+E10	Activation:T49 Theme:T17
+T50	Binding 484 493	complexes
+E11	Binding:T50 Theme:T18 Theme2:T19
+T51	Inactivation 513 521	inactive
+E12	Inactivation:T51 Theme:T19
+T52	Activation 527 533	active
+E13	Activation:T52 Theme:T19
+T53	Dissociation 569 579	dissociate
+E14	Dissociation:T53 Product:T20 Product2:T21
+T54	Phosphorylation 619 632	phosphorylate
+E15	Phosphorylation:T54 Theme:T24 Cause:T23
+E16	Phosphorylation:T54 Theme:T25 Cause:T23
+E17	Phosphorylation:T54 Theme:T25 Cause:T22
+E18	Phosphorylation:T54 Theme:T24 Cause:T22
+T55	Positive_regulation 654 664	stimulates
+E19	Positive_regulation:T55 Theme:E23 Cause:E15
+E20	Positive_regulation:T55 Theme:E24 Cause:E16
+E21	Positive_regulation:T55 Theme:E24 Cause:E17
+E22	Positive_regulation:T55 Theme:E23 Cause:E18
+T56	Phosphorylation 680 695	kinase activity
+E23	Phosphorylation:T56 Theme:T26 Cause:T24
+E24	Phosphorylation:T56 Theme:T26 Cause:T25
+T57	Phosphorylation 820 835	phosphorylation
+E25	Phosphorylation:T57 Theme:T28
+T58	Positive_regulation 839 848	increased
+E26	Positive_regulation:T58 Cause:T29 Theme:E25
+T59	Positive_regulation 870 879	dependent
+E27	Positive_regulation:T59 Cause:T30 Theme:E26
+T60	Phosphorylation 911 925	phosphorylates
+E28	Phosphorylation:T60 Theme:T32 Site:T33 Cause:T31
+T61	Activation 1045 1054	activated
+E29	Activation:T61 Theme:T34 Cause:T35
+E30	Activation:T61 Theme:T34 Cause:T36
+T62	Regulation 1170 1178	mediated
+E31	Regulation:T62 Theme:E32
+T63	Activation 1184 1194	activation
+E32	Activation:T63 Theme:T37
+T64	Negative_regulation 1198 1205	blocked
+E33	Negative_regulation:T64 Theme:E32
+T65	Phosphorylation 1472 1485	phosphorylate
+E34	Phosphorylation:T65 Theme:T44 Cause:T43
+M2	Speculation E34

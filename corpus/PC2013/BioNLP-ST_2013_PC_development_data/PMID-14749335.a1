@@ -1,0 +1,38 @@
+T1	Gene_or_gene_product 8 12	vav1
+T2	Gene_or_gene_product 18 21	src
+T3	Simple_chemical 30 38	tyrosine
+T4	Gene_or_gene_product 127 147	toll-like receptor 9
+T5	Gene_or_gene_product 172 177	MyD88
+T6	Simple_chemical 203 221	lipopolysaccharide
+T7	Gene_or_gene_product 255 273	toll-like receptor
+T8	Gene_or_gene_product 283 288	TLR-4
+T9	Simple_chemical 328 346	lipopolysaccharide
+T10	Simple_chemical 363 371	tyrosine
+T11	Simple_chemical 519 527	tyrosine
+T12	Gene_or_gene_product 547 551	vav1
+T13	Gene_or_gene_product 553 556	PP1
+T14	Gene_or_gene_product 583 586	src
+T15	Simple_chemical 595 603	tyrosine
+T16	Simple_chemical 647 655	tyrosine
+T17	Gene_or_gene_product 675 679	vav1
+T18	Gene_or_gene_product 733 754	tumor necrosis factor
+T19	Gene_or_gene_product 779 800	nitric-oxide synthase
+T20	Gene_or_gene_product 923 927	vav1
+T21	Gene_or_gene_product 950 954	vavC
+T22	Simple_chemical 1009 1017	tyrosine
+T23	Gene_or_gene_product 1027 1035	vavYF174
+T24	Gene_or_gene_product 1110 1146	guanidine nucleotide exchange factor
+T25	Gene_or_gene_product 1148 1151	GEF
+T26	Gene_or_gene_product 1165 1169	vav1
+T27	Gene_or_gene_product 1174 1177	rac
+T28	Gene_or_gene_product 1194 1202	vavGEFmt
+T29	Gene_or_gene_product 1261 1282	tumor necrosis factor
+T30	Gene_or_gene_product 1307 1328	nitric-oxide synthase
+T31	Complex 1437 1446	NF-kappaB
+T32	Gene_or_gene_product 1465 1497	mitogen-activated protein kinase
+T33	Gene_or_gene_product 1546 1549	PP1
+T34	Gene_or_gene_product 1584 1588	vavC
+T35	Simple_chemical 1643 1651	tyrosine
+T36	Gene_or_gene_product 1671 1675	vav1
+T37	Gene_or_gene_product 1681 1684	src
+T38	Simple_chemical 1693 1701	tyrosine

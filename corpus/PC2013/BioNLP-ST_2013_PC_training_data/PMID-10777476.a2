@@ -1,0 +1,30 @@
+*	Equiv T3 T4
+T24	Binding 607 616	formation
+E1	Binding:T24 Theme:T11 Theme2:T10
+T25	Dissociation 749 761	dissociation
+E2	Dissociation:T25 Product:T12
+T26	Conversion 883 891	oxidized
+E3	Conversion:T26 Theme:T13
+T27	Conversion 981 990	reduction
+E4	Conversion:T27 Theme:T15 Product:T16
+T28	Conversion 1149 1158	reduction
+E5	Conversion:T28 Theme:T17
+T29	Binding 1350 1367	complex formation
+E6	Binding:T29 Theme:T18
+T30	Conversion 1418 1427	oxidation
+T31	Positive_regulation 1418 1427	oxidation
+E7	Conversion:T30 Theme:T19
+E8	Positive_regulation:T31 Theme:E7 Cause:T20
+E9	Positive_regulation:T31 Theme:E7 Cause:T21
+T32	Regulation 1454 1464	controlled
+E10	Regulation:T32 Theme:E6
+E11	Regulation:T32 Theme:E7
+T33	Conversion 1509 1520	Protonation
+E12	Conversion:T33 Theme:T22
+T34	Positive_regulation 1582 1591	necessary
+E13	Positive_regulation:T34 Cause:E12 Theme:E15
+E14	Positive_regulation:T34 Cause:E12 Theme:E16
+T35	Binding 1612 1619	binding
+E15	Binding:T35 Theme:T23
+T36	Conversion 1624 1633	oxidation
+E16	Conversion:T36 Theme:T23

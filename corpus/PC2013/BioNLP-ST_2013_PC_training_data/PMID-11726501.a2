@@ -1,0 +1,39 @@
+T39	Binding 5 16	interaction
+E1	Binding:T39 Theme:T2 Theme2:T1
+E2	Binding:T39 Theme:T3 Theme2:T1
+E3	Binding:T39 Theme:T4 Theme2:T1
+T40	Positive_regulation 46 54	mediated
+E4	Positive_regulation:T40 Cause:T5 Theme:E1
+E5	Positive_regulation:T40 Cause:T5 Theme:E3
+E6	Positive_regulation:T40 Cause:T5 Theme:E2
+T41	Negative_regulation 256 266	inhibiting
+E7	Negative_regulation:T41 Theme:T15
+T42	Activation 298 307	activator
+E8	Activation:T42 Cause:T15 Theme:T14
+T43	Binding 452 460	interact
+E9	Binding:T43 Theme:T19 Theme2:T18
+E10	Binding:T43 Theme:T20 Theme2:T18
+T44	Binding 492 502	associates
+E11	Binding:T44 Theme:T21 Theme2:T18
+T45	Binding 522 533	association
+E12	Binding:T45 Theme:T21 Theme2:T18
+T46	Positive_regulation 537 549	up-regulated
+E13	Positive_regulation:T46 Theme:E12
+T47	Binding 712 721	Formation
+E14	Binding:T47 Theme:T26
+T48	Regulation 865 873	altering
+E15	Regulation:T48 Theme:T30
+T49	Negative_regulation 1016 1023	disrupt
+E16	Negative_regulation:T49 Cause:E15 Theme:E19
+E17	Negative_regulation:T49 Cause:E15 Theme:E20
+E18	Negative_regulation:T49 Cause:E15 Theme:E21
+T50	Binding 1028 1039	association
+E19	Binding:T50 Theme:T31 Theme2:T30
+E20	Binding:T50 Theme:T32 Theme2:T30
+E21	Binding:T50 Theme:T33 Theme2:T30
+T51	Binding 1157 1169	interactions
+E22	Binding:T51 Theme:T34
+T52	Binding 1219 1230	association
+E23	Binding:T52 Theme:T34 Theme2:T38
+E24	Binding:T52 Theme:T36 Theme2:T34
+E25	Binding:T52 Theme:T37 Theme2:T34

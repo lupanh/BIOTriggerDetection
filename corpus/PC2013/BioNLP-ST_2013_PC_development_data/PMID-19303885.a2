@@ -1,0 +1,73 @@
+T32	Binding 6 29	forms a ternary complex
+E1	Binding:T32 Theme:T2 Theme2:T3 Theme3:T1
+T33	Negative_regulation 48 68	negatively regulates
+E2	Negative_regulation:T33 Cause:T1 Theme:T4
+T34	Regulation 166 176	controlled
+E3	Regulation:T34 Cause:T6 Theme:T5
+T35	Negative_regulation 285 300	down-regulating
+E4	Negative_regulation:T35 Cause:T7 Theme:T8
+T36	Phosphorylation 443 459	phosphorylations
+E5	Phosphorylation:T36 Theme:T9
+T37	Acetylation 475 487	acetylations
+E6	Acetylation:T37 Theme:T9
+T38	Binding 554 561	binding
+E7	Binding:T38 Theme:T10 Theme2:T11
+T39	Binding 576 585	interacts
+E8	Binding:T39 Theme:T11 Theme2:T12 Theme3:T14
+T40	Phosphorylation 610 624	phosphorylated
+E9	Phosphorylation:T40 Site:T13 Theme:T14
+T41	Binding 638 663	forming a ternary complex
+E10	Binding:T41 Theme:T14 Theme2:T12 Theme3:T11
+T42	Binding 711 728	complex formation
+E11	Binding:T42 Theme:T15 Theme2:T16 Theme3:T17
+T43	Positive_regulation 757 764	results
+E12	Positive_regulation:T43 Theme:E13 Cause:E11
+T44	Transport 768 779	recruitment
+E13	Transport:T44 Theme:T18
+T45	Deacetylation 792 803	deacetylate
+T46	Positive_regulation 792 803	deacetylate
+E14	Deacetylation:T45 Theme:T19
+E15	Positive_regulation:T46 Theme:E14 Cause:E13
+T47	Deacetylation 813 825	deacetylated
+E16	Deacetylation:T47 Theme:T20
+T48	Binding 830 835	binds
+E17	Binding:T48 Theme:T21 Theme2:T20
+T49	Positive_regulation 879 886	results
+E18	Positive_regulation:T49 Theme:E19 Cause:T20
+T50	Negative_regulation 890 903	switching off
+E19	Negative_regulation:T50 Theme:T22
+T51	Positive_regulation 922 931	essential
+E20	Positive_regulation:T51 Cause:T22 Theme:E21
+T52	Pathway 954 964	cell cycle
+E21	Pathway:T52 
+T53	Inactivation 985 995	knock-down
+E22	Inactivation:T53 Theme:T23
+T54	Positive_regulation 1017 1022	leads
+E23	Positive_regulation:T54 Theme:E24 Cause:E22
+T55	Positive_regulation 1028 1037	prolonged
+E24	Positive_regulation:T55 Theme:E26
+T56	Pathway 1038 1048	cell-cycle
+E25	Pathway:T56 
+T57	Negative_regulation 1049 1055	arrest
+E26	Negative_regulation:T57 Theme:E25
+T58	Positive_regulation 1090 1096	due to
+E27	Positive_regulation:T58 Cause:E28 Theme:E24
+T59	Negative_regulation 1097 1105	ablation
+E28	Negative_regulation:T59 Theme:E29
+T60	Binding 1124 1135	interaction
+E29	Binding:T60 Theme:T26 Theme2:T25 Theme3:T24
+T61	Regulation 1203 1207	role
+E30	Regulation:T61 Cause:T27 Theme:E31
+T62	Negative_regulation 1220 1227	masking
+E31	Negative_regulation:T62 Theme:E32
+T63	Positive_regulation 1232 1238	active
+E32	Positive_regulation:T63 Theme:E33
+T64	Phosphorylation 1239 1254	phosphorylation
+E33	Phosphorylation:T64 Theme:T28
+T65	Positive_regulation 1268 1276	enabling
+E34	Positive_regulation:T65 Theme:E36 Cause:T27
+E35	Positive_regulation:T65 Theme:E36 Cause:T30
+T66	Deacetylation 1281 1294	deacetylation
+E36	Deacetylation:T66 Theme:T29
+T67	Regulation 1333 1343	regulating
+E37	Regulation:T67 Theme:T31 Cause:T27

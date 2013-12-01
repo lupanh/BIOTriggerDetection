@@ -1,0 +1,26 @@
+T1	Gene_or_gene_product 41 44	Sp1
+T2	Gene_or_gene_product 70 73	E2F
+T3	Gene_or_gene_product 111 114	E2F
+T4	Gene_or_gene_product 165 168	ASK
+T5	Gene_or_gene_product 216 235	Cdc7-related kinase
+T6	Complex 238 247	Cdc7-Dbf4
+T7	Gene_or_gene_product 365 369	Cdc7
+T8	Gene_or_gene_product 482 486	Dbf4
+T9	Gene_or_gene_product 567 571	Dbf4
+T10	Gene_or_gene_product 652 655	ASK
+T11	Gene_or_gene_product 670 674	Dbf4
+T12	Gene_or_gene_product 712 716	Cdc7
+T13	Gene_or_gene_product 759 762	ASK
+T14	Gene_or_gene_product 885 888	Sp1
+T15	Gene_or_gene_product 911 914	E2F
+T16	Gene_or_gene_product 949 952	E2F
+T17	Gene_or_gene_product 1009 1012	Sp1
+T18	Gene_or_gene_product 1099 1102	E2F
+T19	Gene_or_gene_product 1302 1306	E2F1
+T20	Gene_or_gene_product 1424 1428	DHFR
+T21	Gene_or_gene_product 1465 1468	E2F
+T22	Gene_or_gene_product 1489 1492	E2F
+T23	Gene_or_gene_product 1596 1599	E2F
+T24	Complex 1669 1680	E2F complex
+T25	Gene_or_gene_product 1707 1710	E2F
+T26	Gene_or_gene_product 1725 1728	ASK

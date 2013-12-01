@@ -1,0 +1,22 @@
+*	Equiv T10 T11
+T22	Regulation 12 19	control
+E1	Regulation:T22 Theme:T1
+T23	Regulation 760 769	regulated
+E2	Regulation:T23 Theme:T9 Cause:T11
+T24	Positive_regulation 857 868	responsible
+E3	Positive_regulation:T24 Cause:T11 Theme:E4
+T25	Conversion 888 902	phosphorolysis
+E4	Conversion:T25 Theme:T12 Product:T13
+T26	Regulation 1002 1012	regulating
+E5	Regulation:T26 Theme:E6
+T27	Gene_expression 1019 1029	expression
+E6	Gene_expression:T27 Theme:T14
+T28	Regulation 1173 1184	association
+E7	Regulation:T28 Cause:T16 Theme:T17
+E8	Regulation:T28 Cause:T16 Theme:T18
+T29	Regulation 1319 1329	regulation
+E9	Regulation:T29 Theme:E10 Cause:T20
+T30	Gene_expression 1337 1347	expression
+E10	Gene_expression:T30 Theme:T19
+T31	Positive_regulation 1435 1443	elevated
+E11	Positive_regulation:T31 Theme:T21

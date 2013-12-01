@@ -1,0 +1,23 @@
+*	Equiv T4 T5
+*	Equiv T20 T21
+T38	Positive_regulation 14 22	activate
+E1	Positive_regulation:T38 Cause:T1 Theme:E2
+T39	Pathway 65 72	pathway
+E2	Pathway:T39 Participant:T2 Participant2:T3
+T40	Regulation 156 165	regulated
+E3	Regulation:T40 Theme:T4
+T41	Pathway 673 680	pathway
+E4	Pathway:T41 Participant:T19 Participant2:T21
+T42	Phosphorylation 714 729	phosphorylation
+E5	Phosphorylation:T42 Theme:T22 Cause:T23
+T43	Negative_regulation 760 767	reduced
+E6	Negative_regulation:T43 Theme:T24
+T44	Positive_regulation 952 961	essential
+E7	Positive_regulation:T44 Theme:T33
+T45	Positive_regulation 1011 1019	activate
+E8	Positive_regulation:T45 Cause:T34 Theme:T35
+E9	Positive_regulation:T45 Cause:T34 Theme:E11
+T46	Positive_regulation 1038 1046	effector
+E10	Positive_regulation:T46 Cause:T36 Theme:E11
+T47	Pathway 1052 1059	pathway
+E11	Pathway:T47 Participant:T37

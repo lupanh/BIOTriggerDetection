@@ -1,0 +1,42 @@
+*	Equiv T6 T7
+*	Equiv T18 T19
+T54	Positive_regulation 76 86	implicated
+E1	Positive_regulation:T54 Theme:T5 Cause:T4
+T55	Positive_regulation 295 303	catalyze
+E2	Positive_regulation:T55 Cause:T6 Theme:E3
+T56	Conversion 308 318	hydrolysis
+E3	Conversion:T56 Theme:T8 Product:T9
+T57	Inactivation 342 354	inactivating
+E4	Inactivation:T57 Cause:E2 Theme:T10
+T58	Gene_expression 950 964	overproduction
+E5	Gene_expression:T58 Theme:T33
+E6	Gene_expression:T58 Theme:T35
+E7	Gene_expression:T58 Theme:T34
+M1	Negation E6
+T59	Inactivation 968 972	loss
+E8	Inactivation:T59 Theme:T33
+E9	Inactivation:T59 Theme:T35
+E10	Inactivation:T59 Theme:T34
+M2	Negation E9
+T60	Positive_regulation 1005 1013	affected
+E11	Positive_regulation:T60 Theme:E17 Cause:E6
+E12	Positive_regulation:T60 Theme:E17 Cause:E5
+E13	Positive_regulation:T60 Theme:E17 Cause:E9
+E14	Positive_regulation:T60 Theme:E17 Cause:E8
+E15	Positive_regulation:T60 Theme:E17 Cause:E7
+E16	Positive_regulation:T60 Theme:E17 Cause:E10
+T61	Binding 1029 1040	interaction
+E17	Binding:T61 Theme:T36 Theme2:T37
+T62	Positive_regulation 1183 1193	facilitate
+E18	Positive_regulation:T62 Theme:E20 Cause:T39
+E19	Positive_regulation:T62 Theme:E20 Cause:T40
+T63	Binding 1198 1209	interaction
+E20	Binding:T63 Theme:T41 Theme2:T42
+T64	Positive_regulation 1476 1486	facilitate
+E21	Positive_regulation:T64 Theme:T49 Cause:T46
+E22	Positive_regulation:T64 Theme:T49 Cause:T47
+E23	Positive_regulation:T64 Theme:T49 Cause:T48
+T65	Regulation 1560 1571	play a role
+E24	Regulation:T65 Cause:T51 Theme:E25
+T66	Regulation 1575 1585	modulating
+E25	Regulation:T66 Theme:T52

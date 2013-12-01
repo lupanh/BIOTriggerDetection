@@ -1,0 +1,19 @@
+T1	Gene_or_gene_product 0 42	11beta-hydroxysteroid dehydrogenase type 1
+T2	Simple_chemical 75 89	glucocorticoid
+T3	Gene_or_gene_product 101 143	11beta-hydroxysteroid dehydrogenase type 1
+T4	Gene_or_gene_product 145 156	11beta-HSD1
+T5	Simple_chemical 181 190	cortisone
+T6	Simple_chemical 202 210	cortisol
+T7	Simple_chemical 304 318	glucocorticoid
+T8	Gene_or_gene_product 353 376	glucocorticoid receptor
+T9	Gene_or_gene_product 467 478	11beta-HSD1
+T10	Gene_or_gene_product 591 610	cortisone reductase
+T11	Gene_or_gene_product 637 648	11beta-HSD1
+T12	Gene_or_gene_product 732 739	HSD11B1
+T13	Gene_or_gene_product 800 832	hexose-6-phosphate dehydrogenase
+T14	Simple_chemical 878 921	nicotinamide-adenine dinucleotide phosphate
+T15	Gene_or_gene_product 937 948	11beta-HSD1
+T16	Gene_or_gene_product 997 1029	hexose-6-phosphate dehydrogenase
+T17	Simple_chemical 1061 1104	nicotinamide-adenine dinucleotide phosphate
+T18	Gene_or_gene_product 1164 1175	11beta-HSD1
+T19	Gene_or_gene_product 1212 1223	11beta-HSD1

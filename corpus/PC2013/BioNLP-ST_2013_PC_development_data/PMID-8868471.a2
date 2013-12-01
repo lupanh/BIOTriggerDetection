@@ -1,0 +1,37 @@
+*	Equiv T5 T6
+T37	Binding 9 20	association
+E1	Binding:T37 Theme:T1 Theme2:T2
+T38	Binding 197 202	bound
+E2	Binding:T38 Theme:T4 Theme2:T3
+T39	Positive_regulation 209 219	stimulated
+E3	Positive_regulation:T39 Cause:T3 Theme:T5
+T40	Binding 346 355	interacts
+E4	Binding:T40 Theme:T8 Theme2:T7
+T41	Regulation 508 513	bound
+E5	Regulation:T41 Cause:T11 Theme:T14
+E6	Regulation:T41 Theme:T14 Cause:T12
+E7	Regulation:T41 Theme:T14 Cause:T13
+M1	Negation E6
+M2	Negation E7
+T42	Binding 546 553	binding
+E8	Binding:T42 Theme:T15
+T43	Regulation 567 578	independent
+E9	Regulation:T43 Theme:E8 Cause:E12
+E10	Regulation:T43 Theme:E8 Cause:E11
+M3	Negation E9
+M4	Negation E10
+T44	Binding 615 620	bound
+E11	Binding:T44 Theme:T16 Theme2:T17 Theme3:T18
+E12	Binding:T44 Theme:T16
+T45	Regulation 759 769	associated
+E13	Regulation:T45 Cause:T21 Theme:T22
+T46	Positive_regulation 776 785	responded
+E14	Positive_regulation:T46 Theme:T22 Cause:T23
+T47	Binding 1040 1049	interacts
+E15	Binding:T47 Theme:T27 Theme2:T28
+T48	Positive_regulation 1104 1112	enhanced
+E16	Positive_regulation:T48 Theme:E17
+T49	Binding 1119 1126	binding
+E17	Binding:T49 Theme:T32
+T50	Binding 1287 1296	interacts
+E18	Binding:T50 Theme:T36 Theme2:T35

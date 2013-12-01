@@ -1,0 +1,32 @@
+T1	Gene_or_gene_product 0 5	Cbl-b
+T2	Gene_or_gene_product 27 50	B cell antigen receptor
+T3	Simple_chemical 109 117	tyrosine
+T4	Gene_or_gene_product 125 128	Syk
+T5	Gene_or_gene_product 146 149	Cbl
+T6	Simple_chemical 208 216	tyrosine
+T7	Gene_or_gene_product 319 324	Cbl-b
+T8	Gene_or_gene_product 362 385	B cell antigen receptor
+T9	Gene_or_gene_product 387 390	BCR
+T10	Gene_or_gene_product 458 461	Cbl
+T11	Gene_or_gene_product 497 501	BCRs
+T12	Gene_or_gene_product 543 550	Igalpha
+T13	Gene_or_gene_product 552 555	Syk
+T14	Gene_or_gene_product 561 589	phospholipase C (PLC)-gamma2
+T15	Simple_chemical 612 616	Ca2+
+T16	Gene_or_gene_product 648 685	extracellular signal-regulated kinase
+T17	Gene_or_gene_product 687 690	ERK
+T18	Gene_or_gene_product 696 729	c-Jun NH2-terminal protein kinase
+T19	Gene_or_gene_product 731 734	JNK
+T20	Cellular_component 756 763	surface
+T21	Gene_or_gene_product 801 805	CD69
+T22	Gene_or_gene_product 832 835	BCR
+T23	Gene_or_gene_product 887 891	BCRs
+T24	Gene_or_gene_product 956 959	Syk
+T25	Gene_or_gene_product 963 968	Cbl-b
+T26	Gene_or_gene_product 1006 1010	BCRs
+T27	Gene_or_gene_product 1014 1019	Cbl-b
+T28	Gene_or_gene_product 1157 1160	Syk
+T29	Gene_or_gene_product 1203 1206	Syk
+T30	Gene_or_gene_product 1223 1228	Cbl-b
+T31	Gene_or_gene_product 1250 1253	BCR
+T32	Gene_or_gene_product 1277 1280	Syk

@@ -1,0 +1,5 @@
+T1	Gene_or_gene_product 0 4	mTOR
+T2	Gene_or_gene_product 61 80	target of rapamycin
+T3	Gene_or_gene_product 82 85	TOR
+T4	Gene_or_gene_product 356 359	TOR
+T5	Cellular_component 534 543	ribosomes

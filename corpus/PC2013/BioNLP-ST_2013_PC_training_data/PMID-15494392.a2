@@ -1,0 +1,67 @@
+T27	Regulation 30 43	stabilization
+E1	Regulation:T27 Theme:T2 Cause:T1
+T28	Pathway 67 76	apoptosis
+E2	Pathway:T28 
+T29	Pathway 105 114	apoptosis
+E3	Pathway:T29 
+T30	Positive_regulation 196 205	induction
+E4	Positive_regulation:T30 Theme:E5
+T31	Positive_regulation 214 226	accumulation
+E5	Positive_regulation:T31 Theme:T3
+T32	Pathway 250 259	apoptosis
+E6	Pathway:T32 
+T33	Positive_regulation 277 286	Induction
+E7	Positive_regulation:T33 Theme:T5
+T34	Positive_regulation 298 306	mediated
+E8	Positive_regulation:T34 Theme:E7
+T35	Positive_regulation 431 436	leads
+E9	Positive_regulation:T35 Theme:E10
+T36	Regulation 445 458	stabilization
+E10	Regulation:T36 Theme:T8
+T37	Binding 516 523	binding
+E11	Binding:T37 Theme:T10 Theme2:T9
+T38	Positive_regulation 533 541	mediates
+E12	Positive_regulation:T38 Theme:E13 Cause:T9
+T39	Regulation 547 560	stabilization
+E13	Regulation:T39 Theme:T11
+T40	Binding 573 582	interacts
+E14	Binding:T40 Theme:T12 Theme2:T14
+T41	Phosphorylation 592 606	phosphorylated
+E15	Phosphorylation:T41 Cause:T13 Theme:T14
+T42	Negative_regulation 634 642	inhibits
+E16	Negative_regulation:T42 Cause:T12 Theme:E17
+T43	Ubiquitination 648 662	ubiquitination
+E17	Ubiquitination:T43 Theme:T15
+T44	Negative_regulation 664 673	Depletion
+E18	Negative_regulation:T44 Theme:T16
+E19	Negative_regulation:T44 Theme:T18
+E20	Negative_regulation:T44 Theme:T19
+E21	Negative_regulation:T44 Theme:T17
+M1	Negation E19
+M2	Negation E20
+T45	Negative_regulation 719 725	blocks
+E22	Negative_regulation:T45 Theme:E26 Cause:E19
+E23	Negative_regulation:T45 Theme:E26 Cause:E18
+E24	Negative_regulation:T45 Theme:E26 Cause:E20
+E25	Negative_regulation:T45 Theme:E26 Cause:E21
+T46	Pathway 745 754	apoptosis
+E26	Pathway:T46 
+T47	Positive_regulation 775 783	required
+E27	Positive_regulation:T47 Cause:T20 Theme:E33
+E28	Positive_regulation:T47 Cause:T20 Theme:E36
+E29	Positive_regulation:T47 Cause:T20 Theme:E34
+E30	Positive_regulation:T47 Cause:T20 Theme:E35
+E31	Positive_regulation:T47 Cause:T20 Theme:E37
+E32	Positive_regulation:T47 Cause:T20 Theme:E38
+T48	Gene_expression 788 798	expression
+E33	Gene_expression:T48 Theme:T22
+E34	Gene_expression:T48 Theme:T23
+E35	Gene_expression:T48 Theme:T24
+T49	Positive_regulation 803 812	induction
+E36	Positive_regulation:T49 Theme:T22
+E37	Positive_regulation:T49 Theme:T23
+E38	Positive_regulation:T49 Theme:T24
+T50	Regulation 966 976	regulation
+E39	Regulation:T50 Theme:T26 Cause:T25
+T51	Pathway 1007 1016	apoptosis
+E40	Pathway:T51 

@@ -1,0 +1,59 @@
+*	Equiv T23 T24
+*	Equiv T25 T26
+*	Equiv T37 T38
+T47	Negative_regulation 19 38	negatively regulate
+E1	Negative_regulation:T47 Cause:T1 Theme:T2
+T48	Gene_expression 148 158	expression
+E2	Gene_expression:T48 Theme:T3
+T49	Negative_regulation 171 184	downregulated
+E3	Negative_regulation:T49 Theme:E2
+T50	Positive_regulation 203 215	Reactivation
+E4	Positive_regulation:T50 Theme:E5
+T51	Gene_expression 224 234	expression
+E5	Gene_expression:T51 Theme:T4
+T52	Regulation 261 271	associated
+E6	Regulation:T52 Cause:E4 Theme:E10
+E7	Regulation:T52 Cause:E4 Theme:E8
+T53	Positive_regulation 277 286	increased
+E8	Positive_regulation:T53 Theme:E9
+T54	Acetylation 298 309	acetylation
+E9	Acetylation:T54 Theme:T5
+T55	Negative_regulation 314 323	decreased
+E10	Negative_regulation:T55 Theme:E11
+T56	Methylation 333 344	methylation
+E11	Methylation:T56 Site:T6 Theme:T7
+T57	Positive_regulation 1266 1274	elevated
+E12	Positive_regulation:T57 Theme:E14
+E13	Positive_regulation:T57 Theme:E15
+T58	Gene_expression 1275 1285	expression
+E14	Gene_expression:T58 Theme:T16
+E15	Gene_expression:T58 Theme:T17
+T59	Positive_regulation 1301 1310	increased
+E16	Positive_regulation:T59 Theme:T18
+T60	Binding 1419 1423	bind
+E17	Binding:T60 Theme:T22 Theme2:T20
+E18	Binding:T60 Theme:T21 Theme2:T22
+T61	Negative_regulation 1566 1575	inhibitor
+E19	Negative_regulation:T61 Theme:T24 Cause:T26
+T62	Gene_expression 1676 1686	expression
+E20	Gene_expression:T62 Theme:T29
+T63	Negative_regulation 1707 1714	reduced
+E21	Negative_regulation:T63 Cause:T30 Theme:T31
+E22	Negative_regulation:T63 Cause:T30 Theme:T32
+T64	Regulation 1963 1969	effect
+E23	Regulation:T64 Theme:T39 Cause:T38
+M1	Negation E23
+T65	Negative_regulation 1997 2007	repression
+E24	Negative_regulation:T65 Cause:T40 Theme:T39
+T66	Positive_regulation 2035 2043	enhanced
+E25	Positive_regulation:T66 Cause:E26 Theme:T39
+T67	Gene_expression 2051 2063	coexpression
+E26	Gene_expression:T67 Theme:T42
+T68	Positive_regulation 2151 2173	play an important role
+E27	Positive_regulation:T68 Theme:E30 Cause:T43
+E28	Positive_regulation:T68 Theme:E30 Cause:T44
+E29	Positive_regulation:T68 Theme:E30 Cause:T45
+T69	Negative_regulation 2177 2191	downregulating
+E30	Negative_regulation:T69 Theme:E31
+T70	Gene_expression 2196 2206	expression
+E31	Gene_expression:T70 Theme:T46

@@ -1,0 +1,24 @@
+T1	Gene_or_gene_product 31 35	EXT1
+T2	Gene_or_gene_product 40 44	EXT2
+T3	Cellular_component 91 106	Golgi apparatus
+T4	Simple_chemical 138 153	heparan sulfate
+T5	Gene_or_gene_product 316 319	EXT
+T6	Gene_or_gene_product 333 337	EXT1
+T7	Gene_or_gene_product 341 345	EXT2
+T8	Gene_or_gene_product 384 388	EXT1
+T9	Gene_or_gene_product 393 397	EXT2
+T10	Cellular_component 403 424	endoplasmic reticulum
+T11	Gene_or_gene_product 435 470	type II transmembrane glycoproteins
+T12	Simple_chemical 580 595	heparan sulfate
+T13	Gene_or_gene_product 652 656	EXT1
+T14	Gene_or_gene_product 702 706	EXT2
+T15	Gene_or_gene_product 782 786	EXT1
+T16	Gene_or_gene_product 813 817	EXT1
+T17	Gene_or_gene_product 822 826	EXT2
+T18	Cellular_component 923 938	Golgi apparatus
+T19	Cellular_component 956 961	Golgi
+T20	Gene_or_gene_product 972 976	EXT1
+T21	Gene_or_gene_product 977 981	EXT2
+T22	Gene_or_gene_product 1055 1059	EXT1
+T23	Gene_or_gene_product 1063 1067	EXT2
+T24	Gene_or_gene_product 1258 1261	EXT

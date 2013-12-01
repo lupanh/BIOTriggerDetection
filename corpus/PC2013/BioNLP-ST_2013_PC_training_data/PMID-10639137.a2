@@ -1,0 +1,26 @@
+T25	Binding 45 66	form a stable complex
+E1	Binding:T25 Theme:T1 Theme2:T2
+T26	Localization 72 83	accumulates
+E2	Localization:T26 AtLoc:T3 Theme:T2
+E3	Localization:T26 AtLoc:T3 Theme:T1
+T27	Positive_regulation 111 120	catalyzes
+E4	Positive_regulation:T27 Theme:E5 Cause:E1
+T28	Conversion 125 134	synthesis
+E5	Conversion:T28 Product:T4
+T29	Localization 425 434	localized
+E6	Localization:T29 AtLoc:T10 Theme:T11
+E7	Localization:T29 AtLoc:T10 Theme:T9
+E8	Localization:T29 AtLoc:T10 Theme:T8
+T30	Binding 827 859	form a hetero-oligomeric complex
+E9	Binding:T30 Theme:T17 Theme2:T16
+T31	Positive_regulation 873 878	leads
+E10	Positive_regulation:T31 Cause:E9 Theme:E12
+E11	Positive_regulation:T31 Cause:E9 Theme:E13
+T32	Localization 886 898	accumulation
+E12	Localization:T32 AtLoc:T18 Theme:T16
+E13	Localization:T32 AtLoc:T18 Theme:T17
+T33	Localization 962 971	localized
+E14	Localization:T33 AtLoc:T19 Theme:T20
+E15	Localization:T33 AtLoc:T19 Theme:T21
+T34	Binding 982 989	complex
+E16	Binding:T34 Theme:T20 Theme2:T21

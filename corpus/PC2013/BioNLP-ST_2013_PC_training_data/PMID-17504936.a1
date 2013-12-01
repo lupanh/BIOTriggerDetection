@@ -1,0 +1,19 @@
+T1	Gene_or_gene_product 0 5	Ipl1p
+T2	Gene_or_gene_product 35 40	Mad3p
+T3	Cellular_component 61 68	spindle
+T4	Cellular_component 111 123	kinetochores
+T5	Cellular_component 130 137	spindle
+T6	Cellular_component 181 192	chromosomes
+T7	Cellular_component 219 231	microtubules
+T8	Gene_or_gene_product 233 237	Ipl1
+T9	Gene_or_gene_product 254 262	Aurora B
+T10	Cellular_component 301 312	kinetochore
+T11	Cellular_component 313 324	microtubule
+T12	Cellular_component 392 404	kinetochores
+T13	Gene_or_gene_product 458 463	Mad3p
+T14	Gene_or_gene_product 491 496	Ipl1p
+T15	Gene_or_gene_product 522 527	Mad3p
+T16	Cellular_component 586 597	kinetochore
+T17	Cellular_component 729 740	kinetochore
+T18	Gene_or_gene_product 759 764	Ipl1p
+T19	Gene_or_gene_product 794 799	Mad3p

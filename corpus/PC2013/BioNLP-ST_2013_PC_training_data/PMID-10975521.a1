@@ -1,0 +1,18 @@
+T1	Complex 67 83	Cdc34/SCF(Met30)
+T2	Gene_or_gene_product 134 138	Met4
+T3	Complex 175 184	Cdc34/SCF
+T4	Cellular_component 231 245	26S proteasome
+T5	Gene_or_gene_product 275 280	Met30
+T6	Gene_or_gene_product 325 334	ubiquitin
+T7	Complex 342 352	SCF(Met30)
+T8	Complex 377 387	SCF(Met30)
+T9	Gene_or_gene_product 416 420	Met4
+T10	Gene_or_gene_product 437 441	MET4
+T11	Gene_or_gene_product 470 475	met30
+T12	Gene_or_gene_product 499 503	Met4
+T13	Gene_or_gene_product 574 579	Met30
+T14	Gene_or_gene_product 620 624	Met4
+T15	Complex 654 670	Cdc34/SCF(Met30)
+T16	Gene_or_gene_product 699 703	Met4
+T17	Gene_or_gene_product 733 737	Met4
+T18	Complex 886 895	Cdc34/SCF

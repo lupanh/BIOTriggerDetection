@@ -1,0 +1,29 @@
+T1	Gene_or_gene_product 4 24	SV40 small t-antigen
+T2	Gene_or_gene_product 130 145	large T-antigen
+T3	Gene_or_gene_product 177 180	p53
+T4	Gene_or_gene_product 185 188	pRb
+T5	Gene_or_gene_product 274 294	SV40 small t-antigen
+T6	Gene_or_gene_product 389 392	WAP
+T7	Gene_or_gene_product 393 396	SVt
+T8	Gene_or_gene_product 480 489	Cyclin D1
+T9	Gene_or_gene_product 531 546	small t-antigen
+T10	Gene_or_gene_product 629 649	SV40 small t-antigen
+T11	Gene_or_gene_product 715 724	cyclin D1
+T12	Gene_or_gene_product 883 891	cyclin E
+T13	Gene_or_gene_product 896 899	p21
+T14	Gene_or_gene_product 900 904	Waf1
+T15	Gene_or_gene_product 917 920	p53
+T16	Gene_or_gene_product 983 986	p21
+T17	Gene_or_gene_product 987 991	Waf1
+T18	Complex 1023 1036	cyclin D/CDK4
+T19	Complex 1054 1067	cyclin E/CDK2
+T20	Gene_or_gene_product 1327 1328	T
+T21	Gene_or_gene_product 1329 1338	t-antigen
+T22	Gene_or_gene_product 1374 1377	p53
+T23	Gene_or_gene_product 1382 1385	pRb
+T24	Gene_or_gene_product 1414 1423	T-antigen
+T25	Gene_or_gene_product 1435 1445	T1-antigen
+T26	Gene_or_gene_product 1450 1460	T2-antigen
+T27	Gene_or_gene_product 1536 1539	WAP
+T28	Gene_or_gene_product 1540 1545	SVBst
+T29	Gene_or_gene_product 1546 1549	Bam

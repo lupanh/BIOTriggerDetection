@@ -1,0 +1,7 @@
+*	Equiv T3 T4
+*	Equiv T5 T6
+T9	Positive_regulation 121 128	driving
+T10	Gene_expression 129 139	expression
+E1	Positive_regulation:T9 Theme:E2
+E2	Gene_expression:T10 Theme:T1
+M1	Speculation E1

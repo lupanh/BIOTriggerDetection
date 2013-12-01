@@ -1,0 +1,35 @@
+T1	Gene_or_gene_product 0 4	E2F1
+T2	Gene_or_gene_product 25 28	p53
+T3	Gene_or_gene_product 77 104	hepatitis B viral X protein
+T4	Gene_or_gene_product 106 109	Hbx
+T5	Gene_or_gene_product 118 121	p53
+T6	Gene_or_gene_product 177 181	E2F1
+T7	Gene_or_gene_product 186 213	hepatitis B virus X protein
+T8	Gene_or_gene_product 215 218	HBx
+T9	Gene_or_gene_product 245 248	p53
+T10	Gene_or_gene_product 272 306	chloramphenicol acetyl transferase
+T11	Gene_or_gene_product 308 311	CAT
+T12	Gene_or_gene_product 320 324	E2F1
+T13	Gene_or_gene_product 339 342	p53
+T14	Gene_or_gene_product 360 364	E2F1
+T15	Gene_or_gene_product 403 406	HBx
+T16	Gene_or_gene_product 421 424	p53
+T17	Gene_or_gene_product 454 458	E2F1
+T18	Gene_or_gene_product 482 485	HBx
+T19	Gene_or_gene_product 487 491	E2F1
+T20	Gene_or_gene_product 526 529	HBx
+T21	Gene_or_gene_product 537 540	p53
+T22	Gene_or_gene_product 562 566	E2F1
+T23	Gene_or_gene_product 589 605	thymidine kinase
+T24	Gene_or_gene_product 607 609	tk
+T25	Gene_or_gene_product 649 653	E2F1
+T26	Gene_or_gene_product 687 691	E2F1
+T27	Gene_or_gene_product 696 699	HBx
+T28	Gene_or_gene_product 782 786	E2F1
+T29	Gene_or_gene_product 791 794	HBx
+T30	Gene_or_gene_product 872 876	GAL4
+T31	Gene_or_gene_product 908 911	pRb
+T32	Gene_or_gene_product 930 934	E2F1
+T33	Gene_or_gene_product 1075 1079	E2F1
+T34	Gene_or_gene_product 1202 1206	E2F1
+T35	Gene_or_gene_product 1250 1253	HBx

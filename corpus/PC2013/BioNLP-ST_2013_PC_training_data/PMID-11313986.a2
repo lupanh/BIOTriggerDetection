@@ -1,0 +1,42 @@
+T26	Regulation 0 10	Regulation
+E1	Regulation:T26 Theme:T1 Cause:T2
+T27	Activation 180 190	activating
+E2	Activation:T27 Theme:T5
+E3	Activation:T27 Theme:T6
+T28	Binding 354 362	interact
+E4	Binding:T28 Theme:T7 Theme2:T9
+E5	Binding:T28 Theme:T7 Theme2:T10
+E6	Binding:T28 Theme:T8 Theme2:T9
+E7	Binding:T28 Theme:T8 Theme2:T10
+T29	Negative_regulation 385 393	abrogate
+E8	Negative_regulation:T29 Theme:T9 Cause:T7
+E9	Negative_regulation:T29 Theme:T10 Cause:T7
+E10	Negative_regulation:T29 Theme:T10 Cause:T8
+E11	Negative_regulation:T29 Theme:T9 Cause:T8
+T30	Regulation 480 490	regulation
+E12	Regulation:T30 Theme:T11 Cause:T12
+T31	Pathway 544 554	cell cycle
+E13	Pathway:T31 
+T32	Positive_regulation 605 610	leads
+E14	Positive_regulation:T32 Theme:E15
+T33	Negative_regulation 616 628	derepression
+E15	Negative_regulation:T33 Theme:T13
+T34	Positive_regulation 814 828	transactivated
+E16	Positive_regulation:T34 Theme:T18 Cause:T19
+T35	Positive_regulation 897 906	increased
+E17	Positive_regulation:T35 Theme:T20
+T36	Gene_expression 913 923	expressing
+E18	Gene_expression:T36 Theme:T21
+T37	Positive_regulation 936 945	Inducible
+E19	Positive_regulation:T37 Theme:E20
+T38	Gene_expression 946 956	expression
+E20	Gene_expression:T38 Theme:T22
+T39	Positive_regulation 963 968	leads
+E21	Positive_regulation:T39 Theme:E22 Cause:E20
+T40	Positive_regulation 985 993	increase
+E22	Positive_regulation:T40 Theme:T23
+T41	Positive_regulation 1060 1068	critical
+E23	Positive_regulation:T41 Theme:E24 Cause:T24
+M1	Speculation E23
+T42	Regulation 1069 1075	target
+E24	Regulation:T42 Theme:T25

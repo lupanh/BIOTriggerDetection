@@ -1,0 +1,36 @@
+T15	Ubiquitination 20 33	ubiquitinated
+E1	Ubiquitination:T15 Theme:T1
+T16	Degradation 46 57	proteolysis
+E2	Degradation:T16 Theme:T1
+T17	Positive_regulation 133 142	necessary
+E3	Positive_regulation:T17 Theme:E4 Cause:T2
+T18	Binding 151 160	formation
+E4	Binding:T18 Product:T3
+T19	Regulation 296 305	oscillate
+E5	Regulation:T19 Theme:T4 Cause:E6
+T20	Pathway 317 326	cell cycl
+E6	Pathway:T20 
+T21	Transcription 434 445	transcribed
+E7	Transcription:T21 Theme:T5
+T22	Degradation 509 517	degraded
+E8	Degradation:T22 Theme:T6
+T23	Degradation 585 593	degraded
+E9	Degradation:T23 Theme:T7
+T24	Positive_regulation 604 613	dependent
+E10	Positive_regulation:T24 Cause:T8 Theme:E9
+T25	Phosphorylation 638 652	phosphorylated
+E11	Phosphorylation:T25 Theme:T9
+T26	Ubiquitination 769 782	ubiquitinated
+E12	Ubiquitination:T26 Theme:T11
+T27	Degradation 795 803	degraded
+E13	Degradation:T27 Theme:T11
+T28	Positive_regulation 814 823	dependent
+E14	Positive_regulation:T28 Cause:T12 Theme:E13
+T29	Degradation 971 978	degrade
+E15	Degradation:T29 Theme:T14
+T30	Ubiquitination 979 992	ubiquitinated
+E16	Ubiquitination:T30 Theme:T14
+T31	Pathway 1004 1014	cell cycle
+E17	Pathway:T31 
+T32	Pathway 341 351	cell cycle
+E18	Pathway:T32 

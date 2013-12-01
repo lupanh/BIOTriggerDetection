@@ -1,0 +1,4 @@
+(S1 (S (NP (NN 32P) (ADJP (FW in) (FW vivo)) (NN Labeling))))
+(S1 (S (S (NP (NN HEK) (NN 293T) (NNS cells)) (VP (VBD were) (VP (VBN labeled) (PP (IN with) (NP (CD 2) (NN mCi/ml) (NN 32P-orthophosphate))) (PRN (-LRB- -LRB-) (NP (NNP Perkin) (NNP Elmer)) (-RRB- -RRB-)) (PP (IN in) (NP (JJ phosphate-free) (NN medium))) (PRN (-LRB- -LRB-) (NP (NNP Invitrogen)) (-RRB- -RRB-)) (PP (IN for) (NP (CD 2) (NN h)))))) (. .)))
+(S1 (S (S (NP (NNS Cells)) (VP (VBD were) (ADVP (RB then)) (VP (ADJP (JJ left) (JJ untreated)) (CC or) (VP (VBN treated) (PP (IN with) (NP (NN TNF))) (PRN (-LRB- -LRB-) (NP (CD 50) (NN ng/ml)) (, ,) (S (NP (NN R)) (NP (NN &) (NN D) (NNS Systems))) (-RRB- -RRB-)) (PP (IN for) (NP (VBN indicated) (NNS periods))))))) (. .)))
+(S1 (S (S (NP (NN Cell) (NNS lysates)) (VP (VBD were) (VP (VP (VBN prepared)) (CC and) (VP (VBN used) (PP (IN for) (NP (NP (NNS immunoprecipitations)) (PP (IN with) (NP (NN RPS3) (NN antibody))))))))) (. .)))

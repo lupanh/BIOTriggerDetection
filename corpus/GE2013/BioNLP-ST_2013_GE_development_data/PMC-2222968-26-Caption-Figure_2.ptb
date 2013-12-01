@@ -1,0 +1,6 @@
+(S1 (S (NP (NN Th2) (NNS Cells)) (VP (VBP Do) (RB Not) (VP (VB Express) (NP (NN FOXP3))))))
+(S1 (S (S (LST (-LRB- -LRB-) (LS A) (-RRB- -RRB-)) (NP (NP (JJ Intracellular) (NN FACS) (NN analysis)) (PP (IN of) (NP (NP (NN FOXP3) (NN expression)) (PP (IN in) (NP (NP (NN Th1)) (, ,) (NP (NN Th2)) (, ,) (CC or) (NP (NP (JJ iTreg-differentiated) (NNS cells)) (PRN (-LRB- -LRB-) (NP (NP (CD two) (NNS rounds)) (, ,) (NP (NP (NN phenotype)) (VP (VB see) (NP (NN Figure) (NN S1))))) (-RRB- -RRB-))))))) (, ,)) (VP (VP (VP (VBN rested)) (CC or) (VP (VBN activated))) (, ,) (PP (IN with) (CC or) (PP (IN without) (NP (NN TGF-beta)))))) (. .)))
+(S1 (S (S (NP (NN FOXP3) (NN expression)) (VP (VBD was) (VP (VBN measured) (PP (IN after) (NP (NP (CD 5) (NN d)) (PP (IN in) (NP (NN culture)))))))) (. .)))
+(S1 (S (S (NP (DT The) (NN dot) (NNS blots)) (VP (VBP are) (ADJP (JJ representative) (PP (IN of) (NP (CD three) (JJ independent) (NNS experiments)))))) (. .)))
+(S1 (S (S (S (LST (-LRB- -LRB-) (LS B) (-RRB- -RRB-)) (VP (VBZ Shows) (NP (DT the) (JJ same) (JJ experimental) (NN setup)))) (, ,) (CC but) (S (NP (ADJP (RB naturally) (VBG occurring)) (NN Th2) (NNS cells)) (VP (VBD were) (VP (VBN analyzed))))) (. .)))
+(S1 (S (S (NP (NNS Data)) (VP (VBP are) (ADJP (JJ representative) (PP (IN of) (NP (CD three) (JJ independent) (NNS experiments)))))) (. .)))

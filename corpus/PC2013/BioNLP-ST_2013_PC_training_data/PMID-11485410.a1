@@ -1,0 +1,28 @@
+T1	Complex 14 24	NF-kappa B
+T2	Gene_or_gene_product 102 111	IKK gamma
+T3	Gene_or_gene_product 112 116	NEMO
+T4	Gene_or_gene_product 146 156	I kappa Bs
+T5	Cellular_component 162 173	cytoplasmic
+T6	Complex 192 202	NF-kappa B
+T7	Complex 276 286	NF-kappa B
+T8	Gene_or_gene_product 331 346	I kappa B alpha
+T9	Complex 390 406	I kappa B kinase
+T10	Complex 408 411	IKK
+T11	Gene_or_gene_product 506 515	IKK alpha
+T12	Gene_or_gene_product 520 528	IKK beta
+T13	Gene_or_gene_product 544 548	IKK1
+T14	Gene_or_gene_product 553 557	IKK2
+T15	Gene_or_gene_product 626 641	I kappa B alpha
+T16	Gene_or_gene_product 646 660	I kappa B beta
+T17	Gene_or_gene_product 683 687	NEMO
+T18	Gene_or_gene_product 688 697	IKK gamma
+T19	Gene_or_gene_product 830 839	IKK gamma
+T20	Gene_or_gene_product 841 862	Delta C-IKK gamma 306
+T21	Gene_or_gene_product 867 888	Delta C-IKK gamma 261
+T22	Gene_or_gene_product 998 1015	Delta C-IKK gamma
+T23	Complex 1043 1046	IKK
+T24	Complex 1098 1108	NF-kappa B
+T25	Gene_or_gene_product 1189 1197	TNFalpha
+T26	Gene_or_gene_product 1278 1295	Delta C-IKK gamma
+T27	Complex 1314 1317	IKK
+T28	Complex 1332 1342	NF-kappa B

@@ -1,0 +1,49 @@
+T47	Positive_regulation 248 260	up-regulated
+E1	Positive_regulation:T47 Cause:T6 Theme:T7
+E2	Positive_regulation:T47 Cause:T6 Theme:T8
+T48	Gene_expression 317 330	co-expression
+E3	Gene_expression:T48 Theme:T9
+T49	Positive_regulation 350 358	involved
+E4	Positive_regulation:T49 Cause:E3 Theme:T10
+T50	Binding 462 473	interaction
+E5	Binding:T50 Theme:T7 Theme2:T10
+E6	Binding:T50 Theme:T8 Theme2:T10
+T51	Positive_regulation 548 551	led
+E7	Positive_regulation:T51 Theme:E9
+T52	Positive_regulation 560 569	dependent
+E8	Positive_regulation:T52 Cause:T12 Theme:E9
+T53	Transport 578 591	translocation
+E9	Transport:T53 ToLoc:T13 Theme:T14
+T54	Positive_regulation 623 630	induced
+E10	Positive_regulation:T54 Cause:T15 Theme:E12
+E11	Positive_regulation:T54 Cause:T15 Theme:E13
+T55	Gene_expression 631 641	expression
+E12	Gene_expression:T55 Theme:T17
+E13	Gene_expression:T55 Theme:T18
+T56	Positive_regulation 713 726	up-regulation
+E14	Positive_regulation:T56 Theme:T19
+E15	Positive_regulation:T56 Theme:T20
+T57	Positive_regulation 823 832	Induction
+E16	Positive_regulation:T57 Theme:T21
+E17	Positive_regulation:T57 Theme:T22
+T58	Gene_expression 1102 1112	expression
+E18	Gene_expression:T58 Theme:T26
+E19	Gene_expression:T58 Theme:T27
+T59	Dissociation 1117 1124	release
+E20	Dissociation:T59 Product:T26
+E21	Dissociation:T59 Product:T27
+T60	Gene_expression 1198 1208	expression
+E22	Gene_expression:T60 Theme:T28
+E23	Gene_expression:T60 Theme:T29
+T61	Inactivation 1308 1317	knockdown
+E24	Inactivation:T61 Theme:T32
+E25	Inactivation:T61 Theme:T33
+T62	Negative_regulation 1526 1536	inhibition
+E26	Negative_regulation:T62 Theme:T39
+E27	Negative_regulation:T62 Theme:T40
+T63	Dissociation 1566 1573	release
+E28	Dissociation:T63 Product:T41
+T64	Inactivation 1583 1592	knockdown
+E29	Inactivation:T64 Theme:T42
+T65	Dissociation 1727 1734	release
+E30	Dissociation:T65 Product:T43

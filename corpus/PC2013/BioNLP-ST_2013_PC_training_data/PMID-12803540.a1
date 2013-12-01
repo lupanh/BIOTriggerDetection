@@ -1,0 +1,50 @@
+T1	Gene_or_gene_product 68 108	spermidine/spermine N1-acetyltransferase
+T2	Simple_chemical 118 127	polyamine
+T3	Simple_chemical 153 161	spermine
+T4	Simple_chemical 166 176	spermidine
+T5	Gene_or_gene_product 201 245	spermidine/spermine N(1) -acetyl-transferase
+T6	Gene_or_gene_product 247 253	SSAT-1
+T7	Gene_or_gene_product 276 293	polyamine oxidase
+T8	Simple_chemical 305 315	spermidine
+T9	Simple_chemical 320 330	putrescine
+T10	Gene_or_gene_product 435 439	SSAT
+T11	Gene_or_gene_product 441 447	SSAT-2
+T12	Cellular_component 456 467	chromosomal
+T13	Gene_or_gene_product 512 518	SSAT-1
+T14	Gene_or_gene_product 534 540	SSAT-2
+T15	Gene_or_gene_product 694 700	SSAT-1
+T16	Gene_or_gene_product 751 757	SSAT-1
+T17	Simple_chemical 768 778	spermidine
+T18	Simple_chemical 783 791	spermine
+T19	Simple_chemical 870 880	putrescine
+T20	Simple_chemical 882 904	N (1)-acetylspermidine
+T21	Simple_chemical 906 926	N (1)-acetylspermine
+T22	Simple_chemical 931 961	N (1), N (12)-diacetylspermine
+T23	Gene_or_gene_product 994 1000	SSAT-2
+T24	Cellular_component 1018 1031	intracellular
+T25	Simple_chemical 1032 1041	polyamine
+T26	Simple_chemical 1056 1065	polyamine
+T27	Gene_or_gene_product 1154 1160	SSAT-1
+T28	Gene_or_gene_product 1165 1171	SSAT-2
+T29	Gene_or_gene_product 1289 1295	SSAT-2
+T30	Cellular_component 1353 1366	intracellular
+T31	Simple_chemical 1367 1376	polyamine
+T32	Gene_or_gene_product 1470 1476	SSAT-1
+T33	Simple_chemical 1508 1521	norspermidine
+T34	Simple_chemical 1522 1532	spermidine
+T35	Simple_chemical 1533 1541	spermine
+T36	Simple_chemical 1543 1563	N (1)-acetylspermine
+T37	Simple_chemical 1564 1574	putrescine
+T38	Gene_or_gene_product 1584 1590	SSAT-2
+T39	Simple_chemical 1612 1625	norspermidine
+T40	Simple_chemical 1626 1636	spermidine
+T41	Simple_chemical 1637 1645	spermine
+T42	Simple_chemical 1647 1667	N (1)-acetylspermine
+T43	Simple_chemical 1668 1678	putrescine
+T44	Gene_or_gene_product 1907 1913	SSAT-1
+T45	Gene_or_gene_product 1964 1970	SSAT-2
+T46	Gene_or_gene_product 1978 1984	SSAT-1
+T47	Simple_chemical 2007 2016	polyamine
+T48	Gene_or_gene_product 2055 2061	SSAT-2
+T49	Gene_or_gene_product 2125 2131	SSAT-2
+T50	Simple_chemical 2224 2233	polyamine

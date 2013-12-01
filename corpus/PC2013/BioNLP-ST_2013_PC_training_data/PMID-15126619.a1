@@ -1,0 +1,12 @@
+T1	Gene_or_gene_product 24 27	E2F
+T2	Gene_or_gene_product 53 56	pRB
+T3	Gene_or_gene_product 145 148	E2F
+T4	Cellular_component 311 320	chromatin
+T5	Gene_or_gene_product 362 364	Rb
+T6	Gene_or_gene_product 365 368	E2F
+T7	Gene_or_gene_product 394 401	histone
+T8	Gene_or_gene_product 441 444	E2F
+T9	Gene_or_gene_product 470 473	E2F
+T10	Gene_or_gene_product 604 607	E2F
+T11	Gene_or_gene_product 626 629	pRB
+T12	Gene_or_gene_product 630 633	E2F

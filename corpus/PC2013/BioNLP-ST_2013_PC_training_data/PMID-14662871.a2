@@ -1,0 +1,18 @@
+*	Equiv T3 T4
+*	Equiv T8 T9
+T29	Positive_regulation 54 64	modulating
+E1	Positive_regulation:T29 Theme:E2 Cause:T1
+T30	Pathway 70 79	signaling
+E2	Pathway:T30 Participant:T2
+T31	Positive_regulation 495 503	modulate
+E3	Positive_regulation:T31 Theme:E4
+T32	Pathway 508 517	signaling
+E4	Pathway:T32 Participant:T6
+T33	Activation 589 595	active
+E5	Activation:T33 Theme:T7
+T34	Gene_expression 1162 1171	expressed
+E6	Gene_expression:T34 Theme:T19
+T35	Negative_regulation 1268 1277	Depletion
+E7	Negative_regulation:T35 Theme:T23
+T36	Binding 1512 1523	interaction
+E8	Binding:T36 Theme:T26 Theme2:T27

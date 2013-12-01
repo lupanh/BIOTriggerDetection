@@ -1,0 +1,3 @@
+(S1 (S (NP (NN Statistics))))
+(S1 (S (S (NP (DT All) (NNS graphs)) (VP (VP (VBP display) (NP (DT the) (NP (NP (NN mean)) (CC +/-) (NP (NN SEM))))) (CC and) (VP (VBD were) (VP (VBN generated) (PP (IN with) (NP (NP (NN Prism) (CD 5)) (PRN (-LRB- -LRB-) (NP (NN Graphpad)) (-RRB- -RRB-)))))))) (. .)))
+(S1 (S (S (NP (JJ Statistical) (NN significance)) (VP (VBD was) (VP (VBN determined) (PP (IN by) (S (VP (VBG performing) (NP (NP (CD one) (CC or) (JJ two-way) (NN ANOVA)) (CC and) (NP (NP (DT the) (NN Bonferroni) (NN post-test)) (SBAR (WHADVP (WRB where)) (S (VP (VBP applicable)))))))))))) (. .)))

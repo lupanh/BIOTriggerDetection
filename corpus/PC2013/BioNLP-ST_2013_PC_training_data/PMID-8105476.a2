@@ -1,0 +1,18 @@
+*	Equiv T6 T7
+T21	Gene_expression 273 283	biogenesis
+E1	Gene_expression:T21 Theme:T8
+E2	Gene_expression:T21 Theme:T9
+T22	Gene_expression 432 443	synthesized
+E3	Gene_expression:T22 Theme:T13
+E4	Gene_expression:T22 Theme:T12
+E5	Gene_expression:T22 Theme:T11
+T23	Binding 500 536	enter a large molecular mass complex
+E6	Binding:T23 Theme:T11 Theme2:T12 Theme3:T13
+T24	Dissociation 582 590	released
+E7	Dissociation:T24 Product:T11 Product2:T12 Product3:T13
+T25	Binding 645 665	forming heterodimers
+E8	Binding:T25 Theme:T14
+T26	Binding 850 857	folding
+E9	Binding:T26 Theme:T18 Theme:T19
+T27	Regulation 889 897	involves
+E10	Regulation:T27 Cause:T20 Theme:E9

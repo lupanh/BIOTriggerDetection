@@ -1,0 +1,30 @@
+T1	Gene_or_gene_product 11 14	NRF
+T2	Complex 33 42	NF-kappaB
+T3	Gene_or_gene_product 43 46	p65
+T4	Gene_or_gene_product 57 84	NF-kappaB repressing factor
+T5	Gene_or_gene_product 86 89	NRF
+T6	Cellular_component 96 103	nuclear
+T7	Complex 166 175	NF-kappaB
+T8	Gene_or_gene_product 226 229	NRF
+T9	Complex 278 287	NF-kappaB
+T10	Complex 336 345	NF-kappaB
+T11	Gene_or_gene_product 398 401	NRF
+T12	Complex 425 434	NF-kappaB
+T13	Gene_or_gene_product 445 448	p65
+T14	Gene_or_gene_product 453 456	p50
+T15	Gene_or_gene_product 484 487	NRF
+T16	Gene_or_gene_product 517 520	p65
+T17	Gene_or_gene_product 664 667	NRF
+T18	Gene_or_gene_product 714 717	p65
+T19	Gene_or_gene_product 742 745	p50
+T20	Gene_or_gene_product 793 796	NRF
+T21	Gene_or_gene_product 858 861	NRF
+T22	Simple_chemical 863 876	Amino acids 1
+T23	Simple_chemical 877 880	380
+T24	Gene_or_gene_product 897 900	Rel
+T25	Gene_or_gene_product 926 929	p65
+T26	Gene_or_gene_product 984 987	NRF
+T27	Gene_or_gene_product 1073 1076	p65
+T28	Gene_or_gene_product 1131 1134	NRF
+T29	Gene_or_gene_product 1184 1187	p65
+T30	Gene_or_gene_product 1248 1251	p65

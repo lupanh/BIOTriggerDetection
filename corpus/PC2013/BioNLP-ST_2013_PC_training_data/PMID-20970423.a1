@@ -1,0 +1,18 @@
+T1	Gene_or_gene_product 0 4	NEMO
+T2	Gene_or_gene_product 16 21	c-Myc
+T3	Cellular_component 56 63	nucleus
+T4	Gene_or_gene_product 91 96	c-Myc
+T5	Gene_or_gene_product 171 200	NF-kappaB essential modulator
+T6	Gene_or_gene_product 202 206	NEMO
+T7	Gene_or_gene_product 252 257	c-Myc
+T8	Cellular_component 273 280	nucleus
+T9	Gene_or_gene_product 358 363	c-Myc
+T10	Gene_or_gene_product 405 409	Fbw7
+T11	Gene_or_gene_product 451 456	c-Myc
+T12	Gene_or_gene_product 461 465	Fbw7
+T13	Gene_or_gene_product 485 489	NEMO
+T14	Gene_or_gene_product 534 539	c-Myc
+T15	Complex 624 627	IKK
+T16	Gene_or_gene_product 654 659	c-Myc
+T17	Gene_or_gene_product 706 710	NEMO
+T18	Gene_or_gene_product 753 758	c-Myc

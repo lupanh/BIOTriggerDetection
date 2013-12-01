@@ -1,0 +1,9 @@
+T14	Negative_regulation 600 609	regulator
+E1	Negative_regulation:T14 Cause:T7 Theme:T6
+T15	Binding 713 721	interact
+E2	Binding:T15 Theme:T9 Theme2:T8
+T16	Binding 1247 1258	interaction
+E3	Binding:T16 Theme:T11
+M1	Negation E3
+T17	Regulation 1363 1374	association
+E4	Regulation:T17 Theme:T13 Cause:T12

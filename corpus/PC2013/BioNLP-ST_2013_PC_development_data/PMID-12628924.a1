@@ -1,0 +1,34 @@
+T1	Complex 34 43	NF-kappaB
+T2	Gene_or_gene_product 44 55	p65 subunit
+T3	Gene_or_gene_product 59 105	mitogen- and stress-activated protein kinase-1
+T4	Gene_or_gene_product 107 111	MSK1
+T5	Complex 115 136	Nuclear factor kappaB
+T6	Complex 138 147	NF-kappaB
+T7	Complex 264 273	NF-kappaB
+T8	Gene_or_gene_product 331 338	IkappaB
+T9	Cellular_component 426 435	cytoplasm
+T10	Cellular_component 451 458	nuclear
+T11	Cellular_component 546 553	nuclear
+T12	Complex 581 590	NF-kappaB
+T13	Gene_or_gene_product 631 663	mitogen-activated protein kinase
+T14	Simple_chemical 675 683	SB203580
+T15	Simple_chemical 688 695	PD98059
+T16	Simple_chemical 699 704	U0126
+T17	Gene_or_gene_product 726 773	mitogen- and stress- activated protein kinase-1
+T18	Gene_or_gene_product 775 779	MSK1
+T19	Simple_chemical 791 794	H89
+T20	Gene_or_gene_product 807 828	tumor necrosis factor
+T21	Gene_or_gene_product 830 833	TNF
+T22	Gene_or_gene_product 859 862	p65
+T23	Gene_or_gene_product 912 915	p65
+T24	Simple_chemical 925 931	Ser276
+T25	Gene_or_gene_product 999 1002	TNF
+T26	Gene_or_gene_product 1028 1032	MSK1
+T27	Cellular_component 1038 1045	nuclear
+T28	Gene_or_gene_product 1057 1060	p65
+T29	Gene_or_gene_product 1068 1072	MSK1
+T30	Gene_or_gene_product 1089 1092	p65
+T31	Gene_or_gene_product 1140 1143	p65
+T32	Simple_chemical 1147 1153	Ser276
+T33	Gene_or_gene_product 1242 1252	histone H3
+T34	Complex 1323 1332	NF-kappaB

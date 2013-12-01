@@ -1,0 +1,37 @@
+T1	Gene_or_gene_product 0 4	PTEN
+T2	Gene_or_gene_product 15 33	RNA polymerase III
+T3	Complex 75 81	TFIIIB
+T4	Gene_or_gene_product 92 96	PTEN
+T5	Gene_or_gene_product 223 252	phosphatidylinositol 3-kinase
+T6	Gene_or_gene_product 254 258	PI3K
+T7	Gene_or_gene_product 343 347	PTEN
+T8	Gene_or_gene_product 377 401	RNA polymerase (Pol) III
+T9	Gene_or_gene_product 489 493	PTEN
+T10	Gene_or_gene_product 497 501	PTEN
+T11	Gene_or_gene_product 528 539	RNA Pol III
+T12	Gene_or_gene_product 573 577	PTEN
+T13	Gene_or_gene_product 641 645	PTEN
+T14	Gene_or_gene_product 665 669	PTEN
+T15	Gene_or_gene_product 728 731	p53
+T16	Gene_or_gene_product 733 737	PTEN
+T17	Gene_or_gene_product 798 802	PI3K
+T18	Gene_or_gene_product 803 806	Akt
+T19	Gene_or_gene_product 807 811	mTOR
+T20	Gene_or_gene_product 812 815	S6K
+T21	Gene_or_gene_product 851 855	PTEN
+T22	Gene_or_gene_product 885 889	mTOR
+T23	Complex 903 909	TFIIIB
+T24	Gene_or_gene_product 954 974	TATA-binding protein
+T25	Gene_or_gene_product 979 983	Brf1
+T26	Gene_or_gene_product 1016 1020	PTEN
+T27	Simple_chemical 1057 1063	serine
+T28	Gene_or_gene_product 1083 1087	Brf1
+T29	Gene_or_gene_product 1146 1152	TFIIIB
+T30	Gene_or_gene_product 1200 1204	PTEN
+T31	Simple_chemical 1240 1246	serine
+T32	Gene_or_gene_product 1266 1270	Bdp1
+T33	Gene_or_gene_product 1342 1346	PTEN
+T34	Gene_or_gene_product 1396 1400	PI3K
+T35	Gene_or_gene_product 1401 1404	Akt
+T36	Gene_or_gene_product 1405 1409	mTOR
+T37	Gene_or_gene_product 1410 1413	S6K

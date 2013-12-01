@@ -1,0 +1,70 @@
+*	Equiv T6 T7
+*	Equiv T8 T9
+*	Equiv T16 T17
+T42	Regulation 0 10	Regulation
+E1	Regulation:T42 Theme:E4 Cause:T4
+T43	Positive_regulation 52 59	induced
+E2	Positive_regulation:T43 Theme:E4 Cause:T2
+E3	Positive_regulation:T43 Theme:E4 Cause:T1
+T44	Activation 70 80	activation
+E4	Activation:T44 Theme:T3
+T45	Positive_regulation 152 160	involved
+E5	Positive_regulation:T45 Cause:T5 Theme:E8
+T46	Positive_regulation 225 232	induced
+E6	Positive_regulation:T46 Theme:E8 Cause:T7
+E7	Positive_regulation:T46 Theme:E8 Cause:T9
+T47	Activation 233 243	activation
+E8	Activation:T47 Theme:T10
+T48	Positive_regulation 365 372	mediate
+E9	Positive_regulation:T48 Theme:E12
+E10	Positive_regulation:T48 Theme:E11
+T49	Binding 377 388	interaction
+E11	Binding:T49 Theme:T13 Theme2:T14 Theme3:T15
+E12	Binding:T49 Theme:T13 Theme2:T17
+T50	Binding 475 486	interaction
+E13	Binding:T50 Theme:T18 Theme2:T19
+T51	Positive_regulation 506 514	triggers
+E14	Positive_regulation:T51 Cause:E13 Theme:E15
+T52	Phosphorylation 520 535	phosphorylation
+E15	Phosphorylation:T52 Theme:T20
+T53	Positive_regulation 546 555	essential
+E16	Positive_regulation:T53 Theme:E17 Cause:E15
+T54	Activation 564 574	activation
+E17	Activation:T54 Theme:T18
+T55	Gene_expression 847 856	expressed
+E18	Gene_expression:T55 Theme:T24
+T56	Positive_regulation 882 889	induced
+E19	Positive_regulation:T56 Theme:T24
+T57	Binding 947 952	binds
+E20	Binding:T57 Theme:T26 Theme2:T27
+E21	Binding:T57 Theme:T26 Theme2:T28
+T58	Positive_regulation 1007 1013	induce
+E22	Positive_regulation:T58 Cause:T26 Theme:E24
+E23	Positive_regulation:T58 Cause:T26 Theme:E25
+M1	Negation E22
+M2	Negation E23
+T59	Phosphorylation 1019 1034	phosphorylation
+E24	Phosphorylation:T59 Theme:T29
+T60	Activation 1049 1059	activation
+E25	Activation:T60 Theme:T30
+T61	Negative_regulation 1114 1123	inhibitor
+E26	Negative_regulation:T61 Theme:E29 Cause:T31
+E27	Negative_regulation:T61 Theme:E30 Cause:T31
+E28	Negative_regulation:T61 Theme:E31 Cause:T31
+T62	Positive_regulation 1155 1162	induced
+E29	Positive_regulation:T62 Theme:E32 Cause:T32
+E30	Positive_regulation:T62 Cause:T34 Theme:E32
+E31	Positive_regulation:T62 Theme:E32 Cause:T33
+M3	Negation E30
+T63	Activation 1174 1184	activation
+E32	Activation:T63 Theme:T35
+T64	Positive_regulation 1200 1209	implicate
+E33	Positive_regulation:T64 Cause:T36 Theme:E34
+T65	Phosphorylation 1233 1248	phosphorylation
+E34	Phosphorylation:T65 Theme:T37
+T66	Regulation 1272 1281	regulated
+E35	Regulation:T66 Theme:E36
+T67	Gene_expression 1282 1292	expression
+E36	Gene_expression:T67 Theme:T38
+T68	Regulation 1352 1356	role
+E37	Regulation:T68 Theme:T39 Cause:E36

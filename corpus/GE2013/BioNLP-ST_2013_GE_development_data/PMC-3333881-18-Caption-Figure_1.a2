@@ -1,0 +1,13 @@
+T11	Gene_expression 334 344	expression
+T12	Binding 523 530	binding
+T13	Gene_expression 655 665	expression
+E1	Gene_expression:T11 Theme:T4
+E2	Binding:T12 Theme:T6
+E3	Binding:T12 Theme:T7
+E4	Gene_expression:T13 Theme:T8
+E5	Gene_expression:T13 Theme:T9
+M1	Speculation E1
+M2	Speculation E2
+M3	Speculation E3
+M4	Speculation E4
+M5	Speculation E5

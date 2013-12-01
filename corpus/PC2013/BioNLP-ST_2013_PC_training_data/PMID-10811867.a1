@@ -1,0 +1,23 @@
+T1	Gene_or_gene_product 0 24	Bruton's tyrosine kinase
+T2	Complex 55 69	IkappaB kinase
+T3	Complex 74 95	nuclear factor kappaB
+T4	Gene_or_gene_product 171 195	Bruton's tyrosine kinase
+T5	Gene_or_gene_product 197 200	btk
+T6	Gene_or_gene_product 375 378	BTK
+T7	Complex 478 501	B cell antigen receptor
+T8	Complex 503 506	BCR
+T9	Complex 521 524	BCR
+T10	Complex 585 611	nuclear factor (NF)-kappaB
+T11	Gene_or_gene_product 713 716	btk
+T12	Complex 759 762	BCR
+T13	Complex 785 794	NF-kappaB
+T14	Gene_or_gene_product 856 859	BTK
+T15	Complex 896 899	BCR
+T16	Complex 923 937	IkappaB kinase
+T17	Complex 939 942	IKK
+T18	Complex 972 981	NF-kappaB
+T19	Gene_or_gene_product 992 1004	IkappaBalpha
+T20	Gene_or_gene_product 1067 1070	BTK
+T21	Complex 1079 1082	IKK
+T22	Complex 1087 1096	NF-kappaB
+T23	Complex 1104 1107	BCR

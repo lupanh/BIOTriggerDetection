@@ -1,0 +1,78 @@
+*	Equiv T4 T5
+T51	Binding 56 63	binding
+E1	Binding:T51 Theme:T2 Theme:T1
+T52	Negative_regulation 77 97	negatively regulates
+E2	Negative_regulation:T52 Theme:T3 Cause:T1
+T53	Activation 190 199	activated
+E3	Activation:T53 Theme:T4 Cause:T8
+E4	Activation:T53 Theme:T4 Cause:T9
+T54	Positive_regulation 305 316	stimulation
+E5	Positive_regulation:T54 Theme:T4
+T55	Localization 350 357	located
+E6	Localization:T55 AtLoc:T11 Theme:T10
+T56	Transport 400 412	translocates
+E7	Transport:T56 ToLoc:T13 Theme:T12
+T57	Activation 454 463	activated
+E8	Activation:T57 Theme:T12
+T58	Binding 488 492	bind
+E9	Binding:T58 Theme:T14 Theme:T15
+M1	Speculation E9
+T59	Binding 587 594	binding
+E10	Binding:T59 Theme:T17 Theme:T16
+T60	Binding 654 659	binds
+E11	Binding:T60 Theme:T19 Theme:T18
+T61	Binding 677 688	interaction
+E12	Binding:T61 Theme:T18 Theme:T19
+T62	Positive_regulation 693 702	dependent
+E13	Positive_regulation:T62 Cause:E14 Theme:E12
+T63	Phosphorylation 706 721	phosphorylation
+E14	Phosphorylation:T63 Site:T20 Theme:T21
+T64	Binding 769 776	Binding
+E15	Binding:T64 Theme:T22 Theme:T23
+T65	Negative_regulation 838 847	decreased
+E16	Negative_regulation:T65 Theme:E15
+T66	Positive_regulation 875 886	stimulation
+E17	Positive_regulation:T66 Theme:T22
+T67	Transport 955 967	translocated
+E18	Transport:T67 ToLoc:T26 Theme:T24
+E19	Transport:T67 ToLoc:T26 Theme:T25
+T68	Localization 1038 1052	colocalization
+E20	Localization:T68 AtLoc:T29 Theme:T27
+E21	Localization:T68 AtLoc:T29 Theme:T28
+T69	Negative_regulation 1155 1164	decreased
+E22	Negative_regulation:T69 Cause:T31 Theme:T32
+T70	Positive_regulation 1236 1245	increased
+E23	Positive_regulation:T70 Theme:T35
+T71	Positive_regulation 1267 1277	stimulated
+E24	Positive_regulation:T71 Theme:T35
+T72	Positive_regulation 1359 1367	enhanced
+E25	Positive_regulation:T72 Theme:T36
+T73	Positive_regulation 1439 1448	increased
+E26	Positive_regulation:T73 Theme:T38
+T74	Positive_regulation 1498 1507	Increased
+E27	Positive_regulation:T74 Theme:E30
+E28	Positive_regulation:T74 Theme:E29
+T75	Phosphorylation 1508 1523	phosphorylation
+E29	Phosphorylation:T75 Site:T42 Theme:T43
+E30	Phosphorylation:T75 Site:T41 Theme:T43
+T76	Negative_regulation 1664 1674	interferes
+E31	Negative_regulation:T76 Cause:T45 Theme:E32
+T77	Phosphorylation 1685 1700	phosphorylation
+E32	Phosphorylation:T77 Theme:T46
+T78	Binding 1737 1744	binding
+E33	Binding:T78 Theme:T47 Theme:T48
+T79	Negative_regulation 1745 1765	negatively regulates
+E34	Negative_regulation:T79 Cause:E33 Theme:T48
+T80	Binding 1820 1831	association
+E35	Binding:T80 Product:T49
+T81	Dissociation 1832 1844	dissociation
+E36	Dissociation:T81 Theme:T49
+T82	Regulation 1892 1901	important
+E37	Regulation:T82 Cause:E35 Theme:E40
+E38	Regulation:T82 Cause:E36 Theme:E40
+M2	Speculation E37
+M3	Speculation E38
+T83	Positive_regulation 1914 1922	mediated
+E39	Positive_regulation:T83 Theme:E40
+T84	Activation 1928 1938	activation
+E40	Activation:T84 Theme:T50

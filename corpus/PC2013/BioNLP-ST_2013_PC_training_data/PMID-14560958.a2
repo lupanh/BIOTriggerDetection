@@ -1,0 +1,9 @@
+*	Equiv T3 T2
+T6	Pathway 5 14	signaling
+E1	Pathway:T6 Participant:T1
+T7	Pathway 87 94	pathway
+E2	Pathway:T7 Participant:T2
+T8	Pathway 360 367	pathway
+E3	Pathway:T8 Participant:T4
+T9	Regulation 503 513	regulation
+E4	Regulation:T9 Cause:E3 Theme:T5

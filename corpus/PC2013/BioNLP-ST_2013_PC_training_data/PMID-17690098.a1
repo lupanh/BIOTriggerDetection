@@ -1,0 +1,57 @@
+T1	Simple_chemical 15 24	lysine 56
+T2	Gene_or_gene_product 28 38	histone H3
+T3	Gene_or_gene_product 52 58	RTT109
+T4	Gene_or_gene_product 76 80	ASF1
+T5	Gene_or_gene_product 152 162	histone H3
+T6	Simple_chemical 163 172	lysine 56
+T7	Gene_or_gene_product 174 176	H3
+T8	Simple_chemical 177 180	K56
+T9	Complex 202 214	Rtt109-Vps75
+T10	Gene_or_gene_product 215 240	histone acetyltransferase
+T11	Gene_or_gene_product 242 245	HAT
+T12	Gene_or_gene_product 261 267	Rtt109
+T13	Gene_or_gene_product 301 308	histone
+T14	Gene_or_gene_product 319 323	Asf1
+T15	Gene_or_gene_product 373 379	Rtt109
+T16	Gene_or_gene_product 446 450	Asf1
+T17	Gene_or_gene_product 476 478	H3
+T18	Simple_chemical 479 482	K56
+T19	Gene_or_gene_product 499 501	H3
+T20	Simple_chemical 502 505	K56
+T21	Complex 594 606	Rtt109-Vps75
+T22	Gene_or_gene_product 607 610	HAT
+T23	Gene_or_gene_product 630 632	H3
+T24	Simple_chemical 633 636	K56
+T25	Gene_or_gene_product 651 653	H3
+T26	Gene_or_gene_product 654 656	H4
+T27	Gene_or_gene_product 675 679	Asf1
+T28	Complex 689 694	H3/H4
+T29	Gene_or_gene_product 748 752	Asf1
+T30	Gene_or_gene_product 757 759	H3
+T31	Simple_chemical 760 763	K56
+T32	Complex 818 830	Rtt109-Vps75
+T33	Complex 854 861	Asf1-H3
+T34	Complex 862 864	H4
+T35	Gene_or_gene_product 873 877	Asf1
+T36	Complex 892 903	Rtt109-Asf1
+T37	Gene_or_gene_product 952 956	Asf1
+T38	Gene_or_gene_product 965 970	H3/H4
+T39	Gene_or_gene_product 989 995	Rtt109
+T40	Gene_or_gene_product 1034 1042	SpRtt109
+T41	Gene_or_gene_product 1062 1066	Asf1
+T42	Gene_or_gene_product 1077 1079	H3
+T43	Simple_chemical 1080 1083	K56
+T44	Gene_or_gene_product 1084 1087	HAT
+T45	Gene_or_gene_product 1135 1139	Asf1
+T46	Gene_or_gene_product 1150 1152	H3
+T47	Simple_chemical 1153 1156	K56
+T48	Gene_or_gene_product 1183 1194	histones H3
+T49	Gene_or_gene_product 1199 1201	H4
+T50	Complex 1205 1218	Rtt109-Vps575
+T51	Gene_or_gene_product 1324 1330	Rtt109
+T52	Gene_or_gene_product 1345 1347	H3
+T53	Simple_chemical 1348 1351	K56
+T54	Cellular_component 1553 1562	ribosomal
+T55	Gene_or_gene_product 1673 1677	Asf1
+T56	Gene_or_gene_product 1699 1701	H3
+T57	Simple_chemical 1702 1705	K56

@@ -1,0 +1,27 @@
+T1	Gene_or_gene_product 14 36	promyelocytic leukemia
+T2	Gene_or_gene_product 38 41	PML
+T3	Gene_or_gene_product 43 71	retinoic acid receptor-alpha
+T4	Gene_or_gene_product 76 79	PML
+T5	Gene_or_gene_product 137 140	PML
+T6	Simple_chemical 141 161	peptide nucleic acid
+T7	Gene_or_gene_product 183 205	promyelocytic leukemia
+T8	Gene_or_gene_product 207 210	PML
+T9	Gene_or_gene_product 212 245	retinoic acid receptor (RAR)alpha
+T10	Gene_or_gene_product 423 426	PML
+T11	Simple_chemical 427 436	adamantyl
+T12	Simple_chemical 448 468	peptide nucleic acid
+T13	Simple_chemical 470 473	PNA
+T14	Gene_or_gene_product 532 535	PML
+T15	Gene_or_gene_product 536 544	RARalpha
+T16	Gene_or_gene_product 589 592	PML
+T17	Gene_or_gene_product 593 601	RARalpha
+T18	Simple_chemical 752 755	PNA
+T19	Simple_chemical 793 796	PNA
+T20	Gene_or_gene_product 923 926	PML
+T21	Gene_or_gene_product 927 935	RARalpha
+T22	Simple_chemical 971 975	PNAs
+T23	Gene_or_gene_product 1350 1353	PML
+T24	Simple_chemical 1435 1438	PNA
+T25	Gene_or_gene_product 1625 1628	PML
+T26	Gene_or_gene_product 1629 1637	RARalpha
+T27	Gene_or_gene_product 1642 1645	PML

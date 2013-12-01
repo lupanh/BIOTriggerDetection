@@ -1,0 +1,33 @@
+T35	Regulation 95 102	control
+E1	Regulation:T35 Theme:E3 Cause:T2
+E2	Regulation:T35 Theme:E3 Cause:T3
+T36	Transport 111 124	translocation
+E3	Transport:T36 FromLoc:T5 ToLoc:T5 Theme:T6
+T37	Binding 162 173	interaction
+E4	Binding:T37 Theme:T8
+T38	Binding 272 282	associates
+E5	Binding:T38 Theme2:T14 Theme:T11
+E6	Binding:T38 Theme:T11 Theme2:T13
+T39	Binding 330 338	assembly
+E7	Binding:T39 Theme:T11 Theme2:T13
+E8	Binding:T39 Theme:T11 Theme2:T14
+T40	Regulation 644 652	controls
+E9	Regulation:T40 Cause:T20 Theme:E11
+E10	Regulation:T40 Cause:T20 Theme:E12
+T41	Transport 661 674	translocation
+E11	Transport:T41 FromLoc:T21 ToLoc:T21 Theme:T23
+E12	Transport:T41 FromLoc:T21 ToLoc:T21 Theme:T22
+M1	Negation E11
+T42	Localization 717 725	retained
+T43	Positive_regulation 717 725	retained
+E13	Localization:T42 AtLoc:T25 Theme:T24
+E14	Positive_regulation:T43 Theme:E13 Cause:E19
+E15	Positive_regulation:T43 Theme:E13 Cause:E18
+E16	Positive_regulation:T43 Theme:E13 Cause:E17
+T44	Binding 800 812	interactions
+E17	Binding:T44 Theme:T26
+E18	Binding:T44 Theme:T27 Theme2:T29
+E19	Binding:T44 Theme:T28 Theme2:T29
+T45	Binding 971 979	assembly
+E20	Binding:T45 Theme:T30 Theme2:T32
+E21	Binding:T45 Theme:T30 Theme2:T33

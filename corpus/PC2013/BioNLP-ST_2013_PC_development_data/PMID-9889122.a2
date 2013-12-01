@@ -1,0 +1,47 @@
+T22	Negative_regulation 57 65	inhibits
+E1	Negative_regulation:T22 Cause:T1 Theme:T2
+T23	Negative_regulation 150 159	inhibited
+E2	Negative_regulation:T23 Theme:T3 Cause:E4
+E3	Negative_regulation:T23 Theme:T3 Cause:E5
+T24	Phosphorylation 163 178	phosphorylation
+E4	Phosphorylation:T24 Theme:T3 Site:T4
+E5	Phosphorylation:T24 Theme:T3 Site:T5
+T25	Negative_regulation 199 209	Disruption
+E6	Negative_regulation:T25 Theme:E7
+T26	Phosphorylation 219 234	phosphorylation
+E7	Phosphorylation:T26 Theme:T6
+T27	Negative_regulation 241 250	abrogates
+E8	Negative_regulation:T27 Theme:E9 Cause:E6
+T28	Regulation 271 281	regulation
+E9	Regulation:T28 Theme:T6
+T29	Phosphorylation 352 367	Phosphorylation
+E10	Phosphorylation:T29 Theme:T6
+T30	Regulation 386 396	controlled
+E11	Regulation:T30 Theme:E10 Cause:T7
+E12	Regulation:T30 Theme:E10 Cause:T8
+E13	Regulation:T30 Theme:E10 Cause:T9
+T31	Negative_regulation 645 654	decreased
+E14	Negative_regulation:T31 Theme:T10
+T32	Positive_regulation 713 720	induced
+E15	Positive_regulation:T32 Theme:E16
+T33	Negative_regulation 721 729	decrease
+E16	Negative_regulation:T33 Theme:T11
+T34	Negative_regulation 752 762	suppressed
+E17	Negative_regulation:T34 Theme:E16 Cause:T12
+T35	Negative_regulation 781 790	inhibitor
+E18	Negative_regulation:T35 Theme:T13 Cause:T12
+T36	Positive_regulation 839 848	dependent
+E19	Positive_regulation:T36 Cause:T14 Theme:E16
+T37	Phosphorylation 961 974	phosphorylate
+E20	Phosphorylation:T37 Theme:T15
+T38	Inactivation 979 989	inactivate
+E21	Inactivation:T38 Theme:T15
+T39	Activation 1177 1186	activated
+E22	Activation:T39 Theme:T18
+T40	Regulation 1297 1305	involves
+E23	Regulation:T40 Theme:E24
+T41	Inactivation 1313 1325	inactivation
+E24	Inactivation:T41 Theme:T19
+T42	Positive_regulation 1335 1344	catalyzed
+E25	Positive_regulation:T42 Theme:E24 Cause:T20
+E26	Positive_regulation:T42 Theme:E24 Cause:T21

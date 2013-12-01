@@ -1,0 +1,25 @@
+T1	Cellular_component 75 91	sister-chromatid
+T2	Cellular_component 159 169	chromosome
+T3	Gene_or_gene_product 316 325	ubiquitin
+T4	Complex 338 364	anaphase-promoting complex
+T5	Complex 366 369	APC
+T6	Gene_or_gene_product 400 407	securin
+T7	Gene_or_gene_product 426 434	separase
+T8	Cellular_component 459 475	sister-chromatid
+T9	Gene_or_gene_product 515 540	cyclin-dependent kinase 1
+T10	Gene_or_gene_product 542 546	Cdk1
+T11	Gene_or_gene_product 577 584	securin
+T12	Gene_or_gene_product 625 632	securin
+T13	Complex 655 658	APC
+T14	Gene_or_gene_product 676 681	Cdc14
+T15	Gene_or_gene_product 691 698	securin
+T16	Gene_or_gene_product 747 754	securin
+T17	Gene_or_gene_product 779 787	separase
+T18	Gene_or_gene_product 809 814	Cdc14
+T19	Gene_or_gene_product 1000 1007	securin
+T20	Cellular_component 1052 1062	chromosome
+T21	Gene_or_gene_product 1115 1122	securin
+T22	Gene_or_gene_product 1151 1155	Cdk1
+T23	Gene_or_gene_product 1160 1165	Cdc14
+T24	Cellular_component 1212 1228	sister-chromatid
+T25	Cellular_component 1256 1263	spindle

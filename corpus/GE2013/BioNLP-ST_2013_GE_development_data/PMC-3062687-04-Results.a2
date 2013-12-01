@@ -1,0 +1,118 @@
+T31	Positive_regulation 11 19	required
+T32	Entity 29 36	nuclear
+T33	Localization 37 50	translocation
+T34	Binding 87 98	interaction
+T35	Positive_regulation 102 110	required
+T36	Entity 120 127	nuclear
+T37	Localization 128 141	translocation
+T38	Negative_regulation 146 158	knocked down
+T39	Gene_expression 179 189	expression
+T40	Positive_regulation 255 262	induced
+T41	Entity 268 275	nuclear
+T42	Localization 276 285	migration
+T43	Positive_regulation 329 338	triggered
+T44	Entity 344 351	nuclear
+T45	Localization 352 365	translocation
+T46	Entity 451 458	nuclear
+T47	Localization 459 472	translocation
+T48	Negative_regulation 503 511	impaired
+T49	Negative_regulation 524 533	silencing
+T50	Negative_regulation 547 556	knockdown
+T51	Negative_regulation 568 578	attenuated
+T52	Entity 594 601	nuclear
+T53	Localization 602 614	accumulation
+T54	Positive_regulation 615 624	following
+T55	Gene_expression 704 714	expression
+T56	Positive_regulation 749 758	necessary
+T57	Positive_regulation 774 781	induced
+T58	Entity 787 794	nuclear
+T59	Localization 795 808	translocation
+T60	Entity 858 865	nuclear
+T61	Localization 866 879	translocation
+T62	Negative_regulation 884 891	blocked
+T63	Entity 950 957	nuclear
+T64	Localization 958 971	translocation
+T65	Gene_expression 1001 1011	expressing
+T66	Negative_regulation 1019 1030	kinase-dead
+T67	Positive_regulation 1041 1062	constitutively-active
+T68	Positive_regulation 1112 1116	SSEE
+T69	Negative_regulation 1126 1130	SSAA
+T70	Positive_regulation 1150 1157	induced
+T71	Regulation 1168 1177	dependent
+T72	Localization 1237 1245	remained
+T73	Entity 1246 1255	cytosolic
+T74	Positive_regulation 1256 1258	in
+T75	Negative_regulation 1268 1272	SSAA
+T76	Localization 1342 1354	translocated
+T77	Entity 1362 1369	nucleus
+T78	Positive_regulation 1370 1372	in
+T79	Positive_regulation 1399 1403	SSEE
+T80	Localization 1458 1468	detectable
+T81	Entity 1469 1476	nuclear
+T82	Positive_regulation 1482 1491	increased
+T83	Positive_regulation 1511 1515	SSEE
+T84	Negative_regulation 1555 1559	SSAA
+T85	Positive_regulation 1639 1648	necessary
+T86	Entity 1673 1680	nuclear
+T87	Localization 1681 1694	translocation
+T88	Positive_regulation 1695 1709	in response to
+E1	Positive_regulation:T31 Theme:E2 Cause:T1
+E2	Localization:T33 Theme:T2 ToLoc:T32
+E3	Binding:T34 Theme:T3 Theme2:T4
+E4	Positive_regulation:T35 Theme:E5 Cause:E3
+E5	Localization:T37 Theme:T5 ToLoc:T36
+E6	Negative_regulation:T38 Theme:E7
+E7	Gene_expression:T39 Theme:T6
+E8	Negative_regulation:T38 Theme:E9
+E9	Gene_expression:T39 Theme:T7
+E10	Positive_regulation:T40 Theme:E11
+E11	Localization:T42 Theme:T8 ToLoc:T41
+E12	Positive_regulation:T43 Theme:E13
+E13	Localization:T45 Theme:T9 ToLoc:T44
+E14	Localization:T47 Theme:T10 ToLoc:T46
+E15	Negative_regulation:T48 Theme:E14 Cause:E16
+E16	Negative_regulation:T49 Theme:T11
+E17	Negative_regulation:T50 Theme:T12
+E18	Negative_regulation:T51 Theme:E19 Cause:E17
+E19	Positive_regulation:T54 Theme:E20
+E20	Localization:T53 Theme:T13 ToLoc:T52
+E21	Gene_expression:T55 Theme:T14
+E22	Gene_expression:T55 Theme:T15
+E23	Positive_regulation:T56 Theme:E24 Cause:E21
+E24	Positive_regulation:T57 Theme:E26
+E25	Positive_regulation:T56 Theme:E24 Cause:E22
+E26	Localization:T59 Theme:T16 ToLoc:T58
+E27	Localization:T61 Theme:T17 ToLoc:T60
+E28	Negative_regulation:T62 Theme:E27
+E29	Localization:T64 Theme:T18 ToLoc:T63
+E30	Gene_expression:T65 Theme:T19
+E31	Negative_regulation:T66 Theme:T19
+E32	Positive_regulation:T67 Theme:T19
+E33	Positive_regulation:T68 Theme:T20
+E34	Negative_regulation:T69 Theme:T20
+E35	Positive_regulation:T70 Theme:E36 Cause:E33
+E36	Regulation:T71 Theme:T21
+E37	Positive_regulation:T70 Theme:E36 Cause:E34
+E38	Localization:T72 Theme:T22 ToLoc:T73
+E39	Positive_regulation:T74 Theme:E38 Cause:E40
+E40	Negative_regulation:T75 Theme:T23
+E41	Localization:T76 Theme:T24 ToLoc:T77
+E42	Positive_regulation:T78 Theme:E41 Cause:E43
+E43	Positive_regulation:T79 Theme:T25
+E44	Localization:T80 Theme:T26 ToLoc:T81
+E45	Positive_regulation:T82 Theme:E44 Cause:E46
+E46	Positive_regulation:T83 Theme:T27
+E47	Positive_regulation:T82 Theme:E44 Cause:E48
+E48	Negative_regulation:T84 Theme:T28
+E49	Positive_regulation:T85 Theme:E50 Cause:T29
+E50	Positive_regulation:T88 Theme:E51
+E51	Localization:T87 Theme:T30 ToLoc:T86
+M1	Speculation E4
+M2	Speculation E10
+M3	Negation E23
+M4	Negation E25
+M5	Speculation E29
+M6	Negation E35
+M7	Negation E37
+M8	Negation E45
+M9	Negation E47

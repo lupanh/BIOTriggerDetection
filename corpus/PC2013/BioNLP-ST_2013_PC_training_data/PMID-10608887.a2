@@ -1,0 +1,43 @@
+*	Equiv T4 T5
+T38	Conversion 55 63	sulfates
+T39	Positive_regulation 55 63	sulfates
+E1	Conversion:T38 Theme:T2
+E2	Positive_regulation:T39 Cause:T1 Theme:E1
+T40	Conversion 103 116	3-O-Sulfation
+T41	Positive_regulation 103 116	3-O-Sulfation
+E3	Conversion:T40 Theme:T3
+E4	Positive_regulation:T41 Theme:E3 Cause:T4
+T42	Conversion 254 263	synthesis
+E5	Conversion:T42 Product:T6
+T43	Conversion 295 303	modified
+T44	Positive_regulation 295 303	modified
+E6	Conversion:T43 Theme:T7
+E7	Positive_regulation:T44 Theme:E6 Cause:T8
+E8	Positive_regulation:T44 Theme:E6 Cause:T9
+T45	Conversion 410 418	transfer
+T46	Positive_regulation 410 418	transfer
+E9	Conversion:T45 Theme:T11 Theme2:T13
+E10	Positive_regulation:T46 Theme:E9 Cause:T8
+E11	Positive_regulation:T46 Theme:E9 Cause:T9
+T47	Conversion 706 714	modified
+T48	Positive_regulation 706 714	modified
+E12	Conversion:T47 Product:T19
+E13	Positive_regulation:T48 Cause:T18 Theme:E12
+T49	Conversion 1189 1197	sulfates
+T50	Positive_regulation 1189 1197	sulfates
+E14	Conversion:T49 Theme:T28
+E15	Positive_regulation:T50 Cause:T27 Theme:E14
+T51	Conversion 1253 1265	modification
+T52	Positive_regulation 1253 1265	modification
+E16	Conversion:T51 Theme:T30
+E17	Positive_regulation:T52 Cause:T29 Theme:E16
+T53	Conversion 1424 1433	sulfation
+T54	Positive_regulation 1424 1433	sulfation
+E18	Conversion:T53 Theme:T31
+E19	Positive_regulation:T54 Cause:T33 Theme:E18
+E20	Conversion:T53 Theme:T32
+E21	Positive_regulation:T54 Cause:T33 Theme:E20
+T55	Conversion 1609 1617	modified
+T56	Positive_regulation 1609 1617	modified
+E22	Conversion:T55 Product:T37
+E23	Positive_regulation:T56 Cause:T36 Theme:E22

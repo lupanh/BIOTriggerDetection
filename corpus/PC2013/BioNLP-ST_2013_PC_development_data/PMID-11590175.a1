@@ -1,0 +1,35 @@
+T1	Complex 34 44	NF-kappa B
+T2	Gene_or_gene_product 201 224	ornithine decarboxylase
+T3	Gene_or_gene_product 226 229	ODC
+T4	Gene_or_gene_product 232 235	ODC
+T5	Complex 375 385	NF-kappa B
+T6	Complex 533 543	NF-kappa B
+T7	Gene_or_gene_product 567 570	ODC
+T8	Gene_or_gene_product 615 618	ODC
+T9	Simple_chemical 622 651	alpha-difluoromethylornithine
+T10	Simple_chemical 653 657	DFMO
+T11	Cellular_component 703 716	intracellular
+T12	Simple_chemical 717 727	putrescine
+T13	Complex 747 757	NF-kappa B
+T14	Simple_chemical 774 778	DFMO
+T15	Gene_or_gene_product 829 844	I kappa B alpha
+T16	Complex 861 871	NF-kappa B
+T17	Cellular_component 879 888	cytoplasm
+T18	Simple_chemical 894 898	DFMO
+T19	Complex 907 917	NF-kappa B
+T20	Gene_or_gene_product 940 943	p65
+T21	Gene_or_gene_product 948 951	p50
+T22	Gene_or_gene_product 967 970	Rel
+T23	Simple_chemical 987 991	DFMO
+T24	Complex 1000 1010	NF-kappa B
+T25	Gene_or_gene_product 1062 1065	p65
+T26	Cellular_component 1075 1084	cytoplasm
+T27	Cellular_component 1094 1101	nucleus
+T28	Simple_chemical 1103 1107	DFMO
+T29	Complex 1173 1180	kappa B
+T30	Gene_or_gene_product 1201 1207	HLA-B7
+T31	Simple_chemical 1227 1231	DFMO
+T32	Complex 1292 1299	kappa B
+T33	Gene_or_gene_product 1320 1333	interleukin-8
+T34	Gene_or_gene_product 1361 1364	ODC
+T35	Complex 1390 1400	NF-kappa B

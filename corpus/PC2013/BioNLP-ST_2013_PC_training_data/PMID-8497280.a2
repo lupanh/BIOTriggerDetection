@@ -1,0 +1,87 @@
+T30	Regulation 44 51	control
+E1	Regulation:T30 Theme:E2 Cause:E3
+T31	Transcription 57 70	transcription
+E2	Transcription:T31 Theme:T2
+T32	Pathway 83 93	cell cycle
+E3	Pathway:T32 
+T33	Pathway 238 248	cell cycle
+E4	Pathway:T33 
+T34	Transcription 255 268	transcription
+E5	Transcription:T34 Theme:T4
+T35	Pathway 279 289	cell cycle
+E6	Pathway:T35 
+T36	Regulation 290 299	regulated
+E7	Regulation:T36 Cause:E6 Theme:E5
+T37	Positive_regulation 325 332	crucial
+E8	Positive_regulation:T37 Theme:E9
+T38	Pathway 348 358	cell cycle
+E9	Pathway:T38 
+T39	Regulation 359 369	regulation
+E10	Regulation:T39 Cause:E9 Theme:T5
+E11	Regulation:T39 Cause:E9 Theme:T6
+T40	Regulation 422 432	regulation
+E12	Regulation:T40 Theme:T7
+T41	Positive_regulation 444 452	required
+E13	Positive_regulation:T41 Cause:E12 Theme:E14
+T42	Pathway 464 474	cell cycle
+E14	Pathway:T42 
+T43	Regulation 532 542	regulators
+E15	Regulation:T43 Theme:E16
+T44	Transcription 551 564	transcription
+E16	Transcription:T44 Theme:T8
+T45	Positive_regulation 653 661	required
+E17	Positive_regulation:T45 Theme:E18
+T46	Transcription 666 679	transcription
+E18	Transcription:T46 Theme:T9
+T47	Pathway 702 712	cell cycle
+E19	Pathway:T47 
+T48	Pathway 843 853	cell cycle
+E20	Pathway:T48 
+T49	Regulation 854 863	regulated
+E21	Regulation:T49 Cause:E20 Theme:T11
+T50	Negative_regulation 926 935	decreases
+E22	Negative_regulation:T50 Theme:T13
+T51	Binding 1184 1188	bind
+E23	Binding:T51 Theme:T15
+T52	Regulation 1230 1234	role
+E24	Regulation:T52 Cause:T16 Theme:E25
+T53	Gene_expression 1251 1261	expression
+E25	Gene_expression:T53 Theme:T17
+T54	Pathway 1322 1332	cell cycle
+E26	Pathway:T54 
+T55	Regulation 1333 1343	regulation
+E27	Regulation:T55 Cause:E26 Theme:T18
+T56	Transcription 1412 1425	transcription
+E28	Transcription:T56 Theme:T20
+T57	Pathway 1456 1466	cell cycle
+E29	Pathway:T57 
+T58	Regulation 1467 1476	regulated
+E30	Regulation:T58 Cause:E29 Theme:T21
+T59	Positive_regulation 1523 1532	dependent
+E31	Positive_regulation:T59 Cause:T22 Theme:T21
+T60	Transcription 1551 1564	transcription
+E32	Transcription:T60 Theme:T23
+T61	Positive_regulation 1656 1664	required
+E33	Positive_regulation:T61 Theme:E37 Cause:T25
+E34	Positive_regulation:T61 Theme:E38 Cause:T25
+E35	Positive_regulation:T61 Theme:E38 Cause:E40
+E36	Positive_regulation:T61 Theme:E37 Cause:E40
+T62	Positive_regulation 1678 1688	activation
+E37	Positive_regulation:T62 Theme:E39
+T63	Negative_regulation 1693 1703	repression
+E38	Negative_regulation:T63 Theme:E39
+T64	Transcription 1712 1725	transcription
+E39	Transcription:T64 Theme:T26
+T65	Pathway 1738 1748	cell cycle
+E40	Pathway:T65 
+T66	Positive_regulation 1807 1815	activate
+E41	Positive_regulation:T66 Theme:E42
+T67	Transcription 1821 1834	transcription
+E42	Transcription:T67 Theme:T27
+T68	Positive_regulation 1842 1849	absence
+E43	Positive_regulation:T68 Theme:E41 Cause:T28
+M1	Negation E43
+T69	Transcription 1921 1934	transcription
+E44	Transcription:T69 Theme:T29
+T70	Negative_regulation 1935 1940	drops
+E45	Negative_regulation:T70 Theme:E44

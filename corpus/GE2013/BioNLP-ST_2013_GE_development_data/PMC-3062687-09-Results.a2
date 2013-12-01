@@ -1,0 +1,29 @@
+T13	Negative_regulation 6 14	inhibits
+T14	Entity 20 24	S209
+T15	Phosphorylation 25 40	phosphorylation
+T16	Negative_regulation 505 512	blocked
+T17	Entity 518 522	S209
+T18	Phosphorylation 523 538	phosphorylation
+T19	Negative_regulation 556 566	preventing
+T20	Entity 572 579	nuclear
+T21	Localization 580 593	translocation
+T22	Negative_regulation 831 834	low
+T23	Phosphorylation 845 852	phospho
+T24	Phosphorylation 920 927	phospho
+T25	Positive_regulation 959 966	intense
+T26	Negative_regulation 1012 1020	inhibits
+T27	Entity 1026 1030	S209
+T28	Phosphorylation 1031 1046	phosphorylation
+E1	Negative_regulation:T13 Theme:E2 Cause:T1
+E2	Phosphorylation:T15 Theme:T2 Site:T14
+E3	Negative_regulation:T16 Theme:E4 Cause:T5
+E4	Phosphorylation:T18 Theme:T6 Site:T17
+E5	Negative_regulation:T19 Theme:E6 Cause:E3
+E6	Localization:T21 Theme:T7 ToLoc:T20
+E7	Negative_regulation:T22 Theme:E8
+E8	Phosphorylation:T23 Theme:T8
+E9	Phosphorylation:T24 Theme:T10
+E10	Positive_regulation:T25 Theme:E9 Cause:T9
+E11	Negative_regulation:T26 Theme:E12 Cause:T11
+E12	Phosphorylation:T28 Theme:T12 Site:T27
+M1	Speculation E5

@@ -1,0 +1,41 @@
+T1	Simple_chemical 22 33	methylamine
+T2	Gene_or_gene_product 75 112	semicarbazide-sensitive amine oxidase
+T3	Simple_chemical 114 126	formaldehyde
+T4	Simple_chemical 132 149	hydrogen peroxide
+T5	Simple_chemical 176 187	methylamine
+T6	Simple_chemical 189 191	MA
+T7	Gene_or_gene_product 197 234	semicarbazide-sensitive amine oxidase
+T8	Gene_or_gene_product 236 240	SSAO
+T9	Simple_chemical 383 385	MA
+T10	Simple_chemical 427 441	norepinephrine
+T11	Simple_chemical 443 445	NE
+T12	Simple_chemical 643 645	MA
+T13	Gene_or_gene_product 688 692	SSAO
+T14	Gene_or_gene_product 712 716	SSAO
+T15	Simple_chemical 727 740	semicarbazide
+T16	Simple_chemical 790 792	MA
+T17	Simple_chemical 805 817	formaldehyde
+T18	Simple_chemical 822 839	hydrogen peroxide
+T19	Simple_chemical 879 881	MA
+T20	Simple_chemical 895 907	nitric oxide
+T21	Simple_chemical 909 922	prostaglandin
+T22	Simple_chemical 985 989	cGMP
+T23	Simple_chemical 1003 1005	MA
+T24	Gene_or_gene_product 1034 1038	SSAO
+T25	Simple_chemical 1073 1075	NE
+T26	Simple_chemical 1099 1101	MA
+T27	Simple_chemical 1286 1288	MA
+T28	Simple_chemical 1363 1376	Semicarbazide
+T29	Simple_chemical 1399 1401	MA
+T30	Gene_or_gene_product 1460 1464	SSAO
+T31	Simple_chemical 1519 1531	Formaldehyde
+T32	Simple_chemical 1572 1580	H(2)O(2)
+T33	Simple_chemical 1636 1638	NE
+T34	Simple_chemical 1674 1676	MA
+T35	Simple_chemical 1678 1680	MA
+T36	Simple_chemical 1712 1724	nitric oxide
+T37	Simple_chemical 1726 1739	prostaglandin
+T38	Simple_chemical 1754 1758	cGMP
+T39	Gene_or_gene_product 1831 1835	SSAO
+T40	Simple_chemical 1868 1874	amines
+T41	Simple_chemical 1881 1883	MA

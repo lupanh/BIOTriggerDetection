@@ -1,0 +1,23 @@
+*	Equiv T3 T4
+T29	Phosphorylation 8 23	phosphorylation
+E1	Phosphorylation:T29 Theme:T2
+T30	Phosphorylation 491 505	phosphorylated
+E2	Phosphorylation:T30 Theme:T10
+T31	Pathway 526 536	cell cycle
+E3	Pathway:T31 
+T32	Positive_regulation 537 546	dependent
+E4	Positive_regulation:T32 Cause:E3 Theme:E2
+T33	Phosphorylation 613 628	phosphorylation
+E5	Phosphorylation:T33 Theme:T11
+T34	Pathway 640 650	cell cycle
+E6	Pathway:T34 
+T35	Phosphorylation 680 695	phosphorylation
+E7	Phosphorylation:T35 Theme:T12
+T36	Phosphorylation 1155 1170	phosphorylation
+E8	Phosphorylation:T36 Theme:T19
+T37	Binding 1289 1296	binding
+E9	Binding:T37 Theme:T21 Theme2:T22
+T38	Binding 1410 1420	associated
+E10	Binding:T38 Theme:T23 Theme2:T24
+T39	Phosphorylation 1571 1586	phosphorylation
+E11	Phosphorylation:T39 Theme:T26

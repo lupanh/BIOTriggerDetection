@@ -1,0 +1,20 @@
+T14	Regulation 123 133	regulation
+E1	Regulation:T14 Theme:T4 Cause:T3
+T15	Activation 241 251	activation
+E2	Activation:T15 Cause:T5 Theme:T7
+E3	Activation:T15 Cause:T6 Theme:T7
+T16	Negative_regulation 263 270	inhibit
+E4	Negative_regulation:T16 Theme:T8 Cause:E2
+E5	Negative_regulation:T16 Cause:E3 Theme:T8
+T17	Phosphorylation 304 319	phosphorylation
+E6	Phosphorylation:T17 Theme:T9 Cause:T10
+T18	Negative_regulation 348 358	suppressed
+E7	Negative_regulation:T18 Theme:E6 Cause:E8
+T19	Pathway 366 375	signaling
+E8	Pathway:T19 Participant:T11
+T20	Pathway 419 426	pathway
+E9	Pathway:T20 Participant:T12
+T21	Positive_regulation 477 488	hyperactive
+E10	Positive_regulation:T21 Theme:E11
+T22	Pathway 493 502	signaling
+E11	Pathway:T22 Participant:T13

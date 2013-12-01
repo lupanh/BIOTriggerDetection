@@ -1,0 +1,9 @@
+root(ROOT-0, Summary-1)
+prep_of(Summary-1, Analysis-3)
+partmod(Analysis-3, Performed-4)
+prep_on(Performed-4, Wild-Type-6)
+prep_on(Performed-4, LMP1-8)
+conj_and(Wild-Type-6, LMP1-8)
+amod(Lymphomas-10, Transgenic-9)
+dep(Wild-Type-6, Lymphomas-10)
+

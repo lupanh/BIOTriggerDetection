@@ -1,0 +1,20 @@
+T25	Positive_regulation 5 14	dependent
+E1	Positive_regulation:T25 Cause:T1 Theme:E2
+T26	Acetylation 23 34	acetylation
+E2	Acetylation:T26 Theme:T2
+T27	Negative_regulation 357 368	suppressors
+E3	Negative_regulation:T27 Theme:T10
+T28	Acetylation 571 581	acetylated
+E4	Acetylation:T28 Theme:T15
+T29	Positive_regulation 593 602	dependent
+E5	Positive_regulation:T29 Cause:T16 Theme:E4
+T30	Regulation 636 643	promote
+E6	Regulation:T30 Theme:T17 Cause:E4
+T31	Negative_regulation 694 705	suppressors
+E7	Negative_regulation:T31 Theme:T18
+T32	Inactivation 706 716	inactivate
+E8	Inactivation:T32 Theme:T20
+T33	Regulation 809 817	modifies
+E9	Regulation:T33 Cause:T21 Theme:T22
+T34	Regulation 829 838	stabilize
+E10	Regulation:T34 Theme:T23 Cause:E9

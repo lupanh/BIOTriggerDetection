@@ -1,0 +1,24 @@
+T1	Gene_or_gene_product 32 40	p38gamma
+T2	Gene_or_gene_product 121 160	Mitogen-activated protein (MAP) kinases
+T3	Gene_or_gene_product 263 271	P38gamma
+T4	Gene_or_gene_product 295 305	MAP kinase
+T5	Gene_or_gene_product 373 381	P38gamma
+T6	Gene_or_gene_product 414 422	P38alpha
+T7	Gene_or_gene_product 441 460	P38alpha MAP kinase
+T8	Gene_or_gene_product 565 569	ERK2
+T9	Gene_or_gene_product 581 591	MAP kinase
+T10	Gene_or_gene_product 616 620	ERK2
+T11	Gene_or_gene_product 715 723	P38gamma
+T12	Simple_chemical 743 746	ATP
+T13	Gene_or_gene_product 850 853	P38
+T14	Gene_or_gene_product 902 910	P38gamma
+T15	Simple_chemical 930 936	Thr183
+T16	Simple_chemical 943 951	hydrogen
+T17	Gene_or_gene_product 1085 1093	P38gamma
+T18	Gene_or_gene_product 1161 1165	ERK2
+T19	Gene_or_gene_product 1183 1187	ERK2
+T20	Gene_or_gene_product 1256 1264	P38gamma
+T21	Simple_chemical 1335 1341	Thr183
+T22	Gene_or_gene_product 1420 1428	P38gamma
+T23	Gene_or_gene_product 1571 1582	MAP kinases
+T24	Gene_or_gene_product 1606 1617	MAP kinases

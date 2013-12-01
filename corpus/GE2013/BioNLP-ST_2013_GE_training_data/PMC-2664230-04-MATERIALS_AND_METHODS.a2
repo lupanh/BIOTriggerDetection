@@ -1,0 +1,4 @@
+T3	Positive_regulation 21 28	induced
+T4	Gene_expression 39 49	production
+E1	Positive_regulation:T3 Theme:E2
+E2	Gene_expression:T4 Theme:T1

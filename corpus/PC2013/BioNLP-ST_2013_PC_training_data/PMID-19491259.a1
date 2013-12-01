@@ -1,0 +1,19 @@
+T1	Gene_or_gene_product 0 4	PUMA
+T2	Gene_or_gene_product 175 179	PUMA
+T3	Gene_or_gene_product 214 217	p53
+T4	Gene_or_gene_product 326 330	PUMA
+T5	Simple_chemical 391 403	azoxymethane
+T6	Simple_chemical 405 408	AOM
+T7	Simple_chemical 410 417	dextran
+T8	Simple_chemical 418 437	sulfate sodium salt
+T9	Gene_or_gene_product 445 449	PUMA
+T10	Gene_or_gene_product 542 554	beta-catenin
+T11	Gene_or_gene_product 589 593	PUMA
+T12	Simple_chemical 668 671	AOM
+T13	Simple_chemical 673 676	AOM
+T14	Gene_or_gene_product 697 700	p53
+T15	Gene_or_gene_product 711 715	PUMA
+T16	Gene_or_gene_product 731 735	PUMA
+T17	Gene_or_gene_product 818 822	PUMA
+T18	Gene_or_gene_product 961 964	APC
+T19	Gene_or_gene_product 1018 1022	PUMA

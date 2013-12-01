@@ -1,0 +1,43 @@
+T1	Gene_or_gene_product 30 35	Pdcd4
+T2	Gene_or_gene_product 47 90	eukaryotic translation initiation factor 4A
+T3	Gene_or_gene_product 135 140	Pdcd4
+T4	Gene_or_gene_product 263 267	AP-1
+T5	Gene_or_gene_product 363 368	Pdcd4
+T6	Gene_or_gene_product 431 437	eIF4AI
+T7	Gene_or_gene_product 442 449	eIF4AII
+T8	Gene_or_gene_product 501 506	Pdcd4
+T9	Gene_or_gene_product 524 529	eIF4A
+T10	Cellular_component 537 546	cytoplasm
+T11	Gene_or_gene_product 548 553	eIF4A
+T12	Simple_chemical 560 563	ATP
+T13	Gene_or_gene_product 645 650	Pdcd4
+T14	Gene_or_gene_product 699 704	eIF4A
+T15	Gene_or_gene_product 709 714	eIF4F
+T16	Gene_or_gene_product 755 760	Pdcd4
+T17	Cellular_component 802 810	ribosome
+T18	Gene_or_gene_product 865 877	Pdcd4(D418A)
+T19	Gene_or_gene_product 915 920	eIF4A
+T20	Gene_or_gene_product 987 991	AP-1
+T21	Gene_or_gene_product 1021 1026	Pdcd4
+T22	Gene_or_gene_product 1037 1042	eIF4A
+T23	Gene_or_gene_product 1084 1089	eIF4G
+T24	Simple_chemical 1091 1107	amino acids 1040
+T25	Simple_chemical 1111 1115	1560
+T26	Gene_or_gene_product 1149 1154	eIF4G
+T27	Simple_chemical 1155 1170	amino acids 635
+T28	Simple_chemical 1174 1178	1039
+T29	Gene_or_gene_product 1199 1204	Pdcd4
+T30	Gene_or_gene_product 1209 1221	Pdcd4(D418A)
+T31	Gene_or_gene_product 1252 1257	eIF4G
+T32	Gene_or_gene_product 1282 1287	Pdcd4
+T33	Gene_or_gene_product 1347 1352	eIF4A
+T34	Gene_or_gene_product 1381 1386	eIF4A
+T35	Gene_or_gene_product 1417 1422	eIF4G
+T36	Gene_or_gene_product 1442 1447	eIF4A
+T37	Gene_or_gene_product 1484 1489	eIF4G
+T38	Gene_or_gene_product 1491 1496	Pdcd4
+T39	Gene_or_gene_product 1508 1513	eIF4A
+T40	Gene_or_gene_product 1571 1576	Pdcd4
+T41	Gene_or_gene_product 1577 1582	eIF4A
+T42	Gene_or_gene_product 1649 1654	Pdcd4
+T43	Gene_or_gene_product 1674 1678	AP-1

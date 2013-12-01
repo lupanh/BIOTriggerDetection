@@ -1,0 +1,42 @@
+T26	Binding 68 79	interaction
+T27	Binding 490 499	hijacking
+T28	Negative_regulation 535 545	preventing
+T25	Anaphora 546 559	the repressor
+T29	Binding 560 567	binding
+T30	Binding 608 618	associated
+T31	Positive_regulation 657 666	increased
+T32	Binding 679 686	binding
+T33	Positive_regulation 778 786	required
+T34	Binding 813 824	association
+T35	Positive_regulation 911 921	responsive
+T36	Positive_regulation 940 949	activated
+T37	Gene_expression 965 975	expression
+T38	Positive_regulation 985 994	dependent
+T39	Binding 1007 1012	bound
+T40	Entity 1031 1049	NF-kappaB enhancer
+T41	Positive_regulation 1055 1064	promoting
+T42	Binding 1069 1080	recruitment
+T43	Binding 1093 1105	displacement
+T44	Binding 1293 1304	interaction
+R1	Coreference Subject:T25 Object:T5
+E1	Binding:T26 Theme:T1 Theme2:T2
+E2	Binding:T27 Theme:T4 Theme2:T5
+E3	Negative_regulation:T28 Theme:E4 Cause:T4
+E4	Binding:T29 Theme:T5
+E5	Binding:T30 Theme:T6 Theme2:T7
+E6	Positive_regulation:T31 Theme:E7 Cause:T6
+E7	Binding:T32 Theme:T8
+E8	Positive_regulation:T33 Theme:T10
+E9	Positive_regulation:T33 Theme:T11
+E10	Binding:T34 Theme:T9 Theme2:T10
+E11	Positive_regulation:T35 Theme:T13
+E12	Positive_regulation:T36 Theme:E13 Cause:T12
+E13	Positive_regulation:T38 Theme:E14 Cause:T14
+E14	Gene_expression:T37 Theme:T13
+E15	Binding:T39 Theme:T12 Theme2:T15 Site2:T40
+E16	Positive_regulation:T41 Theme:E17 Cause:E15
+E17	Binding:T42 Theme:T16 Theme2:T15 Site2:T40
+E18	Positive_regulation:T41 Theme:E19 Cause:E15
+E19	Binding:T43 Theme:T17 Theme2:T16
+E20	Binding:T44 Theme:T22 Theme2:T23
+M1	Negation E19

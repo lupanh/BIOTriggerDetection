@@ -1,0 +1,32 @@
+T1	Gene_or_gene_product 11 32	heat shock protein 60
+T2	Gene_or_gene_product 85 105	Toll-like receptor 4
+T3	Gene_or_gene_product 110 113	MD2
+T4	Gene_or_gene_product 119 124	MyD88
+T5	Complex 169 178	NF-kappaB
+T6	Gene_or_gene_product 398 419	heat shock protein 60
+T7	Gene_or_gene_product 421 427	cHSP60
+T8	Gene_or_gene_product 613 619	cHSP60
+T9	Gene_or_gene_product 791 797	cHSP60
+T10	Gene_or_gene_product 811 817	cHSP60
+T11	Complex 836 845	NF-kappaB
+T12	Gene_or_gene_product 936 940	IL-8
+T13	Gene_or_gene_product 993 999	cHSP60
+T14	Simple_chemical 1056 1059	LPS
+T15	Gene_or_gene_product 1105 1110	HSP60
+T16	Gene_or_gene_product 1151 1171	Toll-like receptor 4
+T17	Gene_or_gene_product 1173 1177	TLR4
+T18	Gene_or_gene_product 1210 1214	TLR4
+T19	Gene_or_gene_product 1264 1270	cHSP60
+T20	Complex 1280 1289	NF-kappaB
+T21	Gene_or_gene_product 1323 1327	TLR4
+T22	Gene_or_gene_product 1341 1347	cHSP60
+T23	Gene_or_gene_product 1427 1433	cHSP60
+T24	Complex 1443 1452	NF-kappaB
+T25	Gene_or_gene_product 1478 1482	TLR4
+T26	Gene_or_gene_product 1487 1490	MD2
+T27	Gene_or_gene_product 1512 1517	MyD88
+T28	Gene_or_gene_product 1543 1549	cHSP60
+T29	Complex 1558 1567	NF-kappaB
+T30	Gene_or_gene_product 1620 1626	cHSP60
+T31	Complex 1824 1832	TLR4-MD2
+T32	Gene_or_gene_product 1854 1859	MyD88

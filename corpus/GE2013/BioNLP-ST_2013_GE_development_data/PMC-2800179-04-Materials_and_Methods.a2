@@ -1,0 +1,3 @@
+*	Equiv T1 T2
+T4	Gene_expression 1135 1144	expressed
+E1	Gene_expression:T4 Theme:T3

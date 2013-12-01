@@ -1,0 +1,54 @@
+*	Equiv T8 T9
+*	Equiv T11 T12
+*	Equiv T27 T28
+*	Equiv T35 T36
+*	Equiv T38 T39
+T42	Regulation 48 56	involved
+E1	Regulation:T42 Cause:T1 Theme:E2
+T43	Conversion 60 72	transferring
+E2	Conversion:T43 Theme:T3 Theme2:T5
+T44	Conversion 266 274	attached
+E3	Conversion:T44 Theme:T8
+T45	Conversion 375 383	modified
+E4	Conversion:T45 Theme:T10
+T46	Gene_expression 512 521	expressed
+E5	Gene_expression:T46 Theme:T11
+T47	Inactivation 656 664	knockout
+E6	Inactivation:T47 Theme:T15
+T48	Conversion 720 728	modified
+E7	Conversion:T48 Theme:T16 Theme2:T18
+M1	Negation E7
+T49	Conversion 813 821	addition
+E8	Conversion:T49 Theme:T19
+E9	Conversion:T49 Theme:T20
+T50	Gene_expression 893 903	expression
+E10	Gene_expression:T50 Theme:T22
+T51	Regulation 932 940	affected
+E11	Regulation:T51 Theme:E10
+T52	Conversion 958 970	modification
+E12	Conversion:T52 Theme:T23 Theme2:T24
+T53	Positive_regulation 1022 1031	essential
+E13	Positive_regulation:T53 Cause:E12 Theme:E14
+M2	Negation E13
+T54	Conversion 1036 1046	attachment
+E14	Conversion:T54 Theme:T25
+T55	Negative_regulation 1085 1094	inhibitor
+E15	Negative_regulation:T55 Theme:E16 Cause:T27
+T56	Conversion 1102 1114	biosynthesis
+E16	Conversion:T56 Product:T26
+T57	Negative_regulation 1133 1142	inhibited
+E17	Negative_regulation:T57 Theme:E18 Cause:T27
+T58	Conversion 1143 1151	transfer
+E18	Conversion:T58 Theme:T29 Theme2:T30
+T59	Conversion 1291 1303	Biosynthesis
+E19	Conversion:T59 Product:T33
+T60	Inactivation 1324 1332	knockout
+E20	Inactivation:T60 Theme:T34
+T61	Regulation 1347 1355	affected
+E21	Regulation:T61 Theme:E19 Cause:T35
+M3	Negation E21
+T62	Gene_expression 1386 1400	overexpressing
+E22	Gene_expression:T62 Theme:T37
+T63	Regulation 1417 1426	resistant
+E23	Regulation:T63 Theme:E22 Cause:T38
+M4	Negation E23

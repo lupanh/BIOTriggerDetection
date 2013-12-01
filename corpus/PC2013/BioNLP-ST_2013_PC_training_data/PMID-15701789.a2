@@ -1,0 +1,42 @@
+*	Equiv T7 T8
+T35	Regulation 11 20	regulates
+E1	Regulation:T35 Cause:T1 Theme:E2
+T36	Localization 26 38	localization
+E2	Localization:T36 Theme:T2 ToLoc:T3
+T37	Localization 156 164	localize
+E3	Localization:T37 ToLoc:T8 Theme:T5
+E4	Localization:T37 ToLoc:T8 Theme:T6
+T38	Inactivation 218 226	Deletion
+E5	Inactivation:T38 Theme:T9
+E6	Inactivation:T38 Theme:T10
+T39	Regulation 251 257	affect
+E7	Regulation:T39 Theme:E9 Cause:E5
+E8	Regulation:T39 Theme:E9 Cause:E6
+M1	Negation E7
+M2	Negation E8
+T40	Localization 418 430	localization
+E9	Localization:T40 Theme:T14
+T41	Pathway 501 508	pathway
+E10	Pathway:T41 Participant:T15
+T42	Negative_regulation 615 622	disrupt
+E11	Negative_regulation:T42 Theme:T18
+T43	Transport 663 672	displaced
+E12	Transport:T43 Theme:T20 FromLoc:T22
+E13	Transport:T43 Theme:T21 FromLoc:T22
+M3	Negation E13
+T44	Transport 711 723	displacement
+E14	Transport:T44 Theme:T23
+T45	Regulation 754 764	correlated
+E15	Regulation:T45 Theme:E14
+T46	Localization 848 860	localization
+E16	Localization:T46 Theme:T25 AtLoc:T26
+T47	Regulation 872 881	sensitive
+E17	Regulation:T47 Theme:E16 Cause:T28
+T48	Transport 924 931	release
+E18	Transport:T48 Theme:T29 FromLoc:T30
+T49	Regulation 962 968	linked
+E19	Regulation:T49 Theme:E18
+T50	Regulation 1070 1077	affects
+E20	Regulation:T50 Cause:T32 Theme:E21
+T51	Localization 1082 1094	localization
+E21	Localization:T51 Theme:T33 ToLoc:T34

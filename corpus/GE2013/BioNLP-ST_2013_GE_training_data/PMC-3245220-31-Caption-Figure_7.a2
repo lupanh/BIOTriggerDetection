@@ -1,0 +1,14 @@
+T12	Regulation 9 18	regulates
+T13	Phosphorylation 19 34	phosphorylation
+T14	Entity 55 61	Ser276
+T15	Gene_expression 111 122	transfected
+T16	Negative_regulation 181 197	kinase-deficient
+T17	Gene_expression 860 870	expression
+T18	Gene_expression 1055 1066	transfected
+E1	Regulation:T12 Theme:E2 Cause:T1
+E2	Phosphorylation:T13 Theme:T2 Site:T14
+E3	Gene_expression:T15 Theme:T3
+E4	Gene_expression:T15 Theme:T4
+E5	Negative_regulation:T16 Theme:T4
+E6	Gene_expression:T17 Theme:T7
+E7	Gene_expression:T18 Theme:T9

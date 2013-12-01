@@ -1,0 +1,38 @@
+T1	Cellular_component 50 55	Golgi
+T2	Gene_or_gene_product 56 78	alpha 1, 2-mannosidase
+T3	Gene_or_gene_product 80 82	IC
+T4	Simple_chemical 96 104	N-glycan
+T5	Cellular_component 161 169	membrane
+T6	Gene_or_gene_product 206 235	class I alpha1,2-mannosidases
+T7	Gene_or_gene_product 288 311	alpha1,2-mannosidase IC
+T8	Gene_or_gene_product 407 430	alpha1,2-Mannosidase IC
+T9	Simple_chemical 475 482	mannose
+T10	Simple_chemical 495 508	[(3)H]mannose
+T11	Simple_chemical 517 529	Man(9)GlcNAc
+T12	Simple_chemical 538 556	[(3)H]Man(6)GlcNAc
+T13	Simple_chemical 579 597	[(3)H]Man(5)GlcNAc
+T14	Simple_chemical 619 626	calcium
+T15	Simple_chemical 665 686	1-deoxymannojirimycin
+T16	Simple_chemical 691 702	kifunensine
+T17	Simple_chemical 717 724	mannose
+T18	Simple_chemical 814 829	Man(9)GlcNAc(2)
+T19	Simple_chemical 902 909	mannose
+T20	Simple_chemical 953 960	mannose
+T21	Simple_chemical 1004 1011	mannose
+T22	Simple_chemical 1025 1040	Man(9)GlcNAc(2)
+T23	Cellular_component 1048 1069	endoplasmic reticulum
+T24	Gene_or_gene_product 1070 1093	alpha1, 2-mannosidase I
+T25	Simple_chemical 1102 1126	Man(8)GlcNAc(2) isomer B
+T26	Simple_chemical 1141 1148	mannose
+T27	Simple_chemical 1188 1203	Man(9)GlcNAc(2)
+T28	Simple_chemical 1207 1231	Man(8)GlcNAc(2) isomer B
+T29	Cellular_component 1284 1289	Golgi
+T30	Gene_or_gene_product 1290 1314	alpha1,2-mannosidases IA
+T31	Gene_or_gene_product 1319 1321	IB
+T32	Gene_or_gene_product 1339 1362	alpha1,2-mannosidase IC
+T33	Cellular_component 1384 1389	Golgi
+T34	Cellular_component 1602 1607	Golgi
+T35	Gene_or_gene_product 1608 1632	alpha1,2-mannosidases IA
+T36	Gene_or_gene_product 1637 1639	IB
+T37	Cellular_component 1718 1723	Golgi
+T38	Gene_or_gene_product 1724 1745	alpha1, 2-mannosidase

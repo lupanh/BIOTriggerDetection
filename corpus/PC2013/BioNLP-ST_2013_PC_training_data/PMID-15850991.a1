@@ -1,0 +1,31 @@
+T1	Gene_or_gene_product 0 4	LRP5
+T2	Gene_or_gene_product 88 118	LDL receptor-related protein 5
+T3	Gene_or_gene_product 120 124	LRP5
+T4	Gene_or_gene_product 145 157	LDL receptor
+T5	Gene_or_gene_product 190 203	VLDL receptor
+T6	Gene_or_gene_product 212 239	apolipoprotein E receptor 2
+T7	Gene_or_gene_product 245 249	LRP5
+T8	Gene_or_gene_product 270 273	Wnt
+T9	Cellular_component 300 308	membrane
+T10	Gene_or_gene_product 338 346	Frizzled
+T11	Gene_or_gene_product 351 357	Kremen
+T12	Gene_or_gene_product 359 367	Frizzled
+T13	Gene_or_gene_product 372 376	LRP5
+T14	Gene_or_gene_product 385 388	Wnt
+T15	Gene_or_gene_product 410 422	beta-catenin
+T16	Gene_or_gene_product 463 471	dickkopf
+T17	Gene_or_gene_product 481 484	Dkk
+T18	Gene_or_gene_product 495 501	Kremen
+T19	Gene_or_gene_product 506 510	LRP5
+T20	Gene_or_gene_product 585 588	Wnt
+T21	Gene_or_gene_product 619 631	beta-catenin
+T22	Gene_or_gene_product 688 692	LRP5
+T23	Gene_or_gene_product 920 923	Dkk
+T24	Gene_or_gene_product 940 944	LRP5
+T25	Gene_or_gene_product 965 969	LRP5
+T26	Gene_or_gene_product 1132 1136	LRP5
+T27	Gene_or_gene_product 1141 1144	Wnt
+T28	Gene_or_gene_product 1145 1157	beta-catenin
+T29	Gene_or_gene_product 1277 1281	LRP5
+T30	Gene_or_gene_product 1367 1370	Wnt
+T31	Gene_or_gene_product 1371 1383	beta-catenin

@@ -1,0 +1,46 @@
+*	Equiv T3 T4
+T25	Phosphorylation 0 15	Phosphorylation
+E1	Phosphorylation:T25 Site:T1 Theme:T2
+T26	Positive_regulation 30 39	essential
+E2	Positive_regulation:T26 Theme:T2 Cause:E1
+T27	Gene_expression 218 227	expressed
+E3	Gene_expression:T27 Theme:T3
+T28	Phosphorylation 258 272	phosphorylated
+E4	Phosphorylation:T28 Theme:T3 Site:T5
+E5	Phosphorylation:T28 Theme:T3 Site:T6
+E6	Phosphorylation:T28 Theme:T3 Site:T7
+E7	Phosphorylation:T28 Theme:T3 Site:T8
+E8	Phosphorylation:T28 Theme:T3 Site:T9
+T29	Phosphorylation 339 354	phosphorylation
+E9	Phosphorylation:T29 Theme:T3 Site:T5
+E10	Phosphorylation:T29 Theme:T3 Site:T6
+E11	Phosphorylation:T29 Theme:T3 Site:T7
+E12	Phosphorylation:T29 Theme:T3 Site:T8
+E13	Phosphorylation:T29 Theme:T3 Site:T9
+T30	Regulation 372 382	unaffected
+E14	Regulation:T30 Cause:T10 Theme:E9
+E15	Regulation:T30 Cause:T10 Theme:E10
+E16	Regulation:T30 Cause:T10 Theme:E11
+E17	Regulation:T30 Cause:T10 Theme:E12
+E18	Regulation:T30 Cause:T10 Theme:E13
+M1	Negation E14
+M2	Negation E15
+M3	Negation E16
+M4	Negation E17
+M5	Negation E18
+T31	Negative_regulation 648 657	resistant
+E19	Negative_regulation:T31 Theme:E20
+T32	Dephosphorylation 661 678	dephosphorylation
+E20	Dephosphorylation:T32 Cause:T18 Site:T16 Theme:T17
+T33	Gene_expression 906 915	expressed
+E21	Gene_expression:T33 Theme:T22
+T34	Activation 932 938	active
+E22	Activation:T34 Theme:T22
+T35	Phosphorylation 943 957	phosphorylated
+E23	Phosphorylation:T35 Site:T23 Theme:T22
+T36	Phosphorylation 995 1008	phosphorylate
+E24	Phosphorylation:T36 Theme:T24 Site:T23 Cause:T24
+T37	Positive_regulation 1030 1037	leading
+E25	Positive_regulation:T37 Theme:E26 Cause:E24
+T38	Activation 1049 1059	activation
+E26	Activation:T38 Theme:T24

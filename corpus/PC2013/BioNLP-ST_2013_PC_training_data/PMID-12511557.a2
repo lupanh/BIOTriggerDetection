@@ -1,0 +1,65 @@
+T41	Negative_regulation 29 49	negatively regulates
+E1	Negative_regulation:T41 Cause:T1 Theme:E2
+T42	Pathway 63 72	signaling
+E2	Pathway:T42 Participant:T2
+T43	Binding 295 320	form a functional complex
+E3	Binding:T43 Theme:T6 Theme:T5
+T44	Inactivation 480 484	loss
+E4	Inactivation:T44 Theme:T8
+T45	Negative_regulation 488 498	inhibition
+E5	Negative_regulation:T45 Theme:T8
+T46	Regulation 513 523	associated
+E6	Regulation:T46 Theme:E8 Cause:E5
+E7	Regulation:T46 Theme:E8 Cause:E4
+M1	Speculation E7
+M2	Speculation E6
+T47	Positive_regulation 529 542	up-regulation
+E8	Positive_regulation:T47 Theme:T9
+T48	Regulation 577 586	regulated
+E9	Regulation:T48 Theme:T10 Cause:E10
+T49	Pathway 626 643	signaling pathway
+E10	Pathway:T49 Participant:T11 Participant2:T12
+T50	Positive_regulation 731 739	mediated
+E11	Positive_regulation:T50 Cause:T13 Theme:T15
+E12	Positive_regulation:T50 Cause:T14 Theme:T15
+M3	Speculation E11
+M4	Speculation E12
+T51	Positive_regulation 828 836	elevated
+E13	Positive_regulation:T51 Theme:T16
+T52	Gene_expression 879 889	expression
+E14	Gene_expression:T52 Theme:T18
+E15	Gene_expression:T52 Theme:T19
+E16	Gene_expression:T52 Theme:T20
+T53	Negative_regulation 949 956	reduced
+E17	Negative_regulation:T53 Theme:T21 Cause:E14
+E18	Negative_regulation:T53 Theme:T21 Cause:E15
+E19	Negative_regulation:T53 Theme:T21 Cause:E16
+M5	Negation E19
+T54	Negative_regulation 1036 1045	inhibited
+E20	Negative_regulation:T54 Cause:T22 Theme:T24
+E21	Negative_regulation:T54 Cause:T22 Theme:T25
+T55	Positive_regulation 1052 1062	stimulated
+E22	Positive_regulation:T55 Cause:T23 Theme:T25
+E23	Positive_regulation:T55 Cause:T23 Theme:T24
+T56	Negative_regulation 1106 1116	inhibition
+E24	Negative_regulation:T56 Theme:T25
+E25	Negative_regulation:T56 Theme:T24
+T57	Negative_regulation 1121 1131	eliminated
+E26	Negative_regulation:T57 Cause:T27 Theme:E24
+E27	Negative_regulation:T57 Cause:T27 Theme:E25
+E28	Negative_regulation:T57 Cause:T28 Theme:E24
+E29	Negative_regulation:T57 Cause:T28 Theme:E25
+M6	Negation E28
+M7	Negation E29
+T58	Activation 1150 1156	active
+E30	Activation:T58 Theme:T27
+T59	Negative_regulation 1490 1509	negatively regulate
+E31	Negative_regulation:T59 Cause:T37 Theme:T39
+E32	Negative_regulation:T59 Cause:T38 Theme:T39
+M8	Speculation E32
+M9	Speculation E31
+T60	Binding 1549 1562	participating
+E33	Binding:T60 Theme:T37 Theme2:T40
+E34	Binding:T60 Theme:T38 Theme2:T40
+M10	Speculation E33
+M11	Speculation E34

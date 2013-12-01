@@ -1,0 +1,48 @@
+T1	Gene_or_gene_product 19 45	elongation factor-2 kinase
+T2	Simple_chemical 49 59	serine 499
+T3	Complex 63 92	cAMP-dependent protein kinase
+T4	Simple_chemical 101 105	Ca2+
+T5	Gene_or_gene_product 106 116	calmodulin
+T6	Gene_or_gene_product 140 166	Elongation factor-2 kinase
+T7	Gene_or_gene_product 168 174	eEF-2K
+T8	Gene_or_gene_product 258 277	elongation factor-2
+T9	Gene_or_gene_product 279 284	eEF-2
+T10	Gene_or_gene_product 326 332	eEF-2K
+T11	Complex 367 396	cAMP-dependent protein kinase
+T12	Complex 398 401	PKA
+T13	Simple_chemical 437 443	Ca(2+)
+T14	Gene_or_gene_product 444 454	calmodulin
+T15	Gene_or_gene_product 456 459	CaM
+T16	Gene_or_gene_product 473 479	eEF-2K
+T17	Simple_chemical 566 570	cAMP
+T18	Simple_chemical 620 626	Ca(2+)
+T19	Gene_or_gene_product 627 630	CaM
+T20	Gene_or_gene_product 643 649	eEF-2K
+T21	Simple_chemical 726 730	cAMP
+T22	Gene_or_gene_product 876 914	glutathione S-transferase (GST)-eEF-2K
+T23	Simple_chemical 960 966	serine
+T24	Complex 1003 1006	PKA
+T25	Gene_or_gene_product 1032 1037	Arg-C
+T26	Gene_or_gene_product 1051 1061	GST-eEF-2K
+T27	Simple_chemical 1231 1238	Ser-365
+T28	Simple_chemical 1243 1250	Ser-499
+T29	Simple_chemical 1425 1431	Ca(2+)
+T30	Gene_or_gene_product 1432 1435	CaM
+T31	Gene_or_gene_product 1448 1454	eEF-2K
+T32	Gene_or_gene_product 1497 1500	Myc
+T33	Gene_or_gene_product 1508 1514	eEF-2K
+T34	Simple_chemical 1560 1581	chlorophenylthio-cAMP
+T35	Simple_chemical 1583 1591	CPT-cAMP
+T36	Simple_chemical 1606 1613	Ser-499
+T37	Simple_chemical 1644 1650	Ca(2+)
+T38	Gene_or_gene_product 1651 1654	CaM
+T39	Gene_or_gene_product 1667 1673	eEF-2K
+T40	Gene_or_gene_product 1720 1726	eEF-2K
+T41	Gene_or_gene_product 1732 1742	luciferase
+T42	Gene_or_gene_product 1779 1789	luciferase
+T43	Gene_or_gene_product 1816 1828	eEF-2K S499D
+T44	Gene_or_gene_product 1864 1874	luciferase
+T45	Gene_or_gene_product 1974 1986	eEF-2K S499D
+T46	Simple_chemical 2158 2165	Ser-499
+T47	Gene_or_gene_product 2187 2193	eEF-2K
+T48	Complex 2197 2200	PKA

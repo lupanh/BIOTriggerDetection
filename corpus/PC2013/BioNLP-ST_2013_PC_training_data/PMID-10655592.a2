@@ -1,0 +1,43 @@
+T36	Transport 8 21	sequestration
+T37	Positive_regulation 8 20	sequestratio
+E1	Transport:T36 ToLoc:T1 Theme:T2
+E2	Positive_regulation:T37 Cause:T3 Theme:E1
+T38	Pathway 144 154	cell cycle
+E3	Pathway:T38 
+T39	Transport 404 415	sequestered
+T40	Positive_regulation 404 415	sequestered
+E4	Transport:T39 Theme:T6 ToLoc:T9
+E5	Positive_regulation:T40 Cause:T10 Theme:E4
+T41	Transport 445 451	Export
+E6	Transport:T41 Theme:T11
+T42	Activation 541 551	activation
+E7	Activation:T42 Theme:T13
+T43	Positive_regulation 596 604	triggers
+E8	Positive_regulation:T43 Cause:E7 Theme:E10
+E9	Positive_regulation:T43 Cause:E7 Theme:E11
+T44	Degradation 605 616	degradation
+E10	Degradation:T44 Theme:T14
+T45	Localization 643 653	relocation
+E11	Localization:T45 Theme:T15 ToLoc:T16
+T46	Gene_expression 687 701	overexpressing
+E12	Gene_expression:T46 Theme:T17
+T47	Degradation 704 718	non-degradable
+E13	Degradation:T47 Theme:T17
+M1	Negation E13
+T48	Localization 796 804	relocate
+E14	Localization:T48 Theme:T20 ToLoc:T21
+M2	Negation E14
+T49	Transport 911 919	exported
+T50	Positive_regulation 911 919	exported
+E15	Transport:T49 Theme:T22 FromLoc:T23
+E16	Positive_regulation:T50 Cause:T24 Theme:E15
+T51	Degradation 1197 1208	degradation
+E17	Degradation:T51 Theme:T29
+T52	Transport 1232 1238	export
+T53	Positive_regulation 1232 1238	export
+E18	Transport:T52 FromLoc:T30 Theme:T29
+E19	Positive_regulation:T53 Theme:E18 Cause:T31
+T54	Negative_regulation 1508 1519	restricting
+E20	Negative_regulation:T54 Theme:E21
+T55	Activation 1520 1530	activation
+E21	Activation:T55 Theme:T35

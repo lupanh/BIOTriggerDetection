@@ -1,0 +1,43 @@
+*	Equiv T7 T8
+*	Equiv T11 T12
+T21	Negative_regulation 0 10	Inhibitory
+E1	Negative_regulation:T21 Theme:E2
+T22	Regulation 11 17	effect
+E2	Regulation:T22 Cause:T1 Theme:E3
+T23	Conversion 34 44	production
+E3	Conversion:T23 Product:T2
+T24	Negative_regulation 48 59	suppression
+E4	Negative_regulation:T24 Cause:E2 Theme:E6
+E5	Negative_regulation:T24 Cause:E2 Theme:E7
+T25	Gene_expression 68 78	expression
+E6	Gene_expression:T25 Theme:T3
+T26	Activation 94 104	activation
+E7	Activation:T26 Theme:T4
+T27	Negative_regulation 480 489	inhibited
+E8	Negative_regulation:T27 Cause:T9 Theme:E10
+T28	Positive_regulation 494 501	induced
+E9	Positive_regulation:T28 Cause:T10 Theme:E10
+T29	Conversion 520 530	production
+E10	Conversion:T29 Product:T11
+T30	Negative_regulation 640 649	inhibited
+E11	Negative_regulation:T30 Cause:T13 Theme:E12
+T31	Gene_expression 683 693	expression
+E12	Gene_expression:T31 Theme:T14
+T32	Negative_regulation 716 726	suppressed
+E13	Negative_regulation:T32 Cause:T13 Theme:E16
+E14	Negative_regulation:T32 Cause:T13 Theme:E17
+E15	Negative_regulation:T32 Cause:T13 Theme:E18
+T33	Binding 735 742	binding
+E16	Binding:T33 Theme:T16
+T34	Transport 764 777	translocation
+E17	Transport:T34 FromLoc:T15 Theme:T16
+T35	Phosphorylation 813 828	phosphorylation
+E18	Phosphorylation:T35 Theme:T17
+T36	Negative_regulation 956 966	inhibition
+E19	Negative_regulation:T36 Theme:E20
+T37	Conversion 973 983	production
+E20	Conversion:T37 Product:T19
+T38	Negative_regulation 996 1007	suppression
+E21	Negative_regulation:T38 Theme:E22 Cause:E19
+T39	Activation 1022 1032	activation
+E22	Activation:T39 Theme:T20

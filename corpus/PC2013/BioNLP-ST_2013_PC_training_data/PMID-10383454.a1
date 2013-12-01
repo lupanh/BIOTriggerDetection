@@ -1,0 +1,22 @@
+T1	Gene_or_gene_product 0 6	IRAK-M
+T2	Gene_or_gene_product 32 37	Pelle
+T3	Gene_or_gene_product 38 78	interleukin-1 receptor-associated kinase
+T4	Gene_or_gene_product 80 84	IRAK
+T5	Gene_or_gene_product 99 139	interleukin-1 receptor-associated kinase
+T6	Gene_or_gene_product 141 145	IRAK
+T7	Gene_or_gene_product 194 207	interleukin-1
+T8	Gene_or_gene_product 209 213	IL-1
+T9	Gene_or_gene_product 292 310	Toll/IL-1 receptor
+T10	Gene_or_gene_product 384 388	IRAK
+T11	Gene_or_gene_product 446 450	IRAK
+T12	Gene_or_gene_product 455 461	IRAK-2
+T13	Gene_or_gene_product 472 476	IRAK
+T14	Gene_or_gene_product 568 574	IRAK-M
+T15	Gene_or_gene_product 585 591	IRAK-M
+T16	Gene_or_gene_product 596 602	IRAK-2
+T17	Gene_or_gene_product 685 689	IL-1
+T18	Gene_or_gene_product 733 737	IRAK
+T19	Gene_or_gene_product 799 803	IRAK
+T20	Simple_chemical 841 859	lipopolysaccharide
+T21	Gene_or_gene_product 898 904	IRAK-M
+T22	Gene_or_gene_product 990 1008	Toll/IL-1 receptor

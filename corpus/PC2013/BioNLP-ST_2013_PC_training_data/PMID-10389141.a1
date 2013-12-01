@@ -1,0 +1,30 @@
+T1	Gene_or_gene_product 8 13	MAO A
+T2	Gene_or_gene_product 18 19	B
+T3	Gene_or_gene_product 66 91	MAO (monoamine oxidase) A
+T4	Gene_or_gene_product 96 97	B
+T5	Simple_chemical 151 157	amines
+T6	Gene_or_gene_product 159 164	MAO A
+T7	Simple_chemical 189 198	serotonin
+T8	Simple_chemical 200 219	5-hydroxytryptamine
+T9	Simple_chemical 221 225	5-HT
+T10	Simple_chemical 231 245	norepinephrine
+T11	Simple_chemical 247 249	NE
+T12	Gene_or_gene_product 260 265	MAO B
+T13	Simple_chemical 290 306	phenylethylamine
+T14	Simple_chemical 308 311	PEA
+T15	Simple_chemical 337 345	dopamine
+T16	Simple_chemical 347 349	DA
+T17	Gene_or_gene_product 487 492	MAO A
+T18	Gene_or_gene_product 497 498	B
+T19	Gene_or_gene_product 593 598	MAO A
+T20	Simple_chemical 637 641	5-HT
+T21	Simple_chemical 643 645	NE
+T22	Simple_chemical 650 652	DA
+T23	Gene_or_gene_product 720 725	MAO A
+T24	Gene_or_gene_product 740 745	MAO B
+T25	Simple_chemical 799 802	PEA
+T26	Gene_or_gene_product 823 828	MAO A
+T27	Gene_or_gene_product 833 834	B
+T28	Gene_or_gene_product 923 928	MAO A
+T29	Gene_or_gene_product 933 934	B
+T30	Simple_chemical 970 979	monoamine

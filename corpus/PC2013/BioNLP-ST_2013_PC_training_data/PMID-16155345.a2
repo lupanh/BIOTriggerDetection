@@ -1,0 +1,64 @@
+T22	Positive_regulation 11 18	induces
+E1	Positive_regulation:T22 Theme:T1
+E2	Positive_regulation:T22 Theme:E3
+T23	Phosphorylation 55 70	phosphorylation
+E3	Phosphorylation:T23 Theme:T2
+T24	Positive_regulation 119 129	activation
+E4	Positive_regulation:T24 Theme:E5
+T25	Pathway 137 147	cell cycle
+E5	Pathway:T25 
+T26	Pathway 327 337	cell cycle
+E6	Pathway:T26 
+T27	Pathway 410 420	cell cycle
+E7	Pathway:T27 
+T28	Positive_regulation 512 521	induction
+E8	Positive_regulation:T28 Theme:T4
+T29	Positive_regulation 533 542	increased
+E9	Positive_regulation:T29 Theme:E10
+T30	Gene_expression 543 553	expression
+E10	Gene_expression:T30 Theme:T5
+T31	Pathway 601 611	cell cycle
+E11	Pathway:T31 
+T32	Pathway 649 659	cell cycle
+E12	Pathway:T32 
+T33	Positive_regulation 691 700	increased
+E13	Positive_regulation:T33 Theme:T6
+E14	Positive_regulation:T33 Theme:T7
+T34	Binding 734 743	formation
+E15	Binding:T34 Product:T8
+T35	Positive_regulation 805 811	induce
+E16	Positive_regulation:T35 Theme:E17
+T36	Positive_regulation 812 822	activation
+E17	Positive_regulation:T36 Theme:E18
+T37	Pathway 846 856	cell cycle
+E18	Pathway:T37 
+T38	Phosphorylation 933 948	phosphorylation
+E19	Phosphorylation:T38 Theme:T10
+T39	Negative_regulation 1017 1024	impeded
+E20	Negative_regulation:T39 Cause:T12 Theme:T13
+E21	Negative_regulation:T39 Cause:T12 Theme:E22
+M1	Negation E21
+T40	Positive_regulation 1065 1074	induction
+E22	Positive_regulation:T40 Theme:T14
+T41	Negative_regulation 1106 1113	delayed
+E23	Negative_regulation:T41 Cause:T15 Theme:E25
+E24	Negative_regulation:T41 Cause:T15 Theme:E26
+T42	Phosphorylation 1126 1141	phosphorylation
+E25	Phosphorylation:T42 Theme:T16
+T43	Activation 1153 1163	activation
+E26	Activation:T43 Theme:T17
+T44	Positive_regulation 1257 1264	induces
+E27	Positive_regulation:T44 Theme:E30
+E28	Positive_regulation:T44 Theme:E32
+T45	Positive_regulation 1277 1285	mediated
+E29	Positive_regulation:T45 Cause:T18 Theme:E30
+T46	Negative_regulation 1286 1296	inhibition
+E30	Negative_regulation:T46 Theme:E31
+T47	Pathway 1300 1310	cell cycle
+E31	Pathway:T47 
+T48	Positive_regulation 1327 1336	induction
+E32	Positive_regulation:T48 Theme:T19
+T49	Activation 1377 1387	activation
+E33	Activation:T49 Theme:T20
+T50	Phosphorylation 1389 1404	phosphorylation
+E34	Phosphorylation:T50 Theme:T21

@@ -1,0 +1,66 @@
+*	Equiv T5 T6
+*	Equiv T13 T14
+T39	Positive_regulation 79 90	facilitated
+T40	Phosphorylation 105 120	phosphorylation
+T41	Entity 124 130	Ser276
+T42	Entity 139 145	Ser536
+T43	Entity 182 188	Ser276
+T44	Phosphorylation 189 204	phosphorylation
+T45	Gene_expression 231 245	co-transfected
+T46	Gene_expression 659 669	expressing
+T47	Gene_expression 829 841	introduction
+T48	Gene_expression 1051 1065	co-transfected
+T49	Gene_expression 1211 1214	-/-
+T50	Gene_expression 1290 1300	expression
+T51	Gene_expression 1346 1349	-/-
+T52	Gene_expression 1497 1509	transfecting
+T53	Gene_expression 1644 1654	expressing
+T54	Gene_expression 1729 1732	-/-
+T55	Gene_expression 1777 1788	transfected
+T56	Gene_expression 1989 1992	-/-
+T57	Gene_expression 2145 2156	transfected
+T58	Gene_expression 2306 2309	-/-
+T59	Gene_expression 2316 2326	expressing
+T60	Gene_expression 2440 2451	Introducing
+T61	Gene_expression 2660 2663	-/-
+T62	Gene_expression 2670 2680	expressing
+T63	Gene_expression 2760 2774	overexpressing
+T64	Regulation 2963 2973	modulating
+T65	Phosphorylation 2978 2993	phosphorylation
+T66	Entity 3014 3020	Ser276
+E1	Positive_regulation:T39 Theme:E2
+E2	Phosphorylation:T40 Theme:T1 Site:T41
+E3	Positive_regulation:T39 Theme:E4
+E4	Phosphorylation:T40 Theme:T1 Site:T42
+E5	Phosphorylation:T44 Theme:T2 Site:T43
+E6	Gene_expression:T45 Theme:T3
+E7	Gene_expression:T45 Theme:T4
+E8	Gene_expression:T46 Theme:T5
+E9	Gene_expression:T47 Theme:T7
+E10	Gene_expression:T48 Theme:T10
+E11	Gene_expression:T48 Theme:T11
+E12	Gene_expression:T49 Theme:T12
+E13	Gene_expression:T50 Theme:T13
+E14	Gene_expression:T51 Theme:T15
+E15	Gene_expression:T52 Theme:T16
+E16	Gene_expression:T53 Theme:T19
+E17	Gene_expression:T54 Theme:T20
+E18	Gene_expression:T55 Theme:T21
+E19	Gene_expression:T56 Theme:T23
+E20	Gene_expression:T57 Theme:T25
+E21	Gene_expression:T57 Theme:T26
+E22	Gene_expression:T58 Theme:T29
+E23	Gene_expression:T59 Theme:T30
+E24	Gene_expression:T60 Theme:T31
+E25	Gene_expression:T61 Theme:T34
+E26	Gene_expression:T62 Theme:T35
+E27	Gene_expression:T63 Theme:T36
+E28	Regulation:T64 Theme:E29
+E29	Phosphorylation:T65 Theme:T38 Site:T66
+M2	Negation E3
+M3	Negation E12
+M4	Negation E14
+M5	Negation E17
+M6	Negation E19
+M7	Negation E22
+M8	Negation E25

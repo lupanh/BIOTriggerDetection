@@ -1,0 +1,3 @@
+(S1 (S (NP (JJ Statistical) (NN Analysis))))
+(S1 (S (NP (JJ Statistical) (NNS comparisons)) (VP (VBD were) (VP (VBN performed) (S (VP (VBG using) (NP (NP (NN analysis)) (PP (IN of) (NP (NP (NN variance) (NN testing)) (PRN (-LRB- -LRB-) (NP (NP (NN Minitab) (NN software)) (, ,) (NP (NN State) (NN Park)) (, ,) (NP (NN PA)) (CC or) (NP (NN SPSS16) (NN software))) (, ,) (NP (NN SPSS) (NNP Inc.) (NNP Chicago)) (, ,) (NP (NN IL)) (-RRB- -RRB-))))))))) (. .)))
+(S1 (S (S (NP (JJ Statistical) (NN significance)) (VP (VBD was) (VP (VBN defined) (PP (IN as) (NP (NN p) (NN <) (NN =0.05)))))) (. .)))

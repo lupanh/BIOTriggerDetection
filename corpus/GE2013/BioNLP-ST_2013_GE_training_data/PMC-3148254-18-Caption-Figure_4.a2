@@ -1,0 +1,13 @@
+*	Equiv T11 T12
+T16	Negative_regulation 66 75	deficient
+T17	Negative_regulation 129 138	deficient
+T18	Negative_regulation 263 272	deficient
+T19	Gene_expression 379 389	expressing
+T20	Negative_regulation 491 498	lacking
+T21	Negative_regulation 1041 1050	deficient
+E1	Negative_regulation:T16 Theme:T2
+E2	Negative_regulation:T17 Theme:T4
+E3	Negative_regulation:T18 Theme:T5
+E4	Gene_expression:T19 Theme:T9
+E5	Negative_regulation:T20 Theme:T10
+E6	Negative_regulation:T21 Theme:T15

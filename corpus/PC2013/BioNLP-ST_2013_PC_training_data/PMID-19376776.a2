@@ -1,0 +1,157 @@
+*	Equiv T11 T10
+T48	Pathway 7 16	signaling
+E1	Pathway:T48 Participant:T1
+T49	Regulation 17 27	sensitizes
+E2	Regulation:T49 Theme:E5 Cause:E6
+E3	Regulation:T49 Theme:E5 Cause:E10
+T50	Positive_regulation 84 91	induced
+E4	Positive_regulation:T50 Cause:T2 Theme:E5
+T51	Pathway 92 101	apoptosis
+E5	Pathway:T51 
+T52	Negative_regulation 145 155	inhibiting
+E6	Negative_regulation:T52 Cause:E1 Theme:E9
+T53	Positive_regulation 165 173	mediated
+E7	Positive_regulation:T53 Theme:E9 Cause:T3
+E8	Positive_regulation:T53 Theme:E9 Cause:T4
+T54	Degradation 178 189	degradation
+E9	Degradation:T54 Theme:T5
+T55	Positive_regulation 194 207	up-regulating
+E10	Positive_regulation:T55 Theme:E12 Cause:E1
+T56	Positive_regulation 212 221	dependent
+E11	Positive_regulation:T56 Cause:T6 Theme:E12
+T57	Gene_expression 226 236	expression
+E12	Gene_expression:T57 Theme:T7
+T58	Pathway 245 254	signaling
+E13	Pathway:T58 Participant:T8
+T59	Regulation 255 276	plays a critical role
+E14	Regulation:T59 Theme:E15 Cause:E13
+T60	Regulation 280 290	regulating
+E15	Regulation:T60 Theme:E16
+T61	Pathway 332 341	apoptosis
+E16	Pathway:T61 
+T62	Gene_expression 374 388	overexpression
+E17	Gene_expression:T62 Theme:T9
+T63	Negative_regulation 465 474	arresting
+E18	Negative_regulation:T63 Theme:E19 Cause:E17
+T64	Pathway 479 489	cell cycle
+E19	Pathway:T64 
+T65	Positive_regulation 494 502	inducing
+E20	Positive_regulation:T65 Theme:E21 Cause:E17
+T66	Pathway 503 512	apoptosis
+E21	Pathway:T66 
+T67	Negative_regulation 528 537	resistant
+E22	Negative_regulation:T67 Theme:E24
+T68	Pathway 541 550	apoptotic
+E23	Pathway:T68 
+T69	Positive_regulation 551 560	induction
+E24	Positive_regulation:T69 Theme:E23 Cause:T10
+T70	Positive_regulation 710 717	induced
+E25	Positive_regulation:T70 Cause:T12 Theme:E26
+T71	Pathway 718 727	apoptosis
+E26	Pathway:T71 
+T72	Pathway 769 778	signaling
+E27	Pathway:T72 Participant:T13
+T73	Positive_regulation 829 836	induced
+E28	Positive_regulation:T73 Cause:T14 Theme:E29
+T74	Pathway 837 846	apoptosis
+E29	Pathway:T74 
+T75	Gene_expression 877 891	overexpression
+E30	Gene_expression:T75 Theme:T15
+T76	Activation 917 926	activated
+E31	Activation:T76 Theme:T16
+T77	Positive_regulation 943 955	up-regulated
+E32	Positive_regulation:T77 Cause:E30 Theme:E33
+T78	Gene_expression 968 978	expression
+E33	Gene_expression:T78 Theme:T17
+T79	Positive_regulation 1034 1047	up-regulation
+E34	Positive_regulation:T79 Theme:T18
+T80	Positive_regulation 1123 1133	activation
+E35	Positive_regulation:T80 Theme:E36
+T81	Pathway 1143 1152	signaling
+E36	Pathway:T81 Participant:T19
+T82	Negative_regulation 1154 1164	Inhibition
+E37	Negative_regulation:T82 Theme:E38 Cause:E39
+T83	Pathway 1181 1188	pathway
+E38	Pathway:T83 Participant:T20 Participant2:T21
+T84	Pathway 1199 1208	signaling
+E39	Pathway:T84 Participant:T22
+T85	Positive_regulation 1213 1224	responsible
+E40	Positive_regulation:T85 Cause:E37 Theme:E41
+T86	Negative_regulation 1233 1244	suppression
+E41	Negative_regulation:T86 Theme:E42
+T87	Degradation 1264 1275	degradation
+E42	Degradation:T87 Theme:T23
+T88	Positive_regulation 1282 1294	contributing
+E43	Positive_regulation:T88 Theme:E46 Cause:E41
+T89	Pathway 1309 1318	signaling
+E44	Pathway:T89 Participant:T25
+T90	Positive_regulation 1319 1327	mediated
+E45	Positive_regulation:T90 Theme:E46 Cause:E44
+T91	Positive_regulation 1328 1341	up-regulation
+E46	Positive_regulation:T91 Theme:E47
+T92	Gene_expression 1349 1359	expression
+E47	Gene_expression:T92 Theme:T26
+T93	Pathway 1381 1390	signaling
+E48	Pathway:T93 Participant:T27
+T94	Positive_regulation 1436 1443	induced
+E49	Positive_regulation:T94 Cause:T28 Theme:E50
+T95	Pathway 1444 1453	apoptosis
+E50	Pathway:T95 
+T96	Pathway 1470 1479	signaling
+E51	Pathway:T96 Participant:T29
+T97	Negative_regulation 1480 1484	lost
+E52	Negative_regulation:T97 Theme:E53
+T98	Positive_regulation 1501 1510	promotion
+E53	Positive_regulation:T98 Theme:E55
+T99	Positive_regulation 1520 1527	induced
+E54	Positive_regulation:T99 Cause:T30 Theme:E55
+T100	Pathway 1528 1537	apoptosis
+E55	Pathway:T100 
+T101	Inactivation 1545 1553	silenced
+E56	Inactivation:T101 Theme:T31
+T102	Inactivation 1578 1587	defective
+E57	Inactivation:T102 Theme:T32
+T103	Positive_regulation 1627 1638	enhancement
+E58	Positive_regulation:T103 Theme:E60 Cause:E61
+T104	Positive_regulation 1648 1655	induced
+E59	Positive_regulation:T104 Cause:T33 Theme:E60
+T105	Pathway 1656 1665	apoptosis
+E60	Pathway:T105 
+T106	Pathway 1676 1685	signaling
+E61	Pathway:T106 Participant:T34
+T107	Positive_regulation 1689 1698	dependent
+E62	Positive_regulation:T107 Theme:E58 Cause:E63
+T108	Positive_regulation 1708 1721	up-regulation
+E63	Positive_regulation:T108 Theme:T35
+T109	Pathway 1743 1752	signaling
+E64	Pathway:T109 Participant:T36
+T110	Positive_regulation 1759 1766	enhance
+E65	Positive_regulation:T110 Cause:E64 Theme:E66
+T111	Gene_expression 1771 1781	expression
+E66	Gene_expression:T111 Theme:T37
+T112	Positive_regulation 1791 1800	dependent
+E67	Positive_regulation:T112 Cause:T38 Theme:E65
+T113	Pathway 1832 1841	signaling
+E68	Pathway:T113 Participant:T39
+T114	Positive_regulation 1859 1866	induced
+E69	Positive_regulation:T114 Cause:T40 Theme:E70
+T115	Pathway 1867 1876	apoptosis
+E70	Pathway:T115 
+T116	Negative_regulation 1893 1903	inhibiting
+E71	Negative_regulation:T116 Cause:E68 Theme:E73
+E72	Negative_regulation:T116 Cause:E68 Theme:E74
+T117	Positive_regulation 1913 1921	mediated
+E73	Positive_regulation:T117 Theme:E75 Cause:T41
+E74	Positive_regulation:T117 Theme:E75 Cause:T42
+T118	Degradation 1926 1937	degradation
+E75	Degradation:T118 Theme:T43
+T119	Positive_regulation 1942 1955	up-regulating
+E76	Positive_regulation:T119 Theme:E78 Cause:E68
+T120	Positive_regulation 1960 1969	dependent
+E77	Positive_regulation:T120 Cause:T44 Theme:E78
+T121	Gene_expression 1974 1984	expression
+E78	Gene_expression:T121 Theme:T45
+T122	Positive_regulation 2017 2027	activation
+E79	Positive_regulation:T122 Theme:E80
+T123	Pathway 2038 2047	signaling
+E80	Pathway:T123 Participant:T46

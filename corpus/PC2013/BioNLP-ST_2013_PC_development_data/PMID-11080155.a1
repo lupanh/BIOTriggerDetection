@@ -1,0 +1,32 @@
+T1	Cellular_component 0 7	Nuclear
+T2	Gene_or_gene_product 32 36	Far1
+T3	Gene_or_gene_product 92 96	Cdc4
+T4	Gene_or_gene_product 99 103	Far1
+T5	Complex 239 248	SCF(Cdc4)
+T6	Gene_or_gene_product 263 267	Far1
+T7	Cellular_component 275 282	nucleus
+T8	Cellular_component 341 356	26S proteasomes
+T9	Cellular_component 384 400	nuclear envelope
+T10	Gene_or_gene_product 450 454	Far1
+T11	Cellular_component 496 505	cytoplasm
+T12	Gene_or_gene_product 509 514	Ste21
+T13	Gene_or_gene_product 515 519	Msn5
+T14	Cellular_component 532 539	nuclear
+T15	Gene_or_gene_product 560 564	Far1
+T16	Cellular_component 583 594	cytoplasmic
+T17	Gene_or_gene_product 595 599	Far1
+T18	Complex 673 682	Cdc28-Cln
+T19	Complex 710 713	SCF
+T20	Gene_or_gene_product 723 728	Cdc53
+T21	Gene_or_gene_product 730 734	Hrt1
+T22	Gene_or_gene_product 739 743	Skp1
+T23	Cellular_component 768 775	nucleus
+T24	Cellular_component 784 793	cytoplasm
+T25	Gene_or_gene_product 821 825	Cdc4
+T26	Cellular_component 842 849	nuclear
+T27	Cellular_component 853 864	cytoplasmic
+T28	Gene_or_gene_product 873 877	Cdc4
+T29	Gene_or_gene_product 924 930	cdc4-1
+T30	Gene_or_gene_product 971 975	Far1
+T31	Cellular_component 983 992	cytoplasm
+T32	Cellular_component 1035 1046	subcellular

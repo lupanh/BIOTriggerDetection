@@ -1,0 +1,22 @@
+T22	Negative_regulation 14 23	represses
+E1	Negative_regulation:T22 Cause:T2 Theme:E3
+T23	Positive_regulation 37 46	activated
+E2	Positive_regulation:T23 Cause:T3 Theme:E3
+T24	Transcription 47 60	transcription
+E3	Transcription:T24 Theme:T4
+T25	Pathway 135 143	pathways
+E4	Pathway:T25 Participant:T6
+T26	Gene_expression 420 430	expression
+E5	Gene_expression:T26 Theme:T11
+T27	Positive_regulation 548 555	induced
+E6	Positive_regulation:T27 Cause:T14 Theme:E7
+T28	Binding 556 563	binding
+E7	Binding:T28 Theme:T15 Theme2:T16
+T29	Binding 667 674	binding
+E8	Binding:T29 Theme:T17
+T30	Negative_regulation 687 694	reduced
+E9	Negative_regulation:T30 Cause:T19 Theme:E8
+T31	Binding 745 756	interaction
+E10	Binding:T31 Theme:T19 Theme2:T17
+T32	Binding 810 817	binding
+E11	Binding:T32 Theme:T20 Theme2:T21

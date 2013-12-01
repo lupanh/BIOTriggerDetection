@@ -1,0 +1,13 @@
+T7	Negative_regulation 711 720	inhibitor
+T8	Regulation 1558 1567	regulated
+T9	Gene_expression 1820 1830	expressing
+T10	Regulation 1887 1897	functioned
+E1	Negative_regulation:T7 Theme:T1
+E2	Negative_regulation:T7 Theme:T2
+E3	Regulation:T8 Theme:T3
+E4	Regulation:T8 Theme:T4
+E5	Gene_expression:T9 Theme:T5
+E6	Regulation:T10 Theme:T6
+M1	Speculation E3
+M2	Negation E4
+M3	Speculation E4

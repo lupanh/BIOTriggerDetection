@@ -1,0 +1,81 @@
+*	Equiv T23 T24
+T29	Regulation 48 57	regulates
+E1	Regulation:T29 Theme:E2
+T30	Binding 62 69	binding
+E2	Binding:T30 Theme:T1 Theme:T2
+T31	Regulation 256 272	has a novel role
+E3	Regulation:T31 Cause:T3 Theme:E4
+T32	Positive_regulation 276 286	prolonging
+E4	Positive_regulation:T32 Theme:T4
+T33	Activation 303 312	activated
+E5	Activation:T33 Theme:T4
+T34	Binding 367 374	binding
+E6	Binding:T34 Theme:T6 Theme2:T5
+T35	Binding 499 504	binds
+E7	Binding:T35 Theme:T9 Theme:T7
+T36	Phosphorylation 509 525	unphosphorylated
+E8	Phosphorylation:T36 Site:T8 Theme:T9
+M1	Negation E8
+T37	Phosphorylation 604 618	phosphorylated
+E9	Phosphorylation:T37 Theme:T10 Site:T8
+T38	Binding 681 692	interaction
+E10	Binding:T38 Theme:T11 Theme:T12
+T39	Negative_regulation 731 740	abolished
+E11	Negative_regulation:T39 Theme:E10 Cause:E13
+E12	Negative_regulation:T39 Theme:E10 Cause:E14
+T40	Gene_expression 752 765	co-expression
+E13	Gene_expression:T40 Theme:T13
+E14	Gene_expression:T40 Theme:T14
+T41	Regulation 922 930	regulate
+E15	Regulation:T41 Cause:T15 Theme:T16
+M2	Negation E15
+T42	Phosphorylation 993 1008	phosphorylation
+E16	Phosphorylation:T42 Theme:T16
+T43	Positive_regulation 1088 1096	prolongs
+E17	Positive_regulation:T43 Cause:T17 Theme:T18
+T44	Negative_regulation 1138 1148	disruption
+E18	Negative_regulation:T44 Theme:E19
+T45	Binding 1156 1167	interaction
+E19	Binding:T45 Theme:T18 Theme2:T17
+T46	Positive_regulation 1168 1176	promotes
+E20	Positive_regulation:T46 Cause:E18 Theme:E21
+T47	Positive_regulation 1181 1193	accumulation
+E21	Positive_regulation:T47 Theme:T19
+T48	Dephosphorylation 1214 1230	dephosphorylated
+E22	Dephosphorylation:T48 Theme:T19
+T49	Negative_regulation 1343 1353	disruption
+E23	Negative_regulation:T49 Theme:E24
+T50	Binding 1361 1372	interaction
+E24	Binding:T50 Theme:T20
+T51	Negative_regulation 1384 1389	slows
+E25	Negative_regulation:T51 Cause:E23 Theme:T21
+T52	Binding 1583 1587	bind
+E26	Binding:T52 Theme:T26 Theme:T24
+E27	Binding:T52 Theme:T26 Theme:T25
+T53	Phosphorylation 1604 1620	unphosphorylated
+E28	Phosphorylation:T53 Theme:T24
+E29	Phosphorylation:T53 Theme:T25
+M3	Negation E28
+M4	Negation E29
+T54	Binding 1686 1691	binds
+E30	Binding:T54 Theme:T28 Theme:T27
+T55	Dephosphorylation 1696 1712	dephosphorylated
+E31	Dephosphorylation:T55 Theme:T28
+T56	Regulation 1764 1775	stabilizing
+E32	Regulation:T56 Theme:T28 Cause:E30
+T57	Positive_regulation 1792 1800	allowing
+E33	Positive_regulation:T57 Cause:E30 Theme:E34
+T58	Phosphorylation 1801 1819	re-phosphorylation
+E34	Phosphorylation:T58 Theme:T28
+T59	Negative_regulation 1835 1845	Disruption
+E35	Negative_regulation:T59 Theme:E36
+T60	Binding 1854 1865	interaction
+E36	Binding:T60 Theme:T28 Theme2:T27
+T61	Negative_regulation 1866 1874	prevents
+E37	Negative_regulation:T61 Theme:E38 Cause:E35
+T62	Phosphorylation 1875 1893	re-phosphorylation
+E38	Phosphorylation:T62 Theme:T28
+T63	Positive_regulation 1898 1905	targets
+E39	Positive_regulation:T63 Theme:E40 Cause:E35
+T64	Negative_regulation 1921 1936	down-regulation
+E40	Negative_regulation:T64 Theme:T28

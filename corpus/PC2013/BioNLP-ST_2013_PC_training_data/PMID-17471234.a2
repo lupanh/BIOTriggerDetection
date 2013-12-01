@@ -1,0 +1,57 @@
+*	Equiv T6 T7
+*	Equiv T15 T16
+*	Equiv T18 T19
+T35	Positive_regulation 31 37	target
+E1	Positive_regulation:T35 Cause:T2 Theme:T1
+T36	Pathway 50 69	apoptotic signaling
+E2	Pathway:T36 
+T37	Pathway 253 262	apoptosis
+E3	Pathway:T37 
+T38	Positive_regulation 459 465	target
+E4	Positive_regulation:T38 Cause:T6 Theme:T8
+T39	Pathway 478 497	signaling apoptosis
+E5	Pathway:T39 
+T40	Positive_regulation 526 535	increases
+E6	Positive_regulation:T40 Cause:T9 Theme:E7
+T41	Gene_expression 536 546	expression
+E7	Gene_expression:T41 Theme:T10
+T42	Transcription 563 578	transcriptional
+E8	Transcription:T42 Theme:T10
+T43	Translation 583 596	translational
+E9	Translation:T43 Theme:T10
+T44	Binding 645 654	interacts
+E10	Binding:T44 Theme:T11 Theme2:T12
+T45	Binding 682 687	binds
+E11	Binding:T45 Theme:T12 Theme2:T11
+T46	Positive_regulation 734 748	transactivates
+E12	Positive_regulation:T46 Theme:T13 Cause:T11
+T47	Negative_regulation 774 784	suppresses
+E13	Negative_regulation:T47 Cause:T14 Theme:E14
+T48	Phosphorylation 829 844	phosphorylation
+E14	Phosphorylation:T48 Theme:T15
+T49	Pathway 890 899	apoptosis
+E15	Pathway:T49 
+T50	Negative_regulation 1013 1021	inhibits
+E16	Negative_regulation:T50 Cause:T20 Theme:E17
+T51	Phosphorylation 1026 1041	phosphorylation
+E17	Phosphorylation:T51 Theme:T21
+T52	Positive_regulation 1096 1107	upregulates
+E18	Positive_regulation:T52 Cause:T22 Theme:T23
+T53	Negative_regulation 1117 1127	suppresses
+E19	Negative_regulation:T53 Theme:T24 Cause:T22
+T54	Positive_regulation 1209 1216	crucial
+E20	Positive_regulation:T54 Theme:T26
+T55	Positive_regulation 1239 1247	directed
+E21	Positive_regulation:T55 Cause:T27 Theme:E22
+T56	Pathway 1248 1257	apoptosis
+E22	Pathway:T56 
+T57	Positive_regulation 1293 1301	mediates
+E23	Positive_regulation:T57 Theme:E24 Cause:E25
+T58	Pathway 1302 1311	apoptosis
+E24	Pathway:T58 
+T59	Regulation 1336 1346	regulation
+E25	Regulation:T59 Theme:T29 Cause:T28
+T60	Negative_regulation 1370 1381	suppression
+E26	Negative_regulation:T60 Theme:E27
+T61	Pathway 1393 1402	signaling
+E27	Pathway:T61 Participant:T30

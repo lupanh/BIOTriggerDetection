@@ -1,0 +1,29 @@
+T23	Pathway 171 181	cell cycle
+E1	Pathway:T23 
+T24	Negative_regulation 706 715	repressed
+E2	Negative_regulation:T24 Theme:T6
+T25	Activation 765 774	activated
+E3	Activation:T25 Theme:T6
+T26	Regulation 801 811	controlled
+E4	Regulation:T26 Theme:T7 Cause:T8
+T27	Negative_regulation 866 875	represses
+E5	Negative_regulation:T27 Theme:T10 Cause:E10
+E6	Negative_regulation:T27 Theme:T10 Cause:E14
+E7	Negative_regulation:T27 Theme:T10 Cause:E15
+E8	Negative_regulation:T27 Theme:T10 Cause:E16
+T28	Transport 890 900	recruiting
+T29	Positive_regulation 890 900	recruiting
+E9	Transport:T28 Theme:T12
+E10	Positive_regulation:T29 Cause:T9 Theme:E9
+E11	Transport:T28 Theme:T13
+E12	Transport:T28 Theme:T14
+E13	Transport:T28 Theme:T16
+E14	Positive_regulation:T29 Cause:T9 Theme:E11
+E15	Positive_regulation:T29 Cause:T9 Theme:E12
+E16	Positive_regulation:T29 Cause:T9 Theme:E13
+T30	Negative_regulation 1100 1110	repression
+E17	Negative_regulation:T30 Cause:T18 Theme:T17
+T31	Pathway 1128 1138	cell cycle
+E18	Pathway:T31 
+T32	Regulation 1306 1312	linked
+E19	Regulation:T32 Theme:T21

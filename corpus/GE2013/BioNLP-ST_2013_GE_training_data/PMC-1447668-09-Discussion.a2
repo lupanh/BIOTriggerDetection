@@ -1,0 +1,118 @@
+*	Equiv T30 T31
+*	Equiv T33 T34
+*	Equiv T74 T75
+*	Equiv T60 T62
+*	Equiv T65 T64
+T95	Gene_expression 354 364	expression
+T96	Negative_regulation 586 598	inactivation
+T97	Binding 1306 1314	targeted
+T98	Entity 1322 1356	amino-terminal proline-rich region
+T99	Entity 1518 1539	leucine zipper domain
+T89	Anaphora 1664 1675	this domain
+T100	Regulation 1727 1738	play a role
+T101	Binding 1742 1757	dimer formation
+T90	Anaphora 1761 1763	it
+T102	Regulation 1764 1768	does
+T103	Regulation 1949 1962	dysregulation
+T104	Gene_expression 1972 1982	expression
+T105	Binding 3301 3312	interaction
+T106	Binding 3358 3365	Binding
+T107	Positive_regulation 3408 3416	promotes
+T108	Binding 3417 3425	assembly
+T109	Binding 3567 3574	recruit
+T110	Positive_regulation 3754 3768	overexpression
+T111	Gene_expression 3983 3997	overexpression
+T112	Positive_regulation 4530 4537	highest
+T113	Gene_expression 4562 4572	expression
+T114	Negative_regulation 4674 4680	lowest
+T115	Gene_expression 4705 4715	expression
+T116	Regulation 5193 5203	modulating
+T117	Gene_expression 5208 5218	expression
+T91	Anaphora 5222 5255	this important regulatory protein
+T118	Gene_expression 5309 5319	expression
+T119	Negative_regulation 5341 5355	down-regulated
+T120	Binding 5751 5762	recruitment
+T121	Negative_regulation 5813 5823	interferes
+T92	Anaphora 5829 5862	the latter of these two processes
+T122	Binding 5876 5887	recruitment
+T123	Negative_regulation 5966 5973	blocked
+T93	Anaphora 5984 5988	This
+T124	Positive_regulation 6000 6006	result
+T125	Binding 6023 6034	interaction
+T126	Negative_regulation 6598 6605	lacking
+T127	Entity 6610 6620	FKH domain
+T128	Regulation 7156 7164	regulate
+T94	Anaphora 7165 7179	multiple genes
+T129	Gene_expression 7596 7606	expression
+T130	Negative_regulation 8173 8180	inhibit
+T131	Gene_expression 8187 8197	expression
+T132	Binding 8492 8500	interact
+R1	Coreference Subject:T89 Object:T99
+R2	Coreference Subject:T90 Object:T89
+R3	Coreference Subject:T91 Object:T48
+R4	Coreference Subject:T92 Object:T120
+R7	Coreference Subject:T94 Object:T72
+R8	Coreference Subject:T94 Object:T73
+R9	Coreference Subject:T94 Object:T75
+R10	Coreference Subject:T94 Object:T76
+R11	Coreference Subject:T94 Object:T77
+R12	Coreference Subject:T94 Object:T78
+R13	Coreference Subject:T94 Object:T79
+R14	Coreference Subject:T94 Object:T80
+R15	Coreference Subject:T94 Object:T81
+E1	Negative_regulation:T123 Theme:E32 Cause:T57
+E2	Gene_expression:T95 Theme:T2
+E3	Negative_regulation:T96 Theme:T3
+E4	Binding:T97 Theme:T5 Site:T98
+E5	Regulation:T100 Theme:E6 Cause:T6 CSite:T99
+E6	Binding:T101 Theme:T8
+E7	Regulation:T102 Theme:E6 Cause:T6 CSite:T99
+E8	Regulation:T103 Theme:E9
+E9	Gene_expression:T104 Theme:T9
+E10	Binding:T105 Theme:T23
+E11	Binding:T106 Theme:T24
+E12	Positive_regulation:T107 Theme:E13 Cause:E11
+E13	Binding:T108 Theme:T25
+E14	Binding:T109 Theme:T26 Theme2:T27
+E15	Binding:T109 Theme:T26 Theme2:T28
+E16	Positive_regulation:T110 Theme:T30
+E17	Positive_regulation:T110 Theme:T31
+E18	Gene_expression:T111 Theme:T33
+E19	Gene_expression:T111 Theme:T34
+E20	Positive_regulation:T112 Theme:E21
+E21	Gene_expression:T113 Theme:T41
+E22	Negative_regulation:T114 Theme:E23
+E23	Gene_expression:T115 Theme:T44
+E24	Regulation:T116 Theme:E25
+E25	Gene_expression:T117 Theme:T48
+E26	Gene_expression:T118 Theme:T49
+E27	Negative_regulation:T119 Theme:E26 Cause:T50
+E28	Binding:T120 Theme:T53
+E29	Binding:T120 Theme:T54
+E30	Negative_regulation:T121 Theme:E28 Cause:T55
+E31	Negative_regulation:T121 Theme:E29 Cause:T55
+E32	Binding:T122 Theme:T56
+E33	Positive_regulation:T124 Theme:E30 Cause:E34
+E34	Binding:T125 Theme:T58 Theme2:T59
+E35	Positive_regulation:T124 Theme:E31 Cause:E34
+E36	Positive_regulation:T124 Theme:E1 Cause:E34
+E37	Negative_regulation:T126 Theme:T66 Site:T127
+E38	Regulation:T128 Theme:T72
+E39	Regulation:T128 Theme:T73
+E40	Regulation:T128 Theme:T75
+E41	Regulation:T128 Theme:T76
+E42	Regulation:T128 Theme:T77
+E43	Regulation:T128 Theme:T78
+E44	Regulation:T128 Theme:T79
+E45	Regulation:T128 Theme:T80
+E46	Regulation:T128 Theme:T81
+E47	Gene_expression:T129 Theme:T83
+E48	Negative_regulation:T130 Theme:E49
+E49	Gene_expression:T131 Theme:T86
+E50	Binding:T132 Theme:T87
+M1	Speculation E4
+M2	Speculation E5
+M3	Negation E8
+M4	Speculation E33
+M5	Speculation E35
+M6	Speculation E36

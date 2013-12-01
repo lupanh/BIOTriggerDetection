@@ -1,0 +1,136 @@
+*	Equiv T48 T49
+T20	Gene_expression 3055 3065	production
+T21	Positive_regulation 3101 3115	in response to
+T22	Positive_regulation 3135 3142	induced
+T23	Gene_expression 3152 3162	production
+T24	Gene_expression 3330 3337	produce
+T25	Localization 3613 3621	secreted
+T26	Positive_regulation 3629 3636	induced
+T17	Anaphora 3671 3674	one
+T27	Localization 3675 3683	secreted
+T28	Localization 3760 3768	presence
+T29	Gene_expression 3873 3883	expression
+T18	Anaphora 3887 3902	these receptors
+T30	Gene_expression 3939 3948	expressed
+T19	Anaphora 3973 3975	it
+T31	Gene_expression 3979 3988	expressed
+T32	Positive_regulation 4133 4140	induced
+T33	Localization 4145 4154	secretion
+T34	Regulation 4172 4180	response
+T35	Negative_regulation 4236 4244	decrease
+T36	Localization 4360 4368	secreted
+T37	Positive_regulation 4382 4389	induced
+T38	Localization 4508 4517	secretion
+T39	Negative_regulation 4701 4710	inhibited
+T40	Positive_regulation 4716 4723	induced
+T41	Localization 4728 4737	secretion
+T42	Positive_regulation 4898 4907	activated
+T58	Gene_expression 5209 5219	expression
+T59	Positive_regulation 5256 5264	enhanced
+T60	Gene_expression 5303 5313	expression
+T61	Gene_expression 5477 5487	expression
+T62	Positive_regulation 5498 5505	induced
+T63	Positive_regulation 5868 5877	increased
+T64	Gene_expression 5878 5888	expression
+T65	Gene_expression 6055 6062	express
+T66	Positive_regulation 6066 6075	increased
+T67	Regulation 6288 6297	regulates
+T68	Regulation 6304 6315	responsible
+T69	Gene_expression 6341 6351	expression
+T70	Protein_catabolism 6502 6513	degradation
+T71	Localization 6531 6544	translocation
+T72	Entity 6577 6584	nucleus
+T73	Positive_regulation 6592 6602	activation
+T74	Regulation 6619 6629	responsive
+T87	Negative_regulation 7349 7359	suppressed
+T88	Gene_expression 7365 7375	expression
+T89	Regulation 7581 7588	effects
+T90	Gene_expression 7613 7623	expression
+T91	Positive_regulation 7798 7804	higher
+T92	Gene_expression 7805 7815	expression
+T85	Anaphora 7819 7840	the adhesion molecule
+T93	Gene_expression 7862 7872	production
+T94	Positive_regulation 7906 7912	higher
+T95	Gene_expression 7913 7923	expression
+T96	Positive_regulation 8101 8107	induce
+T86	Anaphora 8108 8121	these effects
+T97	Positive_regulation 8765 8774	increased
+T98	Gene_expression 8782 8792	expression
+T99	Positive_regulation 8857 8867	stimulated
+T100	Gene_expression 8878 8888	expression
+T101	Localization 8893 8902	secretion
+R1	Coreference Subject:T17 Object:T4
+R2	Coreference Subject:T18 Object:T5
+R3	Coreference Subject:T18 Object:T6
+R4	Coreference Subject:T19 Object:T7
+R5	Coreference Subject:T85 Object:T79
+R6	Coreference Subject:T86 Object:T94
+E1	Gene_expression:T20 Theme:T1
+E2	Positive_regulation:T21 Theme:E1
+E3	Positive_regulation:T22 Theme:E4
+E4	Gene_expression:T23 Theme:T2
+E5	Gene_expression:T24 Theme:T3
+E6	Localization:T25 Theme:T4
+E7	Positive_regulation:T26 Theme:E6
+E8	Localization:T27 Theme:T4
+E9	Localization:T28 Theme:T5
+E10	Localization:T28 Theme:T6
+E11	Gene_expression:T29 Theme:T5
+E12	Gene_expression:T29 Theme:T6
+E13	Gene_expression:T30 Theme:T7
+E14	Gene_expression:T31 Theme:T7
+E15	Positive_regulation:T32 Theme:E16
+E16	Localization:T33 Theme:T8
+E17	Regulation:T34 Theme:T9
+E18	Negative_regulation:T35 Theme:E17
+E19	Localization:T36 Theme:T10
+E20	Positive_regulation:T37 Theme:E19
+E21	Localization:T38 Theme:T11
+E22	Negative_regulation:T39 Theme:E23
+E23	Positive_regulation:T40 Theme:E24
+E24	Localization:T41 Theme:T12
+E25	Positive_regulation:T42 Theme:T15
+E26	Gene_expression:T58 Theme:T44
+E27	Positive_regulation:T59 Theme:E26
+E28	Gene_expression:T60 Theme:T45
+E29	Gene_expression:T61 Theme:T46
+E30	Positive_regulation:T62 Theme:E29
+E31	Positive_regulation:T63 Theme:E32
+E32	Gene_expression:T64 Theme:T47
+E33	Positive_regulation:T63 Theme:E34
+E34	Gene_expression:T64 Theme:T48
+E35	Gene_expression:T65 Theme:T50
+E36	Positive_regulation:T66 Theme:E35
+E37	Regulation:T67 Theme:E38
+E38	Regulation:T68 Theme:E41
+E39	Regulation:T67 Theme:E40
+E40	Regulation:T68 Theme:E42
+E41	Gene_expression:T69 Theme:T52
+E42	Gene_expression:T69 Theme:T53
+E43	Protein_catabolism:T70 Theme:T54
+E44	Localization:T71 Theme:T55 ToLoc:T72
+E45	Localization:T71 Theme:T56 ToLoc:T72
+E46	Positive_regulation:T73 Theme:E47
+E47	Regulation:T74 Theme:T57
+E48	Negative_regulation:T87 Theme:E49
+E49	Gene_expression:T88 Theme:T75
+E50	Regulation:T89 Theme:E51
+E51	Gene_expression:T90 Theme:T77
+E52	Regulation:T89 Theme:E53
+E53	Gene_expression:T90 Theme:T78
+E54	Positive_regulation:T91 Theme:E55
+E55	Gene_expression:T92 Theme:T79
+E56	Positive_regulation:T91 Theme:E57
+E57	Gene_expression:T93 Theme:T80
+E58	Positive_regulation:T94 Theme:E59
+E59	Gene_expression:T95 Theme:T81
+E60	Positive_regulation:T96 Theme:E58
+E61	Positive_regulation:T97 Theme:E62
+E62	Gene_expression:T98 Theme:T82
+E63	Positive_regulation:T99 Theme:E64
+E64	Gene_expression:T100 Theme:T84
+E65	Positive_regulation:T99 Theme:E66
+E66	Localization:T101 Theme:T84
+M1	Negation E13
+M2	Speculation E50
+M3	Speculation E52

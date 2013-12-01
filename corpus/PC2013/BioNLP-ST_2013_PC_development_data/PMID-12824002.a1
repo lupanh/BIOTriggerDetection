@@ -1,0 +1,35 @@
+T1	Gene_or_gene_product 25 33	TNFalpha
+T2	Gene_or_gene_product 35 42	caspase
+T3	Gene_or_gene_product 58 65	IkappaB
+T4	Gene_or_gene_product 102 116	death receptor
+T5	Cellular_component 124 139	plasma membrane
+T6	Gene_or_gene_product 141 162	tumor necrosis factor
+T7	Gene_or_gene_product 164 167	TNF
+T8	Gene_or_gene_product 339 346	caspase
+T9	Gene_or_gene_product 382 394	IkappaBalpha
+T10	Gene_or_gene_product 396 404	Caspases
+T11	Gene_or_gene_product 551 559	caspases
+T12	Gene_or_gene_product 604 612	caspases
+T13	Gene_or_gene_product 635 643	caspases
+T14	Gene_or_gene_product 675 683	caspases
+T15	Gene_or_gene_product 728 736	caspases
+T16	Gene_or_gene_product 841 849	caspases
+T17	Gene_or_gene_product 870 878	Caspases
+T18	Cellular_component 970 982	cytoskeleton
+T19	Cellular_component 987 1003	nuclear scaffold
+T20	Complex 1059 1068	NF-kappaB
+T21	Gene_or_gene_product 1104 1116	IkappaBalpha
+T22	Complex 1118 1132	IkappaB kinase
+T23	Complex 1134 1137	IKK
+T24	Gene_or_gene_product 1154 1166	IkappaBalpha
+T25	Simple_chemical 1174 1185	residues 32
+T26	Simple_chemical 1190 1192	36
+T27	Simple_chemical 1227 1236	lysine 21
+T28	Simple_chemical 1241 1243	22
+T29	Cellular_component 1291 1305	26S proteasome
+T30	Complex 1362 1371	NF-kappaB
+T31	Gene_or_gene_product 1409 1415	TNF-R1
+T32	Complex 1448 1457	NF-kappaB
+T33	Gene_or_gene_product 1473 1481	caspases
+T34	Gene_or_gene_product 1512 1520	caspases
+T35	Complex 1551 1560	NF-kappaB

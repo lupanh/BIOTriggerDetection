@@ -1,0 +1,84 @@
+*	Equiv T17 T18
+T35	Pathway 18 35	signaling pathway
+E1	Pathway:T35 Participant:T2
+T36	Positive_regulation 39 45	induce
+E2	Positive_regulation:T36 Cause:E1 Theme:E5
+E3	Positive_regulation:T36 Cause:E1 Theme:E7
+E4	Positive_regulation:T36 Cause:E1 Theme:E6
+T37	Phosphorylation 59 74	phosphorylation
+E5	Phosphorylation:T37 Theme:T3
+E6	Phosphorylation:T37 Theme:T4
+T38	Pathway 79 88	apoptosis
+E7	Pathway:T38 Participant:T3 Participant2:T4
+T39	Phosphorylation 127 141	phosphorylated
+E8	Phosphorylation:T39 Theme:T5 Cause:T6
+T40	Activation 146 155	activated
+E9	Activation:T40 Theme:T5 Cause:T6
+T41	Positive_regulation 262 271	promoting
+E10	Positive_regulation:T41 Theme:E12
+E11	Positive_regulation:T41 Theme:E13
+T42	Pathway 272 289	cell cycle arrest
+E12	Pathway:T42 
+T43	Pathway 293 302	apoptosis
+E13	Pathway:T43 
+T44	Negative_regulation 304 316	Deregulation
+E14	Negative_regulation:T44 Theme:E15
+T45	Pathway 332 339	pathway
+E15	Pathway:T45 Participant:T7 Participant2:T8
+T46	Positive_regulation 345 352	results
+E16	Positive_regulation:T46 Cause:E14 Theme:E18
+E17	Positive_regulation:T46 Cause:E14 Theme:E19
+T47	Positive_regulation 360 370	activation
+E18	Positive_regulation:T47 Theme:T9
+T48	Positive_regulation 386 395	promotion
+E19	Positive_regulation:T48 Theme:E20
+T49	Pathway 399 408	apoptosis
+E20	Pathway:T49 
+T50	Positive_regulation 639 645	induce
+E21	Positive_regulation:T50 Cause:T13 Theme:E23
+E22	Positive_regulation:T50 Cause:T13 Theme:E24
+T51	Phosphorylation 650 665	phosphorylation
+E23	Phosphorylation:T51 Theme:T14
+T52	Pathway 677 686	apoptosis
+E24	Pathway:T52 Participant:T14
+T53	Negative_regulation 690 698	impaired
+E25	Negative_regulation:T53 Theme:T13
+T54	Negative_regulation 957 967	attenuated
+T55	Positive_regulation 957 967	attenuated
+E26	Negative_regulation:T54 Theme:E30
+E27	Positive_regulation:T55 Cause:T17 Theme:E26
+E28	Negative_regulation:T54 Theme:E31
+E29	Positive_regulation:T55 Cause:T17 Theme:E28
+M1	Negation E27
+M2	Negation E29
+T56	Phosphorylation 972 987	phosphorylation
+E30	Phosphorylation:T56 Theme:T20
+T57	Pathway 992 1001	apoptosis
+E31	Pathway:T57 Participant:T20
+T58	Positive_regulation 1005 1013	response
+E32	Positive_regulation:T58 Cause:E34 Theme:E26
+E33	Positive_regulation:T58 Cause:E34 Theme:E28
+T59	Gene_expression 1022 1032	expression
+E34	Gene_expression:T59 Theme:T21
+T60	Positive_regulation 1049 1056	induces
+E35	Positive_regulation:T60 Cause:T22 Theme:E38
+T61	Positive_regulation 1071 1080	dependent
+E36	Positive_regulation:T61 Theme:E38 Cause:T23
+E37	Positive_regulation:T61 Theme:E38 Cause:T24
+T62	Phosphorylation 1081 1096	phosphorylation
+E38	Phosphorylation:T62 Theme:T25 Site:T26
+T63	Phosphorylation 1139 1154	phosphorylation
+E39	Phosphorylation:T63 Site:T26 Theme:T25
+T64	Positive_regulation 1165 1175	stimulates
+E40	Positive_regulation:T64 Cause:E39 Theme:T27
+T65	Negative_regulation 1191 1198	Delayed
+E41	Negative_regulation:T65 Theme:E42
+T66	Phosphorylation 1209 1224	phosphorylation
+E42	Phosphorylation:T66 Theme:T28
+T67	Phosphorylation 1244 1263	autophosphorylation
+E43	Phosphorylation:T67 Theme:T29 Site:T30
+M3	Negation E43
+T68	Positive_regulation 1293 1303	stimulates
+E44	Positive_regulation:T68 Cause:T31 Theme:T32
+T69	Pathway 1543 1560	signaling pathway
+E45	Pathway:T69 Participant:T33 Participant2:T34

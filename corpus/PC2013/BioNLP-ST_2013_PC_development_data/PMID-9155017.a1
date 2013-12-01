@@ -1,0 +1,44 @@
+T1	Gene_or_gene_product 0 33	Mitogen-activated protein kinases
+T2	Simple_chemical 47 53	serine
+T3	Simple_chemical 54 63	threonine
+T4	Gene_or_gene_product 72 76	Mnk1
+T5	Gene_or_gene_product 81 85	Mnk2
+T6	Gene_or_gene_product 88 127	Mitogen-activated protein (MAP) kinases
+T7	Simple_chemical 240 246	serine
+T8	Simple_chemical 247 256	threonine
+T9	Gene_or_gene_product 281 312	MAP kinase-interacting kinase 1
+T10	Gene_or_gene_product 314 318	Mnk1
+T11	Gene_or_gene_product 324 328	Mnk2
+T12	Gene_or_gene_product 374 385	MAP kinases
+T13	Gene_or_gene_product 387 391	Erk1
+T14	Gene_or_gene_product 396 400	Erk2
+T15	Gene_or_gene_product 402 406	MNK1
+T16	Gene_or_gene_product 416 420	Mnk2
+T17	Gene_or_gene_product 474 477	p38
+T18	Gene_or_gene_product 479 483	MNK1
+T19	Gene_or_gene_product 534 537	Erk
+T20	Gene_or_gene_product 553 556	Mnk
+T21	Gene_or_gene_product 561 564	Erk
+T22	Gene_or_gene_product 607 610	Erk
+T23	Gene_or_gene_product 615 618	p38
+T24	Gene_or_gene_product 633 637	MNK1
+T25	Gene_or_gene_product 642 646	Mnk2
+T26	Gene_or_gene_product 716 747	eukaryotic initiation factor-4E
+T27	Gene_or_gene_product 749 755	eIF-4E
+T28	Gene_or_gene_product 776 782	eIF-4E
+T29	Gene_or_gene_product 852 859	insulin
+T30	Gene_or_gene_product 866 869	Erk
+T31	Gene_or_gene_product 898 902	MNK1
+T32	Gene_or_gene_product 926 932	eIF-4E
+T33	Simple_chemical 971 977	Ser209
+T34	Gene_or_gene_product 989 993	Mnk1
+T35	Simple_chemical 1116 1130	phorbol esters
+T36	Simple_chemical 1132 1142	anisomycin
+T37	Gene_or_gene_product 1179 1183	MNK1
+T38	Gene_or_gene_product 1223 1242	MAP kinase kinase 1
+T39	Gene_or_gene_product 1244 1248	Mkk1
+T40	Gene_or_gene_product 1254 1257	p38
+T41	Gene_or_gene_product 1278 1282	Mnk1
+T42	Gene_or_gene_product 1309 1320	MAP kinases
+T43	Gene_or_gene_product 1322 1326	MNK1
+T44	Gene_or_gene_product 1486 1492	eIF-4E

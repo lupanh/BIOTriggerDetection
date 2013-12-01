@@ -1,0 +1,28 @@
+*	Equiv T5 T6
+T17	Positive_regulation 487 496	induction
+T18	Positive_regulation 515 524	induction
+T15	Anaphora 550 577	T-box transcription factors
+T19	Regulation 583 591	regulate
+T20	Gene_expression 644 654	expression
+T21	Regulation 779 788	regulates
+T22	Gene_expression 795 805	expression
+T23	Gene_expression 817 827	expression
+T16	Anaphora 831 853	three cardinal markers
+R1	Coreference Subject:T15 Object:T4
+R2	Coreference Subject:T15 Object:T5
+R3	Coreference Subject:T16 Object:T11
+R4	Coreference Subject:T16 Object:T12
+R5	Coreference Subject:T16 Object:T13
+E1	Positive_regulation:T17 Theme:T4
+E2	Positive_regulation:T18 Theme:T5
+E3	Regulation:T19 Theme:E4 Cause:T4
+E4	Gene_expression:T20 Theme:T7
+E5	Regulation:T19 Theme:E4 Cause:T5
+E6	Regulation:T21 Theme:E7 Cause:T9
+E7	Gene_expression:T22 Theme:T10
+E8	Regulation:T21 Theme:E9 Cause:T9
+E9	Gene_expression:T23 Theme:T11
+E10	Regulation:T21 Theme:E11 Cause:T9
+E11	Gene_expression:T23 Theme:T12
+E12	Regulation:T21 Theme:E13 Cause:T9
+E13	Gene_expression:T23 Theme:T13

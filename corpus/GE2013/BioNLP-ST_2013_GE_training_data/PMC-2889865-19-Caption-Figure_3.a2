@@ -1,0 +1,8 @@
+T5	Gene_expression 20 30	expression
+T6	Positive_regulation 31 40	following
+E1	Gene_expression:T5 Theme:T1
+E2	Gene_expression:T5 Theme:T2
+E3	Positive_regulation:T6 Theme:E1
+E4	Positive_regulation:T6 Theme:E2
+M1	Speculation E3
+M2	Speculation E4

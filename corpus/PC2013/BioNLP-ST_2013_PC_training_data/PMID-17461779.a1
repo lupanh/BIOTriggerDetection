@@ -1,0 +1,51 @@
+T1	Gene_or_gene_product 18 24	Protor
+T2	Gene_or_gene_product 36 42	Rictor
+T3	Complex 64 78	mTOR complex-2
+T4	Gene_or_gene_product 85 89	mTOR
+T5	Gene_or_gene_product 91 120	mammalian target of rapamycin
+T6	Gene_or_gene_product 196 200	mTOR
+T7	Complex 223 232	complex 1
+T8	Gene_or_gene_product 248 252	mTOR
+T9	Gene_or_gene_product 253 259	Raptor
+T10	Gene_or_gene_product 261 298	regulatory associated protein of mTOR
+T11	Gene_or_gene_product 300 305	mLST8
+T12	Complex 314 320	mTORC1
+T13	Complex 327 336	complex 2
+T14	Gene_or_gene_product 349 353	mTOR
+T15	Gene_or_gene_product 354 360	Rictor
+T16	Gene_or_gene_product 362 400	rapamycininsensitive companion of mTOR
+T17	Gene_or_gene_product 402 407	mLST8
+T18	Gene_or_gene_product 408 412	Sin1
+T19	Complex 421 427	mTORC2
+T20	Complex 430 436	mTORC1
+T21	Gene_or_gene_product 456 473	p70 ribosomal S6K
+T22	Gene_or_gene_product 474 484	(S6 kinase
+T23	Simple_chemical 512 518	Thr389
+T24	Complex 529 535	mTORC2
+T25	Gene_or_gene_product 551 554	PKB
+T26	Gene_or_gene_product 556 572	protein kinase B
+T27	Simple_chemical 599 606	(Ser473
+T28	Gene_or_gene_product 701 709	Protor-1
+T29	Gene_or_gene_product 711 741	protein observed with Rictor-1
+T30	Gene_or_gene_product 747 755	Protor-2
+T31	Gene_or_gene_product 770 776	Rictor
+T32	Complex 799 805	mTORC2
+T33	Gene_or_gene_product 850 858	Protor-1
+T34	Gene_or_gene_product 862 870	Protor-2
+T35	Complex 918 924	mTORC2
+T36	Gene_or_gene_product 943 949	Raptor
+T37	Complex 975 981	mTORC1
+T38	Simple_chemical 1015 1027	Triton X-100
+T39	Simple_chemical 1031 1047	n-octylglucoside
+T40	Gene_or_gene_product 1059 1063	mTOR
+T41	Gene_or_gene_product 1068 1073	mLST8
+T42	Gene_or_gene_product 1092 1100	Protor-1
+T43	Gene_or_gene_product 1102 1106	Sin1
+T44	Gene_or_gene_product 1111 1117	Rictor
+T45	Gene_or_gene_product 1149 1155	Rictor
+T46	Gene_or_gene_product 1184 1192	Protor-1
+T47	Gene_or_gene_product 1203 1211	Protor-1
+T48	Complex 1254 1260	mTORC2
+T49	Gene_or_gene_product 1286 1294	Protor-1
+T50	Gene_or_gene_product 1306 1312	Rictor
+T51	Complex 1332 1338	mTORC2

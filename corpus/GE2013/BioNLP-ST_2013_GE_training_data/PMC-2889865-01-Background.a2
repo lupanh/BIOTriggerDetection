@@ -1,0 +1,65 @@
+T35	Gene_expression 123 130	produce
+T31	Anaphora 148 170	inflammatory mediators
+T36	Positive_regulation 544 553	Induction
+T37	Positive_regulation 588 596	mediated
+T38	Negative_regulation 738 748	inhibiting
+T39	Gene_expression 784 794	production
+T40	Regulation 1127 1137	regulating
+T32	Anaphora 1626 1629	Fos
+T33	Anaphora 1662 1665	Jun
+T41	Binding 1705 1741	formation of homo- and hetero-dimers
+T34	Anaphora 1984 2002	these interleukins
+T42	Regulation 2007 2016	regulated
+T43	Regulation 2381 2391	regulation
+T44	Regulation 2594 2603	regulates
+T45	Gene_expression 2609 2619	expression
+T46	Regulation 2630 2640	regulation
+T47	Negative_regulation 2776 2786	countering
+R1	Coreference Subject:T31 Object:T1
+R2	Coreference Subject:T31 Object:T2
+R3	Coreference Subject:T31 Object:T3
+R4	Coreference Subject:T32 Object:T13
+R5	Coreference Subject:T32 Object:T14
+R6	Coreference Subject:T32 Object:T15
+R7	Coreference Subject:T32 Object:T16
+R8	Coreference Subject:T33 Object:T17
+R9	Coreference Subject:T33 Object:T18
+R10	Coreference Subject:T33 Object:T19
+R11	Coreference Subject:T33 Object:T20
+R12	Coreference Subject:T34 Object:T21
+R13	Coreference Subject:T34 Object:T22
+E1	Gene_expression:T35 Theme:T1
+E2	Gene_expression:T35 Theme:T2
+E3	Gene_expression:T35 Theme:T3
+E4	Positive_regulation:T36 Theme:T6
+E5	Positive_regulation:T37 Theme:E4
+E6	Negative_regulation:T38 Theme:T7
+E7	Gene_expression:T39 Theme:T8
+E8	Gene_expression:T39 Theme:T9
+E9	Regulation:T40 Theme:T11
+E10	Binding:T41 Theme:T13 Theme2:T17
+E11	Binding:T41 Theme:T13 Theme2:T18
+E12	Binding:T41 Theme:T13 Theme2:T19
+E13	Binding:T41 Theme:T13 Theme2:T20
+E14	Binding:T41 Theme:T14 Theme2:T17
+E15	Binding:T41 Theme:T14 Theme2:T18
+E16	Binding:T41 Theme:T14 Theme2:T19
+E17	Binding:T41 Theme:T14 Theme2:T20
+E18	Binding:T41 Theme:T15 Theme2:T17
+E19	Binding:T41 Theme:T15 Theme2:T18
+E20	Binding:T41 Theme:T15 Theme2:T19
+E21	Binding:T41 Theme:T15 Theme2:T20
+E22	Binding:T41 Theme:T16 Theme2:T17
+E23	Binding:T41 Theme:T16 Theme2:T18
+E24	Binding:T41 Theme:T16 Theme2:T19
+E25	Binding:T41 Theme:T16 Theme2:T20
+E26	Regulation:T42 Theme:T21
+E27	Regulation:T42 Theme:T22
+E28	Regulation:T43 Theme:T25
+E29	Regulation:T43 Theme:T26
+E30	Regulation:T44 Theme:E31
+E31	Gene_expression:T45 Theme:T27
+E32	Regulation:T46 Theme:T28
+E33	Negative_regulation:T47 Theme:T30
+M1	Speculation E5
+M2	Negation E33

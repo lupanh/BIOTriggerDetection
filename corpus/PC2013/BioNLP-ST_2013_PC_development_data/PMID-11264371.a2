@@ -1,0 +1,15 @@
+T27	Localization 365 373	localize
+E1	Localization:T27 Theme:T2 ToLoc:T3
+E2	Localization:T27 Theme:T2 ToLoc:T4
+E3	Localization:T27 Theme:T2 ToLoc:T5
+E4	Localization:T27 Theme:T2 ToLoc:T6
+T28	Gene_expression 810 820	expression
+E5	Gene_expression:T28 Theme:T11
+T29	Gene_expression 871 881	expression
+E6	Gene_expression:T29 Theme:T13
+M1	Negation E6
+T30	Conversion 957 965	modified
+E7	Conversion:T30 Theme:T14
+T31	Gene_expression 1134 1141	express
+E8	Gene_expression:T31 Theme:T18
+E9	Gene_expression:T31 Theme:T19

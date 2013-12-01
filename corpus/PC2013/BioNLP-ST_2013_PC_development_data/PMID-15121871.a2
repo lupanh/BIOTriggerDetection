@@ -1,0 +1,69 @@
+*	Equiv T25 T26
+T45	Positive_regulation 4 13	dependent
+E1	Positive_regulation:T45 Cause:T1 Theme:E2
+T46	Acetylation 22 33	acetylation
+E2	Acetylation:T46 Theme:T2
+T47	Transport 38 49	recruitment
+E3	Transport:T47 Theme:T3 ToLoc:T4
+T48	Negative_regulation 207 217	repressive
+E4	Negative_regulation:T48 Theme:T6
+T49	Activation 281 291	activating
+E5	Activation:T49 Theme:T7
+E6	Activation:T49 Theme:T8
+E7	Activation:T49 Theme:T9
+T50	Acetylation 394 409	hyperacetylated
+E8	Acetylation:T50 Theme:T11
+E9	Acetylation:T50 Theme:T10
+T51	Positive_regulation 470 481	consequence
+E10	Positive_regulation:T51 Theme:E11
+T52	Binding 489 496	binding
+E11	Binding:T52 Theme:T12
+T53	Activation 517 527	activating
+E12	Activation:T53 Theme:T13
+T54	Negative_regulation 696 703	blocked
+E13	Negative_regulation:T54 Theme:E16
+E14	Negative_regulation:T54 Theme:E17
+E15	Negative_regulation:T54 Theme:E18
+T55	Binding 712 719	binding
+E16	Binding:T55 Theme:T16
+T56	Acetylation 724 735	acetylation
+E17	Acetylation:T56 Theme:T17
+T57	Acetylation 763 774	acetylation
+E18	Acetylation:T57 Theme:T18
+T58	Activation 867 877	activation
+E19	Activation:T58 Theme:T20
+T59	Positive_regulation 894 901	induced
+E20	Positive_regulation:T59 Cause:E19 Theme:E22
+E21	Positive_regulation:T59 Cause:E19 Theme:E23
+T60	Acetylation 912 923	acetylation
+E22	Acetylation:T60 Theme:T21
+E23	Acetylation:T60 Theme:T22
+T61	Binding 1007 1011	bind
+E24	Binding:T61 Theme:T24 Theme2:T25
+E25	Binding:T61 Theme:T24 Theme2:T27
+E26	Binding:T61 Theme:T24 Theme2:T28
+E27	Binding:T61 Theme:T24 Theme2:T29
+E28	Binding:T61 Theme:T24 Theme2:T30
+T62	Gene_expression 1100 1109	expressed
+E29	Gene_expression:T62 Theme:T31
+T63	Binding 1120 1125	bound
+E30	Binding:T63 Theme:T31 Theme2:T32
+E31	Binding:T63 Theme:T31 Theme2:T33
+T64	Positive_regulation 1154 1161	induced
+E32	Positive_regulation:T64 Cause:T31 Theme:E38
+E33	Positive_regulation:T64 Cause:T31 Theme:E39
+E34	Positive_regulation:T64 Cause:T31 Theme:E40
+E35	Positive_regulation:T64 Cause:T31 Theme:E41
+E36	Positive_regulation:T64 Cause:T31 Theme:E42
+E37	Positive_regulation:T64 Cause:T31 Theme:E43
+T65	Transport 1162 1173	recruitment
+E38	Transport:T65 Theme:T34
+E39	Transport:T65 Theme:T35
+E40	Transport:T65 Theme:T36
+E41	Transport:T65 Theme:T37
+E42	Transport:T65 Theme:T38
+E43	Transport:T65 Theme:T39
+T66	Positive_regulation 1294 1303	dependent
+E44	Positive_regulation:T66 Cause:T40 Theme:E45
+T67	Transport 1304 1315	recruitment
+E45	Transport:T67 Theme:T41 ToLoc:T42

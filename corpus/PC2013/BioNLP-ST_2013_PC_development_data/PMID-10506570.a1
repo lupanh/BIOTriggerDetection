@@ -1,0 +1,24 @@
+T1	Gene_or_gene_product 36 52	protein kinase C
+T2	Simple_chemical 63 76	phorbol ester
+T3	Gene_or_gene_product 89 105	Protein kinase C
+T4	Gene_or_gene_product 107 110	PKC
+T5	Simple_chemical 133 139	serine
+T6	Simple_chemical 140 149	threonine
+T7	Simple_chemical 234 248	diacylglycerol
+T8	Simple_chemical 250 253	DAG
+T9	Simple_chemical 263 276	phorbol ester
+T10	Gene_or_gene_product 318 322	PKCs
+T11	Simple_chemical 326 329	DAG
+T12	Simple_chemical 330 342	phospholipid
+T13	Gene_or_gene_product 434 437	PKC
+T14	Gene_or_gene_product 570 573	PKC
+T15	Gene_or_gene_product 586 628	phosphoinositide-dependent protein kinases
+T16	Gene_or_gene_product 630 634	PDKs
+T17	Simple_chemical 640 648	tyrosine
+T18	Gene_or_gene_product 666 669	PKC
+T19	Gene_or_gene_product 873 877	PKCs
+T20	Cellular_component 891 917	intracellular compartments
+T21	Simple_chemical 1031 1044	phorbol ester
+T22	Simple_chemical 1152 1166	phorbol esters
+T23	Simple_chemical 1221 1224	DAG
+T24	Gene_or_gene_product 1253 1256	PKC

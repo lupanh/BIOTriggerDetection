@@ -1,0 +1,30 @@
+T1	Gene_or_gene_product 0 4	Zac1
+T2	Gene_or_gene_product 10 17	histone
+T3	Complex 40 49	NF-kappaB
+T4	Gene_or_gene_product 75 104	histone deacetylase inhibitor
+T5	Gene_or_gene_product 125 162	Histone deacetylase (HDAC) inhibitors
+T6	Gene_or_gene_product 381 445	zinc-finger protein regulator of apoptosis and cell-cycle arrest
+T7	Gene_or_gene_product 447 451	Zac1
+T8	Gene_or_gene_product 470 484	HDAC inhibitor
+T9	Cellular_component 530 539	chromatin
+T10	Gene_or_gene_product 598 602	Zac1
+T11	Gene_or_gene_product 629 636	histone
+T12	Gene_or_gene_product 656 660	Zac1
+T13	Gene_or_gene_product 691 695	Zac1
+T14	Gene_or_gene_product 706 720	HDAC inhibitor
+T15	Gene_or_gene_product 755 770	HDAC inhibitors
+T16	Complex 781 802	nuclear factor-kappaB
+T17	Complex 804 813	NF-kappaB
+T18	Gene_or_gene_product 857 861	Zac1
+T19	Gene_or_gene_product 887 891	Zac1
+T20	Complex 927 936	NF-kappaB
+T21	Gene_or_gene_product 981 985	Zac1
+T22	Complex 995 1004	NF-kappaB
+T23	Gene_or_gene_product 1056 1059	p65
+T24	Gene_or_gene_product 1109 1112	p65
+T25	Simple_chemical 1116 1122	Ser468
+T26	Simple_chemical 1127 1133	Ser536
+T27	Gene_or_gene_product 1172 1176	Zac1
+T28	Gene_or_gene_product 1182 1189	histone
+T29	Complex 1226 1235	NF-kappaB
+T30	Gene_or_gene_product 1272 1286	HDAC inhibitor

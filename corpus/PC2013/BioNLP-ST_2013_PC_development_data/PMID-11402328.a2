@@ -1,0 +1,28 @@
+*	Equiv T13 T14
+*	Equiv T16 T17
+T30	Binding 156 165	harboring
+E1	Binding:T30 Theme:T2 Theme2:T3
+E2	Binding:T30 Theme:T2 Theme2:T4
+T31	Regulation 493 504	deregulated
+E3	Regulation:T31 Theme:T8
+M1	Negation E3
+T32	Gene_expression 509 523	over expressed
+E4	Gene_expression:T32 Theme:T8
+T33	Gene_expression 864 874	expression
+E5	Gene_expression:T33 Theme:T12
+E6	Gene_expression:T33 Theme:T14
+E7	Gene_expression:T33 Theme:T15
+T34	Positive_regulation 924 933	increased
+E8	Positive_regulation:T34 Theme:E5
+E9	Positive_regulation:T34 Theme:E6
+E10	Positive_regulation:T34 Theme:E7
+M2	Negation E10
+T35	Regulation 1003 1013	associated
+E11	Regulation:T35 Theme:T17 Cause:T18
+E12	Regulation:T35 Theme:T17 Cause:T19
+M3	Negation E12
+T36	Pathway 1228 1237	apoptosis
+E13	Pathway:T36 
+T37	Transport 1357 1370	Sequestration
+E14	Transport:T37 Theme:T22
+E15	Transport:T37 Theme:T23

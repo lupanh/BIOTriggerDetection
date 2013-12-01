@@ -1,0 +1,21 @@
+*	Equiv T3 T4
+*	Equiv T10 T11
+*	Equiv T15 T16
+T20	Positive_regulation 85 94	initiates
+E1	Positive_regulation:T20 Cause:T1 Theme:E2
+T21	Conversion 99 108	synthesis
+E2	Conversion:T21 Product:T2
+T22	Positive_regulation 613 621	resulted
+E3	Positive_regulation:T22 Theme:E4
+T23	Conversion 629 641	neosynthesis
+E4	Conversion:T23 Product:T10
+T24	Positive_regulation 986 994	resulted
+E5	Positive_regulation:T24 Theme:E6
+T25	Regulation 1018 1029	sensitivity
+E6	Regulation:T25 Theme:E7 Cause:T16
+T26	Pathway 1037 1046	apoptosis
+E7	Pathway:T26 
+T27	Positive_regulation 1108 1117	initiates
+E8	Positive_regulation:T27 Cause:T17 Theme:E9
+T28	Conversion 1122 1131	synthesis
+E9	Conversion:T28 Product:T18

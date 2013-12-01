@@ -1,0 +1,46 @@
+T47	Positive_regulation 48 57	induction
+T48	Transcription 85 89	mRNA
+T49	Negative_regulation 176 185	decreased
+T50	Transcription 202 206	mRNA
+T51	Positive_regulation 242 250	mediated
+T52	Negative_regulation 251 260	knockdown
+T53	Negative_regulation 265 274	decreased
+T54	Gene_expression 281 291	expression
+T55	Negative_regulation 336 345	knockdown
+T56	Negative_regulation 478 483	siRNA
+T57	Positive_regulation 642 651	induction
+T58	Gene_expression 675 689	overexpression
+T59	Regulation 788 794	effect
+T60	Gene_expression 801 811	expression
+E1	Positive_regulation:T47 Theme:E2
+E2	Transcription:T48 Theme:T1
+E3	Positive_regulation:T47 Theme:E4
+E4	Transcription:T48 Theme:T2
+E5	Positive_regulation:T47 Theme:E6
+E6	Transcription:T48 Theme:T3
+E7	Negative_regulation:T49 Theme:E8 Cause:E9
+E8	Transcription:T50 Theme:T9
+E9	Negative_regulation:T52 Theme:E19
+E10	Negative_regulation:T49 Theme:E8 Cause:E11
+E11	Negative_regulation:T53 Theme:E19 Cause:E20
+E12	Negative_regulation:T49 Theme:E8 Cause:E13
+E13	Negative_regulation:T53 Theme:E19 Cause:E21
+E14	Negative_regulation:T49 Theme:E15 Cause:E9
+E15	Transcription:T50 Theme:T10
+E16	Negative_regulation:T49 Theme:E15 Cause:E11
+E17	Negative_regulation:T49 Theme:E15 Cause:E13
+E18	Positive_regulation:T51 Theme:E9
+E19	Gene_expression:T54 Theme:T11
+E20	Negative_regulation:T55 Theme:T13
+E21	Negative_regulation:T55 Theme:T14
+E22	Negative_regulation:T56 Theme:T20
+E23	Negative_regulation:T56 Theme:T21
+E24	Positive_regulation:T57 Theme:T24 Cause:E25
+E25	Gene_expression:T58 Theme:T25
+E26	Positive_regulation:T57 Theme:T24 Cause:E27
+E27	Gene_expression:T58 Theme:T26
+E28	Regulation:T59 Theme:E29 Cause:T28
+E29	Gene_expression:T60 Theme:T30
+E30	Regulation:T59 Theme:E29 Cause:T29
+M1	Negation E28
+M2	Negation E30

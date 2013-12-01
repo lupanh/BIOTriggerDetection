@@ -1,0 +1,68 @@
+*	Equiv T8 T9
+*	Equiv T25 T41 T36 T27 T26 T32
+T43	Gene_expression 24 34	expression
+T44	Regulation 55 64	regulated
+T45	Gene_expression 153 163	expression
+T46	Negative_regulation 245 254	deficient
+T47	Gene_expression 311 319	produced
+T48	Negative_regulation 407 417	deficiency
+T42	Anaphora 598 603	which
+T49	Positive_regulation 617 624	induced
+T50	Negative_regulation 675 684	deficient
+T51	Negative_regulation 720 726	defect
+T52	Transcription 739 754	mRNA expression
+T53	Negative_regulation 824 833	reduction
+T54	Negative_regulation 856 865	deficient
+T55	Negative_regulation 940 948	decrease
+T56	Gene_expression 952 962	expression
+T57	Positive_regulation 1347 1356	increased
+T58	Gene_expression 1366 1376	expression
+T59	Negative_regulation 1398 1407	deficient
+T60	Negative_regulation 1481 1488	rescued
+T61	Negative_regulation 1499 1505	defect
+T62	Gene_expression 1519 1529	production
+T63	Negative_regulation 1548 1557	deficient
+T64	Positive_regulation 1608 1614	induce
+T65	Transcription 1620 1635	mRNA expression
+T66	Negative_regulation 1658 1667	deficient
+T67	Positive_regulation 1699 1709	dependence
+T68	Transcription 1718 1733	mRNA expression
+R1	Coreference Subject:T42 Object:T15
+E1	Gene_expression:T43 Theme:T1
+E2	Gene_expression:T43 Theme:T2
+E3	Regulation:T44 Theme:E1 Cause:T3
+E4	Regulation:T44 Theme:E2 Cause:T3
+E5	Gene_expression:T45 Theme:T4
+E6	Gene_expression:T45 Theme:T5
+E7	Gene_expression:T45 Theme:T6
+E8	Negative_regulation:T46 Theme:T8
+E9	Gene_expression:T47 Theme:T12
+E10	Negative_regulation:T48 Theme:T13
+E11	Positive_regulation:T49 Theme:T15
+E12	Negative_regulation:T50 Theme:T16
+E13	Negative_regulation:T51 Theme:E14 Cause:E12
+E14	Transcription:T52 Theme:T17
+E15	Negative_regulation:T53 Theme:T18 Cause:E16
+E16	Negative_regulation:T54 Theme:T19
+E17	Negative_regulation:T55 Theme:E18
+E18	Gene_expression:T56 Theme:T20
+E19	Positive_regulation:T57 Theme:E20 Cause:T27
+E20	Gene_expression:T58 Theme:T29
+E21	Negative_regulation:T59 Theme:T30
+E22	Negative_regulation:T60 Theme:E23 Cause:T32
+E23	Negative_regulation:T61 Theme:E24 Cause:E25
+E24	Gene_expression:T62 Theme:T33
+E25	Negative_regulation:T63 Theme:T34
+E26	Positive_regulation:T64 Theme:E27 Cause:T36
+E27	Transcription:T65 Theme:T37
+E28	Negative_regulation:T66 Theme:T38
+E29	Positive_regulation:T67 Theme:E30 Cause:T39
+E30	Transcription:T68 Theme:T40
+M1	Negation E3
+M2	Negation E4
+M3	Speculation E5
+M4	Speculation E6
+M5	Speculation E7
+M6	Negation E9
+M7	Negation E13
+M8	Negation E26

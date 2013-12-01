@@ -1,0 +1,22 @@
+*	Equiv T4 T5
+*	Equiv T7 T8
+T33	Regulation 4 8	role
+E1	Regulation:T33 Theme:T1
+T34	Transport 77 85	secreted
+E2	Transport:T34 Theme:T2
+T35	Binding 104 109	binds
+E3	Binding:T35 Theme:T2 Theme2:T5
+T36	Positive_regulation 176 184	required
+E4	Positive_regulation:T36 Theme:E5 Cause:T2
+T37	Activation 193 203	activation
+E5	Activation:T37 Theme:T6 Cause:T8
+T38	Regulation 374 378	role
+E6	Regulation:T38 Cause:T10 Theme:T11
+T39	Positive_regulation 1205 1214	conferred
+E7	Positive_regulation:T39 Cause:T27 Theme:E8
+T40	Positive_regulation 1215 1229	responsiveness
+E8	Positive_regulation:T40 Theme:T28
+T41	Binding 1381 1384	lie
+E9	Binding:T41 Theme:T30 Theme2:T31
+T42	Binding 1592 1614	form an active complex
+E10	Binding:T42 Theme:T32

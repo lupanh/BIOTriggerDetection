@@ -1,0 +1,19 @@
+T19	Regulation 13 23	regulation
+E1	Regulation:T19 Theme:T1 Cause:T2
+E2	Regulation:T19 Theme:T1 Cause:T3
+T20	Pathway 171 189	signaling cascades
+E3	Pathway:T20 Participant:T4
+T21	Positive_regulation 457 465	involves
+E4	Positive_regulation:T21 Theme:E6
+E5	Positive_regulation:T21 Theme:E7
+T22	Regulation 466 476	regulation
+E6	Regulation:T22 Theme:T8 Cause:T9
+E7	Regulation:T22 Theme:T8 Cause:T10
+T23	Phosphorylation 574 588	phosphorylates
+E8	Phosphorylation:T23 Cause:T11 Theme:T12
+T24	Regulation 807 815	controls
+E9	Regulation:T24 Theme:T16 Cause:E10
+T25	Regulation 870 877	control
+E10	Regulation:T25 Theme:E11 Cause:T15
+T26	Gene_expression 891 901	expression
+E11	Gene_expression:T26 Theme:T17

@@ -1,0 +1,21 @@
+*	Equiv T5 T6
+T24	Transport 263 267	exit
+E1	Transport:T24 Theme:T7
+T25	Binding 285 293	interact
+E2	Binding:T25 Theme:T7
+T26	Binding 473 477	bind
+E3	Binding:T26 Theme:T8
+T27	Positive_regulation 521 527	elicit
+E4	Positive_regulation:T27 Cause:T8 Theme:E5
+T28	Transport 557 561	flux
+E5	Transport:T28 Theme:T11
+T29	Activation 563 571	activate
+E6	Activation:T29 Theme:T12 Cause:T8
+T30	Pathway 795 822	signal transduction pathway
+E7	Pathway:T30 Participant:T14 Participant2:T15 Participant3:T16
+T31	Binding 838 846	utilizes
+E8	Binding:T31 Theme:T17 Theme2:T18
+E9	Binding:T31 Theme:T17 Theme2:T19
+T32	Positive_regulation 992 1001	dependent
+E10	Positive_regulation:T32 Cause:T20 Theme:E9
+E11	Positive_regulation:T32 Cause:T20 Theme:E8

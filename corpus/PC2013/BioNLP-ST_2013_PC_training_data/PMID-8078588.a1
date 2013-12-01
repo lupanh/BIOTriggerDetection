@@ -1,0 +1,18 @@
+T1	Gene_or_gene_product 0 8	p15INK4B
+T2	Gene_or_gene_product 36 44	TGF-beta
+T3	Gene_or_gene_product 73 104	Transforming growth factor-beta
+T4	Gene_or_gene_product 106 114	TGF-beta
+T5	Gene_or_gene_product 251 283	cyclin-dependent protein kinases
+T6	Gene_or_gene_product 284 288	CDK4
+T7	Gene_or_gene_product 293 297	CDK6
+T8	Gene_or_gene_product 343 350	p16INK4
+T9	Gene_or_gene_product 389 396	p16INK4
+T10	Gene_or_gene_product 405 413	p15INK4B
+T11	Gene_or_gene_product 415 418	p15
+T12	Gene_or_gene_product 504 512	TGF-beta
+T13	Gene_or_gene_product 530 533	p15
+T14	Gene_or_gene_product 560 568	TGF-beta
+T15	Gene_or_gene_product 615 618	p15
+T16	Cellular_component 633 645	chromosome 9
+T17	Gene_or_gene_product 662 665	p16
+T18	Cellular_component 693 704	chromosomal

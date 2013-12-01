@@ -1,0 +1,60 @@
+*	Equiv T4 T5
+*	Equiv T16 T17
+*	Equiv T19 T20
+T36	Positive_regulation 21 29	mediated
+E1	Positive_regulation:T36 Cause:T1 Theme:E2
+T37	Activation 41 51	activation
+E2	Activation:T37 Theme:T2
+T38	Positive_regulation 52 60	requires
+E3	Positive_regulation:T38 Theme:E5 Cause:E2
+T39	Positive_regulation 68 77	dependent
+E4	Positive_regulation:T39 Cause:T3 Theme:E5
+T40	Pathway 78 85	pathway
+E5	Pathway:T40 Participant:T3
+T41	Gene_expression 129 138	expressed
+E6	Gene_expression:T41 Theme:T4
+T42	Activation 250 259	activated
+E7	Activation:T42 Theme:T4
+T43	Activation 408 418	activation
+E8	Activation:T43 Theme:T8
+T44	Positive_regulation 463 474	stimulation
+E9	Positive_regulation:T44 Theme:T9
+T45	Positive_regulation 500 507	induces
+E10	Positive_regulation:T45 Cause:E9 Theme:E13
+E11	Positive_regulation:T45 Cause:E9 Theme:E14
+E12	Positive_regulation:T45 Cause:E9 Theme:E15
+T46	Activation 529 539	activation
+E13	Activation:T46 Theme:T10
+E14	Activation:T46 Theme:T11
+E15	Activation:T46 Theme:T12
+T47	Gene_expression 630 640	expressing
+E16	Gene_expression:T47 Theme:T13
+T48	Negative_regulation 710 715	block
+E17	Negative_regulation:T48 Cause:T14 Theme:E19
+E18	Negative_regulation:T48 Cause:T15 Theme:E19
+M1	Negation E18
+T49	Positive_regulation 752 767	transactivation
+E19	Positive_regulation:T49 Theme:T16
+T50	Transport 802 813	recruitment
+E20	Transport:T50 ToLoc:T22 Theme:T18
+E21	Transport:T50 ToLoc:T22 Theme:T19
+T51	Activation 817 823	active
+E22	Activation:T51 Theme:T18
+E23	Activation:T51 Theme:T19
+T52	Phosphorylation 909 924	phosphorylation
+E24	Phosphorylation:T52 Site:T23 Theme:T24
+T53	Positive_regulation 992 1001	necessary
+E25	Positive_regulation:T53 Theme:T25
+T54	Pathway 1066 1073	cascade
+E26	Pathway:T54 Participant:T26 Participant2:T27 Participant3:T28
+T55	Regulation 1105 1112	targets
+E27	Regulation:T55 Theme:E28 Cause:E26
+T56	Positive_regulation 1125 1140	transactivation
+E28	Positive_regulation:T56 Theme:T30
+T57	Regulation 1141 1154	independently
+E29	Regulation:T57 Cause:E30 Theme:E27
+M2	Negation E29
+T58	Degradation 1174 1185	degradation
+E30	Degradation:T58 Theme:T31
+T59	Activation 1261 1271	activation
+E31	Activation:T59 Theme:T34

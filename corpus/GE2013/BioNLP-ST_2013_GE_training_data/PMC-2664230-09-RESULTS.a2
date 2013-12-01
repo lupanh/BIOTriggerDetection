@@ -1,0 +1,15 @@
+T4	Regulation 4 11	effects
+T5	Positive_regulation 26 33	induced
+T6	Gene_expression 44 54	production
+T7	Gene_expression 112 122	production
+T8	Positive_regulation 133 144	stimulation
+T9	Regulation 243 249	effect
+T10	Gene_expression 263 273	production
+E1	Regulation:T4 Theme:E2
+E2	Positive_regulation:T5 Theme:E3
+E3	Gene_expression:T6 Theme:T1
+E4	Gene_expression:T7 Theme:T2
+E5	Positive_regulation:T8 Theme:E4
+E6	Regulation:T9 Theme:E7
+E7	Gene_expression:T10 Theme:T3
+M1	Speculation E1

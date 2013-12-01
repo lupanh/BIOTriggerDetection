@@ -1,0 +1,49 @@
+T1	Gene_or_gene_product 0 7	Insulin
+T2	Gene_or_gene_product 22 26	mTOR
+T3	Gene_or_gene_product 43 46	Akt
+T4	Gene_or_gene_product 47 50	PKB
+T5	Gene_or_gene_product 61 67	PRAS40
+T6	Gene_or_gene_product 70 77	Insulin
+T7	Gene_or_gene_product 160 163	Akt
+T8	Gene_or_gene_product 179 195	protein kinase B
+T9	Gene_or_gene_product 197 200	PKB
+T10	Gene_or_gene_product 206 235	mammalian target of rapamycin
+T11	Gene_or_gene_product 237 241	mTOR
+T12	Gene_or_gene_product 265 268	Akt
+T13	Gene_or_gene_product 279 283	mTOR
+T14	Gene_or_gene_product 321 349	tuberous sclerosis complex 2
+T15	Gene_or_gene_product 351 355	TSC2
+T16	Gene_or_gene_product 418 421	Akt
+T17	Gene_or_gene_product 441 445	TSC2
+T18	Gene_or_gene_product 450 454	mTOR
+T19	Gene_or_gene_product 505 511	PRAS40
+T20	Gene_or_gene_product 513 550	proline-rich Akt/PKB substrate 40 kDa
+T21	Gene_or_gene_product 563 567	mTOR
+T22	Gene_or_gene_product 598 601	Akt
+T23	Gene_or_gene_product 613 617	mTOR
+T24	Gene_or_gene_product 619 625	PRAS40
+T25	Gene_or_gene_product 636 640	mTOR
+T26	Gene_or_gene_product 680 684	mTOR
+T27	Gene_or_gene_product 726 730	mTOR
+T28	Cellular_component 784 797	mitochondrial
+T29	Gene_or_gene_product 831 837	PRAS40
+T30	Gene_or_gene_product 847 851	mTOR
+T31	Gene_or_gene_product 903 907	mTOR
+T32	Gene_or_gene_product 925 929	TSC2
+T33	Gene_or_gene_product 931 937	PRAS40
+T34	Gene_or_gene_product 960 988	insulin-receptor substrate-1
+T35	Gene_or_gene_product 990 995	IRS-1
+T36	Gene_or_gene_product 1001 1004	Akt
+T37	Gene_or_gene_product 1036 1040	mTOR
+T38	Gene_or_gene_product 1044 1047	Akt
+T39	Gene_or_gene_product 1070 1076	PRAS40
+T40	Gene_or_gene_product 1096 1099	Akt
+T41	Gene_or_gene_product 1121 1127	14-3-3
+T42	Cellular_component 1131 1140	cytosolic
+T43	Gene_or_gene_product 1173 1180	insulin
+T44	Gene_or_gene_product 1194 1198	mTOR
+T45	Gene_or_gene_product 1224 1230	PRAS40
+T46	Gene_or_gene_product 1260 1267	insulin
+T47	Gene_or_gene_product 1287 1290	Akt
+T48	Gene_or_gene_product 1291 1295	mTOR
+T49	Gene_or_gene_product 1357 1364	insulin

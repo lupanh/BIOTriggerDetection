@@ -1,0 +1,71 @@
+T1	Gene_or_gene_product 38 58	biliverdin reductase
+T2	Gene_or_gene_product 59 80	protein kinase Cdelta
+T3	Gene_or_gene_product 81 85	ERK2
+T4	Gene_or_gene_product 111 115	ERK2
+T5	Gene_or_gene_product 139 143	Elk1
+T6	Complex 153 174	nuclear factor-kappaB
+T7	Gene_or_gene_product 190 213	nitric-oxidase synthase
+T8	Gene_or_gene_product 215 219	iNOS
+T9	Gene_or_gene_product 239 246	insulin
+T10	Gene_or_gene_product 289 295	ERK1/2
+T11	Gene_or_gene_product 299 307	PKCdelta
+T12	Gene_or_gene_product 312 318	MEK1/2
+T13	Gene_or_gene_product 326 346	biliverdin reductase
+T14	Gene_or_gene_product 348 352	hBVR
+T15	Simple_chemical 357 360	Ser
+T16	Simple_chemical 361 364	Thr
+T17	Simple_chemical 365 368	Tyr
+T18	Cellular_component 380 393	intracellular
+T19	Cellular_component 423 430	nuclear
+T20	Gene_or_gene_product 446 452	MEK1/2
+T21	Gene_or_gene_product 464 470	ERK1/2
+T22	Gene_or_gene_product 593 597	hBVR
+T23	Gene_or_gene_product 599 607	PKCdelta
+T24	Gene_or_gene_product 613 619	MEK1/2
+T25	Complex 727 745	hBVR-PKCdelta-ERK2
+T26	Gene_or_gene_product 784 788	ERK2
+T27	Gene_or_gene_product 874 880	MEK1/2
+T28	Gene_or_gene_product 909 913	PP2A
+T29	Gene_or_gene_product 980 1008	insulin-like growth factor-1
+T30	Gene_or_gene_product 1010 1015	IGF-1
+T31	Gene_or_gene_product 1051 1055	hBVR
+T32	Gene_or_gene_product 1060 1068	PKCdelta
+T33	Gene_or_gene_product 1132 1136	hBVR
+T34	Gene_or_gene_product 1141 1145	ERK2
+T35	Gene_or_gene_product 1169 1177	PKCdelta
+T36	Gene_or_gene_product 1192 1195	PKC
+T37	Gene_or_gene_product 1227 1231	ERK2
+T38	Gene_or_gene_product 1235 1239	hBVR
+T39	Gene_or_gene_product 1241 1246	IGF-1
+T40	Simple_chemical 1251 1264	phorbol ester
+T41	Gene_or_gene_product 1275 1279	hBVR
+T42	Gene_or_gene_product 1280 1288	PKCdelta
+T43	Gene_or_gene_product 1298 1302	hBVR
+T44	Gene_or_gene_product 1338 1346	PKCdelta
+T45	Gene_or_gene_product 1372 1376	ERK2
+T46	Gene_or_gene_product 1419 1427	PKCdelta
+T47	Simple_chemical 1429 1437	Phe(660)
+T48	Simple_chemical 1439 1447	Phe(663)
+T49	Simple_chemical 1453 1461	Phe(665)
+T50	Gene_or_gene_product 1493 1497	ERK2
+T51	Gene_or_gene_product 1510 1514	hBVR
+T52	Complex 1541 1559	hBVR-PKCdelta-ERK2
+T53	Gene_or_gene_product 1581 1585	hBVR
+T54	Gene_or_gene_product 1603 1606	ERK
+T55	Gene_or_gene_product 1665 1669	hBVR
+T56	Gene_or_gene_product 1706 1709	PKC
+T57	Gene_or_gene_product 1725 1733	PKCdelta
+T58	Gene_or_gene_product 1734 1738	ERK2
+T59	Simple_chemical 1752 1765	Phorbol ester
+T60	Gene_or_gene_product 1771 1780	TNF-alpha
+T61	Gene_or_gene_product 1809 1812	ERK
+T62	Gene_or_gene_product 1845 1849	Elk1
+T63	Complex 1854 1863	NF-kappaB
+T64	Gene_or_gene_product 1886 1890	iNOS
+T65	Gene_or_gene_product 1915 1919	hBVR
+T66	Gene_or_gene_product 1960 1964	hBVR
+T67	Gene_or_gene_product 2006 2010	hBVR
+T68	Gene_or_gene_product 2014 2022	PKCdelta
+T69	Gene_or_gene_product 2023 2026	ERK
+T70	Gene_or_gene_product 2050 2054	hBVR
+T71	Gene_or_gene_product 2083 2086	ERK

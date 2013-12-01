@@ -1,0 +1,21 @@
+T1	Gene_or_gene_product 0 3	Wnt
+T2	Gene_or_gene_product 33 37	axin
+T3	Gene_or_gene_product 47 59	beta-catenin
+T4	Complex 69 81	axin complex
+T5	Gene_or_gene_product 105 117	beta-catenin
+T6	Gene_or_gene_product 244 248	Axin
+T7	Gene_or_gene_product 250 253	APC
+T8	Gene_or_gene_product 278 287	GSK-3beta
+T9	Gene_or_gene_product 317 329	beta-catenin
+T10	Gene_or_gene_product 378 381	Wnt
+T11	Gene_or_gene_product 403 415	beta-catenin
+T12	Gene_or_gene_product 454 457	Wnt
+T13	Complex 482 502	beta-catenin complex
+T14	Gene_or_gene_product 522 526	Axin
+T15	Gene_or_gene_product 562 565	Wnt
+T16	Gene_or_gene_product 598 602	Axin
+T17	Gene_or_gene_product 609 621	beta-catenin
+T18	Gene_or_gene_product 675 678	Wnt
+T19	Gene_or_gene_product 696 700	Axin
+T20	Gene_or_gene_product 716 728	beta-catenin
+T21	Gene_or_gene_product 750 762	beta-catenin

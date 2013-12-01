@@ -1,0 +1,32 @@
+T1	Gene_or_gene_product 0 3	E2F
+T2	Complex 90 102	HDAC1/mSin3B
+T3	Gene_or_gene_product 178 181	E2F
+T4	Gene_or_gene_product 186 189	pRB
+T5	Cellular_component 243 252	chromatin
+T6	Gene_or_gene_product 563 582	histone deacetylase
+T7	Gene_or_gene_product 584 589	HDAC1
+T8	Gene_or_gene_product 595 601	mSin3B
+T9	Gene_or_gene_product 644 647	E2F
+T10	Complex 822 837	HDAC1 complexes
+T11	Gene_or_gene_product 874 878	p107
+T12	Gene_or_gene_product 883 887	p130
+T13	Gene_or_gene_product 912 915	E2F
+T14	Gene_or_gene_product 943 949	mSin3B
+T15	Gene_or_gene_product 999 1003	p107
+T16	Gene_or_gene_product 1007 1011	p130
+T17	Gene_or_gene_product 1075 1078	E2F
+T18	Gene_or_gene_product 1138 1141	pRB
+T19	Gene_or_gene_product 1159 1164	HDAC1
+T20	Gene_or_gene_product 1168 1174	mSin3B
+T21	Gene_or_gene_product 1188 1192	p107
+T22	Gene_or_gene_product 1193 1197	p130
+T23	Gene_or_gene_product 1238 1242	E2F4
+T24	Cellular_component 1243 1250	nuclear
+T25	Cellular_component 1327 1337	nucleosome
+T26	Cellular_component 1404 1415	nucleosomes
+T27	Gene_or_gene_product 1428 1431	E2F
+T28	Gene_or_gene_product 1488 1492	p130
+T29	Gene_or_gene_product 1501 1505	E2F4
+T30	Cellular_component 1515 1522	nucleus
+T31	Gene_or_gene_product 1577 1583	mSin3B
+T32	Gene_or_gene_product 1591 1596	HDAC1

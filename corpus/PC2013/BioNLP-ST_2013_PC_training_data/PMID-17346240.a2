@@ -1,0 +1,75 @@
+*	Equiv T2 T3
+*	Equiv T8 T9
+*	Equiv T12 T13
+*	Equiv T15 T14
+*	Equiv T16 T17
+*	Equiv T23 T24
+*	Equiv T28 T29 T25 T26
+*	Equiv T36 T37
+T47	Pathway 25 35	signalling
+E1	Pathway:T47 Participant:T1
+T48	Regulation 221 230	regulates
+E2	Regulation:T48 Cause:T2 Theme:T5
+T49	Regulation 293 302	regulated
+E3	Regulation:T49 Theme:T6 Cause:T7
+E4	Regulation:T49 Theme:T6 Cause:T8
+T50	Pathway 570 587	regulated pathway
+E5	Pathway:T50 Participant:T10
+T51	Activation 597 607	activation
+E6	Activation:T51 Theme:T11 Cause:E5
+T52	Regulation 618 626	mediated
+E7	Regulation:T52 Theme:E6 Cause:T12
+E8	Regulation:T52 Theme:E6 Cause:T14
+E9	Regulation:T52 Theme:E6 Cause:T16
+E10	Regulation:T52 Theme:E6 Cause:T19
+T53	Positive_regulation 792 802	responsive
+E11	Positive_regulation:T53 Theme:E12
+T54	Regulation 803 808	input
+E12	Regulation:T54 Theme:T20
+T55	Positive_regulation 861 869	required
+E13	Positive_regulation:T55 Theme:E14 Cause:E12
+T56	Activation 882 892	activation
+E14	Activation:T56 Theme:T21
+T57	Pathway 901 911	signalling
+E15	Pathway:T57 Participant:T21
+T58	Regulation 1006 1017	controlling
+E16	Regulation:T58 Theme:T22
+T59	Regulation 1087 1091	role
+E17	Regulation:T59 Cause:T23 Theme:T22
+T60	Activation 1434 1444	stimulated
+E18	Activation:T60 Theme:T30
+E19	Activation:T60 Theme:T30
+M1	Negation E19
+T61	Activation 1515 1526	insensitive
+E20	Activation:T61 Cause:T31 Theme:T30
+M2	Negation E20
+T62	Regulation 1568 1576	upstream
+E21	Regulation:T62 Cause:T32 Theme:T33
+M3	Speculation E21
+T63	Phosphorylation 1617 1632	phosphorylation
+E22	Phosphorylation:T63 Cause:T34 Theme:T36
+T64	Gene_expression 1687 1701	overexpression
+E23	Gene_expression:T64 Theme:T38
+T65	Positive_regulation 1712 1720	promotes
+E24	Positive_regulation:T65 Cause:E23 Theme:E26
+T66	Regulation 1735 1744	sensitive
+E25	Regulation:T66 Cause:T39 Theme:E26
+T67	Phosphorylation 1745 1760	phosphorylation
+E26	Phosphorylation:T67 Theme:T36
+T68	Pathway 1910 1937	nutrient-responsive pathway
+E27	Pathway:T68 Participant:T41
+T69	Activation 1947 1957	activation
+E28	Activation:T69 Theme:T42
+T70	Regulation 2071 2082	deregulated
+E29	Regulation:T70 Theme:T44
+M4	Negation E29
+T71	Negative_regulation 2139 2149	inhibition
+E30	Negative_regulation:T71 Theme:E27
+T72	Inactivation 2234 2244	inhibitors
+E31	Inactivation:T72 Theme:T45
+T73	Inactivation 2267 2277	switch off
+E32	Inactivation:T73 Cause:E31 Theme:T46
+T74	Positive_regulation 2338 2347	promoting
+E33	Positive_regulation:T74 Theme:E34 Cause:E31
+T75	Pathway 2348 2357	apoptosis
+E34	Pathway:T75 

@@ -1,0 +1,69 @@
+*	Equiv T2 T3
+T35	Regulation 100 109	influence
+E1	Regulation:T35 Theme:E2
+T36	Phosphorylation 127 142	phosphorylation
+E2	Phosphorylation:T36 Theme:T1
+T37	Binding 185 190	binds
+E3	Binding:T37 Theme:T3
+T38	Binding 218 223	forms
+E4	Binding:T38 Theme:T2 Product:T4
+T39	Binding 279 288	Formation
+E5	Binding:T39 Product:T5
+T40	Negative_regulation 301 308	blocked
+E6	Negative_regulation:T40 Cause:T7 Theme:E5
+T41	Binding 318 325	binding
+E7	Binding:T41 Theme:T6 Theme2:T7
+T42	Binding 357 366	interacts
+E8	Binding:T42 Theme:T7 Theme:T8
+T43	Binding 501 508	Binding
+E9	Binding:T43 Theme:T10 Theme:T11
+T44	Regulation 531 540	regulated
+E10	Regulation:T44 Cause:E11 Theme:E9
+T45	Phosphorylation 567 582	phosphorylation
+E11	Phosphorylation:T45 Theme:T10
+T46	Regulation 662 681	play distinct roles
+E12	Regulation:T46 Theme:E13
+T47	Regulation 685 695	regulating
+E13	Regulation:T47 Theme:E14
+T48	Phosphorylation 700 715	phosphorylation
+E14	Phosphorylation:T48 Theme:T12
+T49	Phosphorylation 757 772	phosphorylation
+E15	Phosphorylation:T49 Theme:T12 Site:T13
+T50	Positive_regulation 846 854	required
+E16	Positive_regulation:T50 Theme:E18 Cause:T14
+E17	Positive_regulation:T50 Theme:E18 Cause:T15
+T51	Phosphorylation 869 884	phosphorylation
+E18	Phosphorylation:T51 Site:T16 Theme:T12
+T52	Regulation 936 943	affects
+E19	Regulation:T52 Cause:T17 Theme:E20
+T53	Binding 944 951	binding
+E20	Binding:T53 Theme:T19 Theme:T18
+T54	Regulation 979 990	influencing
+E21	Regulation:T54 Theme:E22 Cause:T17
+M1	Negation E21
+T55	Phosphorylation 991 1006	phosphorylation
+E22	Phosphorylation:T55 Theme:T18
+T56	Regulation 1061 1071	influences
+E23	Regulation:T56 Theme:E24
+T57	Phosphorylation 1072 1087	phosphorylation
+E24	Phosphorylation:T57 Theme:T18
+T58	Phosphorylation 1270 1285	phosphorylation
+E25	Phosphorylation:T58 Theme:T22
+T59	Binding 1303 1310	binding
+E26	Binding:T59 Theme:T21 Theme:T23
+T60	Phosphorylation 1373 1389	phosphorylatable
+E27	Phosphorylation:T60 Site:T26 Theme:T24
+E28	Phosphorylation:T60 Site:T27 Theme:T24
+E29	Phosphorylation:T60 Site:T26 Theme:T25
+E30	Phosphorylation:T60 Site:T27 Theme:T25
+M2	Negation E27
+M3	Negation E28
+M4	Negation E29
+M5	Negation E30
+T61	Positive_regulation 1552 1558	confer
+E31	Positive_regulation:T61 Theme:E33
+M6	Negation E31
+T62	Dissociation 1577 1585	released
+E32	Dissociation:T62 Product:T28 Product2:T33
+T63	Positive_regulation 1600 1608	response
+E33	Positive_regulation:T63 Cause:T34 Theme:E32

@@ -1,0 +1,32 @@
+T1	Gene_or_gene_product 53 86	medium-chain acyl-CoA synthetases
+T2	Gene_or_gene_product 88 93	MACS1
+T3	Gene_or_gene_product 102 104	Sa
+T4	Gene_or_gene_product 193 225	medium-chain acyl-CoA synthetase
+T5	Gene_or_gene_product 227 231	MACS
+T6	Gene_or_gene_product 250 255	MACS1
+T7	Gene_or_gene_product 309 311	Sa
+T8	Gene_or_gene_product 318 320	Sa
+T9	Gene_or_gene_product 421 426	MACS1
+T10	Gene_or_gene_product 499 504	MACS1
+T11	Gene_or_gene_product 534 539	MACS1
+T12	Gene_or_gene_product 544 546	Sa
+T13	Cellular_component 639 652	chromosome 16
+T14	Gene_or_gene_product 666 671	MACS1
+T15	Gene_or_gene_product 676 678	Sa
+T16	Simple_chemical 770 788	C4-C16 fatty acids
+T17	Gene_or_gene_product 790 795	MACS1
+T18	Simple_chemical 820 829	octanoate
+T19	Simple_chemical 839 850	isobutyrate
+T20	Simple_chemical 873 883	fatty acid
+T21	Simple_chemical 890 907	C2-C6 fatty acids
+T22	Gene_or_gene_product 912 914	Sa
+T23	Gene_or_gene_product 929 931	Sa
+T24	Gene_or_gene_product 949 954	MACS1
+T25	Cellular_component 1005 1016	Subcellular
+T26	Gene_or_gene_product 1050 1055	MACS1
+T27	Gene_or_gene_product 1060 1062	Sa
+T28	Cellular_component 1092 1112	mitochondrial matrix
+T29	Simple_chemical 1114 1130	(14)C-Fatty acid
+T30	Simple_chemical 1168 1177	acyl-CoAs
+T31	Gene_or_gene_product 1190 1195	MACS1
+T32	Gene_or_gene_product 1200 1202	Sa

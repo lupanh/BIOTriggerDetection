@@ -1,0 +1,50 @@
+T29	Activation 0 10	Activating
+E1	Activation:T29 Theme:T1
+T30	Positive_regulation 16 23	mediate
+E2	Positive_regulation:T30 Theme:E3 Cause:E1
+T31	Regulation 24 50	transcriptional regulation
+E3	Regulation:T31 Theme:E4
+T32	Negative_regulation 65 74	repressor
+E4	Negative_regulation:T32 Theme:T2
+T33	Positive_regulation 140 152	serve a role
+E5	Positive_regulation:T33 Theme:E7 Cause:T3
+T34	Pathway 156 166	cell cycle
+E6	Pathway:T34 
+T35	Regulation 167 177	regulation
+E7	Regulation:T35 Theme:E6
+T36	Binding 264 271	binding
+E8	Binding:T36 Theme:T6 Theme2:T5
+T37	Gene_expression 414 424	expression
+E9	Gene_expression:T37 Theme:T7
+T38	Positive_regulation 454 462	increase
+E10	Positive_regulation:T38 Theme:T8 Cause:E9
+T39	Positive_regulation 498 508	upregulate
+E11	Positive_regulation:T39 Theme:T9 Cause:E10
+T40	Binding 574 581	binding
+E12	Binding:T40 Theme:T10
+T41	Negative_regulation 588 597	nullified
+E13	Negative_regulation:T41 Theme:E14
+T42	Regulation 602 609	effects
+E14	Regulation:T42 Cause:T11 Theme:T12
+T43	Positive_regulation 673 682	induction
+E15	Positive_regulation:T43 Theme:T13
+T44	Activation 727 737	activating
+E16	Activation:T44 Theme:T14
+T45	Positive_regulation 772 783	upregulated
+E17	Positive_regulation:T45 Theme:T15
+T46	Pathway 803 813	cell cycle
+E18	Pathway:T46 
+T47	Binding 997 1004	binding
+E19	Binding:T47 Theme:T19
+T48	Binding 1144 1151	binding
+E20	Binding:T48 Theme:T21
+T49	Binding 1227 1238	association
+E21	Binding:T49 Theme:T24 Theme2:T25
+T50	Negative_regulation 1345 1354	repressor
+E22	Negative_regulation:T50 Theme:T26
+T51	Positive_regulation 1511 1519	critical
+E23	Positive_regulation:T51 Theme:E25 Cause:T28
+T52	Pathway 1524 1534	cell cycle
+E24	Pathway:T52 
+T53	Regulation 1535 1545	regulation
+E25	Regulation:T53 Theme:E24

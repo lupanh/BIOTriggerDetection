@@ -1,0 +1,67 @@
+T35	Positive_regulation 1336 1345	increased
+T36	Binding 1537 1545	ligation
+T37	Binding 1550 1567	heterodimerzation
+T38	Binding 1772 1780	ligation
+T39	Positive_regulation 1899 1903	lead
+T40	Phosphorylation 1911 1926	phosphorylation
+T32	Anaphora 1930 1948	the receptor Smads
+T33	Anaphora 1979 1991	The R- Smads
+T41	Binding 1997 2011	form complexes
+T42	Localization 2045 2057	translocated
+T43	Entity 2067 2074	nucleus
+T44	Gene_expression 2389 2399	expression
+T45	Positive_regulation 2427 2434	induced
+T46	Regulation 2493 2503	regulation
+T34	Anaphora 2507 2523	the target genes
+T47	Gene_expression 2610 2619	producing
+R1	Coreference Subject:T32 Object:T22
+R2	Coreference Subject:T32 Object:T23
+R3	Coreference Subject:T32 Object:T24
+R4	Coreference Subject:T33 Object:T22
+R5	Coreference Subject:T33 Object:T23
+R6	Coreference Subject:T33 Object:T24
+R7	Coreference Subject:T34 Object:T29
+R8	Coreference Subject:T34 Object:T30
+E1	Positive_regulation:T35 Theme:T13
+E2	Binding:T36 Theme:T14
+E3	Binding:T37 Theme:T14
+E4	Binding:T38 Theme:T15 Theme2:T16
+E5	Binding:T38 Theme:T15 Theme2:T17
+E6	Binding:T38 Theme:T15 Theme2:T18
+E7	Binding:T38 Theme:T15 Theme2:T19
+E8	Binding:T38 Theme:T15 Theme2:T20
+E9	Binding:T38 Theme:T15 Theme2:T21
+E10	Positive_regulation:T39 Theme:E11 Cause:E4
+E11	Phosphorylation:T40 Theme:T22
+E12	Positive_regulation:T39 Theme:E11 Cause:E5
+E13	Positive_regulation:T39 Theme:E11 Cause:E6
+E14	Positive_regulation:T39 Theme:E11 Cause:E7
+E15	Positive_regulation:T39 Theme:E11 Cause:E8
+E16	Positive_regulation:T39 Theme:E11 Cause:E9
+E17	Positive_regulation:T39 Theme:E18 Cause:E4
+E18	Phosphorylation:T40 Theme:T23
+E19	Positive_regulation:T39 Theme:E18 Cause:E5
+E20	Positive_regulation:T39 Theme:E18 Cause:E6
+E21	Positive_regulation:T39 Theme:E18 Cause:E7
+E22	Positive_regulation:T39 Theme:E18 Cause:E8
+E23	Positive_regulation:T39 Theme:E18 Cause:E9
+E24	Positive_regulation:T39 Theme:E25 Cause:E4
+E25	Phosphorylation:T40 Theme:T24
+E26	Positive_regulation:T39 Theme:E25 Cause:E5
+E27	Positive_regulation:T39 Theme:E25 Cause:E6
+E28	Positive_regulation:T39 Theme:E25 Cause:E7
+E29	Positive_regulation:T39 Theme:E25 Cause:E8
+E30	Positive_regulation:T39 Theme:E25 Cause:E9
+E31	Binding:T41 Theme:T25 Theme2:T22
+E32	Binding:T41 Theme:T25 Theme2:T23
+E33	Binding:T41 Theme:T25 Theme2:T24
+E34	Localization:T42 Theme:T22 ToLoc:T43
+E35	Localization:T42 Theme:T23 ToLoc:T43
+E36	Localization:T42 Theme:T24 ToLoc:T43
+E37	Gene_expression:T44 Theme:T28
+E38	Positive_regulation:T45 Theme:E39 Cause:E37
+E39	Regulation:T46 Theme:T29
+E40	Positive_regulation:T45 Theme:E41 Cause:E37
+E41	Regulation:T46 Theme:T30
+E42	Gene_expression:T47 Theme:T31
+M1	Speculation E42

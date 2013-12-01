@@ -1,0 +1,69 @@
+T39	Pathway 22 31	signaling
+E1	Pathway:T39 Participant:T1
+T40	Negative_regulation 210 234	negative regulatory role
+E2	Negative_regulation:T40 Cause:T3 Theme:T4
+E3	Negative_regulation:T40 Cause:T2 Theme:T4
+T41	Regulation 290 296	effect
+E4	Regulation:T41 Cause:T3 Theme:E6
+E5	Regulation:T41 Cause:T2 Theme:E6
+T42	Pathway 313 322	signaling
+E6	Pathway:T42 Participant:T5
+T43	Binding 395 405	associates
+E7	Binding:T43 Theme:T6 Theme:T7 Theme:T8
+T44	Positive_regulation 429 437	promotes
+E8	Positive_regulation:T44 Theme:E9 Cause:T6
+T45	Degradation 451 462	degradation
+E9	Degradation:T45 Theme:T9
+T46	Positive_regulation 605 617	up-regulated
+E10	Positive_regulation:T46 Theme:T14
+E11	Positive_regulation:T46 Theme:T15
+E12	Positive_regulation:T46 Theme:T13
+T47	Negative_regulation 763 770	inhibit
+E13	Negative_regulation:T47 Cause:T16 Theme:E14
+M1	Negation E13
+T48	Pathway 775 784	signaling
+E14	Pathway:T48 Participant:T17
+T49	Binding 799 810	interaction
+E15	Binding:T49 Theme:T18 Theme2:T19
+T50	Positive_regulation 888 897	dependent
+E16	Positive_regulation:T50 Cause:E17 Theme:E15
+T51	Positive_regulation 905 916	stimulation
+E17	Positive_regulation:T51 Theme:T20
+T52	Binding 927 934	binding
+E18	Binding:T52 Theme:T22 Theme2:T21
+E19	Binding:T52 Theme:T23 Theme2:T21
+T53	Negative_regulation 967 974	reduced
+E20	Negative_regulation:T53 Cause:T24 Theme:E18
+E21	Negative_regulation:T53 Cause:T24 Theme:E19
+T54	Binding 1030 1041	interaction
+E22	Binding:T54 Theme:T25 Theme:T26
+T55	Positive_regulation 1046 1055	increased
+E23	Positive_regulation:T55 Cause:T24 Theme:E22
+T56	Regulation 1071 1084	played a role
+E24	Regulation:T56 Theme:E25 Cause:T27
+T57	Regulation 1088 1098	regulating
+E25	Regulation:T57 Theme:E26
+T58	Binding 1103 1121	assembly/stability
+E26	Binding:T58 Theme:T19
+T59	Negative_regulation 1150 1160	Inhibition
+E27	Negative_regulation:T59 Cause:T29 Theme:T28
+T60	Negative_regulation 1189 1196	reduced
+E28	Negative_regulation:T60 Cause:E27 Theme:E29
+T61	Binding 1201 1212	association
+E29	Binding:T61 Theme:T28 Theme:T30
+T62	Negative_regulation 1231 1241	disruption
+E30	Negative_regulation:T62 Theme:E31
+T63	Phosphorylation 1250 1265	phosphorylation
+E31	Phosphorylation:T63 Theme:T32 Cause:T31
+T64	Negative_regulation 1280 1287	reduced
+E32	Negative_regulation:T64 Theme:E33 Cause:E30
+T65	Binding 1288 1299	interaction
+E33	Binding:T65 Theme:T33 Theme:T34
+T66	Pathway 1389 1398	signaling
+E34	Pathway:T66 Participant:T35
+T67	Positive_regulation 1460 1464	role
+E35	Positive_regulation:T67 Cause:T36 Theme:E37
+T68	Regulation 1476 1486	modulating
+E36	Regulation:T68 Theme:T37 Cause:E37
+T69	Phosphorylation 1522 1537	phosphorylation
+E37	Phosphorylation:T69 Theme:T38

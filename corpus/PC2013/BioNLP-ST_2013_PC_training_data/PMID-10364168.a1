@@ -1,0 +1,41 @@
+T1	Simple_chemical 0 13	Peptidoglycan
+T2	Simple_chemical 19 36	lipoteichoic acid
+T3	Gene_or_gene_product 76 96	toll-like receptor 2
+T4	Simple_chemical 244 262	lipopolysaccharide
+T5	Simple_chemical 264 267	LPS
+T6	Gene_or_gene_product 397 415	Toll-like receptor
+T7	Gene_or_gene_product 424 450	Toll-like receptor (TLR) 2
+T8	Simple_chemical 520 533	peptidoglycan
+T9	Simple_chemical 535 539	sPGN
+T10	Simple_chemical 545 562	lipoteichoic acid
+T11	Simple_chemical 564 567	LTA
+T12	Simple_chemical 630 633	LPS
+T13	Simple_chemical 635 639	sPGN
+T14	Simple_chemical 644 647	LTA
+T15	Simple_chemical 660 688	glycosylphosphatidylinositol
+T16	Cellular_component 698 706	membrane
+T17	Gene_or_gene_product 715 719	CD14
+T18	Complex 770 779	NF-kappaB
+T19	Simple_chemical 855 859	sPGN
+T20	Simple_chemical 864 867	LTA
+T21	Complex 893 902	NF-kappaB
+T22	Gene_or_gene_product 930 934	TLR2
+T23	Gene_or_gene_product 963 967	TLR1
+T24	Gene_or_gene_product 971 975	TLR4
+T25	Simple_chemical 981 985	sPGN
+T26	Simple_chemical 991 994	LTA
+T27	Complex 1003 1012	NF-kappaB
+T28	Simple_chemical 1045 1056	polymyxin B
+T29	Simple_chemical 1099 1102	LPS
+T30	Cellular_component 1131 1139	membrane
+T31	Gene_or_gene_product 1140 1144	CD14
+T32	Simple_chemical 1154 1158	sPGN
+T33	Gene_or_gene_product 1187 1191	TLR2
+T34	Simple_chemical 1208 1211	LPS
+T35	Gene_or_gene_product 1237 1241	TLR2
+T36	Simple_chemical 1245 1249	sPGN
+T37	Simple_chemical 1254 1257	LTA
+T38	Gene_or_gene_product 1306 1310	TLR2
+T39	Simple_chemical 1338 1342	sPGN
+T40	Simple_chemical 1347 1350	LTA
+T41	Simple_chemical 1366 1369	LPS

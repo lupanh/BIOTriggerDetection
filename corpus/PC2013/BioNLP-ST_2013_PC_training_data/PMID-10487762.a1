@@ -1,0 +1,35 @@
+T1	Complex 0 4	NuA4
+T2	Gene_or_gene_product 19 40	transcription adaptor
+T3	Gene_or_gene_product 41 69	histone H4 acetyltransferase
+T4	Gene_or_gene_product 89 94	Esa1p
+T5	Gene_or_gene_product 103 106	ATM
+T6	Gene_or_gene_product 124 129	Tra1p
+T7	Gene_or_gene_product 166 176	histone H4
+T8	Cellular_component 196 205	chromatin
+T9	Cellular_component 239 246	nuclear
+T10	Complex 364 368	NuA4
+T11	Cellular_component 397 408	nucleosomal
+T12	Gene_or_gene_product 409 419	histone H4
+T13	Complex 421 425	NuA4
+T14	Simple_chemical 488 495	lysines
+T15	Gene_or_gene_product 499 509	histone H4
+T16	Complex 531 535	NuA4
+T17	Gene_or_gene_product 611 615	ESA1
+T18	Gene_or_gene_product 700 705	Esa1p
+T19	Complex 737 741	NuA4
+T20	Gene_or_gene_product 809 813	esa1
+T21	Gene_or_gene_product 972 976	TRA1
+T22	Gene_or_gene_product 981 984	ATM
+T23	Gene_or_gene_product 1028 1033	TRRAP
+T24	Gene_or_gene_product 1061 1066	c-Myc
+T25	Gene_or_gene_product 1072 1075	E2F
+T26	Complex 1135 1139	NuA4
+T27	Gene_or_gene_product 1153 1162	GAL4-VP16
+T28	Cellular_component 1189 1198	chromatin
+T29	Gene_or_gene_product 1260 1264	esa1
+T30	Gene_or_gene_product 1303 1307	Esa1
+T31	Gene_or_gene_product 1323 1326	HAT
+T32	Complex 1338 1342	NuA4
+T33	Gene_or_gene_product 1363 1368	Tra1p
+T34	Cellular_component 1461 1468	nuclear
+T35	Gene_or_gene_product 1469 1471	H4

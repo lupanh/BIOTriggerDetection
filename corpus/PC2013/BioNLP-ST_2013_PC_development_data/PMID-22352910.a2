@@ -1,0 +1,11 @@
+*	Equiv T3 T2
+T15	Binding 593 605	interactions
+E1	Binding:T15 Theme:T5
+T16	Binding 780 784	bind
+E2	Binding:T16 Theme:T6 Theme2:T7 Theme3:T8
+T17	Binding 946 950	bind
+E3	Binding:T17 Theme:T10
+T18	Binding 987 991	bind
+E4	Binding:T18 Theme:T11 Theme2:T12
+T19	Binding 1301 1309	interact
+E5	Binding:T19 Theme:T14

@@ -1,0 +1,38 @@
+*	Equiv T3 T4
+T27	Negative_regulation 0 10	Repression
+E1	Negative_regulation:T27 Theme:E2 Cause:T2
+T28	Gene_expression 55 65	expression
+E2	Gene_expression:T28 Theme:T1
+T29	Gene_expression 150 160	expression
+E3	Gene_expression:T29 Theme:T4
+T30	Positive_regulation 190 199	regulated
+T31	Negative_regulation 190 199	regulated
+E4	Positive_regulation:T30 Theme:E3
+E5	Negative_regulation:T31 Theme:E3
+T32	Gene_expression 268 278	expression
+E6	Gene_expression:T32 Theme:T5
+T33	Positive_regulation 283 295	up-regulated
+E7	Positive_regulation:T33 Cause:T6 Theme:E6
+T34	Negative_regulation 496 514	negative regulator
+E8	Negative_regulation:T34 Cause:T7 Theme:E9
+T35	Gene_expression 529 539	expression
+E9	Gene_expression:T35 Theme:T8
+T36	Gene_expression 711 725	overexpression
+E10	Gene_expression:T36 Theme:T14
+T37	Negative_regulation 732 741	repressed
+E11	Negative_regulation:T37 Cause:T14 Theme:T15
+T38	Positive_regulation 870 879	increased
+E12	Positive_regulation:T38 Theme:T17
+T39	Negative_regulation 908 915	reduced
+E13	Negative_regulation:T39 Theme:E15
+T40	Positive_regulation 921 929	mediated
+E14	Positive_regulation:T40 Cause:T18 Theme:E15
+T41	Negative_regulation 930 940	repression
+E15	Negative_regulation:T41 Theme:T17
+T42	Binding 973 980	binding
+E16	Binding:T42 Theme:T20 Theme2:T19
+E17	Binding:T42 Theme:T21 Theme2:T19
+T43	Binding 1075 1082	binding
+E18	Binding:T43 Theme:T23 Theme2:T24
+T44	Negative_regulation 1235 1244	repressed
+E19	Negative_regulation:T44 Cause:T26 Theme:T25

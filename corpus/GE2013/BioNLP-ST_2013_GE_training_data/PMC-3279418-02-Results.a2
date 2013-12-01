@@ -1,0 +1,15 @@
+T13	Negative_regulation 548 557	mutations
+T14	Transcription 788 798	expression
+T15	Transcription 959 966	present
+T12	Anaphora 1012 1021	its level
+T16	Negative_regulation 1035 1044	decreased
+T17	Negative_regulation 1089 1098	reduction
+T18	Entity 1257 1268	cytoplasmic
+T19	Localization 1269 1281	localization
+R1	Coreference Subject:T12 Object:T15
+E1	Negative_regulation:T13 Theme:T6
+E2	Transcription:T14 Theme:T7
+E3	Transcription:T15 Theme:T8
+E4	Negative_regulation:T16 Theme:E3
+E5	Negative_regulation:T17 Theme:T9
+E6	Localization:T19 Theme:T11 ToLoc:T18

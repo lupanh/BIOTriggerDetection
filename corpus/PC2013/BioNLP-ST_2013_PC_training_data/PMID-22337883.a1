@@ -1,0 +1,28 @@
+T1	Gene_or_gene_product 25 28	Erg
+T2	Complex 92 118	nuclear factor (NF)-kappaB
+T3	Gene_or_gene_product 119 122	p65
+T4	Complex 302 311	NF-kappaB
+T5	Complex 513 522	NF-kappaB
+T6	Gene_or_gene_product 555 558	Erg
+T7	Gene_or_gene_product 586 589	ETS
+T8	Gene_or_gene_product 691 732	intercellular adhesion molecule 1(ICAM)-1
+T9	Gene_or_gene_product 761 764	ETS
+T10	Gene_or_gene_product 810 816	ICAM-1
+T11	Gene_or_gene_product 839 842	Erg
+T12	Gene_or_gene_product 877 880	Erg
+T13	Complex 948 957	NF-kappaB
+T14	Gene_or_gene_product 1001 1004	Erg
+T15	Complex 1053 1062	NF-kappaB
+T16	Gene_or_gene_product 1073 1079	ICAM-1
+T17	Gene_or_gene_product 1108 1111	Erg
+T18	Complex 1128 1137	NF-kappaB
+T19	Gene_or_gene_product 1148 1151	Erg
+T20	Complex 1161 1170	NF-kappaB
+T21	Gene_or_gene_product 1171 1174	p65
+T22	Gene_or_gene_product 1195 1201	ICAM-1
+T23	Gene_or_gene_product 1317 1320	Erg
+T24	Complex 1325 1334	NF-kappaB
+T25	Cellular_component 1366 1375	chromatin
+T26	Gene_or_gene_product 1492 1498	cIAP-2
+T27	Gene_or_gene_product 1503 1507	IL-8
+T28	Gene_or_gene_product 1543 1546	Erg

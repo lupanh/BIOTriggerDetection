@@ -1,0 +1,7 @@
+T4	Binding 1310 1317	Binding
+E1	Binding:T4 Theme:T1
+E2	Binding:T4 Theme:T2
+E3	Binding:T4 Theme:T3
+M1	Speculation E1
+M2	Speculation E2
+M3	Speculation E3

@@ -1,0 +1,23 @@
+T1	Gene_or_gene_product 25 40	myeloperoxidase
+T2	Simple_chemical 46 53	nitrite
+T3	Gene_or_gene_product 56 71	Myeloperoxidase
+T4	Gene_or_gene_product 73 76	MPO
+T5	Simple_chemical 291 298	nitrite
+T6	Gene_or_gene_product 337 352	myeloperoxidase
+T7	Gene_or_gene_product 434 444	compound I
+T8	Gene_or_gene_product 449 460	compound II
+T9	Simple_chemical 467 474	nitrite
+T10	Gene_or_gene_product 633 636	MPO
+T11	Simple_chemical 637 644	nitrite
+T12	Simple_chemical 774 781	nitrite
+T13	Simple_chemical 872 879	Nitrite
+T14	Gene_or_gene_product 925 928	MPO
+T15	Gene_or_gene_product 994 1004	compound I
+T16	Gene_or_gene_product 1008 1019	compound II
+T17	Gene_or_gene_product 1162 1173	compound II
+T18	Simple_chemical 1398 1405	nitrite
+T19	Simple_chemical 1410 1417	nitrite
+T20	Gene_or_gene_product 1431 1442	compounds I
+T21	Gene_or_gene_product 1447 1449	II
+T22	Simple_chemical 1568 1577	histidine
+T23	Simple_chemical 1604 1611	nitrite

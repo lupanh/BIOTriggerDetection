@@ -1,0 +1,2 @@
+(S1 (S (NP (JJ Statistical) (NN analysis))))
+(S1 (S (S (NP (JJ Statistical) (JJ significant) (NNS differences)) (VP (VBD were) (VP (VBN determined) (S (VP (VBG using) (NP (NP (JJ two-tailed) (JJ Student) (POS 's) (NN t-test)) (PRN (-LRB- -LRB-) (NP (JJ *p) (NN <) (CD 0.05) (: ;) (CD **p) (NN <) (QP (CD 0.01) (: ;) (CD ***p) (CD <) (CD 0.001))) (-RRB- -RRB-)))))))) (. .)))

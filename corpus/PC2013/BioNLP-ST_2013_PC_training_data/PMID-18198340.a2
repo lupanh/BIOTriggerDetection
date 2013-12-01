@@ -1,0 +1,63 @@
+*	Equiv T6 T7
+*	Equiv T13 T14
+T34	Regulation 8 17	regulates
+E1	Regulation:T34 Theme:E2 Cause:E4
+T35	Pathway 30 39	signaling
+E2	Pathway:T35 Participant:T1 Participant2:T3 Participant3:T2
+T36	Positive_regulation 76 84	mediated
+E3	Positive_regulation:T36 Theme:E4 Cause:T4
+T37	Localization 92 101	shuttling
+E4	Localization:T37 Theme:T5
+T38	Negative_regulation 187 197	inhibition
+E5	Negative_regulation:T38 Theme:T6
+T39	Positive_regulation 365 374	essential
+E6	Positive_regulation:T39 Theme:E9 Cause:T8
+E7	Positive_regulation:T39 Theme:E9 Cause:T9
+E8	Positive_regulation:T39 Theme:E9 Cause:T10
+T40	Regulation 387 397	regulation
+E9	Regulation:T40 Theme:T11
+T41	Negative_regulation 593 601	suppress
+E10	Negative_regulation:T41 Cause:T12 Theme:T13
+T42	Dissociation 639 648	releasing
+E11	Dissociation:T42 Product:T15
+T43	Positive_regulation 677 684	induced
+E12	Positive_regulation:T43 Theme:E13
+T44	Binding 685 696	association
+E13	Binding:T44 Theme:T15 Theme:T16
+T45	Positive_regulation 750 758	required
+E14	Positive_regulation:T45 Cause:T17 Theme:E16
+E15	Positive_regulation:T45 Cause:T17 Theme:E17
+T46	Dissociation 768 780	dissociation
+E16	Dissociation:T46 Theme:T18
+T47	Negative_regulation 811 821	inhibition
+E17	Negative_regulation:T47 Theme:T19
+T48	Binding 883 887	bind
+E18	Binding:T48 Theme:T20 Theme:T21
+M1	Negation E18
+T49	Positive_regulation 912 921	eliciting
+E19	Positive_regulation:T49 Cause:T20 Theme:E21
+E20	Positive_regulation:T49 Cause:T20 Theme:E22
+M2	Negation E19
+M3	Negation E20
+T50	Dissociation 934 946	dissociation
+E21	Dissociation:T50 Theme:T22
+T51	Negative_regulation 958 968	inhibition
+E22	Negative_regulation:T51 Theme:T23
+T52	Binding 1001 1005	bind
+E23	Binding:T52 Theme:T24 Theme:T25
+M4	Negation E23
+T53	Regulation 1017 1025	inactive
+E24	Regulation:T53 Cause:T24 Theme:T26
+M5	Negation E24
+T54	Pathway 1037 1046	signaling
+E25	Pathway:T54 Participant:T26
+T55	Negative_regulation 1068 1072	loss
+E26	Negative_regulation:T55 Theme:E27
+T56	Pathway 1082 1091	signaling
+E27	Pathway:T56 Participant:T27
+T57	Regulation 1177 1190	dysregulation
+E28	Regulation:T57 Theme:T28
+T58	Inactivation 1207 1211	loss
+E29	Inactivation:T58 Theme:T29
+T59	Negative_regulation 1256 1271	down-regulation
+E30	Negative_regulation:T59 Theme:T30

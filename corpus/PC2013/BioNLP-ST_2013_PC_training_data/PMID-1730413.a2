@@ -1,0 +1,46 @@
+T35	Regulation 89 96	control
+E1	Regulation:T35 Cause:T1 Theme:E5
+E2	Regulation:T35 Cause:T2 Theme:E5
+E3	Regulation:T35 Cause:T1 Theme:E6
+E4	Regulation:T35 Cause:T2 Theme:E6
+T36	Transcription 97 110	transcription
+E5	Transcription:T36 Theme:T3
+E6	Transcription:T36 Theme:T4
+T37	Transcription 343 356	transcription
+E7	Transcription:T37 Theme:T5
+T38	Localization 370 382	localization
+E8	Localization:T38 Theme:T5
+T39	Pathway 392 402	cell cycle
+E9	Pathway:T39 
+T40	Regulation 403 412	regulated
+E10	Regulation:T40 Cause:E9 Theme:E7
+E11	Regulation:T40 Cause:E9 Theme:E8
+T41	Pathway 513 523	cell cycle
+E12	Pathway:T41 
+T42	Localization 560 572	localization
+E13	Localization:T42 AtLoc:T10 Theme:T7
+T43	Activation 745 754	activator
+E14	Activation:T43 Theme:T15 Cause:T14
+E15	Activation:T43 Theme:T15 Cause:T16
+M1	Negation E15
+T44	Activation 844 853	activator
+E16	Activation:T44 Theme:T18 Cause:T17
+E17	Activation:T44 Theme:T18 Cause:T20
+M2	Negation E17
+T45	Pathway 962 969	pathway
+E18	Pathway:T45 Participant:T21 Participant2:T22
+T46	Pathway 988 995	pathway
+E19	Pathway:T46 Participant:T23 Participant2:T24
+T47	Pathway 1025 1035	cell cycle
+E20	Pathway:T47 
+T48	Regulation 1036 1045	regulated
+E21	Regulation:T48 Cause:E20 Theme:T25
+E22	Regulation:T48 Cause:E20 Theme:T26
+T49	Positive_regulation 1084 1091	require
+E23	Positive_regulation:T49 Theme:T27 Cause:T29
+E24	Positive_regulation:T49 Theme:T28 Cause:T29
+E25	Positive_regulation:T49 Theme:T27 Cause:T30
+E26	Positive_regulation:T49 Theme:T28 Cause:T30
+T50	Gene_expression 1138 1152	Overproduction
+E27	Gene_expression:T50 Theme:T31
+E28	Gene_expression:T50 Theme:T32

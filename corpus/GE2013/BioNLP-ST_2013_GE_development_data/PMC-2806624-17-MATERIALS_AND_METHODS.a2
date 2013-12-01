@@ -1,0 +1,9 @@
+T17	Transcription 979 983	mRNA
+T18	Transcription 1566 1570	mRNA
+T19	Positive_regulation 1580 1588	mediated
+T20	Negative_regulation 1594 1603	knockdown
+E1	Transcription:T17 Theme:T11
+E2	Transcription:T17 Theme:T12
+E3	Transcription:T18 Theme:T15
+E4	Positive_regulation:T19 Theme:E5
+E5	Negative_regulation:T20 Theme:T16

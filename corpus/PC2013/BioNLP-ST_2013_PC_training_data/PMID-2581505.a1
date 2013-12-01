@@ -1,0 +1,20 @@
+T1	Cellular_component 26 41	plasma membrane
+T2	Gene_or_gene_product 42 58	Na+-H+ exchanger
+T3	Cellular_component 65 80	plasma membrane
+T4	Gene_or_gene_product 81 97	Na+-H+ exchanger
+T5	Simple_chemical 208 211	Na+
+T6	Simple_chemical 228 230	H+
+T7	Simple_chemical 293 296	Li+
+T8	Simple_chemical 301 305	NH+4
+T9	Simple_chemical 321 324	Na+
+T10	Simple_chemical 329 331	H+
+T11	Simple_chemical 362 371	amiloride
+T12	Simple_chemical 413 420	cations
+T13	Simple_chemical 509 515	cation
+T14	Simple_chemical 516 524	hydroxyl
+T15	Simple_chemical 547 553	cation
+T16	Simple_chemical 554 560	proton
+T17	Gene_or_gene_product 614 630	Na+-H+ exchanger
+T18	Simple_chemical 677 682	[H+]i
+T19	Gene_or_gene_product 710 726	Na+-H+ exchanger
+T20	Cellular_component 774 787	intracellular

@@ -1,0 +1,49 @@
+*	Equiv T4 T5
+*	Equiv T10 T11
+*	Equiv T13 T14
+*	Equiv T21 T22
+T34	Pathway 15 24	signaling
+E1	Pathway:T34 Participant:T1
+T35	Negative_regulation 25 31	blocks
+E2	Negative_regulation:T35 Cause:E1 Theme:T2
+E3	Negative_regulation:T35 Cause:E1 Theme:E4
+T36	Binding 98 105	binding
+E4	Binding:T36 Theme:T3
+T37	Inactivation 364 372	inactive
+E5	Inactivation:T37 Theme:T6
+T38	Localization 408 415	present
+E6	Localization:T38 Theme:T6 AtLoc:T7
+T39	Binding 458 463	bound
+E7	Binding:T39 Theme:T8 Theme2:T9
+T40	Positive_regulation 563 571	activate
+E8	Positive_regulation:T40 Theme:T12 Cause:T11
+T41	Positive_regulation 585 596	stimulating
+E9	Positive_regulation:T41 Theme:T14 Cause:E8
+T42	Phosphorylation 646 659	phosphorylate
+E10	Phosphorylation:T42 Cause:T14 Theme:T15 Site:T16
+E11	Phosphorylation:T42 Cause:T14 Theme:T15 Site:T17
+T43	Regulation 703 712	targeting
+E12	Regulation:T43 Theme:E14 Cause:E11
+E13	Regulation:T43 Theme:E14 Cause:E10
+T44	Degradation 726 737	degradation
+E14	Degradation:T44 Theme:T15
+T45	Dissociation 779 786	release
+E15	Dissociation:T45 Theme:T20
+T46	Transport 799 812	translocation
+E16	Transport:T46 Theme:T20 FromLoc:T19
+T47	Regulation 1117 1124	effects
+E17	Regulation:T47 Cause:T24 Theme:T25
+T48	Positive_regulation 1150 1157	induced
+E18	Positive_regulation:T48 Cause:T26 Theme:T27
+T49	Negative_regulation 1307 1312	block
+E19	Negative_regulation:T49 Theme:T29 Cause:T28
+E20	Negative_regulation:T49 Theme:T29 Cause:E22
+E21	Negative_regulation:T49 Theme:T29 Cause:E23
+T50	Negative_regulation 1362 1373	suppression
+E22	Negative_regulation:T50 Theme:T30
+T51	Negative_regulation 1409 1419	inhibition
+E23	Negative_regulation:T51 Theme:E24
+T52	Binding 1437 1444	binding
+E24	Binding:T52 Theme:T31
+T53	Negative_regulation 1514 1524	inhibiting
+E25	Negative_regulation:T53 Theme:T32

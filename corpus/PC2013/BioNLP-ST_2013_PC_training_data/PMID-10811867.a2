@@ -1,0 +1,42 @@
+*	Equiv T4 T5
+*	Equiv T7 T8
+*	Equiv T16 T17
+T24	Positive_regulation 28 36	required
+E1	Positive_regulation:T24 Cause:T1 Theme:E3
+E2	Positive_regulation:T24 Cause:T1 Theme:E4
+T25	Activation 41 51	activation
+E3	Activation:T25 Theme:T2
+E4	Activation:T25 Theme:T3
+T26	Positive_regulation 390 399	essential
+E5	Positive_regulation:T26 Cause:T6 Theme:E6
+T27	Pathway 421 431	cell cycle
+E6	Pathway:T27 
+T28	Positive_regulation 466 474	response
+E7	Positive_regulation:T28 Theme:E8 Cause:E5
+T29	Positive_regulation 508 519	stimulation
+E8	Positive_regulation:T29 Theme:T7
+T30	Activation 525 536	stimulation
+E9	Activation:T30 Theme:T9
+T31	Positive_regulation 537 542	leads
+E10	Positive_regulation:T31 Cause:E9 Theme:E11
+T32	Activation 550 560	activation
+E11	Activation:T32 Theme:T10
+T33	Negative_regulation 750 758	prevents
+E12	Negative_regulation:T33 Theme:E14
+T34	Positive_regulation 763 770	induced
+E13	Positive_regulation:T34 Cause:T12 Theme:E14
+T35	Activation 771 781	activation
+E14	Activation:T35 Theme:T13
+T36	Negative_regulation 880 890	interferes
+E15	Negative_regulation:T36 Theme:E17
+T37	Positive_regulation 900 908	directed
+E16	Positive_regulation:T37 Cause:T15 Theme:E17
+T38	Activation 909 919	activation
+E17	Activation:T38 Theme:T16
+T39	Regulation 960 967	targets
+E18	Regulation:T39 Cause:E17 Theme:E19
+T40	Negative_regulation 982 991	inhibitor
+E19	Negative_regulation:T40 Theme:T18 Cause:T19
+T41	Binding 1071 1078	couples
+E20	Binding:T41 Theme:T20 Theme3:T22 Theme2:T23
+E21	Binding:T41 Theme:T20 Theme2:T21 Theme3:T23

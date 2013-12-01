@@ -1,0 +1,2 @@
+(S1 (S (NP (NN Cell) (NNS Infections))))
+(S1 (S (S (NP (NN HeLa) (NNS cells)) (VP (VBD were) (VP (VBN infected) (PP (IN with) (NP (NP (ADJP (FW E.) (FW coli)) (NN O157:H7)) (CC or) (NP (NN C.) (NN rodentium) (NNS strains)))) (SBAR (IN as) (S (VP (VBN described) (ADVP (RB previously9)))))))) (. .)))

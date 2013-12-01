@@ -1,0 +1,29 @@
+*	Equiv T1 T2
+*	Equiv T5 T6
+*	Equiv T14 T15
+T28	Negative_regulation 193 200	repress
+E1	Negative_regulation:T28 Theme:T6 Cause:T3
+E2	Negative_regulation:T28 Theme:T6 Cause:T4
+T29	Positive_regulation 297 303	causes
+E3	Positive_regulation:T29 Theme:E5
+E4	Positive_regulation:T29 Theme:E6
+T30	Dissociation 308 315	release
+E5	Dissociation:T30 Product:T7
+E6	Dissociation:T30 Product:T8
+T31	Binding 724 729	binds
+E7	Binding:T31 Theme:T12 Theme2:T11
+T32	Positive_regulation 790 799	dependent
+E8	Positive_regulation:T32 Theme:T11 Cause:T13
+E9	Positive_regulation:T32 Theme:T11 Cause:T14
+T33	Binding 1035 1039	bind
+E10	Binding:T33 Theme:T20 Theme2:T19
+E11	Binding:T33 Theme:T18 Theme2:T20
+T34	Binding 1132 1139	binding
+E12	Binding:T34 Theme:T21
+T35	Dissociation 1542 1551	releasing
+E13	Dissociation:T35 Theme:T24
+T36	Transport 1643 1654	recruitment
+E14	Transport:T36 Theme:T25
+E15	Transport:T36 Theme:T26
+T37	Positive_regulation 1774 1783	dependent
+E16	Positive_regulation:T37 Theme:T27

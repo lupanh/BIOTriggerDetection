@@ -1,0 +1,4 @@
+*	Equiv T8 T7
+T24	Positive_regulation 159 169	implicated
+E1	Positive_regulation:T24 Theme:T5
+E2	Positive_regulation:T24 Theme:T4

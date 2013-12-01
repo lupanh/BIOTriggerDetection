@@ -1,0 +1,81 @@
+*	Equiv T11 T12
+*	Equiv T13 T14
+*	Equiv T15 T16
+*	Equiv T29 T30
+*	Equiv T31 T32
+*	Equiv T33 T34
+*	Equiv T37 T38
+T55	Binding 167 172	binds
+E1	Binding:T55 Theme:T8 Theme2:T2
+T56	Negative_regulation 194 204	inhibiting
+E2	Negative_regulation:T56 Theme:T7 Cause:T8
+T57	Positive_regulation 307 316	inducible
+E3	Positive_regulation:T57 Theme:T10 Cause:T12
+E4	Positive_regulation:T57 Theme:T10 Cause:T14
+T58	Negative_regulation 522 529	inhibit
+E5	Negative_regulation:T58 Cause:T18 Theme:E8
+E6	Negative_regulation:T58 Cause:T18 Theme:E9
+M1	Negation E5
+M2	Negation E6
+T59	Positive_regulation 535 542	induced
+E7	Positive_regulation:T59 Cause:T19 Theme:E8
+T60	Transport 551 564	translocation
+E8	Transport:T60 FromLoc:T20 ToLoc:T20 Theme:T21
+T61	Binding 573 580	binding
+E9	Binding:T61 Theme:T21
+T62	Negative_regulation 618 626	prevents
+E10	Negative_regulation:T62 Cause:T18 Theme:E15
+E11	Negative_regulation:T62 Cause:T18 Theme:E14
+T63	Positive_regulation 711 718	induced
+E12	Positive_regulation:T63 Cause:T24 Theme:E14
+E13	Positive_regulation:T63 Cause:T24 Theme:E15
+T64	Gene_expression 777 792	gene expression
+E14	Gene_expression:T64 Theme:T26
+E15	Gene_expression:T64 Theme:T25
+T65	Activation 814 824	activation
+E16	Activation:T65 Theme:T27
+T66	Positive_regulation 825 832	induced
+E17	Positive_regulation:T66 Theme:E16 Cause:E20
+E18	Positive_regulation:T66 Theme:E16 Cause:E21
+E19	Positive_regulation:T66 Theme:E16 Cause:E22
+T67	Gene_expression 836 850	overexpression
+E20	Gene_expression:T67 Theme:T30
+E21	Gene_expression:T67 Theme:T32
+E22	Gene_expression:T67 Theme:T34
+T68	Regulation 871 881	associated
+E23	Regulation:T68 Cause:T28 Theme:T30
+E24	Regulation:T68 Cause:T28 Theme:T32
+E25	Regulation:T68 Cause:T28 Theme:T34
+T69	Negative_regulation 1037 1046	inhibited
+E26	Negative_regulation:T69 Cause:E27 Theme:E16
+T70	Gene_expression 1050 1060	expression
+E27	Gene_expression:T70 Theme:T35
+T71	Activation 1087 1097	activation
+E28	Activation:T71 Theme:T36
+T72	Positive_regulation 1098 1105	induced
+E29	Positive_regulation:T72 Theme:E28 Cause:E30
+T73	Positive_regulation 1109 1123	overexpression
+E30	Positive_regulation:T73 Theme:T38
+T74	Regulation 1218 1228	unaffected
+E31	Regulation:T74 Theme:E28
+M3	Negation E31
+T75	Pathway 1431 1438	pathway
+E32	Pathway:T75 Participant:T45 Participant2:T46
+T76	Positive_regulation 1464 1472	involved
+E33	Positive_regulation:T76 Theme:T47
+T77	Positive_regulation 1480 1495	transactivation
+E34	Positive_regulation:T77 Theme:T47
+T78	Binding 1560 1565	binds
+E35	Binding:T78 Theme:T48 Theme2:T49
+T79	Negative_regulation 1619 1629	inhibiting
+E36	Negative_regulation:T79 Theme:T50
+T80	Regulation 1630 1637	effects
+E37	Regulation:T80 Theme:E36 Cause:T51
+T81	Gene_expression 1650 1664	overexpression
+E38	Gene_expression:T81 Theme:T51
+T82	Positive_regulation 1703 1711	mediated
+E39	Positive_regulation:T82 Theme:T52 Cause:E40
+T83	Binding 1719 1730	interaction
+E40	Binding:T83 Theme:T52 Theme2:T54
+T84	Negative_regulation 1751 1761	inhibiting
+E41	Negative_regulation:T84 Theme:T53 Cause:T54

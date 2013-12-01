@@ -1,0 +1,25 @@
+*	Equiv T1 T2
+T14	Anaphora 1981 1986	their
+T15	Positive_regulation 2426 2434	triggers
+T16	Positive_regulation 2438 2446	increase
+T17	Regulation 2625 2634	important
+T18	Gene_expression 2728 2738	expression
+T19	Positive_regulation 2872 2881	increased
+T20	Positive_regulation 3218 3227	increases
+T21	Gene_expression 3240 3250	expression
+T22	Localization 3254 3263	secretion
+T23	Positive_regulation 3520 3529	increases
+T24	Localization 3530 3539	secretion
+E1	Positive_regulation:T15 Theme:E2
+E2	Positive_regulation:T16 Theme:T5
+E3	Positive_regulation:T15 Theme:E4
+E4	Positive_regulation:T16 Theme:T6
+E5	Regulation:T17 Theme:E6
+E6	Gene_expression:T18 Theme:T7
+E7	Positive_regulation:T19 Theme:T9
+E8	Positive_regulation:T20 Theme:E9
+E9	Gene_expression:T21 Theme:T11
+E10	Positive_regulation:T20 Theme:E11
+E11	Localization:T22 Theme:T11
+E12	Positive_regulation:T23 Theme:E13
+E13	Localization:T24 Theme:T12

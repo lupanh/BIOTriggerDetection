@@ -1,0 +1,6 @@
+(S1 (S (NP (JJ Statistical) (NN Analysis))))
+(S1 (S (S (NP (NP (DT The) (JJ experimental) (NNS results)) (VP (VBN obtained) (PP (IN in) (NP (DT this) (NN study))))) (VP (VBD were) (VP (VBN derived) (PP (IN from) (NP (NP (CD four) (JJ separate) (NNS experiments)) (PP (IN with) (NP (JJ healthy) (NN volunteer) (NNS donors)))))))) (. .)))
+(S1 (S (S (NP (DT Each) (NN assay)) (VP (VBD was) (VP (VBN performed) (PP (IN in) (NP (NP (NP (NN duplicate)) (CC or) (NP (NN triplicate))) (SBAR (WHADVP (WRB where)) (FRAG (JJ appropriate)))))))) (. .)))
+(S1 (S (S (NP (NN Data)) (VP (VBZ is) (VP (VBN presented) (PP (IN as) (NP (DT the) (NP (NP (NN mean)) (CC +/-) (NP (NN SEM)))))))) (. .)))
+(S1 (S (S (NP (NP (JJ Statistical) (NNS differences)) (PP (IN between) (NP (NNS groups)))) (VP (VBD were) (VP (VBN determined) (PP (IN by) (NP (NP (JJ one-way) (NN analysis)) (PP (IN of) (NP (NP (NN variance)) (PRN (-LRB- -LRB-) (NP (NN ANOVA)) (-RRB- -RRB-)))) (PP (IN with) (NP (DT a) (NNP Bonferroni) (NN correction)))))))) (. .)))
+(S1 (S (S (NP (JJ Statistical) (NN significance)) (VP (VBD was) (VP (VBN defined) (PP (IN as) (NP (NN P) (NN <) (CD 0.05)))))) (. .)))

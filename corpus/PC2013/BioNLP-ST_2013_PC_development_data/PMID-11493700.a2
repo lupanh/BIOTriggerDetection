@@ -1,0 +1,22 @@
+*	Equiv T3 T4
+*	Equiv T12 T13
+T23	Inactivation 54 66	inactivating
+E1	Inactivation:T23 Cause:T1 Theme:T2
+T24	Phosphorylation 390 405	phosphorylation
+E2	Phosphorylation:T24 Theme:T7 Cause:T6
+T25	Inactivation 420 431	inactivates
+E3	Inactivation:T25 Theme:T7 Cause:E2
+T26	Negative_regulation 470 479	inhibited
+E4	Negative_regulation:T26 Cause:T8 Theme:T9
+T27	Negative_regulation 514 523	prevented
+E5	Negative_regulation:T27 Theme:E6 Cause:E4
+T28	Phosphorylation 524 539	phosphorylation
+E6	Phosphorylation:T28 Site:T10 Theme:T11
+T29	Positive_regulation 649 656	induced
+E7	Positive_regulation:T29 Cause:T14 Theme:E8
+T30	Phosphorylation 657 672	phosphorylation
+E8	Phosphorylation:T30 Site:T16 Theme:T15
+T31	Negative_regulation 692 701	abolished
+E9	Negative_regulation:T31 Theme:E8
+T32	Negative_regulation 712 721	deficient
+E10	Negative_regulation:T32 Theme:T17

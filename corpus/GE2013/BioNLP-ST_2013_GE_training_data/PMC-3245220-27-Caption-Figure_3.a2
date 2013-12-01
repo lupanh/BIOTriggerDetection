@@ -1,0 +1,4 @@
+T6	Positive_regulation 520 526	active
+T7	Negative_regulation 888 896	negative
+E1	Positive_regulation:T6 Theme:T2
+E2	Negative_regulation:T7 Theme:T5

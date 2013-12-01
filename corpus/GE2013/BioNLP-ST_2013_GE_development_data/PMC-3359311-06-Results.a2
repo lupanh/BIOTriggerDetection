@@ -1,0 +1,44 @@
+T12	Positive_regulation 24 32	required
+T13	Regulation 55 64	responses
+T14	Regulation 99 109	dependence
+T15	Positive_regulation 118 125	induced
+T16	Gene_expression 144 154	production
+T17	Localization 503 511	secreted
+T18	Gene_expression 712 722	production
+T19	Positive_regulation 735 744	augmented
+T20	Positive_regulation 905 915	sufficient
+T21	Localization 937 946	secretion
+T22	Negative_regulation 1192 1201	inhibitor
+T23	Phosphorylation 1218 1233	phosphorylation
+T11	Anaphora 1235 1240	which
+T24	Negative_regulation 1255 1262	reduced
+T25	Gene_expression 1328 1338	production
+T26	Positive_regulation 1399 1413	in response to
+T27	Regulation 1618 1627	modulator
+T28	Gene_expression 1640 1650	production
+T29	Positive_regulation 1694 1702	augments
+T30	Positive_regulation 1716 1724	mediated
+T31	Gene_expression 1725 1735	production
+R1	Coreference Subject:T11 Object:T22
+E1	Positive_regulation:T12 Theme:E2
+E2	Regulation:T13 Theme:T1
+E3	Regulation:T14 Theme:E4
+E4	Positive_regulation:T15 Theme:E5
+E5	Gene_expression:T16 Theme:T2
+E6	Localization:T17 Theme:T3
+E7	Gene_expression:T18 Theme:T4
+E8	Positive_regulation:T19 Theme:E7
+E9	Positive_regulation:T20 Theme:E10
+E10	Localization:T21 Theme:T5
+E11	Negative_regulation:T22 Theme:E12
+E12	Phosphorylation:T23 Theme:T7
+E13	Negative_regulation:T24 Theme:E14 Cause:E11
+E14	Positive_regulation:T26 Theme:E15
+E15	Gene_expression:T25 Theme:T8
+E16	Regulation:T27 Theme:E17
+E17	Gene_expression:T28 Theme:T9
+E18	Positive_regulation:T29 Theme:E19
+E19	Positive_regulation:T30 Theme:E20
+E20	Gene_expression:T31 Theme:T10
+M1	Negation E6
+M2	Negation E9

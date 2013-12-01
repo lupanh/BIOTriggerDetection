@@ -1,0 +1,28 @@
+T6	Regulation 32 38	affect
+T7	Localization 54 60	export
+T8	Regulation 159 165	affect
+T9	Negative_regulation 196 203	prevent
+T10	Positive_regulation 218 228	stimulated
+T11	Entity 236 243	nuclear
+T12	Localization 244 256	localization
+T13	Regulation 435 441	affect
+T14	Protein_catabolism 460 471	degradation
+T15	Negative_regulation 715 722	prevent
+T16	Positive_regulation 737 747	stimulated
+T17	Entity 752 759	nuclear
+T18	Localization 760 773	translocation
+E1	Regulation:T6 Theme:E2
+E2	Localization:T7 Theme:T1
+E3	Regulation:T8 Theme:E4
+E4	Negative_regulation:T9 Theme:E5
+E5	Localization:T12 Theme:T2 ToLoc:T11
+E6	Positive_regulation:T10 Theme:E5
+E7	Regulation:T13 Theme:E8
+E8	Protein_catabolism:T14 Theme:T3
+E9	Negative_regulation:T15 Theme:E10
+E10	Localization:T18 Theme:T5 ToLoc:T17
+E11	Positive_regulation:T16 Theme:E10
+M1	Negation E1
+M2	Negation E3
+M3	Negation E7
+M4	Negation E9

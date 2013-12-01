@@ -1,0 +1,21 @@
+T1	Gene_or_gene_product 0 4	Set2
+T2	Cellular_component 10 21	nucleosomal
+T3	Gene_or_gene_product 22 32	histone H3
+T4	Gene_or_gene_product 122 129	histone
+T5	Gene_or_gene_product 331 339	histones
+T6	Gene_or_gene_product 477 502	histone methyltransferase
+T7	Gene_or_gene_product 504 507	HMT
+T8	Gene_or_gene_product 622 626	Set2
+T9	Gene_or_gene_product 636 639	HMT
+T10	Simple_chemical 666 675	lysine 36
+T11	Simple_chemical 677 682	Lys36
+T12	Gene_or_gene_product 691 693	H3
+T13	Simple_chemical 736 741	Lys36
+T14	Gene_or_gene_product 757 759	H3
+T15	Gene_or_gene_product 774 778	Set2
+T16	Gene_or_gene_product 866 870	Set2
+T17	Gene_or_gene_product 911 915	Set2
+T18	Gene_or_gene_product 993 996	HMT
+T19	Gene_or_gene_product 1052 1056	Set2
+T20	Gene_or_gene_product 1076 1078	H3
+T21	Simple_chemical 1079 1084	Lys36

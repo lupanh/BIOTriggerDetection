@@ -1,0 +1,72 @@
+*	Equiv T26 T27 T28
+T32	Positive_regulation 20 31	potentiates
+E1	Positive_regulation:T32 Cause:T1 Theme:E2
+T33	Binding 40 47	binding
+E2	Binding:T33 Theme:T2
+T34	Negative_regulation 52 60	inhibits
+E3	Negative_regulation:T34 Cause:T1 Theme:E5
+T35	Positive_regulation 74 81	induced
+E4	Positive_regulation:T35 Cause:T3 Theme:E5
+T36	Pathway 82 91	apoptosis
+E5	Pathway:T36 
+T37	Regulation 272 280	controls
+E6	Regulation:T37 Cause:T6 Theme:E7
+T38	Pathway 299 308	apoptosis
+E7	Pathway:T38 
+T39	Regulation 330 339	influence
+E8	Regulation:T39 Cause:T7 Theme:T8
+T40	Positive_regulation 368 375	induced
+E9	Positive_regulation:T40 Cause:T9 Theme:E10
+T41	Pathway 376 385	apoptosis
+E10	Pathway:T41 
+T42	Positive_regulation 472 480	produced
+E11	Positive_regulation:T42 Theme:E14
+E12	Positive_regulation:T42 Theme:E15
+E13	Positive_regulation:T42 Theme:E16
+T43	Positive_regulation 481 490	increased
+E14	Positive_regulation:T43 Theme:T12
+T44	Localization 511 523	localization
+E15	Localization:T44 AtLoc:T13 Theme:T12
+T45	Binding 550 557	binding
+E16	Binding:T45 Theme:T12
+T46	Pathway 559 568	Apoptosis
+E17	Pathway:T46 
+T47	Positive_regulation 591 599	produced
+E18	Positive_regulation:T47 Cause:E17 Theme:E14
+E19	Positive_regulation:T47 Cause:E17 Theme:E15
+E20	Positive_regulation:T47 Cause:E17 Theme:E16
+T48	Activation 634 644	activation
+E21	Activation:T48 Theme:T14
+E22	Activation:T48 Theme:T15
+T49	Negative_regulation 700 709	inhibited
+E23	Negative_regulation:T49 Theme:E21
+E24	Negative_regulation:T49 Theme:E22
+T50	Negative_regulation 750 758	reversed
+E25	Negative_regulation:T50 Theme:E22
+E26	Negative_regulation:T50 Theme:E21
+T51	Inactivation 766 774	silenced
+E27	Inactivation:T51 Theme:T18
+T52	Regulation 798 808	regulation
+E28	Regulation:T52 Theme:E30
+E29	Regulation:T52 Theme:E31
+T53	Gene_expression 830 840	expression
+E30	Gene_expression:T53 Theme:T19
+E31	Gene_expression:T53 Theme:T20
+T54	Negative_regulation 850 859	inhibited
+E32	Negative_regulation:T54 Cause:T21 Theme:E28
+E33	Negative_regulation:T54 Cause:T21 Theme:E29
+M1	Negation E32
+M2	Negation E33
+T55	Positive_regulation 1054 1064	increasing
+E34	Positive_regulation:T55 Cause:T24 Theme:T25
+E35	Positive_regulation:T55 Cause:T24 Theme:T26
+T56	Regulation 1114 1122	altering
+E36	Regulation:T56 Theme:T29 Cause:T24
+M3	Negation E36
+T57	Negative_regulation 1155 1162	inhibit
+E37	Negative_regulation:T57 Cause:T24 Theme:E39
+E38	Negative_regulation:T57 Cause:T24 Theme:E40
+T58	Activation 1201 1211	activation
+E39	Activation:T58 Theme:T31
+T59	Pathway 1216 1225	apoptosis
+E40	Pathway:T59 

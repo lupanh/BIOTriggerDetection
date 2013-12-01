@@ -1,0 +1,15 @@
+T19	Positive_regulation 84 92	mediated
+E1	Positive_regulation:T19 Cause:T1 Theme:E2
+T20	Inactivation 93 105	inactivation
+E2	Inactivation:T20 Theme:T2
+T21	Regulation 367 373	target
+E3	Regulation:T21 Cause:T8 Theme:T9
+T22	Inactivation 425 433	deletion
+E4	Inactivation:T22 Theme:T10
+T23	Regulation 560 570	influenced
+E5	Regulation:T23 Cause:T13 Theme:T12
+M1	Negation E5
+T24	Positive_regulation 671 680	dependent
+E6	Positive_regulation:T24 Cause:T15 Theme:E7
+T25	Ubiquitination 681 695	ubiquitination
+E7	Ubiquitination:T25 Theme:T16

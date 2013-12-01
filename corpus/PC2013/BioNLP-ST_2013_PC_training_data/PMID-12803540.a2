@@ -1,0 +1,36 @@
+*	Equiv T5 T6
+T51	Acetylation 187 197	acetylated
+E1	Acetylation:T51 Cause:T5 Theme:T3
+E2	Acetylation:T51 Cause:T5 Theme:T4
+T52	Conversion 264 272	oxidized
+T53	Positive_regulation 264 272	oxidized
+E3	Conversion:T52 Theme:T3 Product:T8
+E4	Positive_regulation:T53 Cause:T7 Theme:E3
+E5	Conversion:T52 Theme:T4 Product:T9
+E6	Positive_regulation:T53 Cause:T7 Theme:E5
+T54	Negative_regulation 758 767	decreased
+E7	Negative_regulation:T54 Cause:T16 Theme:T17
+E8	Negative_regulation:T54 Cause:T16 Theme:T18
+T55	Positive_regulation 859 869	increasing
+E9	Positive_regulation:T55 Cause:T16 Theme:T19
+E10	Positive_regulation:T55 Cause:T16 Theme:T20
+E11	Positive_regulation:T55 Cause:T16 Theme:T21
+E12	Positive_regulation:T55 Cause:T16 Theme:T22
+T56	Regulation 1005 1014	no effect
+E13	Regulation:T56 Cause:T23 Theme:T25
+E14	Regulation:T56 Cause:T23 Theme:T26
+M1	Negation E13
+M2	Negation E14
+T57	Acetylation 1045 1055	acetylated
+E15	Acetylation:T57 Theme:T26
+T58	Gene_expression 1949 1958	expressed
+E16	Gene_expression:T58 Theme:T44
+E17	Gene_expression:T58 Theme:T45
+T59	Positive_regulation 1994 2003	inducible
+E18	Positive_regulation:T59 Cause:T47 Theme:T46
+E19	Positive_regulation:T59 Cause:T47 Theme:T48
+M3	Negation E19
+T60	Activation 2091 2097	active
+E20	Activation:T60 Theme:T49
+T61	Transport 2112 2123	sequestered
+E21	Transport:T61 Theme:T49

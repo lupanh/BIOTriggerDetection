@@ -1,0 +1,21 @@
+T1	Gene_or_gene_product 0 3	E2F
+T2	Gene_or_gene_product 99 102	E2F
+T3	Gene_or_gene_product 282 287	E2F-1
+T4	Gene_or_gene_product 289 291	-2
+T5	Gene_or_gene_product 297 299	-3
+T6	Gene_or_gene_product 381 384	E2F
+T7	Gene_or_gene_product 421 426	E2F-1
+T8	Gene_or_gene_product 428 430	-2
+T9	Gene_or_gene_product 436 438	-3
+T10	Gene_or_gene_product 448 453	E2F-4
+T11	Gene_or_gene_product 455 457	-5
+T12	Gene_or_gene_product 463 465	-6
+T13	Gene_or_gene_product 504 508	p300
+T14	Gene_or_gene_product 513 550	cAMP-response element-binding protein
+T15	Simple_chemical 609 615	lysine
+T16	Gene_or_gene_product 705 710	E2F-1
+T17	Gene_or_gene_product 788 791	E2F
+T18	Gene_or_gene_product 864 867	E2F
+T19	Gene_or_gene_product 904 909	E2F-1
+T20	Gene_or_gene_product 929 950	histone deacetylase-1
+T21	Gene_or_gene_product 1033 1040	histone

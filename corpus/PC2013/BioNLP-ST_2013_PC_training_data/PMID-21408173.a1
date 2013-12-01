@@ -1,0 +1,47 @@
+T1	Gene_or_gene_product 0 10	Optineurin
+T2	Gene_or_gene_product 27 31	CYLD
+T3	Gene_or_gene_product 56 64	TNFalpha
+T4	Complex 73 82	NF-kappaB
+T5	Complex 100 122	nuclear factor kappa B
+T6	Complex 124 133	NF-kappaB
+T7	Complex 260 269	NF-kappaB
+T8	Gene_or_gene_product 315 319	CYLD
+T9	Complex 363 372	NF-kappaB
+T10	Gene_or_gene_product 385 395	Optineurin
+T11	Complex 493 502	NF-kappaB
+T12	Gene_or_gene_product 532 536	NEMO
+T13	Gene_or_gene_product 538 567	NF-kappaB essential modulator
+T14	Gene_or_gene_product 598 601	RIP
+T15	Gene_or_gene_product 603 631	receptor interacting protein
+T16	Complex 644 653	NF-kappaB
+T17	Gene_or_gene_product 689 693	CYLD
+T18	Gene_or_gene_product 697 707	optineurin
+T19	Gene_or_gene_product 797 807	optineurin
+T20	Gene_or_gene_product 813 817	CYLD
+T21	Gene_or_gene_product 873 883	optineurin
+T22	Gene_or_gene_product 885 890	H486R
+T23	Gene_or_gene_product 927 931	CYLD
+T24	Gene_or_gene_product 950 960	optineurin
+T25	Gene_or_gene_product 966 971	H486R
+T26	Gene_or_gene_product 995 1023	tumour necrosis factor alpha
+T27	Gene_or_gene_product 1025 1033	TNFalpha
+T28	Complex 1043 1052	NF-kappaB
+T29	Gene_or_gene_product 1065 1069	CYLD
+T30	Gene_or_gene_product 1093 1101	TNFalpha
+T31	Complex 1110 1119	NF-kappaB
+T32	Gene_or_gene_product 1166 1171	H486R
+T33	Gene_or_gene_product 1198 1208	optineurin
+T34	Gene_or_gene_product 1210 1214	CYLD
+T35	Gene_or_gene_product 1237 1245	TNFalpha
+T36	Complex 1254 1263	NF-kappaB
+T37	Gene_or_gene_product 1337 1340	RIP
+T38	Gene_or_gene_product 1369 1372	RIP
+T39	Gene_or_gene_product 1390 1400	optineurin
+T40	Gene_or_gene_product 1438 1441	RIP
+T41	Gene_or_gene_product 1460 1464	CYLD
+T42	Gene_or_gene_product 1482 1492	optineurin
+T43	Gene_or_gene_product 1537 1547	optineurin
+T44	Complex 1558 1567	NF-kappaB
+T45	Gene_or_gene_product 1607 1611	CYLD
+T46	Gene_or_gene_product 1631 1634	RIP
+T47	Gene_or_gene_product 1673 1676	RIP

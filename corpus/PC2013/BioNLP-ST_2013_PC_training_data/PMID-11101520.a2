@@ -1,0 +1,26 @@
+*	Equiv T3 T4
+T29	Pathway 220 230	cell-cycle
+E1	Pathway:T29 
+T30	Positive_regulation 427 435	mediated
+E2	Positive_regulation:T30 Theme:T10 Cause:E3
+T31	Binding 443 454	interaction
+E3	Binding:T31 Theme2:T10 Theme:T12
+T32	Binding 486 493	binding
+E4	Binding:T32 Theme:T12 Theme2:T11
+T33	Regulation 554 558	role
+E5	Regulation:T33 Theme:E7
+T34	Pathway 562 572	cell-cycle
+E6	Pathway:T34 
+T35	Regulation 573 580	control
+E7	Regulation:T35 Theme:E6
+T36	Binding 588 593	binds
+E8	Binding:T36 Theme:T16 Theme2:T14
+E9	Binding:T36 Theme:T17 Theme2:T14
+T37	Localization 846 858	mislocalized
+E10	Localization:T37 Theme:T22
+M1	Negation E10
+T38	Binding 895 905	associated
+E11	Binding:T38 Theme:T23
+T39	Binding 966 974	interact
+E12	Binding:T39 Theme:T27 Theme2:T26
+M2	Negation E12

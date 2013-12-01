@@ -1,0 +1,20 @@
+T1	Complex 45 54	NF-kappaB
+T2	Gene_or_gene_product 90 97	histone
+T3	Simple_chemical 255 263	lysine 9
+T4	Gene_or_gene_product 267 277	histone H3
+T5	Gene_or_gene_product 279 281	H3
+T6	Simple_chemical 281 283	K9
+T7	Complex 421 430	NF-kappaB
+T8	Gene_or_gene_product 538 545	histone
+T9	Gene_or_gene_product 558 562	Aof1
+T10	Gene_or_gene_product 578 582	Lsd2
+T11	Gene_or_gene_product 583 588	Kdm1b
+T12	Gene_or_gene_product 604 608	Aof1
+T13	Gene_or_gene_product 645 647	H3
+T14	Simple_chemical 647 649	K9
+T15	Complex 729 738	NF-kappaB
+T16	Gene_or_gene_product 769 773	Aof1
+T17	Gene_or_gene_product 818 823	c-Rel
+T18	Complex 835 844	NF-kappaB
+T19	Complex 964 973	NF-kappaB
+T20	Gene_or_gene_product 1098 1105	histone

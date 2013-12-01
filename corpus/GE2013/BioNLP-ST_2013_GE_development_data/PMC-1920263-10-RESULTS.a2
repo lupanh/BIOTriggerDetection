@@ -1,0 +1,14 @@
+T11	Positive_regulation 738 747	increased
+T12	Transcription 748 772	transcriptional activity
+T13	Entity 780 796	1025 bp sequence
+T9	Anaphora 909 932	This transcription rate
+T14	Regulation 955 962	altered
+T15	Negative_regulation 1056 1060	drop
+T10	Anaphora 1075 1083	activity
+R1	Coreference Subject:T9 Object:T11
+R2	Coreference Subject:T10 Object:T12
+E1	Positive_regulation:T11 Theme:E2 Cause:T6 CSite:T13
+E2	Transcription:T12 Theme:T5
+E3	Regulation:T14 Theme:E1
+E4	Negative_regulation:T15 Theme:E2
+M1	Negation E3

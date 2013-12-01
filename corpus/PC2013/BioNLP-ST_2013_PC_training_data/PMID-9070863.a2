@@ -1,0 +1,8 @@
+T10	Gene_expression 12 22	expression
+E1	Gene_expression:T10 Theme:T1
+T11	Regulation 153 163	regulation
+E2	Regulation:T11 Theme:T4 Cause:T2
+T12	Positive_regulation 763 772	catalyzes
+E3	Positive_regulation:T12 Theme:E4
+T13	Phosphorylation 777 792	phosphorylation
+E4	Phosphorylation:T13 Theme:T8

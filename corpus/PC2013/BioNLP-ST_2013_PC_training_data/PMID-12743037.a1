@@ -1,0 +1,27 @@
+T1	Gene_or_gene_product 36 40	Hot1
+T2	Gene_or_gene_product 54 58	Hog1
+T3	Complex 87 97	RNA Pol II
+T4	Gene_or_gene_product 122 154	mitogen-activated protein kinase
+T5	Gene_or_gene_product 156 160	MAPK
+T6	Gene_or_gene_product 162 166	Hog1
+T7	Gene_or_gene_product 255 259	Hot1
+T8	Gene_or_gene_product 304 308	MAPK
+T9	Gene_or_gene_product 335 339	Hog1
+T10	Gene_or_gene_product 390 394	Hot1
+T11	Gene_or_gene_product 403 407	Hog1
+T12	Gene_or_gene_product 523 527	Hot1
+T13	Gene_or_gene_product 575 579	Hot1
+T14	Gene_or_gene_product 591 600	Hog1 MAPK
+T15	Complex 631 654	RNA polymerase (Pol) II
+T16	Gene_or_gene_product 729 733	Hot1
+T17	Gene_or_gene_product 751 755	MAPK
+T18	Gene_or_gene_product 757 761	Hog1
+T19	Complex 781 791	RNA Pol II
+T20	Gene_or_gene_product 896 900	LexA
+T21	Gene_or_gene_product 917 921	Hog1
+T22	Gene_or_gene_product 1003 1007	Hog1
+T23	Gene_or_gene_product 1028 1032	Hot1
+T24	Complex 1090 1100	RNA Pol II
+T25	Gene_or_gene_product 1116 1119	p38
+T26	Complex 1144 1154	RNA Pol II
+T27	Gene_or_gene_product 1235 1240	SAPKs

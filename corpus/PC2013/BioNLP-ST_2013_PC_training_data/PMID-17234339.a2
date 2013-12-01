@@ -1,0 +1,49 @@
+*	Equiv T4 T5
+T26	Negative_regulation 0 11	Suppression
+E1	Negative_regulation:T26 Theme:T2
+T27	Activation 19 28	activated
+E2	Activation:T27 Cause:T1 Theme:T2
+T28	Activation 153 162	activated
+E3	Activation:T28 Theme:T4 Cause:E5
+T29	Regulation 167 176	regulated
+E4	Regulation:T29 Theme:T4 Cause:E5
+T30	Gene_expression 184 194	expression
+E5	Gene_expression:T30 Theme:T6
+T31	Positive_regulation 215 222	induced
+E6	Positive_regulation:T31 Theme:E7
+T32	Pathway 223 232	apoptosis
+E7	Pathway:T32 
+T33	Positive_regulation 413 422	increased
+E8	Positive_regulation:T33 Theme:E9 Cause:T9
+T34	Gene_expression 430 440	expression
+E9	Gene_expression:T34 Theme:T10
+T35	Positive_regulation 459 467	increase
+E10	Positive_regulation:T35 Theme:E12
+T36	Phosphorylation 471 485	phosphorylated
+E11	Phosphorylation:T36 Theme:T11
+T37	Gene_expression 490 500	expression
+E12	Gene_expression:T37 Theme:T11
+T38	Positive_regulation 829 836	induced
+E13	Positive_regulation:T38 Cause:T17 Theme:E14
+T39	Pathway 837 847	cell death
+E14	Pathway:T39 
+T40	Negative_regulation 885 894	protected
+E15	Negative_regulation:T40 Theme:E14
+T41	Pathway 960 970	cell death
+E16	Pathway:T41 
+T42	Positive_regulation 985 993	produced
+E17	Positive_regulation:T42 Theme:E16 Cause:T19
+T43	Negative_regulation 1044 1053	prevented
+E18	Negative_regulation:T43 Theme:E16
+T44	Negative_regulation 1202 1213	suppression
+E19	Negative_regulation:T44 Theme:T21
+T45	Negative_regulation 1316 1326	attenuates
+E20	Negative_regulation:T45 Theme:E22
+T46	Positive_regulation 1343 1350	induced
+E21	Positive_regulation:T46 Cause:T23 Theme:E22
+T47	Pathway 1351 1356	death
+E22	Pathway:T47 
+T48	Positive_regulation 1500 1509	induction
+E23	Positive_regulation:T48 Theme:E24
+T49	Gene_expression 1520 1530	expression
+E24	Gene_expression:T49 Theme:T25

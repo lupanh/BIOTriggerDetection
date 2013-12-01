@@ -1,0 +1,24 @@
+T1	Gene_or_gene_product 4 8	Doc1
+T2	Complex 50 76	anaphase-promoting complex
+T3	Gene_or_gene_product 79 88	Ubiquitin
+T4	Gene_or_gene_product 113 120	securin
+T5	Gene_or_gene_product 133 140	cyclins
+T6	Complex 258 284	anaphase-promoting complex
+T7	Complex 286 289	APC
+T8	Gene_or_gene_product 308 317	ubiquitin
+T9	Complex 397 400	APC
+T10	Complex 462 465	APC
+T11	Complex 559 562	APC
+T12	Gene_or_gene_product 615 621	cyclin
+T13	Complex 675 678	APC
+T14	Gene_or_gene_product 691 695	Doc1
+T15	Gene_or_gene_product 696 701	Apc10
+T16	Complex 711 726	APC(doc1 Delta)
+T17	Gene_or_gene_product 743 747	Doc1
+T18	Complex 811 826	APC(doc1 Delta)
+T19	Gene_or_gene_product 886 892	cyclin
+T20	Gene_or_gene_product 956 960	Doc1
+T21	Gene_or_gene_product 1045 1049	Doc1
+T22	Complex 1053 1068	APC(doc1 Delta)
+T23	Gene_or_gene_product 1101 1105	Doc1
+T24	Gene_or_gene_product 1160 1169	ubiquitin

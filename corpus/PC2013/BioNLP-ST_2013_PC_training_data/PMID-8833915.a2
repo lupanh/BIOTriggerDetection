@@ -1,0 +1,30 @@
+*	Equiv T5 T4
+T30	Gene_expression 9 19	expression
+E1	Gene_expression:T30 Theme:T2
+T31	Negative_regulation 153 163	inhibiting
+E2	Negative_regulation:T31 Cause:T3 Theme:T5
+T32	Negative_regulation 200 210	decreasing
+E3	Negative_regulation:T32 Cause:E2 Theme:E5
+E4	Negative_regulation:T32 Cause:E2 Theme:E6
+T33	Transport 242 250	exchange
+E5	Transport:T33 Theme:T6
+E6	Transport:T33 Theme:T7
+T34	Positive_regulation 256 266	increasing
+E7	Positive_regulation:T34 Theme:E8 Cause:E2
+T35	Transport 288 295	release
+E8	Transport:T35 Theme:T8
+T36	Gene_expression 391 401	expression
+E9	Gene_expression:T36 Theme:T10
+T37	Gene_expression 537 547	expression
+E10	Gene_expression:T37 Theme:T10
+T38	Gene_expression 692 702	expression
+E11	Gene_expression:T38 Theme:T11
+E12	Gene_expression:T38 Theme:T12
+E13	Gene_expression:T38 Theme:T13
+E14	Gene_expression:T38 Theme:T14
+E15	Gene_expression:T38 Theme:T15
+T39	Gene_expression 807 817	expression
+E16	Gene_expression:T39 Theme:T16
+M1	Negation E16
+T40	Localization 1322 1334	distribution
+E17	Localization:T40 Theme:T27

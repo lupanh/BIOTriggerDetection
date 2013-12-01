@@ -1,0 +1,5 @@
+T29	Gene_expression 92 101	expressed
+T30	Negative_regulation 1019 1024	siRNA
+E1	Gene_expression:T29 Theme:T4
+E2	Negative_regulation:T30 Theme:T23
+E3	Negative_regulation:T30 Theme:T24

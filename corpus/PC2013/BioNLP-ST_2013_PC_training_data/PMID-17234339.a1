@@ -1,0 +1,25 @@
+T1	Gene_or_gene_product 15 18	p53
+T2	Gene_or_gene_product 35 41	PAG608
+T3	Simple_chemical 54 69	methamphetamine
+T4	Gene_or_gene_product 98 120	p53-activated gene 608
+T5	Gene_or_gene_product 122 128	PAG608
+T6	Gene_or_gene_product 180 183	p53
+T7	Gene_or_gene_product 293 299	PAG608
+T8	Simple_chemical 303 318	methamphetamine
+T9	Simple_chemical 397 412	methamphetamine
+T10	Gene_or_gene_product 423 429	PAG608
+T11	Gene_or_gene_product 486 489	p53
+T12	Gene_or_gene_product 528 534	PAG608
+T13	Gene_or_gene_product 576 582	PAG608
+T14	Simple_chemical 695 710	methamphetamine
+T15	Simple_chemical 781 790	serotonin
+T16	Simple_chemical 803 811	dopamine
+T17	Simple_chemical 813 828	methamphetamine
+T18	Gene_or_gene_product 924 930	PAG608
+T19	Simple_chemical 997 1012	methamphetamine
+T20	Gene_or_gene_product 1078 1084	PAG608
+T21	Gene_or_gene_product 1217 1223	PAG608
+T22	Gene_or_gene_product 1269 1275	PAG608
+T23	Simple_chemical 1327 1342	methamphetamine
+T24	Simple_chemical 1414 1429	methamphetamine
+T25	Gene_or_gene_product 1513 1519	PAG608

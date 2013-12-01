@@ -1,0 +1,19 @@
+T1	Simple_chemical 0 10	Oroxylin A
+T2	Complex 117 126	NF-kappaB
+T3	Simple_chemical 441 451	oroxylin A
+T4	Simple_chemical 598 608	oroxylin A
+T5	Complex 619 628	NF-kappaB
+T6	Gene_or_gene_product 629 632	p65
+T7	Cellular_component 633 640	nuclear
+T8	Gene_or_gene_product 678 690	IkappaBalpha
+T9	Gene_or_gene_product 695 703	IKKalpha
+T10	Gene_or_gene_product 704 708	beta
+T11	Simple_chemical 810 820	oroxylin A
+T12	Simple_chemical 846 864	lipopolysaccharide
+T13	Simple_chemical 866 869	LPS
+T14	Gene_or_gene_product 930 934	IL-6
+T15	Gene_or_gene_product 943 951	IL-1beta
+T16	Simple_chemical 1012 1022	oroxylin A
+T17	Simple_chemical 1081 1084	LPS
+T18	Simple_chemical 1149 1159	oroxylin A
+T19	Complex 1170 1179	NF-kappaB

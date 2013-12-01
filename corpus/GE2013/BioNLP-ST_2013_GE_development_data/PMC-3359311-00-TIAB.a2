@@ -1,0 +1,47 @@
+*	Equiv T2 T3
+T15	Positive_regulation 13 21	Mediated
+T16	Gene_expression 31 41	Production
+T17	Localization 306 315	Secretion
+T18	Regulation 348 356	involves
+T19	Positive_regulation 525 533	mediated
+T20	Gene_expression 543 553	production
+T21	Gene_expression 674 681	produce
+T22	Positive_regulation 713 723	stimulated
+T23	Gene_expression 955 963	produced
+T24	Positive_regulation 1034 1038	upon
+T25	Gene_expression 1163 1173	production
+T26	Positive_regulation 1179 1189	stimulated
+T27	Regulation 1425 1430	alter
+T28	Gene_expression 1448 1458	production
+T29	Positive_regulation 1459 1473	in response to
+T30	Positive_regulation 1572 1579	induced
+T31	Positive_regulation 1652 1661	preserved
+T32	Localization 1699 1708	secretion
+T33	Positive_regulation 1823 1832	increased
+T34	Gene_expression 1842 1852	production
+T35	Positive_regulation 1871 1874	due
+E1	Positive_regulation:T15 Theme:E2
+E2	Gene_expression:T16 Theme:T1
+E3	Localization:T17 Theme:T4
+E4	Regulation:T18 Theme:E3
+E5	Positive_regulation:T19 Theme:E6
+E6	Gene_expression:T20 Theme:T6
+E7	Gene_expression:T21 Theme:T7
+E8	Positive_regulation:T22 Theme:E7
+E9	Gene_expression:T23 Theme:T8
+E10	Positive_regulation:T24 Theme:E9
+E11	Gene_expression:T25 Theme:T9
+E12	Positive_regulation:T26 Theme:E11
+E13	Regulation:T27 Theme:E14
+E14	Positive_regulation:T29 Theme:E15
+E15	Gene_expression:T28 Theme:T11
+E16	Positive_regulation:T30 Theme:T12
+E17	Positive_regulation:T31 Theme:E18
+E18	Localization:T32 Theme:T13
+E19	Positive_regulation:T33 Theme:E20
+E20	Gene_expression:T34 Theme:T14
+E21	Positive_regulation:T35 Theme:E19
+M1	Speculation E5
+M2	Negation E7
+M3	Negation E13
+M4	Speculation E21

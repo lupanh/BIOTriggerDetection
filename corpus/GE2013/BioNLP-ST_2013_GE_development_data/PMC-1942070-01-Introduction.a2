@@ -1,0 +1,10 @@
+T9	Binding 706 713	binding
+T10	Positive_regulation 726 737	contributes
+T11	Positive_regulation 746 756	activation
+T12	Positive_regulation 2148 2161	indispensable
+T13	Phosphorylation 2172 2187	phosphorylation
+E1	Binding:T9 Theme:T4
+E2	Positive_regulation:T10 Theme:E3 Cause:E1
+E3	Positive_regulation:T11 Theme:T4
+E4	Positive_regulation:T12 Theme:E5
+E5	Phosphorylation:T13 Theme:T8

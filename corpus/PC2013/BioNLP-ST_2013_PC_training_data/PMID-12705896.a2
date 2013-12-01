@@ -1,0 +1,11 @@
+*	Equiv T11 T12
+*	Equiv T15 T16
+*	Equiv T20 T21
+T26	Transport 37 49	transporters
+E1	Transport:T26 Theme:T2 FromLoc:T1 ToLoc:T1
+T27	Pathway 403 408	cycle
+E2	Pathway:T27 Participant:T8 Participant2:T9
+T28	Conversion 883 892	generated
+T29	Positive_regulation 883 892	generated
+E3	Conversion:T28 Product:T23
+E4	Positive_regulation:T29 Theme:E3 Cause:T22

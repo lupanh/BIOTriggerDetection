@@ -1,0 +1,46 @@
+T1	Gene_or_gene_product 20 24	mTOR
+T2	Gene_or_gene_product 134 138	mTOR
+T3	Gene_or_gene_product 144 173	mammalian target of rapamycin
+T4	Gene_or_gene_product 184 215	serine/threonine protein kinase
+T5	Cellular_component 231 239	ribosome
+T6	Gene_or_gene_product 276 280	mTOR
+T7	Gene_or_gene_product 355 362	insulin
+T8	Gene_or_gene_product 363 368	IGF-1
+T9	Gene_or_gene_product 370 398	insulin-like growth factor 1
+T10	Gene_or_gene_product 556 569	growth factor
+T11	Gene_or_gene_product 592 596	mTOR
+T12	Gene_or_gene_product 634 647	class I PI3Ks
+T13	Gene_or_gene_product 649 675	phosphoinositide 3-kinases
+T14	Gene_or_gene_product 678 681	PKB
+T15	Gene_or_gene_product 683 699	protein kinase B
+T16	Complex 702 706	TSC1
+T17	Complex 714 740	tuberous sclerosis complex
+T18	Gene_or_gene_product 756 762	GTPase
+T19	Gene_or_gene_product 764 768	Rheb
+T20	Gene_or_gene_product 814 818	mTOR
+T21	Gene_or_gene_product 896 900	mTOR
+T22	Gene_or_gene_product 1018 1022	mTOR
+T23	Gene_or_gene_product 1100 1114	class III PI3K
+T24	Gene_or_gene_product 1115 1121	hVps34
+T25	Gene_or_gene_product 1216 1222	MAP4K3
+T26	Gene_or_gene_product 1224 1279	mitogen-activated protein kinase kinase kinase kinase-3
+T27	Gene_or_gene_product 1283 1288	Ste20
+T28	Gene_or_gene_product 1325 1328	GLK
+T29	Gene_or_gene_product 1330 1357	germinal centre-like kinase
+T30	Gene_or_gene_product 1415 1421	MAP4K3
+T31	Simple_chemical 1530 1539	rapamycin
+T32	Gene_or_gene_product 1561 1567	MAP4K3
+T33	Gene_or_gene_product 1580 1584	mTOR
+T34	Gene_or_gene_product 1594 1600	MAP4K3
+T35	Gene_or_gene_product 1642 1646	mTOR
+T36	Gene_or_gene_product 1663 1667	S6K1
+T37	Gene_or_gene_product 1669 1680	S6 kinase 1
+T38	Gene_or_gene_product 1705 1711	MAP4K3
+T39	Simple_chemical 1725 1734	rapamycin
+T40	Gene_or_gene_product 1806 1812	MAP4K3
+T41	Gene_or_gene_product 1877 1883	MAP4K3
+T42	Gene_or_gene_product 1942 1946	mTOR
+T43	Gene_or_gene_product 1999 2005	MAP4K3
+T44	Gene_or_gene_product 2043 2047	mTOR
+T45	Gene_or_gene_product 2184 2190	MAP4K3
+T46	Gene_or_gene_product 2278 2282	mTOR

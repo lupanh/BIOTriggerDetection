@@ -1,0 +1,25 @@
+T1	Gene_or_gene_product 13 44	human phosphoinositide 3-kinase
+T2	Simple_chemical 113 123	wortmannin
+T3	Simple_chemical 144 178	phosphatidylinositide 3-phosphates
+T4	Gene_or_gene_product 276 302	phosphoinositide 3-kinases
+T5	Gene_or_gene_product 304 310	PI3-Ks
+T6	Gene_or_gene_product 458 463	PI3-K
+T7	Gene_or_gene_product 472 486	PI3-K-C2 alpha
+T8	Gene_or_gene_product 562 577	class II PI3-Ks
+T9	Gene_or_gene_product 635 638	68D
+T10	Gene_or_gene_product 697 702	m-cpk
+T11	Gene_or_gene_product 707 711	p170
+T12	Gene_or_gene_product 974 988	PI3-K-C2 alpha
+T13	Simple_chemical 1015 1020	lipid
+T14	Simple_chemical 1120 1126	PtdIns
+T15	Simple_chemical 1131 1139	PtdIns4P
+T16	Simple_chemical 1149 1155	lipids
+T17	Simple_chemical 1191 1197	lipids
+T18	Simple_chemical 1227 1245	phosphatidylserine
+T19	Simple_chemical 1286 1299	PtdIns(4,5)P2
+T20	Gene_or_gene_product 1345 1359	PI3-K-C2 alpha
+T21	Simple_chemical 1395 1405	wortmannin
+T22	Simple_chemical 1410 1418	LY294002
+T23	Gene_or_gene_product 1437 1442	PI3-K
+T24	Gene_or_gene_product 1510 1524	PI3-K-C2 alpha
+T25	Gene_or_gene_product 1607 1613	PI3-Ks

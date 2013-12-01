@@ -1,0 +1,10 @@
+*	Equiv T6 T7
+*	Equiv T10 T11
+T22	Methylation 130 141	methylation
+E1	Methylation:T22 Theme:T4
+T23	Methylation 742 753	methylation
+E2	Methylation:T23 Theme:T14 Site:T13
+T24	Methylation 819 830	methylation
+E3	Methylation:T24 Cause:T15 Theme:T14 Site:T13
+T25	Methylation 1061 1072	methylation
+E4	Methylation:T25 Theme:T20 Site:T21

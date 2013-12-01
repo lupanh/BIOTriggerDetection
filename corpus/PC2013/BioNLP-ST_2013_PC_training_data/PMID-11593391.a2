@@ -1,0 +1,75 @@
+*	Equiv T1 T2
+*	Equiv T5 T6
+*	Equiv T8 T9
+*	Equiv T10 T11
+*	Equiv T21 T20
+*	Equiv T24 T25
+T30	Negative_regulation 40 49	interfere
+E1	Negative_regulation:T30 Theme:E2
+T31	Gene_expression 55 65	expression
+E2	Gene_expression:T31 Theme:T2
+T32	Regulation 155 165	stabilizes
+E3	Regulation:T32 Theme:T3
+T33	Negative_regulation 209 217	decrease
+E4	Negative_regulation:T33 Theme:T6
+T34	Negative_regulation 298 301	low
+E5	Negative_regulation:T34 Theme:T7
+T35	Positive_regulation 342 348	depend
+E6	Positive_regulation:T35 Theme:E5 Cause:E7
+M1	Speculation E6
+T36	Positive_regulation 355 363	increase
+E7	Positive_regulation:T36 Theme:T8
+T37	Positive_regulation 404 413	increased
+E8	Positive_regulation:T37 Theme:T11 Cause:E10
+T38	Positive_regulation 444 453	dependent
+E9	Positive_regulation:T38 Cause:T12 Theme:E10
+T39	Positive_regulation 454 463	induction
+E10	Positive_regulation:T39 Theme:T13
+T40	Positive_regulation 506 515	induction
+E11	Positive_regulation:T40 Theme:T14
+T41	Positive_regulation 529 537	critical
+E12	Positive_regulation:T41 Cause:E11 Theme:E13
+T42	Negative_regulation 558 561	low
+E13	Negative_regulation:T42 Theme:T15
+T43	Negative_regulation 599 606	defects
+E14	Negative_regulation:T43 Theme:E15
+T44	Transcription 617 630	transcription
+E15	Transcription:T44 Theme:T16
+T45	Positive_regulation 637 643	result
+E16	Positive_regulation:T45 Cause:E14 Theme:E17
+T46	Positive_regulation 649 667	prolonged increase
+E17	Positive_regulation:T46 Theme:T17
+T47	Regulation 730 738	maintain
+E18	Regulation:T47 Theme:E19
+T48	Positive_regulation 739 743	high
+E19	Positive_regulation:T48 Theme:T18
+T49	Gene_expression 924 931	express
+E20	Gene_expression:T49 Theme:T19
+E21	Gene_expression:T49 Theme:T21
+T50	Negative_regulation 932 942	diminished
+E22	Negative_regulation:T50 Theme:T19
+E23	Negative_regulation:T50 Theme:T21
+T51	Transcription 1014 1027	transcription
+E24	Transcription:T51 Theme:T22
+T52	Negative_regulation 1040 1047	reduced
+E25	Negative_regulation:T52 Theme:E24
+T53	Positive_regulation 1076 1087	uninducible
+E26	Positive_regulation:T53 Theme:T23
+M2	Negation E26
+T54	Regulation 1116 1125	sensitive
+E27	Regulation:T54 Theme:E26
+T55	Negative_regulation 1261 1267	reduce
+E28	Negative_regulation:T55 Theme:T25
+T56	Regulation 1295 1305	correlated
+E29	Regulation:T56 Theme:E30
+T57	Positive_regulation 1313 1331	prolonged increase
+E30	Positive_regulation:T57 Theme:T26
+T58	Regulation 1350 1361	independent
+E31	Regulation:T58 Cause:T27 Theme:E32
+M3	Negation E31
+T59	Transcription 1362 1375	transcription
+E32	Transcription:T59 Theme:T28
+T60	Positive_regulation 1392 1400	critical
+E33	Positive_regulation:T60 Theme:E34 Cause:E32
+T61	Regulation 1410 1420	regulation
+E34	Regulation:T61 Theme:T29

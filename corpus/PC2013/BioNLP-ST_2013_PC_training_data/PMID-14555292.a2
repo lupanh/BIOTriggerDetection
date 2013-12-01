@@ -1,0 +1,23 @@
+*	Equiv T2 T3
+*	Equiv T12 T13
+*	Equiv T14 T15
+*	Equiv T16 T17
+*	Equiv T19 T20
+*	Equiv T21 T22
+*	Equiv T23 T24
+T43	Negative_regulation 515 524	inhibitor
+E1	Negative_regulation:T43 Theme:T10 Cause:T9
+T44	Positive_regulation 799 808	dependent
+E2	Positive_regulation:T44 Cause:T18 Theme:T19
+T45	Negative_regulation 981 990	inhibitor
+E3	Negative_regulation:T45 Theme:T27 Cause:T26
+T46	Negative_regulation 1013 1022	inhibitor
+E4	Negative_regulation:T46 Theme:T29 Cause:T28
+T47	Negative_regulation 1042 1051	inhibitor
+E5	Negative_regulation:T47 Theme:T31 Cause:T30
+T48	Negative_regulation 1069 1078	inhibitor
+E6	Negative_regulation:T48 Theme:T33 Cause:T32
+T49	Negative_regulation 1109 1118	inhibitor
+E7	Negative_regulation:T49 Theme:T35 Cause:T34
+T50	Activation 1236 1245	Activated
+E8	Activation:T50 Theme:T37

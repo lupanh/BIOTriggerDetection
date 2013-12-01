@@ -1,0 +1,55 @@
+*	Equiv T6 T7
+*	Equiv T8 T9
+*	Equiv T15 T16
+T39	Positive_regulation 0 13	Up-regulation
+E1	Positive_regulation:T39 Theme:E2 Cause:T2
+T40	Conversion 34 43	synthesis
+E2	Conversion:T40 Product:T1
+T41	Positive_regulation 94 102	involves
+E3	Positive_regulation:T41 Theme:E1 Cause:E5
+E4	Positive_regulation:T41 Theme:E1 Cause:E7
+T42	Positive_regulation 114 123	induction
+E5	Positive_regulation:T42 Theme:T3
+T43	Positive_regulation 183 192	dependent
+E6	Positive_regulation:T43 Cause:T4 Theme:E7
+T44	Gene_expression 219 229	expression
+E7	Gene_expression:T44 Theme:T5
+T45	Conversion 260 270	production
+E8	Conversion:T45 Product:T6
+T46	Positive_regulation 450 459	dependent
+E9	Positive_regulation:T46 Cause:T10 Theme:T8
+T47	Regulation 546 556	associates
+E10	Regulation:T47 Cause:T11 Theme:T15
+T48	Regulation 720 729	regulated
+E11	Regulation:T48 Theme:T18
+T49	Gene_expression 777 786	expressed
+E12	Gene_expression:T49 Theme:T19
+E13	Gene_expression:T49 Theme:T20
+T50	Positive_regulation 879 886	elicits
+E14	Positive_regulation:T50 Cause:T21 Theme:E17
+E15	Positive_regulation:T50 Cause:T21 Theme:E16
+T51	Gene_expression 919 929	expression
+E16	Gene_expression:T51 Theme:T22
+E17	Gene_expression:T51 Theme:T23
+T52	Negative_regulation 1129 1138	inhibitor
+E18	Negative_regulation:T52 Cause:T25 Theme:T26
+T53	Negative_regulation 1146 1155	attenuate
+E19	Negative_regulation:T53 Theme:E20 Cause:T25
+T54	Positive_regulation 1160 1169	induction
+E20	Positive_regulation:T54 Theme:T27
+T55	Positive_regulation 1193 1203	dependence
+E21	Positive_regulation:T55 Cause:T28 Theme:T27
+M1	Speculation E21
+T56	Activation 1258 1267	activates
+E22	Activation:T56 Cause:T29 Theme:T32
+T57	Positive_regulation 1315 1324	Induction
+E23	Positive_regulation:T57 Theme:T33
+E24	Positive_regulation:T57 Theme:T34
+T58	Positive_regulation 1507 1516	induction
+E25	Positive_regulation:T58 Cause:T37 Theme:T35
+E26	Positive_regulation:T58 Cause:T37 Theme:T36
+T59	Positive_regulation 1549 1558	underlies
+E27	Positive_regulation:T59 Theme:E29 Cause:E25
+E28	Positive_regulation:T59 Theme:E29 Cause:E26
+T60	Conversion 1573 1583	production
+E29	Conversion:T60 Product:T38

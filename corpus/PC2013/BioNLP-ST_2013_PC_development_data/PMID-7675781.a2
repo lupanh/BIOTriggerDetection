@@ -1,0 +1,17 @@
+T34	Binding 155 160	bound
+E1	Binding:T34 Theme:T4 Theme2:T3
+E2	Binding:T34 Theme:T5 Theme2:T3
+T35	Binding 548 552	bind
+E3	Binding:T35 Theme:T7 Theme2:T6
+E4	Binding:T35 Theme:T6 Theme2:T9
+T36	Binding 968 972	bind
+E5	Binding:T36 Theme:T16 Theme2:T17
+E6	Binding:T36 Theme:T16 Theme2:T18
+T37	Binding 1069 1074	bound
+E7	Binding:T37 Theme:T20 Theme2:T19
+T38	Binding 1116 1121	bound
+E8	Binding:T38 Theme:T21 Theme2:T19
+T39	Binding 1271 1275	bind
+E9	Binding:T39 Theme:T22 Theme2:T25
+T40	Binding 1370 1375	binds
+E10	Binding:T40 Theme:T26 Theme2:T25

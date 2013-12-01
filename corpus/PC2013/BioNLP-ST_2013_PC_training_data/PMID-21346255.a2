@@ -1,0 +1,64 @@
+*	Equiv T19 T20
+*	Equiv T34 T35
+T49	Regulation 39 47	regulate
+E1	Regulation:T49 Cause:T1 Theme:T3
+T50	Dissociation 58 66	displace
+T51	Positive_regulation 58 66	displace
+E2	Dissociation:T50 Product:T4 Theme:T5
+E3	Positive_regulation:T51 Cause:T1 Theme:E2
+E4	Dissociation:T50 Product:T4 Theme:T6
+E5	Positive_regulation:T51 Cause:T1 Theme:E4
+T52	Positive_regulation 279 288	synergize
+E6	Positive_regulation:T52 Cause:T9 Theme:T10
+E7	Positive_regulation:T52 Cause:T9 Theme:T11
+T53	Activation 311 319	activate
+E8	Activation:T53 Theme:T12 Cause:E6
+E9	Activation:T53 Theme:T13 Cause:E6
+E10	Activation:T53 Theme:T13 Cause:E7
+E11	Activation:T53 Theme:T12 Cause:E7
+T54	Binding 383 387	bind
+E12	Binding:T54 Theme:T14 Theme2:T15
+T55	Activation 393 402	activates
+E13	Activation:T55 Theme:T15 Cause:E12
+T56	Binding 507 511	bind
+E14	Binding:T56 Theme:T20 Theme2:T16
+T57	Positive_regulation 552 558	induce
+E15	Positive_regulation:T57 Theme:E16 Cause:E14
+T58	Gene_expression 563 573	expression
+E16	Gene_expression:T58 Theme:T20
+T59	Positive_regulation 613 622	Induction
+E17	Positive_regulation:T59 Theme:T22 Cause:T23
+T60	Positive_regulation 644 651	depends
+E18	Positive_regulation:T60 Theme:E17
+T61	Positive_regulation 722 728	induce
+E19	Positive_regulation:T61 Cause:T26 Theme:E20
+M1	Negation E19
+T62	Gene_expression 733 743	expression
+E20	Gene_expression:T62 Theme:T27
+T63	Regulation 783 791	regulate
+E21	Regulation:T63 Cause:T29 Theme:E23
+E22	Regulation:T63 Cause:T28 Theme:E24
+T64	Gene_expression 805 815	expression
+E23	Gene_expression:T64 Theme:T28
+E24	Gene_expression:T64 Theme:T29
+T65	Negative_regulation 1013 1023	diminishes
+E25	Negative_regulation:T65 Cause:T33 Theme:E28
+E26	Negative_regulation:T65 Cause:T33 Theme:E27
+T66	Binding 1028 1038	occupation
+E27	Binding:T66 Theme:T34 Theme2:T37
+E28	Binding:T66 Theme:T36 Theme2:T37
+T67	Negative_regulation 1222 1229	disrupt
+E29	Negative_regulation:T67 Theme:E31 Cause:T39
+E30	Negative_regulation:T67 Theme:E31 Cause:T40
+T68	Binding 1230 1241	interaction
+E31	Binding:T68 Theme:T41 Theme2:T42
+T69	Positive_regulation 1264 1273	dependent
+E32	Positive_regulation:T69 Theme:E31
+T70	Dissociation 1336 1344	displace
+T71	Positive_regulation 1336 1344	displace
+E33	Dissociation:T70 Product:T45 Theme:T46
+E34	Positive_regulation:T71 Cause:T44 Theme:E33
+T72	Positive_regulation 1401 1413	contributing
+E35	Positive_regulation:T72 Theme:E36 Cause:E33
+T73	Negative_regulation 1427 1440	dysregulation
+E36	Negative_regulation:T73 Theme:T47

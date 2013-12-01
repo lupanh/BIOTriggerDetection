@@ -1,0 +1,37 @@
+T1	Gene_or_gene_product 30 57	Toll/interleukin-1 receptor
+T2	Gene_or_gene_product 69 88	Toll-like receptors
+T3	Gene_or_gene_product 106 109	Mal
+T4	Gene_or_gene_product 114 119	MyD88
+T5	Gene_or_gene_product 126 153	Toll/interleukin 1 receptor
+T6	Gene_or_gene_product 155 158	TIR
+T7	Cellular_component 192 203	cytoplasmic
+T8	Gene_or_gene_product 228 269	Toll-like receptor/interleukin-1 receptor
+T9	Gene_or_gene_product 363 366	Mal
+T10	Gene_or_gene_product 368 386	MyD88 adaptor-like
+T11	Gene_or_gene_product 392 397	MyD88
+T12	Gene_or_gene_product 518 545	Toll/interleukin 1 receptor
+T13	Gene_or_gene_product 631 635	CheY
+T14	Gene_or_gene_product 788 791	TIR
+T15	Gene_or_gene_product 803 806	Mal
+T16	Gene_or_gene_product 811 816	MyD88
+T17	Gene_or_gene_product 860 863	Mal
+T18	Simple_chemical 924 927	ATP
+T19	Gene_or_gene_product 1048 1051	TIR
+T20	Gene_or_gene_product 1071 1091	Toll-like receptor 4
+T21	Gene_or_gene_product 1093 1097	TLR4
+T22	Gene_or_gene_product 1100 1103	Mal
+T23	Gene_or_gene_product 1109 1114	MyD88
+T24	Gene_or_gene_product 1269 1272	Mal
+T25	Gene_or_gene_product 1277 1282	MyD88
+T26	Gene_or_gene_product 1312 1318	TLRs 2
+T27	Gene_or_gene_product 1323 1324	4
+T28	Gene_or_gene_product 1405 1408	Mal
+T29	Gene_or_gene_product 1413 1418	MyD88
+T30	Gene_or_gene_product 1638 1663	glutathione S-transferase
+T31	Simple_chemical 1786 1793	proline
+T32	Gene_or_gene_product 1831 1835	TLR4
+T33	Gene_or_gene_product 1837 1840	Mal
+T34	Gene_or_gene_product 1846 1851	MyD88
+T35	Gene_or_gene_product 1924 1928	Tube
+T36	Gene_or_gene_product 1933 1936	Mal
+T37	Gene_or_gene_product 2035 2039	Toll

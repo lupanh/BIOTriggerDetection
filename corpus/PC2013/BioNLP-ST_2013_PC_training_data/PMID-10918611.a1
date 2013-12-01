@@ -1,0 +1,38 @@
+T1	Complex 0 14	SCF(beta-TRCP)
+T2	Gene_or_gene_product 62 77	I kappa B alpha
+T3	Gene_or_gene_product 91 95	Ubc3
+T4	Gene_or_gene_product 100 104	Ubc4
+T5	Complex 107 117	NF kappa B
+T6	Complex 220 230	NF kappa B
+T7	Cellular_component 250 259	cytoplasm
+T8	Gene_or_gene_product 287 302	I kappa B alpha
+T9	Gene_or_gene_product 365 374	TNF alpha
+T10	Gene_or_gene_product 376 379	IL1
+T11	Simple_chemical 381 384	LPS
+T12	Complex 455 471	I kappa B kinase
+T13	Complex 473 476	IKK
+T14	Complex 479 482	IKK
+T15	Gene_or_gene_product 498 513	I kappa B alpha
+T16	Simple_chemical 517 527	serines 32
+T17	Simple_chemical 532 534	36
+T18	Gene_or_gene_product 572 581	ubiquitin
+T19	Complex 608 621	SCF beta-TRCP
+T20	Gene_or_gene_product 637 646	ubiquitin
+T21	Gene_or_gene_product 724 739	I kappa B alpha
+T22	Gene_or_gene_product 806 821	I kappa B alpha
+T23	Gene_or_gene_product 881 887	cullin
+T24	Complex 907 918	SCF complex
+T25	Gene_or_gene_product 961 965	Rbx1
+T26	Gene_or_gene_product 1009 1024	I kappa B alpha
+T27	Gene_or_gene_product 1028 1032	Ubc3
+T28	Gene_or_gene_product 1037 1041	Ubc4
+T29	Complex 1067 1080	SCF beta-TRCP
+T30	Complex 1148 1161	SCF beta-TRCP
+T31	Gene_or_gene_product 1219 1223	Ubc4
+T32	Gene_or_gene_product 1240 1244	Ubc3
+T33	Gene_or_gene_product 1332 1336	Ubc4
+T34	Gene_or_gene_product 1364 1367	Ubc
+T35	Gene_or_gene_product 1424 1433	ubiquitin
+T36	Gene_or_gene_product 1467 1470	Ubc
+T37	Gene_or_gene_product 1482 1497	I kappa B alpha
+T38	Complex 1503 1516	SCF beta-TRCP

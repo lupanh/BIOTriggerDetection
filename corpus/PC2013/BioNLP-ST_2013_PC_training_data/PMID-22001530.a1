@@ -1,0 +1,25 @@
+T1	Gene_or_gene_product 0 9	PPARgamma
+T2	Complex 14 23	NF-kappaB
+T3	Gene_or_gene_product 87 92	TNIP1
+T4	Gene_or_gene_product 101 130	TNFAIP3 interacting protein 1
+T5	Gene_or_gene_product 132 137	TNIP1
+T6	Gene_or_gene_product 233 236	Nef
+T7	Cellular_component 241 247	matrix
+T8	Gene_or_gene_product 271 279	TNFalpha
+T9	Complex 327 336	NF-kappaB
+T10	Gene_or_gene_product 389 412	retinoic acid receptors
+T11	Gene_or_gene_product 417 460	peroxisome proliferator-activated receptors
+T12	Gene_or_gene_product 462 466	PPAR
+T13	Gene_or_gene_product 501 506	TNIP1
+T14	Gene_or_gene_product 612 617	TNIP1
+T15	Gene_or_gene_product 731 736	TNIP1
+T16	Complex 1244 1253	NF-kappaB
+T17	Complex 1337 1346	NF-kappaB
+T18	Gene_or_gene_product 1351 1355	PPAR
+T19	Gene_or_gene_product 1385 1390	TNIP1
+T20	Cellular_component 1482 1491	chromatin
+T21	Complex 1527 1536	NF-kappaB
+T22	Gene_or_gene_product 1550 1555	TNIP1
+T23	Gene_or_gene_product 1663 1668	TNIP1
+T24	Complex 1786 1795	NF-kappaB
+T25	Gene_or_gene_product 1800 1804	PPAR

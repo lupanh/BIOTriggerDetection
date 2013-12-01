@@ -1,0 +1,46 @@
+T36	Gene_expression 7 20	overexpressed
+E1	Gene_expression:T36 Theme:T1
+T37	Regulation 38 45	signals
+E2	Regulation:T37 Cause:T1 Theme:E3
+T38	Pathway 71 78	pathway
+E3	Pathway:T38 Participant:T2
+T39	Positive_regulation 92 100	activate
+E4	Positive_regulation:T39 Theme:E5 Cause:T1
+M1	Negation E4
+T40	Transport 106 118	mobilization
+E5	Transport:T40 Theme:T3
+T41	Pathway 157 176	Signal transduction
+E6	Pathway:T41 Participant:T4
+T42	Regulation 307 314	altered
+E7	Regulation:T42 Theme:T5
+T43	Transport 561 569	secreted
+E8	Transport:T43 Theme:T7
+T44	Binding 596 600	bind
+E9	Binding:T44 Theme:T7 Theme2:T8
+T45	Binding 738 745	binding
+E10	Binding:T45 Theme:T11 Theme2:T12
+T46	Positive_regulation 770 777	results
+E11	Positive_regulation:T46 Cause:E10 Theme:E13
+E12	Positive_regulation:T46 Cause:E10 Theme:E14
+T47	Activation 785 795	activation
+E13	Activation:T47 Theme:T13
+T48	Transport 839 851	mobilization
+E14	Transport:T48 Theme:T15 FromLoc:T16
+T49	Positive_regulation 1241 1251	stimulated
+E15	Positive_regulation:T49 Cause:T22 Theme:T23
+T50	Positive_regulation 1294 1303	activates
+E16	Positive_regulation:T50 Theme:E17 Cause:T23
+T51	Pathway 1331 1348	signaling pathway
+E17	Pathway:T51 Participant:T24 Participant2:T25
+T52	Gene_expression 1468 1482	overexpressing
+E18	Gene_expression:T52 Theme:T27
+T53	Activation 1656 1666	activation
+E19	Activation:T53 Theme:T28
+E20	Activation:T53 Theme:T29
+T54	Positive_regulation 1759 1770	stimulation
+E21	Positive_regulation:T54 Cause:T30 Theme:T28
+E22	Positive_regulation:T54 Cause:T30 Theme:T29
+T55	Regulation 2012 2022	modulation
+E23	Regulation:T55 Theme:T34
+T56	Binding 2062 2073	interacting
+E24	Binding:T56 Theme:T35

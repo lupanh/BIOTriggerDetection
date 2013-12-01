@@ -1,0 +1,67 @@
+*	Equiv T11 T12
+T36	Positive_regulation 12 21	dependent
+E1	Positive_regulation:T36 Cause:T1 Theme:E2
+T37	Regulation 22 32	regulation
+E2	Regulation:T37 Theme:E3
+T38	Transport 50 56	export
+E3	Transport:T38 FromLoc:T3 Theme:T2
+T39	Positive_regulation 57 65	requires
+E4	Positive_regulation:T39 Theme:E2 Cause:T4
+E5	Positive_regulation:T39 Theme:E2 Cause:T5
+T40	Regulation 158 167	regulated
+E6	Regulation:T40 Theme:T6 Cause:T7
+E7	Regulation:T40 Theme:T6 Cause:T8
+T41	Positive_regulation 189 209	plays a crucial role
+E8	Positive_regulation:T41 Theme:E9 Cause:T6
+T42	Pathway 220 229	signaling
+E9	Pathway:T42 Participant:T9
+T43	Dephosphorylation 364 381	dephosphorylating
+E10	Dephosphorylation:T43 Theme:T11 Cause:T10
+T44	Dephosphorylation 420 437	Dephosphorylation
+E11	Dephosphorylation:T44 Theme:T11
+T45	Positive_regulation 438 446	promotes
+E12	Positive_regulation:T45 Theme:E13 Cause:E14
+T46	Localization 461 473	localization
+E13	Localization:T46 AtLoc:T14 Theme:T13
+T47	Positive_regulation 485 495	increasing
+E14	Positive_regulation:T47 Theme:E15 Cause:E11
+T48	Transport 526 532	import
+E15	Transport:T48 ToLoc:T15 Theme:T13
+T49	Positive_regulation 573 582	dependent
+E16	Positive_regulation:T49 Cause:T16 Theme:E17
+T50	Dephosphorylation 583 600	dephosphorylation
+E17	Dephosphorylation:T50 Theme:T17
+T51	Negative_regulation 615 629	down-regulates
+E18	Negative_regulation:T51 Theme:E19 Cause:E17
+T52	Transport 642 648	export
+E19	Transport:T52 FromLoc:T18 Theme:T17
+T53	Transport 701 709	exportin
+T54	Positive_regulation 701 709	exportin
+E20	Transport:T53 Theme:T20
+E21	Positive_regulation:T54 Theme:E20 Cause:T19
+T55	Binding 799 808	interacts
+E22	Binding:T55 Theme:T23 Theme2:T21
+T56	Phosphorylation 825 840	phosphorylation
+E23	Phosphorylation:T56 Theme:T21
+T57	Positive_regulation 841 850	dependent
+E24	Positive_regulation:T57 Theme:E22 Cause:E23
+T58	Regulation 891 900	regulates
+E25	Regulation:T58 Theme:E26 Cause:T24
+T59	Transport 915 921	export
+E26	Transport:T59 FromLoc:T26 Theme:T25
+T60	Positive_regulation 1114 1122	mediates
+E27	Positive_regulation:T60 Theme:E28
+T61	Binding 1135 1146	interaction
+E28	Binding:T61 Theme:T30 Theme2:T31
+T62	Positive_regulation 1184 1192	required
+E29	Positive_regulation:T62 Theme:E31
+T63	Positive_regulation 1209 1218	dependent
+E30	Positive_regulation:T63 Cause:T32 Theme:E31
+T64	Regulation 1219 1229	regulation
+E31	Regulation:T64 Theme:E32
+T65	Transport 1247 1253	export
+E32	Transport:T65 FromLoc:T34 Theme:T33
+T66	Positive_regulation 1321 1329	required
+E33	Positive_regulation:T66 Theme:E34
+T67	Regulation 1333 1339	target
+E34	Regulation:T67 Theme:T35

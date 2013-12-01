@@ -1,0 +1,42 @@
+T24	Regulation 106 115	regulates
+E1	Regulation:T24 Theme:E2 Cause:T2
+T25	Activation 121 131	activation
+E2	Activation:T25 Theme:T3
+T26	Regulation 185 189	role
+E3	Regulation:T26 Theme:T4
+T27	Pathway 304 314	cell cycle
+E4	Pathway:T27 
+T28	Regulation 315 324	regulated
+E5	Regulation:T28 Theme:E4 Cause:T5
+T29	Localization 367 376	localizes
+E6	Localization:T29 Theme:T6 ToLoc:T7
+T30	Binding 404 414	associates
+E7	Binding:T30 Theme:T8 Theme2:T6
+T31	Phosphorylation 508 522	phosphorylated
+E8	Phosphorylation:T31 Theme:T9
+T32	Phosphorylation 567 582	phosphorylation
+E9	Phosphorylation:T32 Theme:T9
+T33	Positive_regulation 597 605	required
+E10	Positive_regulation:T33 Theme:E11 Cause:E9
+T34	Binding 614 625	association
+E11	Binding:T34 Theme:T10 Theme2:T9
+T35	Binding 655 664	interacts
+E12	Binding:T35 Theme:T11 Theme2:T13
+E13	Binding:T35 Theme:T12 Theme2:T11
+T36	Positive_regulation 765 773	involved
+E14	Positive_regulation:T36 Theme:E16 Cause:T14
+E15	Positive_regulation:T36 Theme:E16 Cause:T15
+T37	Activation 782 792	activation
+E16	Activation:T37 Theme:T16
+T38	Negative_regulation 945 960	down-regulation
+E17	Negative_regulation:T38 Theme:E18
+T39	Gene_expression 972 982	expression
+E18	Gene_expression:T39 Theme:T18
+T40	Negative_regulation 983 991	inhibits
+E19	Negative_regulation:T40 Theme:E20 Cause:E17
+T41	Activation 997 1007	activation
+E20	Activation:T41 Theme:T19
+T42	Negative_regulation 1061 1076	down-regulation
+E21	Negative_regulation:T42 Theme:T20
+T43	Regulation 1295 1299	role
+E22	Regulation:T43 Theme:T23

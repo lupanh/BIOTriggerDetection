@@ -1,0 +1,33 @@
+*	Equiv T6 T7
+*	Equiv T16 T17
+T33	Pathway 135 142	pathway
+E1	Pathway:T33 Participant:T4
+T34	Activation 179 189	activation
+E2	Activation:T34 Theme:T5
+T35	Activation 826 835	activated
+E3	Activation:T35 Theme:T11 Cause:T10
+T36	Positive_regulation 922 929	induced
+E4	Positive_regulation:T36 Theme:T12 Cause:T10
+T37	Gene_expression 1143 1150	express
+E5	Gene_expression:T37 Theme:T16
+T38	Negative_regulation 1256 1263	blocked
+E6	Negative_regulation:T38 Theme:E8 Cause:T18
+T39	Positive_regulation 1271 1279	mediated
+E7	Positive_regulation:T39 Cause:T19 Theme:E8
+T40	Activation 1290 1300	activation
+E8	Activation:T40 Theme:T20
+T41	Positive_regulation 1434 1442	mediated
+E9	Positive_regulation:T41 Cause:T23 Theme:E10
+T42	Activation 1453 1463	activation
+E10	Activation:T42 Theme:T24
+T43	Positive_regulation 1464 1472	required
+E11	Positive_regulation:T43 Theme:E10 Cause:T25
+E12	Positive_regulation:T43 Theme:E10 Cause:T26
+T44	Negative_regulation 1533 1542	inhibited
+E13	Negative_regulation:T44 Theme:E15 Cause:T27
+T45	Positive_regulation 1550 1557	induced
+E14	Positive_regulation:T45 Cause:T28 Theme:E15
+T46	Activation 1568 1578	activation
+E15	Activation:T46 Theme:T29
+T47	Pathway 1870 1887	signaling pathway
+E16	Pathway:T47 Participant:T32

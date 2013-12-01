@@ -1,0 +1,11 @@
+*	Equiv T5 T6
+T22	Positive_regulation 77 85	involved
+E1	Positive_regulation:T22 Theme:E2 Cause:T2
+T23	Activation 103 113	activation
+E2	Activation:T23 Theme:T3
+T24	Regulation 1654 1661	effects
+E3	Regulation:T24 Cause:T18 Theme:E5
+E4	Regulation:T24 Cause:T18 Theme:E6
+T25	Activation 1679 1689	activation
+E5	Activation:T25 Theme:T20
+E6	Activation:T25 Theme:T21

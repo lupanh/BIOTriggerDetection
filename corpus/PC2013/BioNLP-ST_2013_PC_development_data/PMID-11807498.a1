@@ -1,0 +1,24 @@
+T1	Gene_or_gene_product 0 5	S-Cdk
+T2	Gene_or_gene_product 35 39	Sld2
+T3	Cellular_component 54 65	chromosomal
+T4	Gene_or_gene_product 101 133	Cyclin-dependent protein kinases
+T5	Gene_or_gene_product 135 139	Cdks
+T6	Gene_or_gene_product 259 263	Cdks
+T7	Gene_or_gene_product 265 271	S-Cdks
+T8	Cellular_component 291 302	chromosomal
+T9	Gene_or_gene_product 382 385	Cdk
+T10	Gene_or_gene_product 545 549	Sld2
+T11	Gene_or_gene_product 574 578	Drc1
+T12	Gene_or_gene_product 701 706	S-Cdk
+T13	Gene_or_gene_product 736 740	Sld2
+T14	Gene_or_gene_product 767 770	Cdk
+T15	Gene_or_gene_product 794 799	All-A
+T16	Cellular_component 817 828	chromosomal
+T17	Gene_or_gene_product 893 897	Sld2
+T18	Gene_or_gene_product 902 907	Dpb11
+T19	Complex 922 932	Sld2-Dpb11
+T20	Gene_or_gene_product 982 987	All-A
+T21	Cellular_component 1090 1101	chromosomal
+T22	Gene_or_gene_product 1140 1145	S-Cdk
+T23	Complex 1184 1194	Sld2-Dpb11
+T24	Cellular_component 1222 1233	chromosomal

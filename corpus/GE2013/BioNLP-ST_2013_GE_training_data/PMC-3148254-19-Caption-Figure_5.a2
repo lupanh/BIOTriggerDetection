@@ -1,0 +1,24 @@
+T35	Negative_regulation 67 76	deficient
+T36	Negative_regulation 111 118	reduces
+T37	Binding 119 130	recruitment
+T38	Regulation 156 162	modify
+T39	Binding 168 179	recruitment
+T40	Negative_regulation 1000 1009	deficient
+T41	Gene_expression 1316 1326	expression
+T42	Negative_regulation 1549 1558	deficient
+T43	Regulation 1595 1604	dependent
+T44	Binding 1605 1616	recruitment
+T45	Negative_regulation 1659 1668	deficient
+E1	Negative_regulation:T35 Theme:T1
+E2	Negative_regulation:T36 Theme:E3
+E3	Binding:T37 Theme:T2 Theme2:T3
+E4	Regulation:T38 Theme:E5
+E5	Binding:T39 Theme:T4
+E6	Negative_regulation:T40 Theme:T10
+E7	Gene_expression:T41 Theme:T20
+E8	Negative_regulation:T42 Theme:T22
+E9	Regulation:T43 Theme:E10 Cause:T23
+E10	Binding:T44 Theme:T24 Theme2:T25
+E11	Negative_regulation:T45 Theme:T26
+M1	Speculation E4
+M2	Speculation E9

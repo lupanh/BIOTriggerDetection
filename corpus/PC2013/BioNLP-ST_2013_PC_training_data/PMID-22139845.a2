@@ -1,0 +1,111 @@
+*	Equiv T8 T9
+*	Equiv T14 T15
+T45	Negative_regulation 29 37	inhibits
+E1	Negative_regulation:T45 Theme:E4 Cause:E8
+E2	Negative_regulation:T45 Theme:E4 Cause:E9
+E3	Negative_regulation:T45 Theme:E4 Cause:E10
+T46	Transcription 50 63	transcription
+E4	Transcription:T46 Theme:T3
+T47	Binding 155 166	interaction
+T48	Positive_regulation 155 166	interaction
+E5	Binding:T47 Theme:T4
+E6	Binding:T47 Theme:T5
+E7	Binding:T47 Theme:T6
+E8	Positive_regulation:T48 Cause:T1 Theme:E7
+E9	Positive_regulation:T48 Cause:T1 Theme:E6
+E10	Positive_regulation:T48 Cause:T1 Theme:E6
+T49	Regulation 251 261	regulating
+E11	Regulation:T49 Theme:E12
+T50	Gene_expression 284 294	expression
+E12	Gene_expression:T50 Theme:T7
+T51	Gene_expression 476 486	expression
+E13	Gene_expression:T51 Theme:T10
+T52	Positive_regulation 611 631	playing a major role
+E14	Positive_regulation:T52 Cause:T11 Theme:E15
+T53	Pathway 651 660	apoptosis
+E15	Pathway:T53 
+T54	Negative_regulation 662 676	down-regulates
+E16	Negative_regulation:T54 Cause:T11 Theme:E17
+T55	Gene_expression 684 694	expression
+E17	Gene_expression:T55 Theme:T12
+T56	Positive_regulation 778 786	mediates
+E18	Positive_regulation:T56 Theme:T14
+E19	Positive_regulation:T56 Theme:T16
+T57	Positive_regulation 869 879	activators
+E20	Positive_regulation:T57 Theme:E22 Cause:T14
+E21	Positive_regulation:T57 Theme:E22 Cause:T16
+T58	Gene_expression 899 909	expression
+E22	Gene_expression:T58 Theme:T17
+T59	Negative_regulation 925 934	Knockdown
+E23	Negative_regulation:T59 Theme:T14
+E24	Negative_regulation:T59 Theme:T16
+T60	Positive_regulation 993 1009	trans-activating
+E25	Positive_regulation:T60 Theme:E30
+E26	Positive_regulation:T60 Theme:E29
+E27	Positive_regulation:T60 Theme:E31
+E28	Positive_regulation:T60 Theme:E32
+T61	Regulation 1010 1016	effect
+E29	Regulation:T61 Theme:T18 Cause:E24
+E30	Regulation:T61 Theme:T19 Cause:E23
+E31	Regulation:T61 Theme:T19 Cause:E24
+E32	Regulation:T61 Theme:T18 Cause:E23
+T62	Negative_regulation 1061 1077	trans-inhibiting
+E33	Negative_regulation:T62 Theme:E37
+E34	Negative_regulation:T62 Theme:E38
+E35	Negative_regulation:T62 Theme:E40
+E36	Negative_regulation:T62 Theme:E39
+T63	Regulation 1078 1084	effect
+E37	Regulation:T63 Theme:T20 Cause:E23
+E38	Regulation:T63 Theme:T20 Cause:E23
+E39	Regulation:T63 Theme:T20 Cause:E24
+E40	Regulation:T63 Theme:T20 Cause:E24
+T64	Gene_expression 1095 1105	expression
+E41	Gene_expression:T64 Theme:T22
+T65	Binding 1220 1224	bind
+E42	Binding:T65 Theme:T25 Theme2:T28
+E43	Binding:T65 Theme:T26 Theme2:T28
+E44	Binding:T65 Theme:T27 Theme2:T28
+T66	Transport 1236 1245	recruited
+E45	Transport:T66 Theme:T25
+E46	Transport:T66 Theme:T26
+E47	Transport:T66 Theme:T27
+E48	Transport:T66 Theme:T28
+T67	Binding 1349 1361	interactions
+E49	Binding:T67 Theme:T30 Theme2:T33
+E50	Binding:T67 Theme:T31 Theme2:T33
+E51	Binding:T67 Theme:T32 Theme2:T33
+T68	Positive_regulation 1397 1406	necessary
+E52	Positive_regulation:T68 Theme:E55 Cause:E50
+E53	Positive_regulation:T68 Theme:E55 Cause:E49
+E54	Positive_regulation:T68 Theme:E55 Cause:E51
+T69	Positive_regulation 1410 1417	mediate
+E55	Positive_regulation:T69 Theme:E57
+T70	Negative_regulation 1432 1442	inhibitory
+E56	Negative_regulation:T70 Theme:T34
+T71	Regulation 1443 1449	effect
+E57	Regulation:T71 Theme:E56
+T72	Binding 1554 1562	interact
+E58	Binding:T72 Theme:T30 Theme2:T33
+E59	Binding:T72 Theme:T31 Theme2:T33
+E60	Binding:T72 Theme:T32 Theme2:T33
+T73	Negative_regulation 1612 1621	knockdown
+E61	Negative_regulation:T73 Theme:T36
+E62	Negative_regulation:T73 Theme:T37
+E63	Negative_regulation:T73 Theme:T38
+T74	Negative_regulation 1640 1648	prevents
+E64	Negative_regulation:T74 Theme:E68 Cause:E61
+E65	Negative_regulation:T74 Theme:E68 Cause:E62
+E66	Negative_regulation:T74 Theme:E68 Cause:E63
+T75	Negative_regulation 1657 1667	inhibitory
+E67	Negative_regulation:T75 Cause:T39 Theme:E68
+T76	Regulation 1668 1674	effect
+E68	Regulation:T76 Theme:E69
+T77	Transcription 1685 1698	transcription
+E69	Transcription:T77 Theme:T40
+T78	Regulation 1731 1740	targeting
+E70	Regulation:T78 Theme:T41
+E71	Regulation:T78 Theme:T42
+T79	Transcription 1942 1957	transcriptional
+E72	Transcription:T79 Theme:T43
+T80	Regulation 1958 1968	regulation
+E73	Regulation:T80 Theme:E72 Cause:T44

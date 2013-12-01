@@ -1,0 +1,45 @@
+*	Equiv T3 T4
+*	Equiv T7 T6
+*	Equiv T17 T18
+*	Equiv T19 T20
+T53	Conversion 356 364	cleavage
+E1	Conversion:T53 Theme:T8
+T54	Deacetylation 382 394	deacetylated
+E2	Deacetylation:T54 Theme:T9
+T55	Positive_regulation 481 490	catalyzed
+E3	Positive_regulation:T55 Theme:E4
+T56	Conversion 495 502	removal
+E4	Conversion:T56 Theme:T11
+T57	Negative_regulation 616 625	reduction
+E5	Negative_regulation:T57 Theme:T14
+T58	Negative_regulation 695 703	reducing
+E6	Negative_regulation:T58 Theme:T17
+T59	Positive_regulation 1180 1189	catalyzed
+E7	Positive_regulation:T59 Theme:E8
+T60	Conversion 1194 1201	removal
+E8	Conversion:T60 Theme:T29
+T61	Inactivation 1435 1444	deficient
+E9	Inactivation:T61 Theme:T35
+T62	Regulation 1499 1510	no activity
+E10	Regulation:T62 Theme:T36
+M1	Negation E10
+T63	Conversion 1548 1557	converted
+E11	Conversion:T63 Theme:T37 Product:T38
+E12	Conversion:T63 Theme:T37 Product:T39
+T64	Conversion 1665 1674	converted
+T65	Positive_regulation 1665 1674	converted
+E13	Conversion:T64 Theme:T40 Product:T41
+E14	Positive_regulation:T65 Cause:T35 Theme:E13
+E15	Conversion:T64 Theme:T40 Product:T42
+E16	Positive_regulation:T65 Cause:T35 Theme:E15
+T66	Conversion 1764 1773	Digestion
+E17	Conversion:T66 Theme:T43
+E18	Conversion:T66 Theme:T44
+T67	Negative_regulation 1848 1857	inhibited
+E19	Negative_regulation:T67 Cause:T45 Theme:E18
+E20	Negative_regulation:T67 Cause:T45 Theme:E17
+T68	Negative_regulation 1877 1885	arrested
+E21	Negative_regulation:T68 Cause:T47 Theme:E18
+E22	Negative_regulation:T68 Cause:T47 Theme:E17
+T69	Conversion 2072 2079	removal
+E23	Conversion:T69 Theme:T49

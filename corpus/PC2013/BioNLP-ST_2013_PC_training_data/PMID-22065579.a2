@@ -1,0 +1,102 @@
+*	Equiv T7 T8
+*	Equiv T14 T13
+*	Equiv T29 T30
+T72	Binding 0 9	Formation
+E1	Binding:T72 Theme:T1 Theme2:T2 Theme3:T3
+T73	Positive_regulation 97 106	essential
+E2	Positive_regulation:T73 Cause:E1 Theme:E8
+E3	Positive_regulation:T73 Cause:E1 Theme:E10
+E4	Positive_regulation:T73 Cause:E1 Theme:E9
+T74	Positive_regulation 116 124	mediated
+E5	Positive_regulation:T74 Cause:T4 Theme:E8
+E6	Positive_regulation:T74 Cause:T4 Theme:E9
+E7	Positive_regulation:T74 Cause:T4 Theme:E10
+T75	Positive_regulation 125 135	activation
+E8	Positive_regulation:T75 Theme:T5
+E9	Positive_regulation:T75 Theme:T6
+E10	Positive_regulation:T75 Theme:T7
+T76	Activation 280 288	activate
+T77	Positive_regulation 280 288	activate
+E11	Activation:T76 Theme:T10 Cause:E12
+E12	Positive_regulation:T77 Cause:T9 Theme:T11
+E13	Positive_regulation:T77 Cause:T9 Theme:T12
+E14	Activation:T76 Theme:T10 Cause:E13
+T78	Transport 431 442	transporter
+T79	Positive_regulation 431 442	transporter
+E15	Transport:T78 Theme:T21 ToLoc:T19
+E16	Positive_regulation:T79 Cause:T13 Theme:E15
+T80	Positive_regulation 453 463	stimulated
+E17	Positive_regulation:T80 Cause:T20 Theme:T21
+T81	Binding 711 720	formation
+E18	Binding:T81 Product:T25
+T82	Positive_regulation 770 779	essential
+E19	Positive_regulation:T82 Theme:E20 Cause:E18
+T83	Pathway 789 808	signal transduction
+E20	Pathway:T83 Participant:T26
+T84	Positive_regulation 964 974	stimulated
+E21	Positive_regulation:T84 Theme:T29
+T85	Positive_regulation 1021 1030	increased
+E22	Positive_regulation:T85 Theme:E23
+T86	Binding 1031 1042	interaction
+E23	Binding:T86 Theme:T31 Theme2:T32
+T87	Phosphorylation 1151 1165	phosphorylated
+E24	Phosphorylation:T87 Cause:T35 Theme:T33
+E25	Phosphorylation:T87 Cause:T35 Theme:T34
+T88	Positive_regulation 1265 1274	increased
+E26	Positive_regulation:T88 Theme:E28 Cause:T40
+E27	Positive_regulation:T88 Theme:E28 Cause:T39
+T89	Binding 1289 1296	binding
+E28	Binding:T89 Theme:T41 Theme2:T42
+T90	Positive_regulation 1307 1315	required
+E29	Positive_regulation:T90 Cause:T43 Theme:E31
+E30	Positive_regulation:T90 Cause:T43 Theme:E32
+T91	Activation 1324 1334	activation
+E31	Activation:T91 Theme:T44
+T92	Binding 1355 1366	interaction
+E32	Binding:T92 Theme:T43 Theme2:T45
+T93	Positive_regulation 1468 1477	necessary
+E33	Positive_regulation:T93 Theme:E35
+E34	Positive_regulation:T93 Theme:E36
+M1	Negation E34
+T94	Binding 1482 1489	binding
+E35	Binding:T94 Theme:T50 Theme2:T46
+T95	Binding 1515 1522	binding
+E36	Binding:T95 Theme:T51 Theme2:T46
+T96	Binding 1524 1533	Formation
+E37	Binding:T96 Product:T52
+T97	Positive_regulation 1568 1576	required
+E38	Positive_regulation:T97 Theme:E37 Cause:E39
+T98	Binding 1586 1593	docking
+E39	Binding:T98 Theme:T53 Theme2:T54
+T99	Negative_regulation 1696 1705	inhibited
+E40	Negative_regulation:T99 Theme:E43
+E41	Negative_regulation:T99 Theme:E42
+T100	Activation 1710 1720	activation
+E42	Activation:T100 Theme:T56
+T101	Binding 1739 1750	interaction
+E43	Binding:T101 Theme:T57 Theme2:T58
+T102	Positive_regulation 1781 1790	dependent
+E44	Positive_regulation:T102 Cause:T60 Theme:E50
+E45	Positive_regulation:T102 Cause:T59 Theme:E50
+E46	Positive_regulation:T102 Cause:T59 Theme:E51
+E47	Positive_regulation:T102 Cause:T60 Theme:E51
+E48	Positive_regulation:T102 Cause:T59 Theme:E54
+E49	Positive_regulation:T102 Cause:T60 Theme:E54
+T103	Activation 1791 1801	activation
+E50	Activation:T103 Theme:T62
+E51	Activation:T103 Theme:T63
+T104	Regulation 1813 1822	regulated
+E52	Regulation:T104 Cause:T61 Theme:T62
+E53	Regulation:T104 Cause:T61 Theme:T63
+T105	Gene_expression 1868 1878	expression
+E54	Gene_expression:T105 Theme:T64
+T106	Negative_regulation 1901 1911	suppressed
+E55	Negative_regulation:T106 Cause:T65 Theme:E54
+E56	Negative_regulation:T106 Cause:T65 Theme:E50
+E57	Negative_regulation:T106 Cause:T65 Theme:E51
+T107	Positive_regulation 1949 1956	rescued
+E58	Positive_regulation:T107 Cause:T66 Theme:E50
+E59	Positive_regulation:T107 Cause:T66 Theme:E51
+E60	Positive_regulation:T107 Cause:T66 Theme:E54
+T108	Pathway 2027 2036	signaling
+E61	Pathway:T108 Participant:T69 Participant2:T68

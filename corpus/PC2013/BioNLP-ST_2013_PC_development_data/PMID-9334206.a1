@@ -1,0 +1,39 @@
+T1	Gene_or_gene_product 0 38	Organic anion transporting polypeptide
+T2	Simple_chemical 48 61	organic anion
+T3	Simple_chemical 62 67	HCO3-
+T4	Gene_or_gene_product 79 117	Organic anion transporting polypeptide
+T5	Gene_or_gene_product 119 123	oatp
+T6	Cellular_component 140 148	membrane
+T7	Simple_chemical 193 196	Na+
+T8	Simple_chemical 222 236	organic anions
+T9	Simple_chemical 245 264	sulfobromophthalein
+T10	Simple_chemical 269 285	taurocholic acid
+T11	Simple_chemical 338 351	organic anion
+T12	Gene_or_gene_product 433 437	oatp
+T13	Simple_chemical 447 460	organic anion
+T14	Simple_chemical 494 506	taurocholate
+T15	Gene_or_gene_product 551 555	oatp
+T16	Simple_chemical 582 586	zinc
+T17	Simple_chemical 822 838	[3H]taurocholate
+T18	Simple_chemical 840 852	taurocholate
+T19	Simple_chemical 881 884	Na+
+T20	Simple_chemical 1003 1016	organic anion
+T21	Simple_chemical 1041 1046	HCO3-
+T22	Simple_chemical 1083 1095	taurocholate
+T23	Simple_chemical 1106 1111	HCO3-
+T24	Simple_chemical 1124 1130	alkali
+T25	Simple_chemical 1243 1291	2', 7'-bis(carboxyethyl)-5(6)-carboxyfluorescein
+T26	Cellular_component 1293 1306	intracellular
+T27	Simple_chemical 1483 1488	HCO3-
+T28	Simple_chemical 1490 1493	Cl-
+T29	Cellular_component 1527 1540	extracellular
+T30	Simple_chemical 1541 1544	Cl-
+T31	Simple_chemical 1549 1561	taurocholate
+T32	Simple_chemical 1598 1603	HCO3-
+T33	Simple_chemical 1736 1748	taurocholate
+T34	Gene_or_gene_product 1982 1986	oatp
+T35	Simple_chemical 1996 2008	taurocholate
+T36	Simple_chemical 2022 2025	Na+
+T37	Simple_chemical 2069 2074	HCO3-
+T38	Simple_chemical 2102 2115	organic anion
+T39	Gene_or_gene_product 2184 2188	oatp

@@ -1,0 +1,21 @@
+T1	Gene_or_gene_product 27 32	Kip1p
+T2	Complex 70 96	anaphase-promoting complex
+T3	Gene_or_gene_product 101 107	Cdc20p
+T4	Gene_or_gene_product 110 115	Kip1p
+T5	Gene_or_gene_product 182 186	bimC
+T6	Cellular_component 219 234	mitotic spindle
+T7	Cellular_component 235 239	pole
+T8	Gene_or_gene_product 271 276	Kip1p
+T9	Gene_or_gene_product 379 388	ubiquitin
+T10	Complex 415 441	anaphase-promoting complex
+T11	Complex 447 473	anaphase-promoting complex
+T12	Gene_or_gene_product 493 498	Cdc20
+T13	Gene_or_gene_product 531 536	Kip1p
+T14	Gene_or_gene_product 574 579	Kip1p
+T15	Cellular_component 589 596	nucleus
+T16	Cellular_component 628 635	spindle
+T17	Gene_or_gene_product 676 681	Kip1p
+T18	Gene_or_gene_product 753 758	Kip1p
+T19	Cellular_component 786 793	spindle
+T20	Gene_or_gene_product 827 832	Kip1p
+T21	Cellular_component 883 898	mitotic spindle

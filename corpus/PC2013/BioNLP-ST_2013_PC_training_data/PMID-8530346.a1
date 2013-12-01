@@ -1,0 +1,15 @@
+T1	Gene_or_gene_product 6 29	ADP-ribosylation factor
+T2	Gene_or_gene_product 40 84	phosphatidylcholine-specific phospholipase D
+T3	Gene_or_gene_product 148 192	phosphatidylcholine-specific phospholipase D
+T4	Gene_or_gene_product 194 197	PLD
+T5	Cellular_component 300 308	membrane
+T6	Gene_or_gene_product 406 409	PLD
+T7	Gene_or_gene_product 508 512	PLD1
+T8	Cellular_component 532 540	membrane
+T9	Simple_chemical 567 586	phosphatidylcholine
+T10	Simple_chemical 602 639	phosphatidylinositol 4,5-bisphosphate
+T11	Gene_or_gene_product 668 677	G-protein
+T12	Gene_or_gene_product 678 703	ADP-ribosylation factor-1
+T13	Simple_chemical 722 728	oleate
+T14	Gene_or_gene_product 730 734	PLD1
+T15	Gene_or_gene_product 818 821	PLD

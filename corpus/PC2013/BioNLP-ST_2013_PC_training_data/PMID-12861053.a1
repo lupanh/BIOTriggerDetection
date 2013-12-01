@@ -1,0 +1,28 @@
+T1	Gene_or_gene_product 137 141	NBS1
+T2	Gene_or_gene_product 215 244	ataxia telangiectasia mutated
+T3	Gene_or_gene_product 246 249	ATM
+T4	Gene_or_gene_product 412 416	NBS1
+T5	Gene_or_gene_product 539 543	NBS1
+T6	Gene_or_gene_product 599 603	NBS1
+T7	Gene_or_gene_product 641 644	ATM
+T8	Gene_or_gene_product 669 673	CHK2
+T9	Gene_or_gene_product 759 763	NBS1
+T10	Gene_or_gene_product 780 783	ATM
+T11	Gene_or_gene_product 808 812	CHK2
+T12	Cellular_component 853 866	nuclear focus
+T13	Gene_or_gene_product 962 966	NBS1
+T14	Gene_or_gene_product 995 1000	MRE11
+T15	Complex 1050 1066	NBS1-MRE11-RAD50
+T16	Gene_or_gene_product 1142 1146	NBS1
+T17	Gene_or_gene_product 1169 1172	ATM
+T18	Simple_chemical 1205 1216	serines 278
+T19	Simple_chemical 1220 1223	343
+T20	Gene_or_gene_product 1314 1318	CHK2
+T21	Cellular_component 1333 1346	nuclear focus
+T22	Gene_or_gene_product 1426 1430	NBS1
+T23	Gene_or_gene_product 1482 1487	BRCA1
+T24	Cellular_component 1566 1579	nuclear focus
+T25	Gene_or_gene_product 1716 1720	NBS1
+T26	Gene_or_gene_product 1738 1741	ATM
+T27	Gene_or_gene_product 1766 1770	CHK2
+T28	Cellular_component 1772 1785	nuclear focus

@@ -1,0 +1,48 @@
+T28	Anaphora 1057 1090	a 431-amino acid (48-kDa) protein
+T30	Gene_expression 1091 1100	expressed
+T31	Entity 1464 1478	leucine zipper
+T32	Positive_regulation 1491 1500	important
+T33	Binding 1521 1533	interactions
+T34	Entity 1541 1580	carboxyl-terminal forkhead (FKH) domain
+T35	Positive_regulation 1581 1589	required
+T36	Entity 1594 1601	nuclear
+T37	Localization 1602 1614	localization
+T38	Binding 1623 1630	binding
+T39	Negative_regulation 1660 1672	inactivation
+T40	Regulation 1703 1712	affecting
+T41	Entity 1723 1736	coding region
+T42	Negative_regulation 1766 1776	repression
+T43	Gene_expression 1786 1796	expression
+T44	Negative_regulation 2314 2321	inhibit
+T45	Positive_regulation 2322 2348	transcriptional activation
+T46	Binding 2363 2374	interacting
+T29	Anaphora 2492 2510	cytokine promoters
+T47	Entity 2523 2531	promoter
+T48	Binding 2818 2825	binding
+T49	Binding 3118 3130	interactions
+T50	Binding 3180 3187	binding
+T51	Positive_regulation 3382 3391	formation
+T52	Binding 3432 3444	interactions
+R1	Coreference Subject:T28 Object:T3
+R2	Coreference Subject:T29 Object:T47
+E1	Gene_expression:T30 Theme:T3
+E2	Positive_regulation:T32 Theme:E3 Cause:T6 CSite:T31
+E3	Binding:T33 Theme:T6
+E4	Positive_regulation:T35 Theme:E5 Cause:T6 CSite:T34
+E5	Localization:T37 Theme:T6 ToLoc:T36
+E6	Positive_regulation:T35 Theme:E7 Cause:T6 CSite:T34
+E7	Binding:T38 Theme:T6
+E8	Negative_regulation:T39 Theme:T7 Cause:E9
+E9	Regulation:T40 Theme:T8 Site:T41
+E10	Negative_regulation:T42 Theme:E11 Cause:T10
+E11	Gene_expression:T43 Theme:T9
+E12	Negative_regulation:T44 Theme:E13 Cause:E14
+E13	Positive_regulation:T45 Theme:T17 Site:T47
+E14	Binding:T46 Theme:T16
+E15	Binding:T48 Theme:T19
+E16	Binding:T49 Theme:T21
+E17	Binding:T50 Theme:T22
+E18	Positive_regulation:T51 Theme:E19
+E19	Binding:T52 Theme:T23
+M1	Speculation E12
+M2	Speculation E18

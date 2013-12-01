@@ -1,0 +1,35 @@
+T27	Binding 181 189	interact
+E1	Binding:T27 Theme:T3 Theme2:T4 Theme3:T5
+T28	Positive_regulation 216 229	transactivate
+E2	Positive_regulation:T28 Theme:T6 Cause:T3
+E3	Positive_regulation:T28 Theme:T6 Cause:T4
+E4	Positive_regulation:T28 Theme:T6 Cause:T5
+T29	Binding 324 335	interaction
+E5	Binding:T29 Theme:T7 Theme2:T8
+T30	Gene_expression 449 459	expression
+E6	Gene_expression:T30 Theme:T10
+E7	Gene_expression:T30 Theme:T11
+T31	Gene_expression 604 611	express
+E8	Gene_expression:T31 Theme:T12
+E9	Gene_expression:T31 Theme:T13
+T32	Positive_regulation 699 708	induction
+E10	Positive_regulation:T32 Theme:T15
+T33	Negative_regulation 726 740	downregulation
+E11	Negative_regulation:T33 Theme:T16
+T34	Gene_expression 799 808	expressed
+E12	Gene_expression:T34 Theme:T16
+T35	Inactivation 834 842	inactive
+E13	Inactivation:T35 Theme:T17
+T36	Regulation 885 891	effect
+E14	Regulation:T36 Theme:T18
+E15	Regulation:T36 Theme:T19
+T37	Positive_regulation 1030 1043	transactivate
+E16	Positive_regulation:T37 Cause:T20 Theme:T23
+E17	Positive_regulation:T37 Cause:T21 Theme:T23
+E18	Positive_regulation:T37 Cause:T22 Theme:T23
+E19	Positive_regulation:T37 Cause:T20 Theme:T24
+E20	Positive_regulation:T37 Cause:T21 Theme:T24
+E21	Positive_regulation:T37 Cause:T22 Theme:T24
+T38	Regulation 1141 1152	involvement
+E22	Regulation:T38 Theme:T25
+E23	Regulation:T38 Theme:T26

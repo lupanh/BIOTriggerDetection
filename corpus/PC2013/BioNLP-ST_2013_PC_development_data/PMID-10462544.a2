@@ -1,0 +1,65 @@
+*	Equiv T5 T6
+*	Equiv T7 T8
+T37	Phosphorylation 0 15	Phosphorylation
+E1	Phosphorylation:T37 Theme:T2 Cause:T3
+T38	Phosphorylation 123 138	Phosphorylation
+E2	Phosphorylation:T38 Theme:T4
+T39	Phosphorylation 291 306	phosphorylation
+E3	Phosphorylation:T39 Theme:T5
+E4	Phosphorylation:T39 Theme:T7
+T40	Positive_regulation 418 427	catalyzed
+E5	Positive_regulation:T40 Cause:T10 Theme:E4
+E6	Positive_regulation:T40 Cause:T10 Theme:E3
+T41	Phosphorylation 686 700	phosphorylated
+E7	Phosphorylation:T41 Cause:T12 Theme:T13
+E8	Phosphorylation:T41 Theme:T16
+E9	Phosphorylation:T41 Theme:T17
+E10	Phosphorylation:T41 Theme:T18
+E11	Phosphorylation:T41 Cause:T12 Theme:T14
+E12	Phosphorylation:T41 Cause:T12 Theme:T15
+T42	Positive_regulation 725 732	highest
+E13	Positive_regulation:T42 Theme:T15 Cause:E7
+E14	Positive_regulation:T42 Theme:T14 Cause:E7
+E15	Positive_regulation:T42 Theme:T13 Cause:E7
+E16	Positive_regulation:T42 Theme:T15 Cause:E11
+E17	Positive_regulation:T42 Theme:T14 Cause:E11
+E18	Positive_regulation:T42 Theme:T13 Cause:E11
+E19	Positive_regulation:T42 Theme:T15 Cause:E12
+E20	Positive_regulation:T42 Theme:T14 Cause:E12
+E21	Positive_regulation:T42 Theme:T13 Cause:E12
+T43	Negative_regulation 773 778	lower
+E22	Negative_regulation:T43 Theme:T16 Cause:E8
+E23	Negative_regulation:T43 Theme:T17 Cause:E8
+E24	Negative_regulation:T43 Theme:T18 Cause:E8
+E25	Negative_regulation:T43 Theme:T16 Cause:E9
+E26	Negative_regulation:T43 Theme:T16 Cause:E10
+E27	Negative_regulation:T43 Theme:T18 Cause:E9
+E28	Negative_regulation:T43 Theme:T18 Cause:E10
+E29	Negative_regulation:T43 Theme:T17 Cause:E9
+E30	Negative_regulation:T43 Theme:T17 Cause:E10
+T44	Phosphorylation 844 858	phosphorylated
+E31	Phosphorylation:T44 Theme:T22
+E32	Phosphorylation:T44 Theme:T20
+E33	Phosphorylation:T44 Theme:T21
+E34	Phosphorylation:T44 Theme:T23
+T45	Positive_regulation 872 882	efficiency
+E35	Positive_regulation:T45 Theme:T22 Cause:E31
+E36	Positive_regulation:T45 Theme:T20 Cause:E32
+E37	Positive_regulation:T45 Theme:T21 Cause:E32
+E38	Positive_regulation:T45 Theme:T20 Cause:E33
+E39	Positive_regulation:T45 Theme:T21 Cause:E33
+E40	Positive_regulation:T45 Theme:T23 Cause:E31
+E41	Positive_regulation:T45 Theme:T22 Cause:E34
+E42	Positive_regulation:T45 Theme:T23 Cause:E34
+T46	Phosphorylation 1010 1024	phosphorylated
+E43	Phosphorylation:T46 Theme:T26 Cause:T24
+E44	Phosphorylation:T46 Theme:T27 Cause:T24
+E45	Phosphorylation:T46 Theme:T28 Cause:T24
+E46	Phosphorylation:T46 Theme:T26 Cause:T25
+E47	Phosphorylation:T46 Theme:T27 Cause:T25
+E48	Phosphorylation:T46 Theme:T28 Cause:T25
+T47	Localization 1310 1319	localized
+E49	Localization:T47 ToLoc:T32 Theme:T31
+T48	Localization 1540 1547	located
+E50	Localization:T48 Theme:T33 AtLoc:T35
+E51	Localization:T48 Theme:T33 AtLoc:T36

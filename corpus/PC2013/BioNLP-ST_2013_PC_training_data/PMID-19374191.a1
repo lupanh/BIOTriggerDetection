@@ -1,0 +1,17 @@
+T1	Gene_or_gene_product 1 5	CCR4
+T2	Gene_or_gene_product 102 105	CD4
+T3	Gene_or_gene_product 321 325	CCR4
+T4	Gene_or_gene_product 509 513	CCR4
+T5	Gene_or_gene_product 615 618	Tax
+T6	Gene_or_gene_product 708 713	CCL22
+T7	Gene_or_gene_product 717 721	CCR4
+T8	Gene_or_gene_product 819 823	CCR4
+T9	Gene_or_gene_product 942 946	AP-1
+T10	Gene_or_gene_product 961 966	Fra-2
+T11	Gene_or_gene_product 1006 1010	JunD
+T12	Gene_or_gene_product 1056 1060	CCR4
+T13	Gene_or_gene_product 1088 1093	c-Myb
+T14	Gene_or_gene_product 1095 1099	MDM2
+T15	Gene_or_gene_product 1104 1109	Bcl-6
+T16	Gene_or_gene_product 1149 1154	Fra-2
+T17	Gene_or_gene_product 1187 1191	CCR4

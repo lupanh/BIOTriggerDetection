@@ -1,0 +1,3 @@
+T7	Gene_expression 86 97	transfected
+E1	Gene_expression:T7 Theme:T2
+E2	Gene_expression:T7 Theme:T3

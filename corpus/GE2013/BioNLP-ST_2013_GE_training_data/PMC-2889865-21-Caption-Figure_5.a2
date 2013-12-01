@@ -1,0 +1,23 @@
+T5	Gene_expression 191 201	expression
+T6	Negative_regulation 216 225	inhibited
+T4	Anaphora 273 283	the levels
+T7	Regulation 293 300	altered
+T8	Positive_regulation 371 380	induction
+T9	Regulation 388 397	regulated
+T10	Localization 460 467	release
+T11	Negative_regulation 483 492	inhibited
+T12	Regulation 535 545	regulation
+T13	Gene_expression 575 585	expression
+T14	Positive_regulation 604 613	increased
+R1	Coreference Subject:T4 Object:T5
+E1	Gene_expression:T5 Theme:T1
+E2	Negative_regulation:T6 Theme:E1
+E3	Regulation:T7 Theme:E1
+E4	Positive_regulation:T8 Theme:E1
+E5	Regulation:T9 Theme:E4
+E6	Localization:T10 Theme:T2
+E7	Negative_regulation:T11 Theme:E6
+E8	Regulation:T12 Theme:E6
+E9	Gene_expression:T13 Theme:T3
+E10	Positive_regulation:T14 Theme:E9
+M1	Negation E3

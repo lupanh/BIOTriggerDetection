@@ -1,0 +1,58 @@
+*	Equiv T3 T4
+*	Equiv T8 T9
+T42	Regulation 57 67	gatekeeper
+E1	Regulation:T42 Cause:T1 Theme:E2
+T43	Pathway 75 85	signalling
+E2	Pathway:T43 Participant:T2
+T44	Negative_regulation 359 368	inhibitor
+E3	Negative_regulation:T44 Cause:T8 Theme:E4
+T45	Pathway 389 399	signalling
+E4	Pathway:T45 Participant:T10 Participant2:T11
+T46	Binding 405 435	formation of a ternary complex
+E5	Binding:T46 Theme:T12 Theme2:T13 Theme3:T14
+T47	Negative_regulation 493 501	inhibits
+E6	Negative_regulation:T47 Cause:E5 Theme:E7
+T48	Pathway 519 529	signalling
+E7	Pathway:T48 Participant:T16 Participant2:T17
+T49	Pathway 577 587	signalling
+E8	Pathway:T49 Participant:T18 Participant2:T19
+T50	Negative_regulation 670 680	Inhibition
+E9	Negative_regulation:T50 Theme:T20
+E10	Negative_regulation:T50 Theme:T21
+T51	Localization 746 758	localization
+E11	Localization:T51 Theme:T22
+E12	Localization:T51 Theme:T23
+T52	Negative_regulation 781 791	inhibition
+E13	Negative_regulation:T52 Theme:E15 Cause:T25
+E14	Negative_regulation:T52 Theme:E15 Cause:T26
+T53	Pathway 799 809	signalling
+E15	Pathway:T53 Participant:T24
+T54	Transcription 915 925	expression
+E16	Transcription:T54 Theme:T27
+T55	Positive_regulation 985 994	increases
+E17	Positive_regulation:T55 Theme:E16
+T56	Transcription 1081 1091	expression
+E18	Transcription:T56 Theme:T28
+T57	Transcription 1124 1134	expression
+E19	Transcription:T57 Theme:T29
+T58	Negative_regulation 1146 1156	diminished
+E20	Negative_regulation:T58 Theme:E19
+T59	Pathway 1261 1271	signalling
+E21	Pathway:T59 Participant:T30 Participant2:T31
+T60	Negative_regulation 1338 1346	shutdown
+E22	Negative_regulation:T60 Theme:E24 Cause:T34
+E23	Negative_regulation:T60 Theme:E24 Cause:T35
+T61	Pathway 1367 1377	signalling
+E24	Pathway:T61 Participant:T32 Participant2:T33
+T62	Negative_regulation 1475 1482	deficit
+E25	Negative_regulation:T62 Theme:T36
+T63	Positive_regulation 1559 1567	positive
+E26	Positive_regulation:T63 Theme:E28
+T64	Negative_regulation 1572 1591	negative regulation
+E27	Negative_regulation:T64 Theme:E28
+T65	Pathway 1612 1622	signalling
+E28	Pathway:T65 Participant:T37 Participant2:T38
+T66	Regulation 1832 1842	gatekeeper
+E29	Regulation:T66 Theme:E30 Cause:T39
+T67	Pathway 1867 1885	signalling pathway
+E30	Pathway:T67 Participant:T40 Participant2:T41

@@ -1,0 +1,18 @@
+*	Equiv T4 T5
+T27	Binding 129 136	complex
+E1	Binding:T27 Theme:T2 Theme2:T3 Theme3:T1
+T28	Positive_regulation 313 322	dependent
+E2	Positive_regulation:T28 Cause:T6 Theme:T7
+E3	Positive_regulation:T28 Cause:T6 Theme:T8
+T29	Positive_regulation 383 392	catalyzes
+E4	Positive_regulation:T29 Theme:E5 Cause:T4
+T30	Conversion 422 434	biosynthesis
+E5	Conversion:T30 Product:T9
+T31	Negative_regulation 461 471	inhibitors
+E6	Negative_regulation:T31 Theme:T10 Cause:T11
+E7	Negative_regulation:T31 Theme:T10 Cause:T12
+T32	Negative_regulation 696 705	inhibitor
+E8	Negative_regulation:T32 Theme:T16 Cause:T11
+E9	Negative_regulation:T32 Theme:T16 Cause:T12
+T33	Negative_regulation 1090 1100	inhibition
+E10	Negative_regulation:T33 Theme:T23

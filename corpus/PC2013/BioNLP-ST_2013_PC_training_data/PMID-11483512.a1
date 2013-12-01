@@ -1,0 +1,40 @@
+T1	Gene_or_gene_product 0 5	PIG-S
+T2	Gene_or_gene_product 10 15	PIG-T
+T3	Simple_chemical 31 34	GPI
+T4	Gene_or_gene_product 86 90	GAA1
+T5	Gene_or_gene_product 95 99	GPI8
+T6	Cellular_component 118 130	cell surface
+T7	Cellular_component 160 175	plasma membrane
+T8	Simple_chemical 180 208	glycosylphosphatidylinositol
+T9	Simple_chemical 210 213	GPI
+T10	Complex 220 236	GPI transamidase
+T11	Simple_chemical 246 249	GPI
+T12	Cellular_component 267 288	endoplasmic reticulum
+T13	Simple_chemical 326 329	GPI
+T14	Simple_chemical 377 380	GPI
+T15	Complex 423 439	GPI transamidase
+T16	Simple_chemical 448 456	carbonyl
+T17	Complex 518 534	GPI transamidase
+T18	Gene_or_gene_product 559 563	GAA1
+T19	Gene_or_gene_product 568 572	GPI8
+T20	Gene_or_gene_product 625 630	PIG-S
+T21	Gene_or_gene_product 635 640	PIG-T
+T22	Gene_or_gene_product 665 670	PIG-S
+T23	Gene_or_gene_product 675 680	PIG-T
+T24	Gene_or_gene_product 754 759	PIG-S
+T25	Gene_or_gene_product 764 769	PIG-T
+T26	Simple_chemical 815 818	GPI
+T27	Simple_chemical 865 873	carbonyl
+T28	Gene_or_gene_product 914 919	PIG-S
+T29	Gene_or_gene_product 924 929	PIG-T
+T30	Gene_or_gene_product 958 962	GAA1
+T31	Gene_or_gene_product 967 971	GPI8
+T32	Gene_or_gene_product 982 987	PIG-T
+T33	Gene_or_gene_product 1043 1047	GAA1
+T34	Gene_or_gene_product 1052 1056	GPI8
+T35	Gene_or_gene_product 1083 1089	Gpi16p
+T36	Gene_or_gene_product 1091 1098	YHR188C
+T37	Gene_or_gene_product 1104 1110	Gpi17p
+T38	Gene_or_gene_product 1112 1119	YDR434W
+T39	Gene_or_gene_product 1140 1145	PIG-T
+T40	Gene_or_gene_product 1150 1155	PIG-S

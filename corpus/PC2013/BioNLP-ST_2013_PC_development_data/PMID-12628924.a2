@@ -1,0 +1,32 @@
+*	Equiv T3 T4
+*	Equiv T5 T6
+*	Equiv T17 T18
+*	Equiv T20 T21
+T35	Positive_regulation 0 26	Transcriptional activation
+E1	Positive_regulation:T35 Cause:T4 Theme:T1
+E2	Positive_regulation:T35 Cause:T4 Theme:T2
+T36	Regulation 311 320	regulated
+E3	Regulation:T36 Theme:T7
+T37	Negative_regulation 664 674	inhibitors
+E4	Negative_regulation:T37 Theme:T13 Cause:T14
+E5	Negative_regulation:T37 Theme:T13 Cause:T15
+E6	Negative_regulation:T37 Theme:T13 Cause:T16
+T38	Negative_regulation 781 790	inhibitor
+E7	Negative_regulation:T38 Theme:T18 Cause:T19
+T39	Phosphorylation 948 963	phosphorylation
+E8	Phosphorylation:T39 Theme:T23 Site:T24
+T40	Positive_regulation 968 983	transactivation
+E9	Positive_regulation:T40 Theme:T23
+T41	Positive_regulation 987 995	response
+E10	Positive_regulation:T41 Cause:T25 Theme:E8
+E11	Positive_regulation:T41 Cause:T25 Theme:E9
+T42	Phosphorylation 1046 1052	kinase
+E12	Phosphorylation:T42 Cause:T26 Theme:T28
+T43	Binding 1073 1083	associates
+E13	Binding:T43 Theme:T29 Theme2:T30
+T44	Positive_regulation 1107 1116	dependent
+E14	Positive_regulation:T44 Theme:E13
+T45	Phosphorylation 1125 1139	phosphorylates
+E15	Phosphorylation:T45 Cause:T29 Theme:T31 Site:T32
+T46	Phosphorylation 1193 1208	phosphorylation
+E16	Phosphorylation:T46 Theme:T33

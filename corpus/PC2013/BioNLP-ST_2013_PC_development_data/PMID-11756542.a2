@@ -1,0 +1,23 @@
+*	Equiv T2 T3
+T26	Negative_regulation 18 27	shuttling
+E1	Negative_regulation:T26 Theme:T2
+T27	Regulation 380 390	controlled
+E2	Regulation:T27 Theme:T8
+T28	Pathway 456 466	cell cycle
+E3	Pathway:T28 
+T29	Transport 489 496	shuttle
+E4	Transport:T29 Theme:T10 FromLoc:T11 ToLoc:T12
+E5	Transport:T29 Theme:T10 ToLoc:T11 FromLoc:T12
+T30	Transport 940 953	translocation
+E6	Transport:T30 Theme:T18 ToLoc:T19
+T31	Positive_regulation 1070 1079	conferred
+E7	Positive_regulation:T31 Theme:E8
+T32	Localization 1092 1104	localization
+E8	Localization:T32 Theme:T20 AtLoc:T21
+T33	Regulation 1162 1168	affect
+E9	Regulation:T33 Theme:E10
+M1	Negation E9
+T34	Binding 1192 1200	interact
+E10	Binding:T34 Theme:T22 Theme2:T23
+T35	Regulation 1305 1314	regulated
+E11	Regulation:T35 Theme:T24

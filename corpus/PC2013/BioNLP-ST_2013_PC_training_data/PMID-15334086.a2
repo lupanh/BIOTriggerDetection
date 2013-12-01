@@ -1,0 +1,13 @@
+*	Equiv T6 T7
+T22	Transport 14 23	modifying
+T23	Positive_regulation 14 23	modifying
+E1	Transport:T22 Theme:T1
+E2	Positive_regulation:T23 Theme:E1 Cause:T2
+T24	Transport 688 696	removing
+T25	Positive_regulation 688 696	removing
+E3	Transport:T24 Theme:T18
+E4	Positive_regulation:T25 Theme:E3 Cause:T17
+T26	Regulation 872 882	regulation
+E5	Regulation:T26 Theme:E6
+T27	Binding 896 907	conjugation
+E6	Binding:T27 Theme:T21

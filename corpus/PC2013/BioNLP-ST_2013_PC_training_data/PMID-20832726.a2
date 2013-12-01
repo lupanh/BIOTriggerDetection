@@ -1,0 +1,31 @@
+*	Equiv T3 T6
+*	Equiv T5 T4
+*	Equiv T9 T10 T11
+T21	Demethylation 98 111	demethylation
+E1	Demethylation:T21 Theme:T2
+T22	Methylation 240 251	Methylation
+E2	Methylation:T22 Site:T3 Theme:T4
+T23	Regulation 295 305	associated
+E3	Regulation:T23 Theme:E2
+T24	Demethylation 346 359	disappearance
+E4	Demethylation:T24 Site:T3 Theme:T4
+T25	Demethylation 546 557	demethylase
+E5	Demethylation:T25 Theme:T8 Cause:T9
+T26	Positive_regulation 612 620	required
+E6	Positive_regulation:T26 Cause:T12 Theme:E7
+T27	Degradation 625 632	removal
+E7	Degradation:T27 Theme:T13
+T28	Methylation 636 644	dimethyl
+E8	Methylation:T28 Site:T14 Theme:T13
+T29	Regulation 688 696	controls
+E9	Regulation:T29 Theme:E10 Cause:T12
+T30	Transport 714 725	recruitment
+E10	Transport:T30 Theme:T15
+T31	Transport 784 793	recruited
+T32	Positive_regulation 784 793	recruited
+E11	Transport:T31 Theme:T16
+E12	Positive_regulation:T32 Theme:E11 Cause:E13
+T33	Binding 797 808	interaction
+E13	Binding:T33 Theme:T17 Theme2:T16
+T34	Demethylation 1106 1119	demethylation
+E14	Demethylation:T34 Theme:T20

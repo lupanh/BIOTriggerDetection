@@ -1,0 +1,4 @@
+T2	Positive_regulation 876 885	increased
+T3	Binding 895 902	binding
+E1	Positive_regulation:T2 Theme:E2
+E2	Binding:T3 Theme:T1

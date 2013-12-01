@@ -1,0 +1,22 @@
+*	Equiv T4 T5
+*	Equiv T13 T14
+*	Equiv T15 T16
+*	Equiv T19 T20
+T26	Gene_expression 66 75	expressed
+E1	Gene_expression:T26 Theme:T1
+T27	Activation 211 217	active
+E2	Activation:T27 Theme:T3
+T28	Binding 363 375	interactions
+E3	Binding:T28 Theme:T8
+T29	Transport 612 618	uptake
+E4	Transport:T29 Theme:T10
+T30	Conversion 662 672	synthesize
+E5	Conversion:T30 Product:T11
+T31	Conversion 922 931	generates
+E6	Conversion:T31 Product:T17 Theme:T18
+T32	Binding 959 964	bound
+E7	Binding:T32 Theme:T19 Theme2:T18
+T33	Conversion 1397 1405	utilizes
+E8	Conversion:T33 Theme:T25
+T34	Binding 1420 1425	bound
+E9	Binding:T34 Theme:T24 Theme2:T25

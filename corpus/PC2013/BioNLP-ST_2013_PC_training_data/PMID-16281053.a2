@@ -1,0 +1,44 @@
+*	Equiv T7 T8
+*	Equiv T12 T13
+T30	Negative_regulation 86 96	starvation
+E1	Negative_regulation:T30 Theme:T3
+T31	Negative_regulation 117 126	depletion
+E2	Negative_regulation:T31 Theme:T4
+T32	Localization 288 300	localization
+E3	Localization:T32 AtLoc:T6 Theme:T5
+T33	Binding 309 316	binding
+E4	Binding:T33 Theme:T5
+T34	Negative_regulation 321 342	negatively controlled
+E5	Negative_regulation:T34 Cause:T8 Theme:E3
+E6	Negative_regulation:T34 Cause:T8 Theme:E4
+T35	Activation 392 402	activation
+E7	Activation:T35 Theme:T9 Cause:E8
+T36	Negative_regulation 421 430	depletion
+E8	Negative_regulation:T36 Theme:T10
+T37	Regulation 431 441	correlates
+E9	Regulation:T37 Cause:E7 Theme:E10
+T38	Negative_regulation 468 476	decrease
+E10	Negative_regulation:T38 Theme:E11
+T39	Phosphorylation 480 495	phosphorylation
+E11	Phosphorylation:T39 Theme:T9
+T40	Positive_regulation 633 642	dependent
+E12	Positive_regulation:T40 Cause:T14 Theme:E13
+T41	Phosphorylation 643 658	phosphorylation
+E13	Phosphorylation:T41 Theme:T15
+T42	Phosphorylation 855 861	modify
+E14	Phosphorylation:T42 Cause:T19 Site:T21 Theme:T20
+T43	Negative_regulation 919 926	repress
+E15	Negative_regulation:T43 Theme:T22 Cause:E14
+T44	Positive_regulation 1078 1087	dependent
+E16	Positive_regulation:T44 Cause:T24 Theme:T25
+T45	Regulation 1111 1121	influences
+E17	Regulation:T45 Theme:T26 Cause:T25
+T46	Positive_regulation 1144 1154	modulating
+E18	Positive_regulation:T46 Cause:E17 Theme:E20
+E19	Positive_regulation:T46 Cause:E17 Theme:E21
+T47	Activation 1167 1177	activation
+E20	Activation:T47 Theme:T27
+T48	Negative_regulation 1182 1192	repression
+E21	Negative_regulation:T48 Theme:T27
+T49	Negative_regulation 1341 1351	starvation
+E22	Negative_regulation:T49 Theme:T29

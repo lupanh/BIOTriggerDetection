@@ -1,0 +1,27 @@
+T14	Gene_expression 6 16	production
+T15	Gene_expression 201 208	produce
+T16	Transcription 275 282	express
+T17	Positive_regulation 558 571	up-regulation
+T18	Positive_regulation 661 673	upregulation
+T19	Negative_regulation 745 761	back to baseline
+T20	Positive_regulation 848 855	induced
+T21	Positive_regulation 868 880	upregulation
+T22	Transcription 990 997	express
+T23	Binding 1243 1252	recognize
+T13	Anaphora 1291 1309	the native protein
+R1	Coreference Subject:T13 Object:T12
+E1	Gene_expression:T14 Theme:T1
+E2	Gene_expression:T15 Theme:T3
+E3	Transcription:T16 Theme:T4
+E4	Positive_regulation:T17 Theme:T6
+E5	Positive_regulation:T18 Theme:T6
+E6	Negative_regulation:T19 Theme:T7
+E7	Positive_regulation:T20 Theme:E8
+E8	Positive_regulation:T21 Theme:T8
+E9	Transcription:T22 Theme:T9
+E10	Binding:T23 Theme:T12
+E11	Binding:T23 Theme:T12
+M1	Speculation E2
+M2	Negation E9
+M3	Negation E10
+M4	Negation E11

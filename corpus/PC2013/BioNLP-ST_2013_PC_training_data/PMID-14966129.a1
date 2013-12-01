@@ -1,0 +1,26 @@
+T1	Gene_or_gene_product 48 125	aminoimidazole-4-carboxamide ribonucleotide transformylase/IMP cyclohydrolase
+T2	Simple_chemical 149 157	sulfonyl
+T3	Simple_chemical 169 180	antifolates
+T4	Gene_or_gene_product 183 268	Aminoimidazole-4-carboxamide ribonucleotide (AICAR) transformylase/IMP cyclohydrolase
+T5	Gene_or_gene_product 270 274	ATIC
+T6	Simple_chemical 306 312	folate
+T7	Gene_or_gene_product 323 343	AICAR transformylase
+T8	Gene_or_gene_product 348 366	IMP cyclohydrolase
+T9	Simple_chemical 415 421	purine
+T10	Gene_or_gene_product 440 460	AICAR transformylase
+T11	Simple_chemical 472 478	BW1540
+T12	Simple_chemical 483 489	BW2315
+T13	Simple_chemical 494 503	sulfamido
+T14	Simple_chemical 512 529	5,8-dideazafolate
+T15	Simple_chemical 627 638	antifolates
+T16	Gene_or_gene_product 662 666	ATIC
+T17	Gene_or_gene_product 736 741	AICAR
+T18	Simple_chemical 761 769	sulfonyl
+T19	Simple_chemical 858 866	oxyanion
+T20	Simple_chemical 954 963	Asn(431')
+T21	Simple_chemical 1046 1054	Lys(266)
+T22	Simple_chemical 1059 1067	His(267)
+T23	Gene_or_gene_product 1108 1128	AICAR transformylase
+T24	Simple_chemical 1162 1168	folate
+T25	Simple_chemical 1237 1245	sulfonyl
+T26	Simple_chemical 1257 1268	antifolates

@@ -1,0 +1,116 @@
+T79	Positive_regulation 8 17	necessary
+T80	Binding 22 33	association
+T81	Negative_regulation 147 156	deficient
+T82	Binding 317 326	recruited
+T83	Regulation 368 377	dependent
+T84	Regulation 407 427	functions downstream
+T85	Binding 483 493	associated
+T86	Regulation 526 530	role
+T87	Binding 538 549	recruitment
+T88	Binding 619 630	association
+T89	Regulation 669 676	altered
+T90	Negative_regulation 883 890	reduced
+T91	Binding 911 921	associated
+T92	Positive_regulation 1050 1058	resulted
+T93	Negative_regulation 1088 1096	decrease
+T94	Binding 1134 1143	recovered
+T95	Positive_regulation 1196 1204	increase
+T76	Anaphora 1232 1239	species
+T96	Binding 1240 1250	recognized
+T97	Regulation 1327 1332	alter
+T98	Regulation 1457 1463	alters
+T99	Binding 1492 1502	associated
+T100	Regulation 1626 1635	influence
+T101	Binding 1640 1651	recruitment
+T102	Protein_modification 1656 1687	post-translational modification
+T103	Binding 1702 1712	associated
+T104	Regulation 1756 1767	responsible
+T105	Binding 1776 1787	recruitment
+T106	Negative_regulation 1891 1900	deficient
+T107	Positive_regulation 1910 1923	reconstituted
+T108	Positive_regulation 2271 2279	required
+T109	Binding 2288 2299	association
+T77	Anaphora 2303 2317	these proteins
+T110	Negative_regulation 2436 2445	deficient
+T111	Positive_regulation 2544 2557	reconstituted
+T112	Negative_regulation 2727 2734	absence
+T113	Gene_expression 2743 2753	expression
+T114	Gene_expression 3588 3598	expressing
+T115	Binding 3638 3649	recruitment
+T116	Positive_regulation 3670 3678	requires
+T117	Binding 3980 3990	associated
+T118	Binding 4217 4227	associated
+T119	Phosphorylation 4298 4313	phosphorylation
+T120	Positive_regulation 4360 4368	required
+T121	Binding 4377 4388	association
+T78	Anaphora 4429 4439	this event
+T122	Positive_regulation 4443 4450	coupled
+T123	Protein_modification 4454 4486	post-translational modifications
+R1	Coreference Subject:T76 Object:T19
+R2	Coreference Subject:T77 Object:T37
+R3	Coreference Subject:T77 Object:T38
+R4	Coreference Subject:T77 Object:T39
+R5	Coreference Subject:T78 Object:T121
+E1	Positive_regulation:T79 Theme:E2 Cause:T1
+E2	Binding:T80 Theme:T2
+E3	Negative_regulation:T81 Theme:T4
+E4	Binding:T82 Theme:T6
+E5	Regulation:T83 Theme:E4 Cause:T7
+E6	Regulation:T84 Theme:T8 Cause:T9
+E7	Binding:T85 Theme:T10 Theme2:T11
+E8	Binding:T85 Theme:T10 Theme2:T12
+E9	Regulation:T86 Theme:E10 Cause:T11
+E10	Binding:T87 Theme:T13 Theme2:T14
+E11	Regulation:T86 Theme:E10 Cause:T12
+E12	Regulation:T86 Theme:E13 Cause:T11
+E13	Binding:T87 Theme:T13 Theme2:T15
+E14	Regulation:T86 Theme:E13 Cause:T12
+E15	Binding:T88 Theme:T16 Theme2:T17
+E16	Regulation:T89 Theme:E15
+E17	Negative_regulation:T90 Theme:E18
+E18	Binding:T91 Theme:T18
+E19	Positive_regulation:T92 Theme:E20
+E20	Negative_regulation:T93 Theme:T19
+E21	Positive_regulation:T92 Theme:E22
+E22	Positive_regulation:T95 Theme:T19
+E23	Binding:T94 Theme:T19 Theme2:T20
+E24	Binding:T96 Theme:T19
+E25	Regulation:T97 Theme:T21
+E26	Regulation:T98 Theme:T23
+E27	Binding:T99 Theme:T22 Theme2:T23
+E28	Regulation:T100 Theme:E29 Cause:T24
+E29	Binding:T101 Theme:T26
+E30	Regulation:T100 Theme:E31 Cause:T24
+E31	Protein_modification:T102 Theme:T26
+E32	Binding:T103 Theme:T25 Theme2:T26
+E33	Regulation:T104 Theme:E34 Cause:T27
+E34	Binding:T105 Theme:T28
+E35	Negative_regulation:T106 Theme:T29
+E36	Positive_regulation:T107 Theme:T30
+E37	Positive_regulation:T108 Theme:E38 Cause:T42
+E38	Binding:T109 Theme:T37 Theme2:T43
+E39	Positive_regulation:T108 Theme:E40 Cause:T42
+E40	Binding:T109 Theme:T38 Theme2:T43
+E41	Positive_regulation:T108 Theme:E42 Cause:T42
+E42	Binding:T109 Theme:T39 Theme2:T43
+E43	Negative_regulation:T110 Theme:T48
+E44	Positive_regulation:T111 Theme:T53
+E45	Negative_regulation:T112 Theme:E46
+E46	Gene_expression:T113 Theme:T54
+E47	Gene_expression:T114 Theme:T62
+E48	Binding:T115 Theme:T63 Theme2:T64
+E49	Positive_regulation:T116 Theme:E48 Cause:T65
+E50	Binding:T117 Theme:T68 Theme2:T69
+E51	Binding:T118 Theme:T70 Theme2:T71
+E52	Phosphorylation:T119 Theme:T71
+E53	Positive_regulation:T120 Theme:E54 Cause:T72
+E54	Binding:T121 Theme:T73 Theme2:T74
+E55	Positive_regulation:T122 Theme:E56 Cause:E54
+E56	Protein_modification:T123 Theme:T75
+M1	Speculation E6
+M2	Speculation E16
+M3	Negation E25
+M4	Speculation E33
+M5	Negation E37
+M6	Negation E39
+M7	Negation E41

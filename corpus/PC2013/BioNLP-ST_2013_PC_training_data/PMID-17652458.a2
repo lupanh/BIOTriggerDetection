@@ -1,0 +1,29 @@
+*	Equiv T7 T8
+*	Equiv T10 T11
+*	Equiv T15 T16
+*	Equiv T17 T18
+T28	Regulation 45 54	regulates
+E1	Regulation:T28 Cause:T1 Theme:T3
+T29	Positive_regulation 453 463	implicated
+E2	Positive_regulation:T29 Theme:E4 Cause:T8
+E3	Positive_regulation:T29 Theme:E4 Cause:T11
+T30	Regulation 579 589	regulation
+E4	Regulation:T30 Theme:T12
+T31	Binding 747 752	links
+E5	Binding:T31 Theme:T13 Theme2:T14 Theme3:T16 Theme4:T18
+T32	Binding 858 869	interaction
+E6	Binding:T32 Theme:T19 Theme2:T20
+T33	Positive_regulation 911 919	involved
+E7	Positive_regulation:T33 Cause:E6 Theme:E8
+T34	Regulation 923 933	regulating
+E8	Regulation:T34 Theme:T21
+T35	Negative_regulation 1020 1027	disrupt
+E9	Negative_regulation:T35 Theme:E10 Cause:T22
+M1	Negation E9
+T36	Binding 1032 1043	interaction
+E10	Binding:T36 Theme:T23 Theme2:T24
+T37	Positive_regulation 1069 1077	resulted
+E11	Positive_regulation:T37 Cause:T22 Theme:T25
+T38	Regulation 1176 1189	independently
+E12	Regulation:T38 Theme:T26 Cause:T27
+M2	Negation E12

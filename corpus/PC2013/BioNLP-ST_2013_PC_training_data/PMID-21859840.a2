@@ -1,0 +1,45 @@
+*	Equiv T3 T4
+*	Equiv T6 T7
+T19	Negative_regulation 15 24	inhibitor
+E1	Negative_regulation:T19 Theme:E2
+T20	Phosphorylation 33 48	phosphorylation
+E2	Phosphorylation:T20 Theme:T1
+T21	Negative_regulation 77 87	inhibition
+E3	Negative_regulation:T21 Theme:T2
+T22	Positive_regulation 182 191	essential
+E4	Positive_regulation:T22 Theme:E5 Cause:T4
+T23	Positive_regulation 196 205	mediating
+E5	Positive_regulation:T23 Theme:E6
+T24	Pathway 229 238	apoptosis
+E6	Pathway:T24 
+T25	Regulation 257 267	implicated
+E7	Regulation:T25 Cause:T4 Theme:E8
+T26	Pathway 332 342	cell-cycle
+E8	Pathway:T26 
+T27	Phosphorylation 445 459	phosphorylated
+E9	Phosphorylation:T27 Theme:T6
+T28	Regulation 489 498	correlate
+E10	Regulation:T28 Cause:T7 Theme:E11
+T29	Positive_regulation 504 513	increased
+E11	Positive_regulation:T29 Theme:E12
+T30	Activation 514 524	activation
+E12	Activation:T30 Theme:T8
+T31	Negative_regulation 674 684	inhibition
+E13	Negative_regulation:T31 Theme:E14
+T32	Phosphorylation 693 708	phosphorylation
+E14	Phosphorylation:T32 Theme:T9
+T33	Negative_regulation 875 884	inhibitor
+E15	Negative_regulation:T33 Cause:T11 Theme:E16
+T34	Phosphorylation 893 908	phosphorylation
+E16	Phosphorylation:T34 Theme:T12
+T35	Negative_regulation 1037 1047	inhibition
+E17	Negative_regulation:T35 Theme:T14
+T36	Negative_regulation 1096 1104	decrease
+E18	Negative_regulation:T36 Cause:T15 Theme:T16
+E19	Negative_regulation:T36 Cause:T15 Theme:T17
+T37	Positive_regulation 1175 1180	leads
+E20	Positive_regulation:T37 Theme:E21
+T38	Positive_regulation 1192 1201	induction
+E21	Positive_regulation:T38 Theme:E22
+T39	Pathway 1205 1214	apoptosis
+E22	Pathway:T39 

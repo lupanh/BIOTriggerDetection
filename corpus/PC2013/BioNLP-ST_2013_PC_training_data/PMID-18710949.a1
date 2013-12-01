@@ -1,0 +1,65 @@
+T1	Gene_or_gene_product 19 26	p27Kip1
+T2	Complex 64 78	cyclin D1-Cdk4
+T3	Gene_or_gene_product 81 84	p27
+T4	Gene_or_gene_product 94 98	Cdk2
+T5	Complex 131 145	cyclin D1-Cdk4
+T6	Gene_or_gene_product 193 196	p27
+T7	Complex 216 233	D-type cyclin-Cdk
+T8	Complex 267 285	cyclin D1-Cdk4-p27
+T9	Gene_or_gene_product 334 337	p27
+T10	Gene_or_gene_product 378 381	p27
+T11	Gene_or_gene_product 407 423	protein kinase B
+T12	Gene_or_gene_product 424 427	Akt
+T13	Gene_or_gene_product 429 432	PKB
+T14	Gene_or_gene_product 433 436	Akt
+T15	Simple_chemical 441 445	T157
+T16	Simple_chemical 450 454	T198
+T17	Gene_or_gene_product 474 477	PKB
+T18	Gene_or_gene_product 511 519	p27pT157
+T19	Gene_or_gene_product 524 532	p27pT198
+T20	Complex 541 559	p27-cyclin D1-Cdk4
+T21	Gene_or_gene_product 584 588	PI3K
+T22	Gene_or_gene_product 589 592	PKB
+T23	Gene_or_gene_product 620 628	p27pT157
+T24	Gene_or_gene_product 633 641	p27pT198
+T25	Complex 667 685	p27-cyclin D1-Cdk4
+T26	Gene_or_gene_product 694 697	p27
+T27	Simple_chemical 741 745	T157
+T28	Simple_chemical 750 754	T198
+T29	Gene_or_gene_product 780 789	cyclin D1
+T30	Gene_or_gene_product 794 798	Cdk4
+T31	Gene_or_gene_product 809 817	p27pT157
+T32	Gene_or_gene_product 822 830	p27pT198
+T33	Gene_or_gene_product 851 855	Cdk4
+T34	Gene_or_gene_product 881 885	Cdk2
+T35	Gene_or_gene_product 913 916	p27
+T36	Gene_or_gene_product 932 941	cyclin D1
+T37	Gene_or_gene_product 946 950	Cdk4
+T38	Complex 958 976	cyclin D1-Cdk4-p27
+T39	Gene_or_gene_product 1005 1008	p27
+T40	Gene_or_gene_product 1028 1031	PKB
+T41	Complex 1042 1060	p27-cyclin D1-Cdk4
+T42	Gene_or_gene_product 1100 1104	Cdk4
+T43	Gene_or_gene_product 1119 1122	Src
+T44	Gene_or_gene_product 1139 1142	p27
+T45	Complex 1158 1176	p27-cyclin D1-Cdk4
+T46	Gene_or_gene_product 1205 1208	Src
+T47	Simple_chemical 1226 1234	tyrosine
+T48	Gene_or_gene_product 1254 1257	p27
+T49	Complex 1296 1314	cyclin D1-Cdk4-p27
+T50	Gene_or_gene_product 1338 1341	PKB
+T51	Gene_or_gene_product 1352 1355	p27
+T52	Complex 1392 1410	cyclin D1-Cdk4-p27
+T53	Complex 1459 1477	cyclin D1-Cdk4-p27
+T54	Simple_chemical 1502 1510	tyrosine
+T55	Gene_or_gene_product 1530 1533	p27
+T56	Gene_or_gene_product 1562 1565	PKB
+T57	Gene_or_gene_product 1570 1573	Abl
+T58	Gene_or_gene_product 1577 1580	Src
+T59	Gene_or_gene_product 1619 1622	p27
+T60	Complex 1649 1663	cyclin D1-Cdk4
+T61	Complex 1704 1717	cyclin E-Cdk2
+T62	Gene_or_gene_product 1741 1744	p27
+T63	Gene_or_gene_product 1773 1776	Src
+T64	Gene_or_gene_product 1781 1785	PI3K
+T65	Gene_or_gene_product 1786 1789	PKB

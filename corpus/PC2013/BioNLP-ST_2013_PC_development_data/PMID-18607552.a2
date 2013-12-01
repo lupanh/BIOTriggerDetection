@@ -1,0 +1,28 @@
+T24	Transcription 10 20	expression
+E1	Transcription:T24 Theme:T1
+T25	Pathway 32 39	pathway
+E2	Pathway:T25 Participant:T2 Participant2:T1
+T26	Pathway 151 158	pathway
+E3	Pathway:T26 Participant:T3 Participant2:T4 Participant3:T5
+T27	Regulation 214 224	regulation
+E4	Regulation:T27 Theme:E5 Cause:E3
+T28	Pathway 228 237	apoptosis
+E5	Pathway:T28 
+T29	Negative_regulation 287 297	disruption
+E6	Negative_regulation:T29 Theme:E7
+T30	Pathway 321 328	pathway
+E7	Pathway:T30 Participant:T6 Participant2:T7 Participant3:T8
+T31	Gene_expression 610 620	expression
+E8	Gene_expression:T31 Theme:T16
+T32	Methylation 626 637	methylation
+E9	Methylation:T32 Theme:T17
+T33	Gene_expression 936 946	expression
+E10	Gene_expression:T33 Theme:T18
+T34	Gene_expression 1072 1082	expression
+E11	Gene_expression:T34 Theme:T19
+T35	Negative_regulation 1133 1143	disruption
+E12	Negative_regulation:T35 Theme:E13
+T36	Pathway 1167 1174	pathway
+E13	Pathway:T36 Participant:T20 Participant2:T21 Participant3:T22
+T37	Gene_expression 1242 1252	expression
+E14	Gene_expression:T37 Theme:T23

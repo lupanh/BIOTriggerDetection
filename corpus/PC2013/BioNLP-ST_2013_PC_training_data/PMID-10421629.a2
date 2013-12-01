@@ -1,0 +1,62 @@
+T22	Positive_regulation 4 11	induced
+E1	Positive_regulation:T22 Cause:T1 Theme:E2
+T23	Dephosphorylation 12 29	dephosphorylation
+E2	Dephosphorylation:T23 Theme:T2
+T24	Dissociation 38 46	releases
+T25	Positive_regulation 38 46	releases
+E3	Dissociation:T24 Theme:T4 Product:T3
+E4	Positive_regulation:T25 Cause:E2 Theme:E3
+T26	Regulation 88 101	stabilization
+E5	Regulation:T26 Theme:T5
+T27	Binding 212 223	interacting
+E6	Binding:T27 Theme:T6
+E7	Binding:T27 Theme:T7
+E8	Binding:T27 Theme:T8
+T28	Regulation 306 316	regulating
+E9	Regulation:T28 Theme:E15 Cause:T8
+E10	Regulation:T28 Theme:E15 Cause:T7
+E11	Regulation:T28 Theme:E15 Cause:T6
+E12	Regulation:T28 Theme:E16 Cause:T7
+E13	Regulation:T28 Theme:E16 Cause:T8
+E14	Regulation:T28 Theme:E16 Cause:T6
+M1	Speculation E9
+M2	Speculation E10
+M3	Speculation E11
+M4	Speculation E12
+M5	Speculation E13
+M6	Speculation E14
+T29	Phosphorylation 330 345	phosphorylation
+E15	Phosphorylation:T29 Theme:T9
+T30	Degradation 365 376	degradation
+E16	Degradation:T30 Theme:T9
+T31	Pathway 382 391	signaling
+E17	Pathway:T31 Participant:T10
+T32	Regulation 392 402	stabilizes
+E18	Regulation:T32 Cause:E17 Theme:T11
+T33	Pathway 458 467	signaling
+E19	Pathway:T33 Participant:T12
+T34	Regulation 468 477	regulates
+E20	Regulation:T34 Theme:T13 Cause:E19
+M7	Speculation E20
+T35	Phosphorylation 530 546	dephosphorylated
+E21	Phosphorylation:T35 Theme:T14
+T36	Regulation 550 558	response
+E22	Regulation:T36 Theme:E21 Cause:E23
+T37	Pathway 566 575	signaling
+E23	Pathway:T37 Participant:T15
+T38	Dephosphorylation 581 597	dephosphorylated
+E24	Dephosphorylation:T38 Theme:T16
+T39	Binding 603 608	binds
+E25	Binding:T39 Theme:T16 Theme:T17
+T40	Phosphorylation 648 662	phosphorylated
+E26	Phosphorylation:T40 Theme:T16
+T41	Pathway 679 688	signaling
+E27	Pathway:T41 Participant:T18
+T42	Negative_regulation 689 695	lowers
+E28	Negative_regulation:T42 Theme:E29 Cause:E27
+T43	Binding 703 711	affinity
+E29	Binding:T43 Theme:T20 Theme:T19
+T44	Negative_regulation 738 749	disengaging
+E30	Negative_regulation:T44 Theme:E31 Cause:E28
+T45	Degradation 772 783	degradation
+E31	Degradation:T45 Theme:T21

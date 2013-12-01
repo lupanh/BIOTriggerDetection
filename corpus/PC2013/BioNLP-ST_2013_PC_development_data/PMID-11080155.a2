@@ -1,0 +1,27 @@
+T33	Degradation 17 28	degradation
+E1	Degradation:T33 Theme:T2
+T34	Regulation 40 50	controlled
+E2	Regulation:T34 Cause:E3 Theme:E1
+T35	Localization 58 70	localization
+E3	Localization:T35 Theme:T3
+T36	Ubiquitination 249 262	ubiquitylates
+E4	Ubiquitination:T36 Cause:T5 Theme:T6
+T37	Regulation 459 469	stabilized
+E5	Regulation:T37 Theme:T10
+T38	Transport 480 486	export
+E6	Transport:T38 ToLoc:T11 Theme:T10
+T39	Negative_regulation 521 531	Preventing
+E7	Negative_regulation:T39 Theme:E8
+T40	Transport 540 546	export
+E8	Transport:T40 ToLoc:T14 Theme:T15
+T41	Regulation 547 559	destabilized
+E9	Regulation:T41 Theme:T15 Cause:E7
+M1	Negation E9
+T42	Regulation 604 614	stabilized
+E10	Regulation:T42 Theme:T17
+T43	Phosphorylation 653 667	phosphorylated
+E11	Phosphorylation:T43 Theme:T17
+T44	Positive_regulation 683 692	dependent
+E12	Positive_regulation:T44 Cause:T18 Theme:E11
+T45	Degradation 963 970	degrade
+E13	Degradation:T45 Theme:T30

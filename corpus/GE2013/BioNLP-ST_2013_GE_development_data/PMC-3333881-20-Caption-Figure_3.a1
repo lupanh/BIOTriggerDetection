@@ -1,0 +1,31 @@
+T1	Protein 0 3	Tat
+T2	Protein 13 16	p65
+T3	Protein 26 39	IkappaB-alpha
+T4	Protein 105 108	Tat
+T5	Protein 123 139	HA-IkappaB-alpha
+T6	Protein 191 199	FLAG-Tat
+T7	Protein 201 221	FLAG-Tat T,N(23,24)A
+T8	Protein 223 241	FLAG-Tat K(50,51)A
+T9	Protein 243 261	FLAG-Tat R(49-57)A
+T10	Protein 265 286	FLAG-Tat C(22,25,27)A
+T11	Protein 356 359	Tat
+T12	Protein 564 567	p65
+T13	Protein 618 634	HA-IkappaB-alpha
+T14	Protein 672 680	FLAG-Tat
+T15	Protein 684 702	FLAG-Tat R(49-57)A
+T16	Protein 725 741	HA-IkappaB-alpha
+T17	Protein 935 938	p65
+T18	Protein 1046 1049	p65
+T19	Protein 1201 1204	p65
+T20	Protein 1244 1260	HA-IkappaB-alpha
+T21	Protein 1273 1281	FLAG-Tat
+T22	Protein 1285 1303	FLAG-Tat R(49-57)A
+T23	Protein 1541 1544	p50
+T24	Protein 1547 1550	p65
+T25	Protein 1628 1636	beta-Gal
+T26	Protein 1674 1677	p65
+T27	Protein 1698 1714	HA-IkappaB-alpha
+T28	Protein 1737 1740	Tat
+T29	Protein 1752 1755	Tat
+T30	Protein 1793 1803	luciferase
+T31	Protein 1884 1902	beta-galactosidase

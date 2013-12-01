@@ -1,0 +1,125 @@
+T22	Localization 233 241	released
+T23	Positive_regulation 253 262	following
+T24	Positive_regulation 454 463	increased
+T25	Gene_expression 474 483	synthesis
+T26	Negative_regulation 703 713	decreasing
+T27	Negative_regulation 734 745	attenuating
+T21	Anaphora 746 749	its
+T28	Gene_expression 750 760	production
+T29	Negative_regulation 812 824	downregulate
+T30	Gene_expression 835 845	production
+T31	Positive_regulation 954 962	increase
+T32	Negative_regulation 1057 1065	decrease
+T33	Negative_regulation 1139 1150	attenuation
+T34	Positive_regulation 1158 1165	induced
+T35	Gene_expression 1176 1186	expression
+T36	Negative_regulation 1351 1360	decreases
+T37	Gene_expression 1371 1381	production
+T38	Negative_regulation 1828 1839	attenuation
+T39	Gene_expression 1853 1863	production
+T40	Positive_regulation 1906 1915	following
+T41	Regulation 1936 1947	independent
+T42	Regulation 2363 2370	effects
+T43	Gene_expression 2384 2393	synthesis
+T44	Negative_regulation 2471 2485	downregulation
+T45	Phosphorylation 3451 3465	phosphorylates
+T46	Phosphorylation 3493 3508	Phosphorylation
+T47	Ubiquitination 3510 3524	ubiquitination
+T48	Protein_catabolism 3541 3552	degradation
+T49	Regulation 3918 3926	involved
+T50	Gene_expression 3940 3955	gene expression
+T72	Negative_regulation 4037 4050	downregulates
+T73	Phosphorylation 4077 4092	phosphorylation
+T74	Phosphorylation 4116 4131	phosphorylation
+T75	Localization 4132 4145	translocation
+T76	Phosphorylation 4288 4303	phosphorylation
+T77	Regulation 4346 4353	effects
+T78	Regulation 4511 4518	effects
+T79	Regulation 4660 4670	stabilizes
+T80	Binding 4675 4686	interaction
+T81	Protein_catabolism 4835 4846	degradation
+T82	Regulation 4878 4886	presence
+T83	Regulation 4891 4898	absence
+T84	Negative_regulation 5642 5653	attenuation
+T85	Positive_regulation 5661 5668	induced
+T86	Gene_expression 5679 5689	production
+T87	Regulation 5704 5723	presence or absence
+T88	Positive_regulation 7066 7076	Activation
+T71	Anaphora 7089 7103	its components
+T89	Regulation 7180 7190	implicated
+T90	Gene_expression 7204 7214	expression
+T91	Binding 7240 7249	recognize
+T92	Entity 7260 7280	DNA binding sequence
+T93	Negative_regulation 7492 7502	inhibiting
+T94	Transcription 7518 7531	transcription
+T95	Negative_regulation 7898 7911	downregulates
+T96	Gene_expression 7922 7932	production
+T97	Regulation 7966 7977	independent
+T98	Gene_expression 8278 8288	production
+R1	Coreference Subject:T21 Object:T3
+R2	Coreference Subject:T71 Object:T64
+R3	Coreference Subject:T71 Object:T65
+E1	Localization:T22 Theme:T1
+E2	Positive_regulation:T23 Theme:E1
+E3	Positive_regulation:T24 Theme:E4
+E4	Gene_expression:T25 Theme:T2
+E5	Negative_regulation:T26 Theme:T3
+E6	Negative_regulation:T27 Theme:E7
+E7	Gene_expression:T28 Theme:T3
+E8	Negative_regulation:T29 Theme:E9
+E9	Gene_expression:T30 Theme:T4
+E10	Positive_regulation:T31 Theme:T5
+E11	Negative_regulation:T32 Theme:T6
+E12	Negative_regulation:T33 Theme:E13
+E13	Positive_regulation:T34 Theme:E14
+E14	Gene_expression:T35 Theme:T7
+E15	Negative_regulation:T36 Theme:E16
+E16	Gene_expression:T37 Theme:T8
+E17	Negative_regulation:T38 Theme:E18
+E18	Gene_expression:T39 Theme:T9
+E19	Positive_regulation:T40 Theme:E17
+E20	Regulation:T41 Theme:E17
+E21	Regulation:T42 Theme:E22
+E22	Gene_expression:T43 Theme:T10
+E23	Negative_regulation:T44 Theme:T11
+E24	Phosphorylation:T45 Theme:T17
+E25	Phosphorylation:T46 Theme:T18
+E26	Ubiquitination:T47 Theme:T18
+E27	Protein_catabolism:T48 Theme:T18
+E28	Regulation:T49 Theme:E29
+E29	Gene_expression:T50 Theme:T20
+E30	Negative_regulation:T72 Theme:E31
+E31	Phosphorylation:T73 Theme:T51
+E32	Negative_regulation:T72 Theme:E33
+E33	Phosphorylation:T74 Theme:T52
+E34	Negative_regulation:T72 Theme:E35
+E35	Localization:T75 Theme:T52
+E36	Phosphorylation:T76 Theme:T53
+E37	Regulation:T77 Theme:T54
+E38	Regulation:T78 Theme:T55
+E39	Regulation:T79 Theme:E40
+E40	Binding:T80 Theme:T56
+E41	Protein_catabolism:T81 Theme:T57
+E42	Regulation:T82 Theme:E41
+E43	Regulation:T83 Theme:E41
+E44	Negative_regulation:T84 Theme:E45
+E45	Positive_regulation:T85 Theme:E46
+E46	Gene_expression:T86 Theme:T59
+E47	Regulation:T87 Theme:E44
+E48	Positive_regulation:T88 Theme:T64
+E49	Positive_regulation:T88 Theme:T65
+E50	Regulation:T89 Theme:E51
+E51	Gene_expression:T90 Theme:T66
+E52	Binding:T91 Theme:T67 Site:T92
+E53	Negative_regulation:T93 Theme:E54
+E54	Transcription:T94 Theme:T68
+E55	Negative_regulation:T95 Theme:E56
+E56	Gene_expression:T96 Theme:T69
+E57	Regulation:T97 Theme:E55
+E58	Gene_expression:T98 Theme:T70
+M1	Speculation E15
+M2	Negation E20
+M3	Speculation E28
+M4	Negation E43
+M5	Negation E47
+M6	Negation E57

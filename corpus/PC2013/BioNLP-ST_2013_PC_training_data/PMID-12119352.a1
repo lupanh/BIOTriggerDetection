@@ -1,0 +1,19 @@
+T1	Gene_or_gene_product 18 47	phosphatidylinositol 3 kinase
+T2	Complex 61 89	DNA-dependent protein kinase
+T3	Complex 245 273	DNA-dependent protein kinase
+T4	Complex 275 281	DNA-PK
+T5	Simple_chemical 321 331	wortmannin
+T6	Gene_or_gene_product 349 392	phosphatidylinositol 3 kinase [PI3]-kinases
+T7	Complex 403 409	DNA-PK
+T8	Complex 462 468	DNA-PK
+T9	Simple_chemical 555 565	wortmannin
+T10	Gene_or_gene_product 630 656	toll-like receptor (TLR)-9
+T11	Cellular_component 670 678	vesicles
+T12	Complex 729 738	NF-kappaB
+T13	Complex 771 777	DNA-PK
+T14	Complex 834 840	DNA-PK
+T15	Gene_or_gene_product 953 958	TLR-9
+T16	Complex 967 973	DNA-PK
+T17	Simple_chemical 992 1002	wortmannin
+T18	Gene_or_gene_product 1030 1040	PI3-kinase
+T19	Gene_or_gene_product 1093 1098	TLR-9

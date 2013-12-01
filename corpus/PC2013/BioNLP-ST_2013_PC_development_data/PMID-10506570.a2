@@ -1,0 +1,16 @@
+*	Equiv T3 T4
+*	Equiv T8 T7
+*	Equiv T15 T16
+T25	Regulation 22 32	regulation
+E1	Regulation:T25 Theme:T1
+E2	Regulation:T25 Theme:T2
+T26	Regulation 465 475	controlled
+E3	Regulation:T26 Theme:T13
+T27	Phosphorylation 551 566	phosphorylation
+E4	Phosphorylation:T27 Theme:T14 Cause:T15
+T28	Localization 683 695	localization
+E5	Localization:T28 Theme:T18
+T29	Regulation 700 709	regulated
+E6	Regulation:T29 Theme:E5 Cause:E7
+T30	Binding 720 731	interaction
+E7	Binding:T30 Theme:T18

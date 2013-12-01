@@ -1,0 +1,43 @@
+*	Equiv T6 T7
+T33	Pathway 52 70	signaling pathways
+E1	Pathway:T33 Participant:T2 Participant2:T1
+T34	Negative_regulation 71 79	inhibits
+E2	Negative_regulation:T34 Theme:E3 Cause:E1
+T35	Gene_expression 90 100	expression
+E3	Gene_expression:T35 Theme:T3
+T36	Positive_regulation 265 271	result
+E4	Positive_regulation:T36 Theme:E5
+T37	Positive_regulation 275 284	increased
+E5	Positive_regulation:T37 Theme:E6
+T38	Pathway 311 318	pathway
+E6	Pathway:T38 Participant:T5
+T39	Pathway 487 504	signaling pathway
+E7	Pathway:T39 Participant:T8
+T40	Positive_regulation 506 516	synergizes
+E8	Positive_regulation:T40 Theme:E9 Cause:T6
+T41	Pathway 534 543	signaling
+E9	Pathway:T41 Participant:T9
+T42	Inactivation 801 809	deletion
+E10	Inactivation:T42 Theme:T14
+T43	Positive_regulation 911 919	resulted
+E11	Positive_regulation:T43 Theme:E13 Cause:E10
+E12	Positive_regulation:T43 Theme:E14 Cause:E10
+T44	Negative_regulation 923 937	downregulation
+E13	Negative_regulation:T44 Theme:T16
+E14	Negative_regulation:T44 Theme:T17
+T45	Positive_regulation 999 1009	stimulated
+E15	Positive_regulation:T45 Cause:T18 Theme:E16
+T46	Pathway 1030 1039	signaling
+E16	Pathway:T46 Participant:T19
+T47	Positive_regulation 1172 1180	resulted
+E17	Positive_regulation:T47 Theme:E18 Cause:T22
+T48	Phosphorylation 1184 1199	phosphorylation
+E18	Phosphorylation:T48 Theme:T23
+T49	Negative_regulation 1256 1260	lost
+E19	Negative_regulation:T49 Cause:E20 Theme:E18
+T50	Inactivation 1271 1279	deletion
+E20	Inactivation:T50 Theme:T25
+T51	Negative_regulation 1286 1296	suppresses
+E21	Negative_regulation:T51 Cause:T26 Theme:E22
+T52	Gene_expression 1297 1307	expression
+E22	Gene_expression:T52 Theme:T27

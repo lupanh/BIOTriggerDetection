@@ -1,0 +1,18 @@
+T1	Gene_or_gene_product 96 111	12-lipoxygenase
+T2	Simple_chemical 135 151	arachidonic acid
+T3	Gene_or_gene_product 197 212	12-lipoxygenase
+T4	Simple_chemical 283 320	12-hydro(pero)xyeicosatetraenoic acid
+T5	Simple_chemical 322 332	12-H(P)ETE
+T6	Gene_or_gene_product 529 544	12-lipoxygenase
+T7	Gene_or_gene_product 601 616	12-lipoxygenase
+T8	Gene_or_gene_product 724 734	pCDNA-121x
+T9	Simple_chemical 889 899	12-H(P)ETE
+T10	Simple_chemical 905 921	arachidonic acid
+T11	Simple_chemical 934 944	12-H(P)ETE
+T12	Gene_or_gene_product 1182 1197	12-lipoxygenase
+T13	Gene_or_gene_product 1238 1253	12-lipoxygenase
+T14	Gene_or_gene_product 1277 1292	15-lipoxygenase
+T15	Gene_or_gene_product 1370 1385	12-lipoxygenase
+T16	Gene_or_gene_product 1425 1440	15-lipoxygenase
+T17	Gene_or_gene_product 1558 1573	12-lipoxygenase
+T18	Gene_or_gene_product 1644 1659	12-lipoxygenase

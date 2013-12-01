@@ -1,0 +1,25 @@
+T9	Positive_regulation 185 192	induced
+T10	Positive_regulation 607 615	enhanced
+T11	Gene_expression 634 644	expression
+T12	Negative_regulation 678 687	decreased
+T13	Gene_expression 706 716	expression
+T14	Gene_expression 948 958	expression
+T7	Anaphora 962 985	the anti-apoptotic gene
+T8	Anaphora 994 999	which
+T15	Regulation 1008 1017	regulated
+T16	Negative_regulation 1066 1073	reduced
+T17	Positive_regulation 1080 1090	stimulated
+T18	Gene_expression 1098 1108	expression
+R1	Coreference Subject:T7 Object:T5
+R2	Coreference Subject:T8 Object:T5
+E1	Positive_regulation:T9 Theme:T1
+E2	Positive_regulation:T10 Theme:E3
+E3	Gene_expression:T11 Theme:T3
+E4	Negative_regulation:T12 Theme:E5
+E5	Gene_expression:T13 Theme:T4
+E6	Gene_expression:T14 Theme:T5
+E7	Regulation:T15 Theme:T5
+E8	Negative_regulation:T16 Theme:E9
+E9	Positive_regulation:T17 Theme:E10
+E10	Gene_expression:T18 Theme:T6
+M1	Speculation E6

@@ -1,0 +1,41 @@
+*	Equiv T2 T3
+T13	Phosphorylation 0 15	Phosphorylation
+E1	Phosphorylation:T13 Theme:T1
+T14	Negative_regulation 60 67	reduces
+E2	Negative_regulation:T14 Cause:E1 Theme:E3
+T15	Binding 72 80	affinity
+E3	Binding:T15 Theme:T1
+T16	Binding 165 172	binding
+E4	Binding:T16 Theme:T2
+T17	Positive_regulation 457 466	stimulate
+E5	Positive_regulation:T17 Theme:E6
+T18	Phosphorylation 471 486	phosphorylation
+E6	Phosphorylation:T18 Site:T6 Theme:T5
+T19	Phosphorylation 692 707	phosphorylation
+E7	Phosphorylation:T19 Theme:T7
+T20	Negative_regulation 726 733	reduces
+E8	Negative_regulation:T20 Theme:E9 Cause:E7
+T21	Binding 738 746	affinity
+E9	Binding:T21 Theme:T7
+T22	Positive_regulation 783 792	increased
+E10	Positive_regulation:T22 Cause:E7 Theme:E11
+T23	Dissociation 801 813	dissociation
+E11	Dissociation:T23 Product:T7
+T24	Negative_regulation 911 920	decreased
+E12	Negative_regulation:T24 Theme:E13
+T25	Binding 921 928	binding
+E13	Binding:T25 Theme:T8
+T26	Regulation 1073 1083	stabilized
+E14	Regulation:T26 Cause:T9 Theme:E15
+T27	Binding 1084 1091	binding
+E15	Binding:T27 Theme:T10
+T28	Phosphorylation 1095 1109	phosphorylated
+E16	Phosphorylation:T28 Theme:T10
+T29	Phosphorylation 1178 1192	phosphorylated
+E17	Phosphorylation:T29 Theme:T10
+T30	Dissociation 1204 1215	dissociated
+E18	Dissociation:T30 Product:T10
+E19	Dissociation:T30 Product:T12
+T31	Phosphorylation 1237 1254	nonphopshorylated
+E20	Phosphorylation:T31 Theme:T12
+M1	Negation E20

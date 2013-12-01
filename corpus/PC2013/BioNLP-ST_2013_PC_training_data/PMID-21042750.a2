@@ -1,0 +1,43 @@
+T41	Binding 0 11	Interaction
+E1	Binding:T41 Theme:T2 Theme2:T3
+T42	Negative_regulation 429 438	depletion
+E2	Negative_regulation:T42 Theme:T9
+T43	Negative_regulation 535 542	blunted
+E3	Negative_regulation:T43 Cause:E2 Theme:E6
+E4	Negative_regulation:T43 Cause:E2 Theme:E7
+E5	Negative_regulation:T43 Cause:E2 Theme:E8
+T44	Activation 566 576	activation
+E6	Activation:T44 Theme:T10
+E7	Activation:T44 Theme:T11
+E8	Activation:T44 Theme:T12
+T45	Positive_regulation 662 669	promote
+E9	Positive_regulation:T45 Cause:T14 Theme:E11
+E10	Positive_regulation:T45 Cause:T14 Theme:E12
+T46	Transport 678 691	translocation
+E11	Transport:T46 FromLoc:T15 ToLoc:T15 Theme:T16
+E12	Transport:T46 FromLoc:T15 ToLoc:T15 Theme:T17
+T47	Binding 755 766	interaction
+E13	Binding:T47 Theme:T19 Theme2:T20 Theme3:T21
+T48	Binding 795 802	binding
+E14	Binding:T48 Theme:T22 Theme2:T23
+T49	Positive_regulation 834 841	crucial
+E15	Positive_regulation:T49 Theme:T25 Cause:E13
+E16	Positive_regulation:T49 Theme:T25 Cause:E14
+T50	Binding 899 908	recruited
+E17	Binding:T50 Theme:T27 Theme2:T28
+T51	Negative_regulation 980 990	inhibition
+E18	Negative_regulation:T51 Theme:T29
+E19	Negative_regulation:T51 Theme:T30
+T52	Negative_regulation 1007 1016	abolished
+E20	Negative_regulation:T52 Theme:E22 Cause:E18
+E21	Negative_regulation:T52 Theme:E22 Cause:E19
+T53	Binding 1021 1030	occupancy
+E22	Binding:T53 Theme:T31 Theme2:T32
+T54	Regulation 1099 1123	plays a significant role
+E23	Regulation:T54 Cause:T33 Theme:E24
+T55	Activation 1127 1137	activating
+E24	Activation:T55 Theme:T34 Cause:E25
+T56	Pathway 1180 1187	pathway
+E25	Pathway:T56 Participant:T35 Participant2:T36
+T57	Binding 1246 1255	crosstalk
+E26	Binding:T57 Theme:T39 Theme2:T40

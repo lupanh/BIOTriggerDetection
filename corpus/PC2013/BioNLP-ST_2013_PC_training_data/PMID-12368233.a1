@@ -1,0 +1,28 @@
+T1	Gene_or_gene_product 29 32	E2F
+T2	Gene_or_gene_product 36 74	human telomerase reverse transcriptase
+T3	Gene_or_gene_product 76 81	hTERT
+T4	Complex 141 151	Telomerase
+T5	Complex 328 338	telomerase
+T6	Complex 397 407	Telomerase
+T7	Gene_or_gene_product 481 519	human telomerase reverse transcriptase
+T8	Gene_or_gene_product 521 526	hTERT
+T9	Gene_or_gene_product 583 588	E2F-1
+T10	Gene_or_gene_product 611 616	hTERT
+T11	Gene_or_gene_product 666 671	E2F-1
+T12	Gene_or_gene_product 682 687	hTERT
+T13	Gene_or_gene_product 720 723	Sp1
+T14	Gene_or_gene_product 742 747	hTERT
+T15	Gene_or_gene_product 799 804	E2F-1
+T16	Gene_or_gene_product 848 853	E2F-1
+T17	Gene_or_gene_product 877 882	hTERT
+T18	Gene_or_gene_product 941 946	E2F-1
+T19	Gene_or_gene_product 961 966	hTERT
+T20	Gene_or_gene_product 1017 1022	E2F-1
+T21	Gene_or_gene_product 1024 1029	E2F-2
+T22	Gene_or_gene_product 1035 1040	E2F-3
+T23	Gene_or_gene_product 1050 1055	E2F-4
+T24	Gene_or_gene_product 1060 1065	E2F-5
+T25	Gene_or_gene_product 1077 1082	hTERT
+T26	Gene_or_gene_product 1203 1206	E2F
+T27	Gene_or_gene_product 1236 1241	hTERT
+T28	Gene_or_gene_product 1307 1310	E2F

@@ -1,0 +1,46 @@
+*	Equiv T5 T6
+*	Equiv T7 T8
+T31	Regulation 11 21	regulation
+E1	Regulation:T31 Theme:T1
+E2	Regulation:T31 Theme:T2
+T32	Positive_regulation 192 200	involved
+E3	Positive_regulation:T32 Theme:T5 Cause:E4
+T33	Negative_regulation 208 227	negative regulation
+E4	Negative_regulation:T33 Theme:T7
+T34	Dephosphorylation 276 293	dephosphorylating
+E5	Dephosphorylation:T34 Theme:T5 Site:T9
+E6	Dephosphorylation:T34 Theme:T5 Site:T10
+T35	Negative_regulation 602 609	lacking
+E7	Negative_regulation:T35 Theme:T14
+T36	Negative_regulation 667 678	interfering
+E8	Negative_regulation:T36 Theme:T15 Cause:T16
+T37	Positive_regulation 781 792	responsible
+E9	Positive_regulation:T37 Theme:E11 Cause:T14
+E10	Positive_regulation:T37 Theme:E12 Cause:T14
+T38	Binding 797 804	binding
+E11	Binding:T38 Theme:T17
+E12	Binding:T38 Theme:T18
+T39	Binding 960 965	bound
+E13	Binding:T39 Theme:T19 Theme2:T20
+T40	Dephosphorylation 970 986	dephosphorylated
+E14	Dephosphorylation:T40 Theme:T20 Cause:T19
+T41	Activation 987 996	activated
+E15	Activation:T41 Theme:T20
+T42	Phosphorylation 1022 1036	phosphorylated
+E16	Phosphorylation:T42 Theme:T22 Cause:T21
+T43	Phosphorylation 1254 1268	phosphorylated
+E17	Phosphorylation:T43 Theme:T23
+T44	Activation 1279 1289	activation
+E18	Activation:T44 Theme:T25 Cause:E17
+T45	Negative_regulation 1335 1343	decrease
+E19	Negative_regulation:T45 Theme:E20
+T46	Binding 1351 1359	affinity
+E20	Binding:T46 Theme:T26 Theme2:T27
+T47	Regulation 1451 1459	controls
+E21	Regulation:T47 Cause:T28 Theme:T29
+T48	Positive_regulation 1491 1501	modulation
+E22	Positive_regulation:T48 Theme:E23
+T49	Binding 1521 1533	interactions
+E23	Binding:T49 Theme:T26 Theme2:T27
+T50	Regulation 1607 1617	regulation
+E24	Regulation:T50 Theme:T30

@@ -1,0 +1,21 @@
+T1	Complex 39 48	SCF(Fbw7)
+T2	Complex 51 54	SCF
+T3	Gene_or_gene_product 55 64	ubiquitin
+T4	Complex 191 194	SCF
+T5	Gene_or_gene_product 302 306	Fbw7
+T6	Gene_or_gene_product 307 312	hCdc4
+T7	Gene_or_gene_product 371 379	cyclin E
+T8	Complex 389 399	SCF (Fbw7)
+T9	Gene_or_gene_product 423 428	c-Myc
+T10	Gene_or_gene_product 430 435	c-Jun
+T11	Gene_or_gene_product 440 445	Notch
+T12	Gene_or_gene_product 489 497	cyclin E
+T13	Gene_or_gene_product 511 515	Fbw7
+T14	Gene_or_gene_product 581 585	Fbw7
+T15	Gene_or_gene_product 665 669	Fbw7
+T16	Gene_or_gene_product 754 758	Fbw7
+T17	Cellular_component 793 817	subcellular compartments
+T18	Gene_or_gene_product 839 843	Fbw7
+T19	Gene_or_gene_product 936 940	Fbw7
+T20	Complex 1030 1039	SCF(Fbw7)
+T21	Gene_or_gene_product 1165 1169	Fbw7

@@ -1,0 +1,31 @@
+T1	Gene_or_gene_product 6 15	cyclins A
+T2	Gene_or_gene_product 20 22	B1
+T3	Cellular_component 95 102	nuclear
+T4	Cellular_component 169 180	subcellular
+T5	Gene_or_gene_product 197 205	cyclin A
+T6	Gene_or_gene_product 210 212	B1
+T7	Gene_or_gene_product 322 330	cyclin A
+T8	Cellular_component 348 355	nuclear
+T9	Gene_or_gene_product 378 386	Cyclin A
+T10	Cellular_component 418 429	chromosomes
+T11	Cellular_component 480 491	chromosomes
+T12	Gene_or_gene_product 519 528	cyclin B1
+T13	Cellular_component 548 557	cytoplasm
+T14	Cellular_component 598 605	nucleus
+T15	Cellular_component 642 656	nuclear lamina
+T16	Gene_or_gene_product 686 695	cyclin B1
+T17	Cellular_component 722 733	chromosomes
+T18	Cellular_component 774 791	mitotic apparatus
+T19	Gene_or_gene_product 793 801	Cyclin A
+T20	Gene_or_gene_product 835 844	cyclin B1
+T21	Gene_or_gene_product 981 989	cyclin A
+T22	Gene_or_gene_product 994 1003	cyclin B1
+T23	Cellular_component 1057 1064	nuclear
+T24	Cellular_component 1078 1089	cytoplasmic
+T25	Gene_or_gene_product 1099 1107	cyclin A
+T26	Gene_or_gene_product 1163 1172	Cyclin B1
+T27	Gene_or_gene_product 1192 1199	p34cdc2
+T28	Cellular_component 1207 1216	cytoplasm
+T29	Gene_or_gene_product 1269 1277	cyclin A
+T30	Gene_or_gene_product 1282 1291	cyclin B1
+T31	Gene_or_gene_product 1363 1369	cyclin

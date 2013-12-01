@@ -1,0 +1,34 @@
+T9	Gene_expression 30 37	produce
+T10	Positive_regulation 38 47	increased
+T11	Gene_expression 514 521	produce
+T12	Positive_regulation 522 531	increased
+T13	Negative_regulation 650 658	decrease
+T14	Gene_expression 695 703	produced
+T15	Positive_regulation 716 730	in response to
+T16	Gene_expression 880 888	produced
+T17	Negative_regulation 900 904	less
+T18	Positive_regulation 1023 1029	result
+T19	Gene_expression 1046 1056	production
+T20	Positive_regulation 1182 1191	increased
+T21	Gene_expression 1192 1202	production
+E1	Gene_expression:T9 Theme:T1
+E2	Positive_regulation:T10 Theme:E1
+E3	Gene_expression:T11 Theme:T2
+E4	Positive_regulation:T12 Theme:E3
+E5	Negative_regulation:T13 Theme:E6
+E6	Gene_expression:T14 Theme:T3
+E7	Positive_regulation:T15 Theme:E5
+E8	Gene_expression:T16 Theme:T5
+E9	Negative_regulation:T17 Theme:E8
+E10	Positive_regulation:T18 Theme:E11
+E11	Gene_expression:T19 Theme:T6
+E12	Positive_regulation:T20 Theme:E13
+E13	Gene_expression:T21 Theme:T7
+E14	Positive_regulation:T20 Theme:E15
+E15	Gene_expression:T21 Theme:T8
+M1	Negation E2
+M2	Negation E4
+M3	Negation E10
+M4	Negation E11
+M5	Negation E12
+M6	Negation E14

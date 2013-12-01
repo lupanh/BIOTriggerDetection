@@ -1,0 +1,32 @@
+T1	Gene_or_gene_product 0 7	NPM-ALK
+T2	Gene_or_gene_product 21 24	p53
+T3	Gene_or_gene_product 56 60	MDM2
+T4	Gene_or_gene_product 65 68	JNK
+T5	Gene_or_gene_product 197 237	nucleophosmin-anaplastic lymphoma kinase
+T6	Gene_or_gene_product 239 246	NPM-ALK
+T7	Gene_or_gene_product 381 384	p53
+T8	Gene_or_gene_product 434 437	p53
+T9	Gene_or_gene_product 550 554	MDM2
+T10	Gene_or_gene_product 581 584	ALK
+T11	Gene_or_gene_product 617 620	p53
+T12	Gene_or_gene_product 645 649	MDM2
+T13	Gene_or_gene_product 674 677	p53
+T14	Gene_or_gene_product 714 717	ALK
+T15	Gene_or_gene_product 782 789	NPM-ALK
+T16	Gene_or_gene_product 816 846	phosphoinositide (PI) 3-kinase
+T17	Gene_or_gene_product 851 872	Jun N-terminal kinase
+T18	Gene_or_gene_product 874 877	JNK
+T19	Gene_or_gene_product 879 916	stress-activated protein (SAP) kinase
+T20	Gene_or_gene_product 995 998	p53
+T21	Gene_or_gene_product 1069 1072	ALK
+T22	Gene_or_gene_product 1142 1145	p53
+T23	Gene_or_gene_product 1149 1152	JNK
+T24	Gene_or_gene_product 1157 1161	MDM2
+T25	Cellular_component 1194 1201	nuclear
+T26	Gene_or_gene_product 1215 1218	p53
+T27	Gene_or_gene_product 1224 1235	PI 3-kinase
+T28	Gene_or_gene_product 1303 1306	p53
+T29	Gene_or_gene_product 1310 1313	ALK
+T30	Gene_or_gene_product 1374 1377	JNK
+T31	Gene_or_gene_product 1379 1390	PI 3-kinase
+T32	Gene_or_gene_product 1399 1403	MDM2

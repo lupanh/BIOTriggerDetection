@@ -1,0 +1,34 @@
+T1	Gene_or_gene_product 58 85	Toll/interleukin-1 receptor
+T2	Gene_or_gene_product 99 133	Toll/interleukin-1 (IL-1) receptor
+T3	Gene_or_gene_product 135 138	TIR
+T4	Cellular_component 171 184	transmembrane
+T5	Complex 264 277	IL-1 receptor
+T6	Complex 279 284	IL-1R
+T7	Cellular_component 323 336	extracellular
+T8	Gene_or_gene_product 337 351	immunoglobulin
+T9	Gene_or_gene_product 353 355	Ig
+T10	Gene_or_gene_product 490 508	Toll-like receptor
+T11	Gene_or_gene_product 510 513	TLR
+T12	Gene_or_gene_product 611 615	TLRs
+T13	Simple_chemical 624 631	leucine
+T14	Cellular_component 654 667	extracellular
+T15	Gene_or_gene_product 674 678	TLRs
+T16	Gene_or_gene_product 743 747	TLRs
+T17	Gene_or_gene_product 777 781	TLR4
+T18	Gene_or_gene_product 787 791	TLR4
+T19	Simple_chemical 874 892	lipopolysaccharide
+T20	Simple_chemical 894 897	LPS
+T21	Gene_or_gene_product 918 921	TIR
+T22	Cellular_component 936 947	cytoplasmic
+T23	Gene_or_gene_product 948 951	TIR
+T24	Gene_or_gene_product 1010 1013	TIR
+T25	Gene_or_gene_product 1161 1166	MyD88
+T26	Gene_or_gene_product 1168 1208	interleukin-1 receptor associated kinase
+T27	Gene_or_gene_product 1210 1214	IRAK
+T28	Gene_or_gene_product 1235 1241	Tollip
+T29	Gene_or_gene_product 1272 1275	TIR
+T30	Complex 1386 1394	NFkappaB
+T31	Complex 1533 1550	MyD88/IRAK/Tollip
+T32	Gene_or_gene_product 1594 1598	TLRs
+T33	Gene_or_gene_product 1614 1618	TLR4
+T34	Gene_or_gene_product 1722 1725	TLR

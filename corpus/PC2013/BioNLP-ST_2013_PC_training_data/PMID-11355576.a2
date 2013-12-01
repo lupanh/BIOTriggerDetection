@@ -1,0 +1,65 @@
+*	Equiv T3 T4
+*	Equiv T12 T13
+*	Equiv T33 T34
+T45	Regulation 22 33	controlling
+E1	Regulation:T45 Theme:E2
+T46	Pathway 38 48	cell cycle
+E2	Pathway:T46 
+T47	Pathway 134 144	cell cycle
+E3	Pathway:T47 
+T48	Regulation 145 155	regulation
+E4	Regulation:T48 Theme:E3
+T49	Regulation 220 230	regulators
+E5	Regulation:T49 Theme:E6
+T50	Pathway 238 248	cell cycle
+E6	Pathway:T50 
+T51	Regulation 366 373	control
+E7	Regulation:T51 Theme:E8
+T52	Pathway 377 387	cell cycle
+E8	Pathway:T52 
+T53	Pathway 533 543	cell cycle
+E9	Pathway:T53 
+T54	Pathway 729 739	cell cycle
+E10	Pathway:T54 
+T55	Activation 796 797	a
+E11	Activation:T55 Theme:T4
+T56	Positive_regulation 1230 1242	accumulation
+E12	Positive_regulation:T56 Theme:T11
+E13	Positive_regulation:T56 Theme:T8
+E14	Positive_regulation:T56 Theme:T10
+E15	Positive_regulation:T56 Theme:T9
+T57	Binding 1438 1442	bind
+E16	Binding:T57 Theme:T16 Theme2:T17
+T58	Activation 1450 1458	activate
+E17	Activation:T58 Theme:T17 Cause:E16
+T59	Positive_regulation 1474 1479	leads
+E18	Positive_regulation:T59 Theme:E19 Cause:T17
+T60	Phosphorylation 1483 1498	phosphorylation
+E19	Phosphorylation:T60 Theme:T18
+T61	Negative_regulation 1509 1519	inhibition
+E20	Negative_regulation:T61 Theme:T18
+T62	Negative_regulation 1639 1649	repressing
+E21	Negative_regulation:T62 Theme:T20
+T63	Binding 2020 2028	interact
+E22	Binding:T63 Theme:T30 Theme2:T26
+E23	Binding:T63 Theme:T26 Theme2:T31
+E24	Binding:T63 Theme:T27 Theme2:T30
+E25	Binding:T63 Theme:T27 Theme2:T31
+E26	Binding:T63 Theme:T28 Theme2:T30
+E27	Binding:T63 Theme:T28 Theme2:T31
+E28	Binding:T63 Theme:T29 Theme2:T30
+E29	Binding:T63 Theme:T29 Theme2:T31
+T64	Negative_regulation 2119 2126	inhibit
+E30	Negative_regulation:T64 Theme:T37 Cause:T36
+E31	Negative_regulation:T64 Theme:T37 Cause:T34
+E32	Negative_regulation:T64 Theme:T37 Cause:T35
+T65	Pathway 2281 2288	pathway
+E33	Pathway:T65 Participant:T43
+T66	Pathway 2417 2424	pathway
+E34	Pathway:T66 Participant:T44
+T67	Pathway 2589 2599	cell cycle
+E35	Pathway:T67 
+T68	Regulation 2600 2610	regulation
+E36	Regulation:T68 Theme:E35
+T69	Pathway 2854 2864	cell cycle
+E37	Pathway:T69 

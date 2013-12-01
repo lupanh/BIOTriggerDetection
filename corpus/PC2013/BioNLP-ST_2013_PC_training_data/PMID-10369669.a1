@@ -1,0 +1,27 @@
+T1	Gene_or_gene_product 108 132	nucleoside diphosphatase
+T2	Cellular_component 140 161	endoplasmic reticulum
+T3	Simple_chemical 164 167	UDP
+T4	Cellular_component 188 193	lumen
+T5	Cellular_component 201 222	endoplasmic reticulum
+T6	Cellular_component 224 226	ER
+T7	Simple_chemical 248 259	UDP-glucose
+T8	Gene_or_gene_product 306 314	calnexin
+T9	Gene_or_gene_product 315 327	calreticulin
+T10	Cellular_component 412 414	ER
+T11	Simple_chemical 438 441	UDP
+T12	Simple_chemical 445 448	UMP
+T13	Gene_or_gene_product 455 479	nucleoside diphosphatase
+T14	Gene_or_gene_product 573 577	KDEL
+T15	Cellular_component 586 588	ER
+T16	Simple_chemical 625 641	divalent cations
+T17	Simple_chemical 670 673	UDP
+T18	Simple_chemical 675 678	GDP
+T19	Simple_chemical 683 686	IDP
+T20	Simple_chemical 705 719	nucleoside di-
+T21	Simple_chemical 721 726	mono-
+T22	Simple_chemical 730 743	triphosphates
+T23	Simple_chemical 749 771	thiamine pyrophosphate
+T24	Simple_chemical 788 791	UDP
+T25	Simple_chemical 831 838	UDP-Glc
+T26	Gene_or_gene_product 839 871	glycoprotein glucosyltransferase
+T27	Cellular_component 983 985	ER

@@ -1,0 +1,15 @@
+*	Equiv T8 T9
+T20	Positive_regulation 6 15	dependent
+E1	Positive_regulation:T20 Theme:E2 Cause:T1
+T21	Phosphorylation 16 31	phosphorylation
+E2	Phosphorylation:T21 Theme:T2
+T22	Phosphorylation 473 487	phosphorylated
+E3	Phosphorylation:T22 Theme:T13 Cause:T14
+T23	Phosphorylation 503 518	phosphorylation
+E4	Phosphorylation:T23 Theme:T15
+T24	Negative_regulation 544 553	prevented
+E5	Negative_regulation:T24 Theme:E4
+T25	Positive_regulation 765 774	dependent
+E6	Positive_regulation:T25 Cause:T18 Theme:E7
+T26	Phosphorylation 775 790	phosphorylation
+E7	Phosphorylation:T26 Theme:T19

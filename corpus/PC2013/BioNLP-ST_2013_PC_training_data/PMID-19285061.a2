@@ -1,0 +1,78 @@
+*	Equiv T8 T9 T10
+*	Equiv T11 T12
+*	Equiv T25 T26
+*	Equiv T33 T35
+*	Equiv T34 T36
+T61	Positive_regulation 11 23	up-regulates
+E1	Positive_regulation:T61 Theme:T2 Cause:T1
+E2	Positive_regulation:T61 Theme:T2 Cause:E3
+T62	Pathway 92 99	pathway
+E3	Pathway:T62 Participant:T3 Participant2:T4 Participant3:T5 Participant4:T6 Participant5:T7
+T63	Gene_expression 226 233	express
+E4	Gene_expression:T63 Theme:T12
+E5	Gene_expression:T63 Theme:T9
+T64	Pathway 303 320	signaling pathway
+E6	Pathway:T64 Participant:T13 Participant2:T14
+T65	Regulation 324 333	regulated
+E7	Regulation:T65 Theme:E6
+T66	Positive_regulation 374 386	up-regulated
+E8	Positive_regulation:T66 Theme:T15
+T67	Positive_regulation 646 654	enhanced
+E9	Positive_regulation:T67 Cause:T18 Theme:E10
+T68	Gene_expression 660 670	production
+E10	Gene_expression:T68 Theme:T19
+T69	Positive_regulation 772 780	involved
+E11	Positive_regulation:T69 Theme:E12
+T70	Gene_expression 789 799	production
+E12	Gene_expression:T70 Theme:T20
+T71	Positive_regulation 800 810	stimulated
+E13	Positive_regulation:T71 Cause:T21 Theme:E12
+T72	Positive_regulation 850 859	increased
+E14	Positive_regulation:T72 Cause:T22 Theme:E15
+T73	Gene_expression 865 875	production
+E15	Gene_expression:T73 Theme:T23
+T74	Regulation 915 922	effects
+E16	Regulation:T74 Theme:E14
+T75	Negative_regulation 928 938	attenuated
+E17	Negative_regulation:T75 Theme:E16 Cause:T24
+E18	Negative_regulation:T75 Theme:E16 Cause:T26
+T76	Positive_regulation 1085 1094	increased
+E19	Positive_regulation:T76 Theme:E21
+E20	Positive_regulation:T76 Theme:E22
+T77	Phosphorylation 1110 1125	phosphorylation
+E21	Phosphorylation:T77 Theme:T30
+E22	Phosphorylation:T77 Theme:T31
+T78	Positive_regulation 1166 1175	increased
+E23	Positive_regulation:T78 Theme:E31
+E24	Positive_regulation:T78 Theme:E30
+E25	Positive_regulation:T78 Theme:E32
+E26	Positive_regulation:T78 Theme:E33
+E27	Positive_regulation:T78 Theme:E34
+E28	Positive_regulation:T78 Theme:E36
+E29	Positive_regulation:T78 Theme:E35
+T79	Phosphorylation 1219 1234	phosphorylation
+E30	Phosphorylation:T79 Theme:T35
+E31	Phosphorylation:T79 Theme:T36
+T80	Phosphorylation 1249 1264	phosphorylation
+E32	Phosphorylation:T80 Theme:T37
+T81	Degradation 1279 1290	degradation
+E33	Degradation:T81 Theme:T38
+T82	Phosphorylation 1296 1311	phosphorylation
+E34	Phosphorylation:T82 Site:T40 Theme:T39
+T83	Transport 1325 1338	translocation
+E35	Transport:T83 FromLoc:T43 ToLoc:T44 Theme:T41
+E36	Transport:T83 FromLoc:T43 ToLoc:T44 Theme:T42
+T84	Positive_regulation 1543 1551	Increase
+E37	Positive_regulation:T84 Theme:E39
+E38	Positive_regulation:T84 Theme:E40
+T85	Phosphorylation 1570 1585	phosphorylation
+E39	Phosphorylation:T85 Theme:T52
+E40	Phosphorylation:T85 Theme:T51
+T86	Binding 1590 1597	binding
+E41	Binding:T86 Theme:T53 Theme2:T55
+E42	Binding:T86 Theme:T54 Theme2:T55
+T87	Negative_regulation 1648 1659	antagonized
+E43	Negative_regulation:T87 Theme:E37
+E44	Negative_regulation:T87 Theme:E38
+E45	Negative_regulation:T87 Theme:E42
+E46	Negative_regulation:T87 Theme:E41

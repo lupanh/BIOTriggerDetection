@@ -1,0 +1,55 @@
+*	Equiv T4 T5
+T49	Negative_regulation 0 8	Blockade
+E1	Negative_regulation:T49 Theme:E2
+T50	Activation 17 27	activation
+E2	Activation:T50 Theme:T1
+T51	Activation 69 79	Activation
+E3	Activation:T51 Theme:T3
+T52	Positive_regulation 110 118	requires
+E4	Positive_regulation:T52 Cause:E5 Theme:E3
+T53	Dephosphorylation 125 142	dephosphorylation
+E5	Dephosphorylation:T53 Theme:T3 Cause:T4
+T54	Binding 323 330	binding
+E6	Binding:T54 Theme:T8 Theme2:T9
+T55	Binding 418 425	binding
+E7	Binding:T55 Theme:T10
+T56	Binding 503 508	binds
+E8	Binding:T56 Theme:T14 Theme2:T15
+E9	Binding:T56 Theme:T16 Theme2:T15
+T57	Binding 575 582	binding
+E10	Binding:T57 Theme:T14 Theme2:T15
+E11	Binding:T57 Theme:T16 Theme2:T15
+T58	Binding 624 631	binding
+E12	Binding:T58 Theme:T17
+T59	Binding 726 730	bind
+E13	Binding:T59 Theme:T20 Theme2:T18
+M1	Negation E13
+T60	Binding 746 751	bound
+E14	Binding:T60 Theme:T21 Theme2:T20
+E15	Binding:T60 Theme:T22 Theme2:T20
+E16	Binding:T60 Theme:T23 Theme2:T20
+T61	Binding 888 898	interacted
+E17	Binding:T61 Theme:T26 Theme2:T24
+E18	Binding:T61 Theme:T27 Theme2:T26
+T62	Dissociation 1014 1023	displaced
+E19	Dissociation:T62 Product:T31 Product2:T32
+E20	Dissociation:T62 Product:T31 Product2:T33
+T63	Negative_regulation 1257 1264	blocked
+E21	Negative_regulation:T63 Cause:T40 Theme:E23
+E22	Negative_regulation:T63 Cause:T39 Theme:E23
+M2	Negation E22
+T64	Binding 1273 1280	binding
+E23	Binding:T64 Theme:T41 Theme2:T42
+T65	Negative_regulation 1290 1299	inhibited
+E24	Negative_regulation:T65 Theme:T43 Cause:T40
+E25	Negative_regulation:T65 Theme:T43 Cause:T39
+M3	Negation E25
+T66	Negative_regulation 1364 1371	blocked
+E26	Negative_regulation:T66 Cause:T44 Theme:E28
+E27	Negative_regulation:T66 Cause:T44 Theme:E29
+T67	Phosphorylation 1379 1394	phosphorylation
+E28	Phosphorylation:T67 Theme:T45
+T68	Transport 1407 1420	translocation
+E29	Transport:T68 ToLoc:T46 Theme:T45
+T69	Binding 1486 1493	binding
+E30	Binding:T69 Theme:T47

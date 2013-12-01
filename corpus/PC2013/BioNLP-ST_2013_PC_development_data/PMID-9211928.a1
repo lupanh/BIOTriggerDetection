@@ -1,0 +1,22 @@
+T1	Gene_or_gene_product 0 41	Phosphatidylinositol-4-phosphate 5-kinase
+T2	Simple_chemical 77 88	3-phosphate
+T3	Simple_chemical 100 120	phosphatidylinositol
+T4	Gene_or_gene_product 143 185	Phosphatidylinositol-4-phosphate 5-kinases
+T5	Gene_or_gene_product 187 193	PIP5Ks
+T6	Simple_chemical 203 224	phosphatidylinositols
+T7	Simple_chemical 249 259	phosphates
+T8	Simple_chemical 282 319	phosphatidylinositol 3,4-bisphosphate
+T9	Gene_or_gene_product 334 347	type I PIP5Ks
+T10	Simple_chemical 362 400	phosphatidylinositol 3, 4-bisphosphate
+T11	Simple_chemical 404 444	phosphatidylinositol 3,4,5-trisphosphate
+T12	Gene_or_gene_product 452 467	type II kinases
+T13	Simple_chemical 548 580	phosphatidylinositol 3-phosphate
+T14	Simple_chemical 584 624	phosphatidylinositol 3,4,5-trisphosphate
+T15	Simple_chemical 690 707	phosphoinositides
+T16	Simple_chemical 744 776	phosphatidylinositol 4-phosphate
+T17	Gene_or_gene_product 810 816	PIP5Ks
+T18	Simple_chemical 832 869	phosphatidylinositol 4,5-bisphosphate
+T19	Simple_chemical 878 889	3-phosphate
+T20	Simple_chemical 901 922	polyphosphoinositides
+T21	Gene_or_gene_product 965 971	PIP5Ks
+T22	Simple_chemical 1023 1043	polyphosphoinositide

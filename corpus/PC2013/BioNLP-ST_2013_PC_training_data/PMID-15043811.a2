@@ -1,0 +1,51 @@
+*	Equiv T3 T4
+*	Equiv T19 T20
+*	Equiv T28 T29
+T33	Dissociation 247 259	dissociation
+E1	Dissociation:T33 Product:T3
+T34	Activation 501 510	activates
+E2	Activation:T34 Theme:T7
+T35	Regulation 615 624	regulates
+E3	Regulation:T35 Theme:E4 Cause:T8
+T36	Activation 631 641	activation
+E4	Activation:T36 Theme:T9
+T37	Negative_regulation 676 681	block
+E5	Negative_regulation:T37 Theme:T10
+T38	Inactivation 726 738	Inactivation
+E6	Inactivation:T38 Theme:T12
+T39	Positive_regulation 747 752	leads
+E7	Positive_regulation:T39 Cause:E6 Theme:E8
+T40	Dissociation 766 773	release
+E8	Dissociation:T40 Product:T13
+T41	Negative_regulation 863 868	delay
+E9	Negative_regulation:T41 Theme:E10 Cause:T15
+T42	Dissociation 873 880	release
+E10	Dissociation:T42 Product:T16
+T43	Binding 915 925	associates
+E11	Binding:T43 Theme:T18 Theme2:T19
+T44	Localization 1011 1020	localizes
+E12	Localization:T44 Theme:T21
+T45	Binding 1033 1040	binding
+E13	Binding:T45 Theme:T22 Theme2:T21
+T46	Phosphorylation 1101 1116	phosphorylation
+E14	Phosphorylation:T46 Theme:T23
+T47	Pathway 1120 1130	cell cycle
+E15	Pathway:T47 
+T48	Regulation 1131 1140	regulated
+E16	Regulation:T48 Theme:E15 Cause:E14
+T49	Regulation 1145 1152	affects
+E17	Regulation:T49 Theme:E18 Cause:E14
+T50	Binding 1157 1164	binding
+E18	Binding:T50 Theme:T24 Theme2:T23
+T51	Negative_regulation 1277 1284	prevent
+E19	Negative_regulation:T51 Theme:E20 Cause:T26
+T52	Dissociation 1289 1301	dissociation
+E20	Dissociation:T52 Product:T27 Product2:T28
+T53	Activation 1359 1369	activation
+E21	Activation:T53 Theme:T30
+T54	Positive_regulation 1392 1400	promotes
+E22	Positive_regulation:T54 Theme:E23
+T55	Dissociation 1405 1412	release
+E23	Dissociation:T55 Product:T31
+T56	Negative_regulation 1444 1456	antagonizing
+E24	Negative_regulation:T56 Theme:T32

@@ -1,0 +1,29 @@
+T1	Gene_or_gene_product 4 39	FKBP12-rapamycin-associated protein
+T2	Gene_or_gene_product 41 45	FRAP
+T3	Gene_or_gene_product 52 60	CLIP-170
+T4	Gene_or_gene_product 70 78	CLIP-170
+T5	Gene_or_gene_product 79 85	Restin
+T6	Cellular_component 119 130	microtubule
+T7	Cellular_component 132 134	MT
+T8	Cellular_component 181 183	MT
+T9	Gene_or_gene_product 212 220	CLIP-170
+T10	Gene_or_gene_product 299 307	CLIP-170
+T11	Cellular_component 311 314	MTs
+T12	Gene_or_gene_product 399 434	FKBP12-rapamycin-associated protein
+T13	Gene_or_gene_product 436 440	FRAP
+T14	Gene_or_gene_product 454 458	mTOR
+T15	Gene_or_gene_product 459 463	RAFT
+T16	Gene_or_gene_product 480 488	CLIP-170
+T17	Gene_or_gene_product 490 498	CLIP-170
+T18	Simple_chemical 554 563	rapamycin
+T19	Gene_or_gene_product 623 627	FRAP
+T20	Simple_chemical 644 653	rapamycin
+T21	Simple_chemical 684 693	rapamycin
+T22	Gene_or_gene_product 719 727	CLIP-170
+T23	Cellular_component 739 742	MTs
+T24	Gene_or_gene_product 783 791	CLIP-170
+T25	Gene_or_gene_product 849 857	CLIP-170
+T26	Gene_or_gene_product 863 867	FRAP
+T27	Gene_or_gene_product 873 881	CLIP-170
+T28	Cellular_component 915 917	MT
+T29	Gene_or_gene_product 938 946	CLIP-170
