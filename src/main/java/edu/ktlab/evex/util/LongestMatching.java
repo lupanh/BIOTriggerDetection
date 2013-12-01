@@ -3,14 +3,9 @@
  ******************************************************************************/
 package edu.ktlab.evex.util;
 
-import java.io.BufferedReader;
-import java.io.FileInputStream;
-import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
-
-import opennlp.tools.tokenize.SimpleTokenizer;
 
 public class LongestMatching {
 	HashMap<String, String> dictionary = new HashMap<String, String>();
@@ -64,29 +59,5 @@ public class LongestMatching {
 			result += word + separator;
 		}
 		return result.trim();
-	}
-
-	private static void loadDictionary(String file) throws Exception {
-		BufferedReader in = new BufferedReader(new InputStreamReader(
-				new FileInputStream(file), "UTF-8"));
-		String line = new String();
-		while ((line = in.readLine()) != null) {
-			dict.put(line.toLowerCase(), "CATE");
-		}
-		in.close();
-	}
-
-	public static HashMap<String, String> dict = new HashMap<String, String>();
-
-	public static void main(String[] args) throws Exception {
-		loadDictionary("data/DICT/hpo.txt");
-		String sentence = "Opsoclonus";
-
-		SimpleTokenizer tokenizer = SimpleTokenizer.INSTANCE;
-		String tokens[] = tokenizer.tokenize(sentence);
-		LongestMatching matching = new LongestMatching(dict);
-		Span[] names = matching.tagging(tokens, -1, true);
-		String tagged = Span.getStringAnnotated(names, tokens);
-		System.out.println(tagged);
 	}
 }
